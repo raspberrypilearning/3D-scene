@@ -20,7 +20,12 @@ In this space scene you can adjust the view of the planet that you see from insi
 Make a new variable and change it to use a slider on the Stage. Drag the variable into a block so that you can control the value. 
 
 --- collapse ---
+
+---
+
 title: Add a variable with a slider
+
+---
 
 **Tip:** Always give a variable a sensible name so that you will remember what it is for. You can rename it later if you think of a better name. 
 
@@ -102,7 +107,7 @@ title: Change graphic effects when you click on a sprite
 
 ---
 
-https://scratch.mit.edu/projects/444527974/
+
 --- /collapse ---
 
 --- collapse ---
