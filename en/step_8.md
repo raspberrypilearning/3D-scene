@@ -1,4 +1,4 @@
-## Add more sprites
+## Add more...
 Now you've got one sprite moving the way you want it to, add another sprite to make your animation more dynamic.
 
 --- task ---
