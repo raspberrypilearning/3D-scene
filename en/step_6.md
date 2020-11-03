@@ -143,6 +143,10 @@ play sound (Drum Buzz v) until done
 End
 ```
 Once you have found a sequence that you are happy with and works for your project, add a `when green flag`{:class="block3events"} clicked `Event`{:class="block3events"} block to the top and your sequenced soundtrack will start when your project is run.
+
+```blocks3
+when green flag clicked
+```
  
 --- /collapse ---
  
@@ -154,7 +158,7 @@ Or you may just want to use sounds that happen at a certain time, such as when a
 title: Incidental sounds
 ---
  
-Some Scratch sprites just have one costume or have multiple sprites that don't work as an animation. If you choose one costume, then duplicate it and make a small change, it can create an animation effect.
+
  
 **Robot animation**: [See inside](https://scratch.mit.edu/projects/436260207/editor){:target="_blank"}
  
@@ -162,21 +166,7 @@ Some Scratch sprites just have one costume or have multiple sprites that don't w
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436260207/?autostart=false" frameborder="0"></iframe>
 </div>
  
-Switch to the **Costumes** tab for your sprite.
- 
-The **Robot** sprite comes with costumes for three different robots and you only want to use one of them. Delete any costumes that you will not use in your animation.
- 
-Right-click on the costume, and choose **Duplicate**.
- 
-Make small changes to the costume such as moving, rotating, or changing all or part of the costume, or adding movement lines.
- 
-If your costume uses vector graphics, then you can select parts of a costume to change.
- 
-![Animated gif showing changes to Robot costume](images/edit-robot-costume.gif)
- 
-You can duplicate the costume again and make more changes to add more frames to your animation.
- 
-You can now use your costumes in a simple sprite animation.
+
  
 --- /collapse ---
  
@@ -185,6 +175,24 @@ You can now use your costumes in a simple sprite animation.
 --- task ---
 
 Once you have your sounds, you may want to change some details such as setting the `volume`{:class="block3sound"}, the `pitch`{:class="block3sound"} or the balance, or `panning`{:class="block3sound"}, from left to right.
+
+--- collapse ---
+
+---
+title: Setting and changing the volume, pitch and pan effect
+---
+ 
+
+ 
+**Robot animation**: [See inside](https://scratch.mit.edu/projects/436260207/editor){:target="_blank"}
+ 
+<div class="scratch-preview">
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436260207/?autostart=false" frameborder="0"></iframe>
+</div>
+ 
+
+ 
+--- /collapse ---
  
 --- /task ---
  
