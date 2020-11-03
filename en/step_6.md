@@ -1,20 +1,21 @@
 ## Sound
 
-Now you're going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at a specific time, such as when a new sprite appears.
+Now you're going to add some `sounds`{:class="block3sounds"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at a specific time, such as when a new sprite appears.
 
 --- task ---
-
-Think about how you want to animate your sprite using `Looks`{:class="block3looks"} blocks. 
-
-The **Ghost** sprite is animated by its changing costume and brightness:
-
-**Ghost animation**: [See inside](https://scratch.mit.edu/projects/436255738/editor){:target="_blank"}
-
+ 
+Think about what kind of sound you want and when you want that sound to happen.
+ 
+This project has a soundtrack that runs throughout, plus the **???** sprite makes a sound whenever it touches the edge of the Stage:
+ 
+**?soundtrack?**: [See inside](https://scratch.mit.edu/projects/436255738/editor){:target="_blank"}
+ 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/436255738/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ <iframe src="https://scratch.mit.edu/projects/436255738/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
+ 
 --- /task ---
+
 
 --- task ---
 Add code to your sprite to create an animation effect. If you don't think your sprite needs an animation, you can skip this task. 
