@@ -1,119 +1,117 @@
-## Variables
+#Use variables to control the scene
+Now you are going to add variables and use them to control the way your project behaves. You could add a variable that changes the colour or other graphic effects or a variable that controls the speed of your project. 
 
-Now you're going to make your sprite do something `when this sprite clicked`{:class="block3events"}. Your sprite could play a `sound`{:class="block3sound"}, `move`{:class="block3motion"},  or change the way it `looks`{:class="block3looks"}, or any combination of these options. It's up to you! 
+**Tip:** You can use a variable instead of a fixed value in a (input) to a block. 
 
 --- task ---
+Think of something you would like the user to be able to change in your project using a slider. This could be the size or graphic effects of a sprite or the speed that a sprite moves at.
 
-Decide what you want your sprite to do when the user clicks or taps on it. Choose an action that makes sense for your sprite. 
+In this space scene you can adjust the view of the planet that you see from inside your spaceship. Change the zoom slider to change the size of the planet to make it seem closer or further away and change the colour slide to change the colour effect. 
 
-This **Chick** sprite chirps and jumps backwards when you click on it:
+**Space scene**: [See inside](https://scratch.mit.edu/projects/444586036/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444586036/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
 
 --- task ---
-
-Add code to make your sprite do something when it is clicked. You can pick one of these examples as a starting point.
+Make a new variable and change it to use a slider on the Stage. Drag the variable into a block so that you can control the value. 
 
 --- collapse ---
+title: Add a variable with a slider
 
---- 
-
-title: Click to make sound and motion
-
----
-
-You can make your sprite perform an action, it could play a sound or move when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
-
-**Chirp and jump back when clicked**: [See inside](https://scratch.mit.edu/projects/435649420/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-Add code blocks under a `when this sprite clicked`{:class="block3events"} block to run them when the sprite is clicked. This example plays a sound and move the sprite backwards. It can be used with a moving sprite. 
-
-```blocks3
-when this sprite clicked
-play sound [chirp v] until done
-move (-50) steps
-```
+**Tip:** Always give a variable a sensible name so that you will remember what it is for. You can rename it later if you think of a better name. 
 
 --- /collapse ---
 
+**Tip:** If a block that uses a variable is inside a forever loop then it will use the changed variable value the next time the loop runs. If a block that uses a variable is under a `when this sprite clicked` block then it will use the new value the next time the sprite is clicked. 
+
+You can use one of these examples to get started:
 
 --- collapse ---
 ---
 
-title: Click to change and then change back
+title: Control movement speed with a variable
 
 ---
-
-You can add actions that make a change to a sprite and then reverse them, such as growing, waiting, and then shrinking. 
-
-**Squash ball when clicked**: [See inside](https://scratch.mit.edu/projects/435723273/editor){:target="_blank"}
+**Beetle speed**: [See inside](https://scratch.mit.edu/projects/444523655/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/435723273/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444523655/?autostart=false" frameborder="0"></iframe>
 </div>
 
-This code will grow a sprite and apply the fisheye effect for one second and then return to normal:
+Use a variable called `speed`{:class="block3data"} to control how many steps a sprite moves each time a `forever`{:class="block3control"} loop runs. Setting the speed to a higher number will make the sprite move faster. 
 
-```blocks3
-when this sprite clicked
-set size to (110)
-set [fisheye v] effect to (50)
-wait (0.5) seconds
-set [fisheye v] effect to (0)
-set size to (100)
-```
-
---- /collapse ---
-
---- collapse ---
----
-
-title: Click to make a change, reset with green flag
-
----
-You can make your sprite change when you click on it, and then reset it when the green flag is clicked. 
-
-**Balloon pop when clicked**: [See inside](https://scratch.mit.edu/projects/435725465/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/435725465/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-This code makes a balloon 'pop' using `Sound`{:class="block3sound"} and `Looks`{:class="block3looks"} blocks. 
-
-```blocks3
-when this sprite clicked
-change size by (10)
-change [brightness v] effect by (25)
-wait (0.1) seconds
-play sound [pop v] until done
-set [ghost v] effect to (100)
-```
-
-You need to make sure you also have set up code so that your balloon is not popped when you start your project:
+Set the range of the slider to the minimum and maximum speeds that you want to allow (for example 0 and 10).
 
 ```blocks3
 when flag clicked
-set size to (100)
-clear graphic effects
+forever
+move (speed) steps
+if on edge, bounce
 ```
+
+If you want **a different sprite** to go twice and fast then you can multiply `speed`{:class="block3data"} by two to make it move twice as many steps:
+
+```blocks3
+when flag clicked
+forever
+move ((speed) * (2) ) steps
+if on edge, bounce
+```
+--- /collapse ---
+
+--- collapse ---
+
+---
+
+title: Control ghost effect with a variable to see through a sprite
+
+---
+
+**Transparent rainbow**: [See inside](https://scratch.mit.edu/projects/444579529/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444579529/?autostart=false" frameborder="0"></iframe>
+</div>
+
+You can use a `ghost`{:class="block3data"} variable to control the ghost effect on a sprite at the front and use it to reveal or hide sprites in lower layers. 
+
+```blocks3
+when flag clicked
+go to [front v] layer
+```
+
+```blocks3
+when flag clicked
+forever
+set [ghost v] effect to (ghost)
+```
+
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Change graphic effects when you click on a sprite
+
+---
+
+https://scratch.mit.edu/projects/444527974/
+--- /collapse ---
+
+--- collapse ---
+title: Speed up a sound
 
 --- /collapse ---
 
 --- /task ---
 
 --- task ---
-Continue to change and test your code until you are happy with the way your sprite reacts when you click on it. 
+
 
 --- /task ---
 
---- save ---
 
