@@ -14,7 +14,7 @@ Although these type of backdrops can work well, in your interactive animation it
 
 ![Sprite furniture/objects](images/challenge2-objects.png){:width="400px"}
 
-Decide if you want to continue to use the Scratch backdrop you have chosen (changing the backdrop is easy), or if you want to design your own background or you may want to do a bit of both. Whether you are using a backdrop or making a background, for the rest of this project we will name the very back of your scene the **background**.
+Decide if you want to continue to use the Scratch backdrop you have chosen (changing the backdrop is easy). Or you may want to design your own background or to do a bit of both. Whether you are using a backdrop or making a background, for the rest of this project we will refer to the very back of your scene as the **background**.
 
 --- collapse ---
 ---
