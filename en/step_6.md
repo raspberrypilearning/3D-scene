@@ -79,32 +79,13 @@ title: Continuous soundtrack using a long sound
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444581851/?autostart=false" frameborder="0"></iframe>
 </div>
  
-You can use the `set size`{:class="block3looks"} or `change size`{:class="block3looks"} block to create a pulsing effect, such as a beating heart.
- 
-**Note:** The `set size`{:class="block3looks"} block sets size to a specific value, while the `change size`{:class="block3looks"} changes the value from what it previously was, e.g. `change size by 10`{:class="block3looks"} adds `10` to the value of size.
+Usually a continuous background soundtrack will start at the beginning when the `green flag`{:class="block3events"} is clicked, but you could have it starting at any time that suits your project.
+
+To make a sound play continuously, use a `play a sound until done`{:class="block3sound"} block inside a `forever`{:class="block3control"} loop. Once the sound has finished, the `forever`{:class="block3control"} loop makes the sound start again from the beginning.
  
 ```blocks3
 when green flag clicked
 set size to (160) %
-```
- 
-This code uses a series of `change size`{:class="block3looks"} and `wait`{:class="block3control"} blocks to make the heart grow and shrink. Try to create your own pulsating sprite.
- 
-You could also try change the `graphic effects`{:class="block3looks"} to create a sprite that continues to change its appearance.
- 
-```blocks3
-when green flag clicked
-change [ghost v] effect by (75)
-wait (1) seconds
-change [ghost v] effect by (-75)
-```
- 
-**Note:** If you use code that changes a graphic effect and then changes it back again, don't forget to use a `wait`{:class="block3control"} block in between, otherwise it will happen so fast that you won't see it!
- 
-You can use a `clear graphic effects`{:class="block3looks"} block at any time to reset the effects.
- 
-```blocks3
-clear graphic effects
 ```
  
 --- /collapse ---
