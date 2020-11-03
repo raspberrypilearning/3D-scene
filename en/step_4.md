@@ -1,12 +1,10 @@
 ## Scenery
 
-In the previous step you selected a backdrop. Now it's time to think about how you want to create your **scenery**. In this step you will be using **Paint Editor** to design your own sprite objects for your scenery.
+You have selected a backdrop. Now it's time to think about what **objects** you want in your **scenery**. In this step you will be using **Paint Editor** to design your own objects.
 
 --- task ---
 
-If you chose a backdrop that already has objects drawn in it, remember you will not be able to animate the objects because theyare drawn onto the backdrop. 
-
-Although these type of backdrops can work well, in your interactive animation it may be easier to choose a simple backdrop or design your own background, adding the objects you need in to your scene as **sprites** which you can then individually control with code. Evenif you backdrop has some objects drawn in it, make sure some ofthe objects in your scene are sprites - this will give you more freedom as you go on to develop your project.
+You cannot individually program objects which are already drawn onto a Backdrop. Often it is easier to choose a simple backdrop with just a few or no objects on it or design your own background, adding the objects you need into your scene. This will give you more freedom as you go on to develop your project.
 
 ![Backdrop with furniture](images/challenge2-backdrop-bedroom.png){:width="400px"}
 
@@ -14,12 +12,12 @@ Although these type of backdrops can work well, in your interactive animation it
 
 ![Sprite furniture/objects](images/challenge2-objects.png){:width="400px"}
 
-Decide if you want to continue to use the Scratch backdrop you have chosen (changing the backdrop is easy). You may want to design your own background or do a bit of both. Whether you are using a backdrop or making a background, for the remainer of this project we will refer to the very back of your scene as the **background**.
+You may need to change your backdrop if the one you have chosen won't work well or make a new backdrop.
 
 --- collapse ---
 ---
 
-title: Design your own background
+title: Design your own backdrop
 
 ---
 
@@ -29,7 +27,7 @@ WRITE SRTUFF HERE! The background will the very back of your scene - it  might b
 
 --- /task ---
 
-In the real world, the background if often static such as buildings or hills with objects such as people, vehicles and furniture being able to move around. But in Scratch you can create some great effects by moving parts of your backdrop. In Dinosaur, for instance, the mountains can move becausetheyare sprites which creates a greater sense of the dinosuar's own movement when it runs left and right.
+In the real world, a backdrop if often static such as a street, hills or an internal wall with objects such as people, vehicles and furniture being able to move in front  of the backdrop. However, in Scratch, you can create some interesting effects by moving some of your backdrop. For instance, in Dinosaur, the mountains move because they are sprites which are not drawn onto the backdrop. This creates a greater sense of the dinosuar's own movement when it runs left and right.
 
 If some of your background objects are sprites you can create a greater sense of 3-dimensions.
 
