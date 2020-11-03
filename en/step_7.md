@@ -103,10 +103,31 @@ set [ghost v] effect to (ghost)
 
 ---
 
-title: Change graphic effects when you click on a sprite
+title: Speed up a sound
 
 ---
 
+**Sound speed**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444614449/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Changing the pitch of a sound also speeds it up. 
+
+```blocks3
+when flag clicked
+forever
+set [pitch v] effect to (speed)
+```
+
+Play the sound in a separate forever loop so that the pitch will change immediately rather than waiting until the sound is done: 
+
+```blocks3
+when flag clicked
+forever
+play sound [Dance Head Nod v] until done
+```
 
 --- /collapse ---
 
@@ -114,16 +135,24 @@ title: Change graphic effects when you click on a sprite
 
 ---
 
-title: Speed up a sound
+title: Make things further away move more slowly to create a 3D effect
 
 ---
 
+<mark>Should this be covered in movement? Should we mention how to use a speed variable with it here??</mark>
+
 --- /collapse ---
+
 
 --- /task ---
 
 --- task ---
+Test your project and make changes until you are happy with it. 
 
+Think about:
++ Is there more that one sprite that could react to the same variable such as two sprites moving faster?
++ What range should your slider have? Should it start from 0 or 1, are negative values allowed?
++ Do you need to multiple or divide your variable value to get the number you want?
 
 --- /task ---
 
