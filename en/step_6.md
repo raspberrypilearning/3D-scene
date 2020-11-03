@@ -1,4 +1,4 @@
-## Animate using looks
+## Sound
 Now you're going to add `Looks`{:class="block3looks"} blocks inside a `forever`{:class="block3control"} block, to create an animation effect to make your sprite look more interesting.
 
 --- task ---
