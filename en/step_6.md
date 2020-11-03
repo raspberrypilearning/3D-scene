@@ -40,7 +40,7 @@ start sound (Baa v)
 title: Adding a sound
 ---
 
-Start by selecting the sprite that you want to have the new sound and select the sound tab. Each sprite starts with a default sound.
+Start by selecting the sprite that you want to have the new sound and select the Sounds tab. Each sprite starts with a default sound.
 
 ![Sound tab](images/soundTab.png)
 
@@ -56,7 +56,7 @@ Click on any sound to add it to your sprite. You will be taken straight back to 
 
 ![Sounds tab with new sound](images/newSoundAdded.png)
 
-If you switch to the Code tab and look at the `start a sound`{:class="block3sound"} blocks, you will see you the new sound available in the sound playing blocks.
+If you switch to the Code tab and look at the `Sound`{:class="block3sound"} blocks, you will see you the new sound available in the sound playing blocks.
  
 ![New sound available](images/newSoundBlock.png)
 
@@ -73,10 +73,10 @@ Have a look at the how to’s below that will help you to add the kind of sounds
 title: Continuous soundtrack using a long sound
 ---
  
-**Beating heart**: [See inside](https://scratch.mit.edu/projects/435725413/editor){:target="_blank"}
+**Radio soundtrack**: [See inside](https://scratch.mit.edu/projects/444581851/editor){:target="_blank"}
  
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435725413/?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444581851/?autostart=false" frameborder="0"></iframe>
 </div>
  
 You can use the `set size`{:class="block3looks"} or `change size`{:class="block3looks"} block to create a pulsing effect, such as a beating heart.
@@ -178,11 +178,8 @@ You can now use your costumes in a simple sprite animation.
 --- /task ---
  
 --- task ---
-Work on your animation until you get the effect you want.
- 
-You can change the timing of your animation if you change the value in the `wait`{:class="block3control"} block. You might also want to change the movement code for the sprite.
- 
-**Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you do not like. You could also make little changes as you go along.
+
+Once you have your sounds, you may want to change some details such as setting the `volume`{:class="block3sound"}, the `pitch`{:class="block3sound"} or the balance, or `panning`{:class="block3sound"}, from left to right.
  
 --- /task ---
  
