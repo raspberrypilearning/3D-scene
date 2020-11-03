@@ -1,4 +1,4 @@
-## Movement within Layers
+## Movement within layers
 
 Now, you’re going to look at how to layer sprites to make some appear in front or behind others.
 
