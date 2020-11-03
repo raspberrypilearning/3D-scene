@@ -22,6 +22,7 @@ Add code to run `sounds`{:class="block3sound"} blocks where you want sound in yo
 Have a look at these how to’s depending on what kind of soundtrack you want to use:
  
 --- collapse ---
+
 ---
 title: Continuous soundtrack using a long sound
 ---
@@ -63,6 +64,7 @@ clear graphic effects
 --- /collapse ---
  
 --- collapse ---
+
 ---
 title: Continuous soundtrack using a sequence of short sounds
 ---
@@ -94,7 +96,9 @@ You can combine animation with movement to create sprites that walk or fly.
 --- /collapse ---
  
 Or you may just want to use sounds that happen at a certain time, such as when a user interacts with a sprite or when sprites interact with each other.
+
 --- collapse ---
+
 ---
 title: Incidental sounds
 ---
@@ -122,7 +126,7 @@ If your costume uses vector graphics, then you can select parts of a costume to 
 You can duplicate the costume again and make more changes to add more frames to your animation.
  
 You can now use your costumes in a simple sprite animation.
---- collapse --- 
+ 
 --- /collapse ---
  
 --- /task ---
