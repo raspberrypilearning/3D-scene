@@ -26,7 +26,9 @@ Consider how many layers you will have, and add blocks that will allow your spri
 --- 
 title: Tip
 ---
-Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. Once you know which sprites you would like to go on top, you can do this by having a sprite go to the front or back layer, and stepping into the right position through the layers.
+Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. 
+
+Once you know which sprites you would like to go on top, you can do this by having a sprite go to the front or back layer, and stepping into the right position through the layers.
 
 --- /collapse ---
 
