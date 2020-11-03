@@ -6,12 +6,12 @@ Now you're going to add some `sounds`{:class="block3sound"} to your project. Dep
  
 Think about what kind of sound you want and when you want that sound to happen.
  
-This project has a soundtrack that runs throughout, plus the **???** sprite makes a sound whenever it touches the edge of the Stage:
+This project has a soundtrack that runs throughout, plus the **Hen** sprite makes a sound every three seconds:
  
-**?soundtrack?**: [See inside](https://scratch.mit.edu/projects/436255738/editor){:target="_blank"}
+**Hen and farmyard**: [See inside](https://scratch.mit.edu/projects/444559955/editor){:target="_blank"}
  
 <div class="scratch-preview">
- <iframe src="https://scratch.mit.edu/projects/436255738/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ <iframe src="https://scratch.mit.edu/projects/444559955/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
  
 --- /task ---
