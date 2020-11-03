@@ -1,4 +1,4 @@
-#Use variables to control the scene
+# Use variables to control the scene
 Now you are going to add variables and use them to control the way your project behaves. You could add a variable that changes the colour or other graphic effects or a variable that controls the speed of your project. 
 
 **Tip:** You can use a variable instead of a fixed value in a (input) to a block. 
