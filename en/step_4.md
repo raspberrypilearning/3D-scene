@@ -29,23 +29,71 @@ WRITE SRTUFF HERE! The background will the very back of your scene - it  might b
 
 --- /task ---
 
+In the real world, the background if often static such as buildings or hills with objects such as people, vehicles and furniture being able to move around. But in Scratch you can create some great effects by moving parts of your backdrop. In Dinosaur, for instance, the mountains can move becausetheyare sprites which creates a greater sense of the dinosuar's own movement when it runs left and right.
+
+If some of your background objects are sprites you can create a greater sense of 3-dimensions.
+
 --- task ---
 
-In the real world, the background if often static such as buildings or hills with objects such as people, vehicles and furniture being able to move around. But in Scratch you can create some great effects by moving parts of your backdrop. In Dinosaur, the mountains move which creates a greater sense of the dinosuar's movement.
+In order to make an object for your scenery, click below.
 
-If some of the background is a sprite you can create a more 3-dimensional effect in your scene.
+--- no-print --
 
 ![Background with dinosaur and mountains](images/challenge2-dinosaur-left-right.gif)
 
+--- /no-print --
 
-Scratch backdrop
+--- collapse ---
+---
 
+title: Make two object sprites
 
-Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} block so that it keeps moving.
+---
+
+WRITE SRTUFF HERE! Moon comes up behind mountain, Bat flies out of building
+
+--- /collapse ---
 
 --- /task ---
 
-Imagine
+Layers can be used to change the way a sprite appears in relation to other sprites. Layering helps sprites appear to sit three-dimensional within a scene. You can include a number of sprites in layers. he improtant thing is to remember the order that you want the sprites to sit.
+
+![Sprites in layers](images/challenge2-sprite-layers.png)
+
+NEED THIS AGAIN? 
+![Sprites in layers](images/challenge2-sprite-layers.gif)
+
+--- task ---
+
+For now, organise your sprites into their position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
+
+--- /task ---
+
+--- task ---
+
+You can create sprites which are the same colour or texture as the background so they are invisible. Because it is a sprite it can be layered. This means that another sprite can **appears** to come out from behind the background wheninfact it is comingout from behind the invisible sprite.
+
+--- no-print --
+
+![Invisible sprites](images/challenge2-sprite-invisible.gif)
+
+--- /no-print --
+
+--- collapse ---
+---
+
+title: Make an invisible sprite
+
+---
+
+WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like there’s a hole in the backdrop
+
+--- /collapse ---
+
+In addition to coding layers to create a sense of 3-dimensions, in the next step you willa lso changing the size of sprites in relation to each other. This will help to create a sense of depth to your scene. Bigger sprites appear to be closer to the front ofthe stage with smalled sprites appearing further away.
+
+--- task ---
+
 
 --- task ---
 
