@@ -11,8 +11,6 @@ This project uses front and back layers to make the cats appear to circle the gl
 
 **Layers**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
 
-
-
 --- task ---
 Think of the sprites in your project and decide how you can have them move in front of (or behind!) other parts of your project, like the scenery. 
 
@@ -24,8 +22,17 @@ title: Tip:
 ---
 Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. Once you know which sprites you would like to go on top, you can do this by having a sprite go to the front or back layer, and stepping into the right position through the layers.
 
-Use a `go to [back v] layer`{:class="block3looks"} or a `go to [front v] layer`{:class="block3looks"} block and either a `go [forward v] (1) layer`{:class="block3looks"} or a `go [backward v] (1) layer`{:class="block3looks"} block to create an order for your sprites and scenery.
 --- /collapse ---
+--- /task ---
+
+--- task ---
+To select your first sprite, click or tap on it under the Stage.
+
+Click on the Code tab.
+--- /task ---
+
+--- task ---
+Use a `go to [back v] layer`{:class="block3looks"} or a `go to [front v] layer`{:class="block3looks"} block and either a `go [forward v] (1) layer`{:class="block3looks"} or a `go [backward v] (1) layer`{:class="block3looks"} block to create an order for your sprites and scenery.
 
 --- collapse ---
 --- 
