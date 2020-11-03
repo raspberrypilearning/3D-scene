@@ -44,6 +44,8 @@ title: Vector and bitmap graphics
 
 ---
 
+--- /collapse ---
+
 --- /task ---
 
 In order to make an object for your scenery, click below.
@@ -140,6 +142,8 @@ In your scenery, you may want to create multiple copies of a shape within a cost
 title: Multiple objects in a costume
 
 ---
+
+--- /collapse ---
 
 --- /task ---
 
