@@ -31,11 +31,13 @@ title: Add a variable with a slider
 You can use one of these examples to get started:
 
 --- collapse ---
+
 ---
 
 title: Control movement speed with a variable
 
 ---
+
 **Beetle speed**: [See inside](https://scratch.mit.edu/projects/444523655/editor){:target="_blank"}
 
 <div class="scratch-preview">
@@ -93,6 +95,7 @@ set [ghost v] effect to (ghost)
 --- /collapse ---
 
 --- collapse ---
+
 ---
 
 title: Change graphic effects when you click on a sprite
