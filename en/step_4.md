@@ -40,10 +40,10 @@ Scratch backdrop
 
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} block so that it keeps moving.
 
---- task ---
+--- /task ---
 
 Imagine
-
+--- task ---
 
 --- no-print ---
 
