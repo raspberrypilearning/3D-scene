@@ -12,6 +12,7 @@ This project uses front and back layers to make the cats appear to circle the gl
 </div>
 
 **Layers**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
+
 --- /no-print ---
 
 --- task ---
