@@ -82,12 +82,20 @@ title: Continuous soundtrack using a long sound
 Usually a continuous background soundtrack will start at the beginning when the `green flag`{:class="block3events"} is clicked, but you could have it starting at any time that suits your project.
 
 To make a sound play continuously, use a `play a sound until done`{:class="block3sound"} block inside a `forever`{:class="block3control"} loop. Once the sound has finished, the `forever`{:class="block3control"} loop makes the sound start again from the beginning.
+
+This example uses a single long sound clip repeated as a soundtrack.
  
 ```blocks3
 when green flag clicked
-set size to (160) %
+forever
+play sound (Dance Snare Beat v) until done
+end
 ```
- 
+
+**Note:** When choosing a new sound, if you select Loops, Scratch will only show you the loops which are mostly the ones suitable for a simgle looping soundtrack.
+
+![Loop sounds](images/loopSounds.png)
+
 --- /collapse ---
  
 --- collapse ---
@@ -98,27 +106,44 @@ title: Continuous soundtrack using a sequence of short sounds
  
 Some Scratch sprites have costumes that can be used to create a simple animation.
  
-**Avery walking**: [See inside](https://scratch.mit.edu/projects/436256679/editor){:target="_blank"}
+**Champ performance**: [See inside](https://scratch.mit.edu/projects/444673165/editor){:target="_blank"}
  
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436256679/?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444673165/?autostart=false" frameborder="0"></iframe>
 </div>
- 
- 
-Use `next costume`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} to create an animation:
+
+Rather than using a single longer looping sound, you may want to loop a series of shorter sounds together. You may want to have a certain sequence of sounds playing in order or perhaps you are just having fun playing with the different sounds, or even composing a piece of music using different instrument notes and effects.
+
+Unless you have a clear idea of what sounds you want to use and their order, the first step would be to get a `forever`{:class="block3control"} loop, pick out some sounds you like and experiment.
  
 ```blocks3
 when green flag clicked
 forever
-next costume
-wait (0.3) seconds
+play sound (Low Boing v) until done
+play sound (Low Boing v) until done
+play sound (Drum Buzz v) until done
+play sound (Pop v) until done
+play sound (Bird v) until done
+play sound (Bark v) until done
+play sound (Glug v) until done
+End
 ```
  
-One second is often too long to wait before changing to the next costume, so you need to use numbers smaller than `1` in the `wait` block. A wait of `0.1` is one tenth of a second, and `0.5` is half a second. If you wait `0.2` seconds then the sprite will change costumes five times every second.
- 
-When a sprite reaches its last costume,  the `next costume`{:class="block3looks"} block goes back to the first costume, so the sprite continues to move.
- 
-You can combine animation with movement to create sprites that walk or fly.
+If you click on the `forever`{:class="block3control"} loop, it will keep repeating whatever is inside. As you change the order or the sounds inside, Scratch will play your latest version each time it loops around.
+
+**Note:** The example only uses `play a sound until done`{:class="block3sound"} blocks, so that each sound finishes before the next begin. As you experiment, you might want to try adding some `start sound`{:class="block3sound"} blocks in where you want more than one sound to play at once. For intance you may want to have `start Bark sound`{:class="block3sound"} followed by `play Bird until done`{:class="block3sound"} to get a bird sound and a bark at the same time.
+
+```blocks3
+when green flag clicked
+forever
+play sound (Low Boing v) until done
+start sound (Pop v)
+start sound (Finger Snap v)
+play sound (Drum Buzz v) until done
++ start sound (Bark v)
++ play sound (Bird v) until done
+End
+```
  
 --- /collapse ---
  
