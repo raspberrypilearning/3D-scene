@@ -1,4 +1,4 @@
-## Variable
+## Variables
 
 Now you're going to make your sprite do something `when this sprite clicked`{:class="block3events"}. Your sprite could play a `sound`{:class="block3sound"}, `move`{:class="block3motion"},  or change the way it `looks`{:class="block3looks"}, or any combination of these options. It's up to you! 
 
