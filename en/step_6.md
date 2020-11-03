@@ -1,6 +1,6 @@
 ## Sound
 
-Now you're going to add some `sounds`{:class="block3sounds"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at a specific time, such as when a new sprite appears.
+Now you're going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at a specific time, such as when a new sprite appears.
 
 --- task ---
 
