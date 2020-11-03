@@ -18,9 +18,14 @@ Think of the sprites in your project and decide how you can have them move in fr
 
 Consider how many layers you will have, and add blocks that will allow your sprites to change between the layers as above.
 
-**Tip:** Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. Once you know which sprites you would like to go on top, you can do this by having a sprite go to the front or back layer, and stepping into the right position through the layers.
+--- collapse ---
+--- 
+title: Tip:
+---
+Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. Once you know which sprites you would like to go on top, you can do this by having a sprite go to the front or back layer, and stepping into the right position through the layers.
 
 Use a `go to [back v] layer`{:class="block3looks"} or a `go to [front v] layer`{:class="block3looks"} block and either a `go [forward v] (1) layer`{:class="block3looks"} or a `go [backward v] (1) layer`{:class="block3looks"} block to create an order for your sprites and scenery.
+--- /collapse ---
 
 --- collapse ---
 --- 
