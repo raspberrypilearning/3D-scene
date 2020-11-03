@@ -42,7 +42,7 @@ Use a `go to [back v] layer`{:class="block3looks"} or a `go to [front v] layer`{
 
 --- collapse ---
 --- 
-title: Control Layer placement with code
+title: Control layer placement with code
 ---
 You should get your sprite to go to the back (or front) layer and then move a number of layers at the start of your project:
 
