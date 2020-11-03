@@ -1,12 +1,49 @@
 ## Scenery
 
-Now it's time to make your first sprite move. Start with one sprite and then add more. 
+In the previous step you decided what you want your backdrop to be. Now it's time to think about how you want to create your **scenery**.
+
+--- task ---
+
+If you have chosen a backdrop that already has objects drawn in it,  you will not be able to animate the objects. Although these type of backdrops can work well, in an interactive animation it is easier to choose a simple backdrop or design your own background and add the objects you need in to your scene as **sprites** which you can then code. Creating some of the objects in your scene as sprites will give you more freedom as you go on to develop your project.
+
+![Backdrop with furniture](images/challenge2-backdrop-bedroom.png){:width="400px"}
+
+![Backdrop without furniture/objects](images/challenge2-backdrop-no-objects.png){:width="400px"}
+
+![Sprite furniture/objects](images/challenge2-objects.png){:width="400px"}
+
+Decide if you want to continue to use the Scratch backdrop you have chosen (changing the backdrop is easy), or if you want to design your own background or you may want to do a bit of both. Whether you are using a backdrop or making a background, for the rest of this project we will name the very back of your scene the **background**.
+
+--- collapse ---
+---
+
+title: Design your own background
+
+---
+
+WRITE SRTUFF HERE! The background will the very back of your scene - it  might be sky, the sky and hills - you decide. 
+
+--- /collapse ---
+
+--- / task ---
+
+
+--- task ---
+
+In the real world the background if often static such as buildings or hills. In Scratch you can create some great effects by moving your backdr
+
+Some sprites that don't move in the real world, such as a tree, are often static in Scratch. Some sprites which do move in the real world, such as a cat, often move in Scratch. But c
+
+
+Scratch backdrop
+
 
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} block so that it keeps moving.
 
 --- task ---
 
-Think about how you want **your** sprite to move. For example, you might want your sprite to move up and down the Stage really slowly, or for it to move quickly in a diagonal line. 
+Imagine
+
 
 --- no-print ---
 
