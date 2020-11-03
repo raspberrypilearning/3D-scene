@@ -8,7 +8,7 @@ You can use `layers`{:class="block3looks"} in your Scratch projects to create th
 
 --- no-print ---
 
-This project uses front and back layers to make the cats appear to circle the globe:
+This project uses front and back `layers`{:class="block3looks"} to make the cats appear to circle the globe:
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/444530974/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ title: Tip - Treat layers like rows!
 ---
 Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. 
 
-Once you know which sprites you would like to go on top, you can do this by having a sprite go to the front or back layer, and stepping into the right position through the layers.
+Once you know which sprites you would like to go on top, you can do this by having a sprite `go to front`{:class="block3looks"} or `go to back`{:class="block3looks"} layer, and stepping into the right position through the layers.
 
 --- /collapse ---
 
