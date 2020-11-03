@@ -68,3 +68,11 @@ Go [backward v] (1) layers
 --- /collapse ---
 
 --- /task ---
+
+--- task ---
+
+Once you have your layers set up, you can use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [backward v] (1) layers`{:class="block3looks"} to change whether your sprite is behind or in front! 
+--- /task ---
+ 
+ 
+--- save ---
