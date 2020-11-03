@@ -1,10 +1,12 @@
 ## Scenery
 
-In the previous step you decided what you want your backdrop to be. Now it's time to think about how you want to create your **scenery**.
+In the previous step you chose a backdrop. Now it's time to think about how you want to create your **scenery**.
 
 --- task ---
 
-If you have chosen a backdrop that already has objects drawn in it,  you will not be able to animate the objects. Although these type of backdrops can work well, in an interactive animation it is easier to choose a simple backdrop or design your own background and add the objects you need in to your scene as **sprites** which you can then code. Creating some of the objects in your scene as sprites will give you more freedom as you go on to develop your project.
+If you chose a backdrop that already has objects drawn in it, remember you will not be able to animate the objects because theyare drawn onto the backdrop. 
+
+Although these type of backdrops can work well, in your interactive animation it may be easier to choose a simple backdrop or design your own background, adding the objects you need in to your scene as **sprites** which you can then individually control with code. Evenif you backdrop has some objects drawn in it, make sure some ofthe objects in your scene are sprites - this will give you more freedom as you go on to develop your project.
 
 ![Backdrop with furniture](images/challenge2-backdrop-bedroom.png){:width="400px"}
 
@@ -27,12 +29,13 @@ WRITE SRTUFF HERE! The background will the very back of your scene - it  might b
 
 --- /task ---
 
-
 --- task ---
 
-In the real world the background if often static such as buildings or hills. In Scratch you can create some great effects by moving your backdr
+In the real world, the background if often static such as buildings or hills with objects such as people, vehicles and furniture being able to move around. But in Scratch you can create some great effects by moving parts of your backdrop. In Dinosaur, the mountains move which creates a greater sense of the dinosuar's movement.
 
-Some sprites that don't move in the real world, such as a tree, are often static in Scratch. Some sprites which do move in the real world, such as a cat, often move in Scratch. But c
+If some of the background is a sprite you can create a more 3-dimensional effect in your scene.
+
+![Background with dinosaur and mountains](images/challenge2-dinosaur-left-right.gif)
 
 
 Scratch backdrop
