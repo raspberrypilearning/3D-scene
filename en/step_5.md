@@ -5,6 +5,7 @@ Now, you’re going to look at how to layer sprites to make some appear in front
 When you think about a stage or theatre in real life, you understand that the actors can move closer and further away from the audience; so that one can pass in front of another. You can use layers in your Scratch projects to create the same effect! 
 
 --- no-print ---
+
 This project uses front and back layers to make the cats appear to circle the globe:
 
 <div class="scratch-preview">
