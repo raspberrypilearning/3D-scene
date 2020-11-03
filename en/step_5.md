@@ -22,9 +22,9 @@ Consider how many layers you will have, and add blocks that will allow your spri
 Use a ‘go to [back v] layer’{:class="block3looks"} or a ‘go to [front v] layer’{:class="block3looks"} block and either a ‘go [forward v] (1) layer’{:class="block3looks"} or a ‘go [backward v] (1) layer’{:class="block3looks"} block to create an order for your sprites and scenery.
 
 --- collapse ---
---- title --- 
-Control Layer placement with code
---- /title ---
+--- 
+title: Control Layer placement with code
+---
 You should get your sprite to go to the back (or front) layer and then move a number of layers at the start of your project:
 
 ``` blocks3
