@@ -15,6 +15,52 @@ This project has a soundtrack that runs throughout, plus the **Hen** sprite make
 </div>
  
 --- /task ---
+
+There are two `sounds`{:class="block3sound"} blocks with very important differences that you need to understand.
+
++ When you `play a sound until done`{:class="block3sound"}, the sound will play all the way through until Scratch runs the next line of code in that script. 
++ When you `start a sound`{:class="block3sound"}, the sound will play but the next line of code will run immeadiately and will not wait for the sound to finish first.
+
+This means that if you had a series of `start a sound`{:class="block3sound"} blocks the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
+
+Have a play with it sometime!
+
+```blocks3
+when green flag clicked
+start sound (meow v)
+start sound (alien Creak2 v)
+start sound (Boing v)
+start sound (Boom Cloud v)
+start sound (Baa v)
+```
+
+--- collapse ---
+
+---
+title: Adding a sound
+---
+
+Start by selecting the sprite that you want to have the new sound and select the sound tab. Each sprite starts with a default sound.
+
+![Sound tab](images/soundTab.png)
+
+To get to Scratch's library of built-in sounds, click on the **Choose a sound** button.
+
+![Choose a sound button](images/chooseASoundButton.png)
+
+If you hover your mouse over the play symbol of a sound, Scratch will preview the sound for you.
+
+![Preview a sound](images/soundPreview.png)
+
+Click on any sound to add it to your sprite. You will be taken straight back to the Sounds tab and you will be able to see the sound that you just added.
+
+![Sounds tab with new sound](images/newSoundAdded.png)
+
+If you switch to the Code tab and look at the `start a sound`{:class="block3sound"} blocks, you will see you the new sound available in the sound playing blocks.
+ 
+![New sound available](images/newSoundBlock.png)
+
+--- /collapse ---
  
 --- task ---
 Add code to run `sounds`{:class="block3sound"} blocks where you want sound in your project.
