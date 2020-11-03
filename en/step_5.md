@@ -1,8 +1,10 @@
 ## Movement within Layers 
+
 Now, you’re going to look at how to layer sprites to make some appear in front or behind others.
 
 When you think about a stage or theatre in real life, you understand that the actors can move closer and further away from the audience; so that one can pass in front of another. You can use layers in your Scratch projects to create the same effect! 
 
+--- no-print ---
 This project uses front and back layers to make the cats appear to circle the globe:
 
 <div class="scratch-preview">
@@ -10,9 +12,10 @@ This project uses front and back layers to make the cats appear to circle the gl
 </div>
 
 **Layers**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
+--- /no-print ---
 
 --- task ---
-Think of the sprites in your project and decide how you can have them move in front of (or behind!) other parts of your project, like the scenery. 
+Think of the sprites in your project and decide how you can have them move in front of (or behind!) different parts of your project, like the scenery or other sprites. 
 
 Consider how many layers you will have, and add blocks that will allow your sprites to change between the layers as above.
 
