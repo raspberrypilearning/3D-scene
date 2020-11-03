@@ -19,7 +19,7 @@ This project has a soundtrack that runs throughout, plus the **Hen** sprite make
 --- task ---
 Add code to run `sounds`{:class="block3sound"} blocks where you want sound in your project.
  
-Have a look at these how to’s depending on what kind of soundtrack you want to use:
+Have a look at the how to’s below that will help you to add the kind of sounds that you want for your project:
  
 --- collapse ---
 
