@@ -43,6 +43,7 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 --- /task ---
 
 Imagine
+
 --- task ---
 
 --- no-print ---
