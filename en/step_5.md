@@ -1,4 +1,4 @@
-## Change the look of your sprite
+## Movement
 Now you're going to change the appearance of your sprite.
 
 --- task ---
