@@ -12,7 +12,7 @@ This project uses front and back layers to make the cats appear to circle the gl
 **Layers**: [See inside](https://scratch.mit.edu/projects/444530974/editor ){:target="_blank"}
 
 
----task---
+--- task ---
 Think of the sprites in your project and decide how you can have them move ‘in front’ of other parts of your project like the scenery. 
 
 Consider how many layers you will have, and add blocks that will allow your sprites to change between the layers as above.
@@ -21,10 +21,10 @@ Consider how many layers you will have, and add blocks that will allow your spri
 
 Use a ‘go to [back v] layer’ {:class="block3looks"} or a ‘go to [front v] layer’ {:class="block3looks"} block and either a ‘go [forward v] (1) layer’{:class="block3looks"} or a ‘go [backward v] (1) layer’ {:class="block3looks"} block to create an order for your sprites and scenery.
 
----collapse---
----title--- 
+--- collapse ---
+--- title --- 
 Control Layer placement with code
----/title---
+--- /title ---
 You should get your sprite to go to the back (or front) layer and then move a number of layers at the start of your project:
 
 ``` blocks3
@@ -32,6 +32,6 @@ when green flag clicked
 go to [back v] layer
 Go [forward v] (1)layers
 ```
----/collapse---
+--- /collapse ---
 
----/task---
+--- /task ---
