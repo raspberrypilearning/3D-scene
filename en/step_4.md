@@ -1,4 +1,4 @@
-## Scenery layers
+## Scenery
 
 Now it's time to make your first sprite move. Start with one sprite and then add more. 
 
