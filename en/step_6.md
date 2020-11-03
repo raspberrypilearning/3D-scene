@@ -122,7 +122,7 @@ If your costume uses vector graphics, then you can select parts of a costume to 
 You can duplicate the costume again and make more changes to add more frames to your animation.
  
 You can now use your costumes in a simple sprite animation.
- 
+--- collapse --- 
 --- /collapse ---
  
 --- /task ---
