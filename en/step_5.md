@@ -50,7 +50,7 @@ You should get your sprite to go to the back (or front) layer and then move a nu
 ``` blocks3
 when green flag clicked
 go to [back v] layer
-Go [forward v] (1)layers
+Go [forward v] (1) layers
 ```
 
 Or:
@@ -58,7 +58,7 @@ Or:
 ``` blocks3
 when green flag clicked
 go to [front v] layer
-Go [backward v] (1)layers
+Go [backward v] (1) layers
 ```
 
 --- /collapse ---
