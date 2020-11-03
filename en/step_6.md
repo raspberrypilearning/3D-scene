@@ -117,7 +117,6 @@ Rather than using a single longer looping sound, you may want to loop a series o
 Unless you have a clear idea of what sounds you want to use and their order, the first step would be to get a `forever`{:class="block3control"} loop, pick out some sounds you like and experiment.
  
 ```blocks3
-when green flag clicked
 forever
 play sound (Low Boing v) until done
 play sound (Low Boing v) until done
@@ -134,7 +133,6 @@ If you click on the `forever`{:class="block3control"} loop, it will keep repeati
 **Note:** The example only uses `play a sound until done`{:class="block3sound"} blocks, so that each sound finishes before the next begin. As you experiment, you might want to try adding some `start sound`{:class="block3sound"} blocks in where you want more than one sound to play at once. For intance you may want to have `start Bark sound`{:class="block3sound"} followed by `play Bird until done`{:class="block3sound"} to get a bird sound and a bark at the same time.
 
 ```blocks3
-when green flag clicked
 forever
 play sound (Low Boing v) until done
 start sound (Pop v)
@@ -144,6 +142,7 @@ play sound (Drum Buzz v) until done
 + play sound (Bird v) until done
 End
 ```
+Once you have found a sequence that you are happy with and works for your project, add a `when green flag`{:class="block3events"} clicked `Event`{:class="block3events"} block to the top and your sequenced soundtrack will start when your project is run.
  
 --- /collapse ---
  
