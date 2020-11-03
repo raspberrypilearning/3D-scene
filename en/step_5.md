@@ -1,8 +1,8 @@
 ## Movement within layers
 
-Now, you’re going to look at how to layer sprites to make some appear in front or behind others.
+Now, you’re going to look at how to layer sprites to make some appear in front or behind others by using some of the `look`{:class="block3looks"} blocks.
 
-When you think about a stage or theatre in real life, you understand that the actors can move closer and further away from the audience; so that one can pass in front of another. You can use layers in your Scratch projects to create the same effect! 
+When you think about a stage or theatre in real life, you understand that the actors can move closer or further away from the audience; so that one can pass in front of another. You can use `layers`{:class="block3looks"} in your Scratch projects to create the same effect! 
 
 --- no-print ---
 
