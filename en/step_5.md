@@ -70,7 +70,7 @@ Go [backward v] (1) layers
 --- /task ---
 
 --- no-print ---
-Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"}
+Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
 **Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
 
@@ -83,7 +83,7 @@ Have a look at how this project orders the sprites from front to back by using `
 Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front! 
 --- /task ---
 
-You can also use the  `layer`{:class="block3looks"} blocks while your code is running, to  automatically change the order of sprites and create the illusion of depth. 
+You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  dynamically change the order of sprites and create the illusion of depth while your code is running. 
 
 --- no-print ---
 Click the green flag on the project below and notice how the cat goes behind one tree, but in front of another:
@@ -96,6 +96,13 @@ Click the green flag on the project below and notice how the cat goes behind one
 --- /no-print ---
 
 --- task --- 
+When we look at things which are further away, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
+
+**Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
 
 --- /task ---
