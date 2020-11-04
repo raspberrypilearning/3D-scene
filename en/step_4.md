@@ -4,15 +4,15 @@ You have selected a backdrop. Now it's time to think about what **objects** you 
 
 --- task ---
 
-In the real world, a backdrop if often static such as a street, hills or an internal wall. Added to this are objects such as people, vehicles and furniture which are able to move in front of the backdrop. In Scratch, you can create some interesting and more realistic effects by developing some of your backdrop as sprites. 
+In the real world, a backdrop if often static such as internal walls, a street or hills. Added to this are objects such as people, vehicles and furniture which are able to move in front of the backdrop. In Scratch, you can create some interesting and more realistic effects by developing some of your backdrop as sprites. 
 
-Then, for example, the sun will be able to go behind the trees because they are both sprites.
+Then, for example, the sun can go behind the trees because they are both sprites.
 
 ![Sprite moon goes behind sprite trees](images/challenge2-two-sprites1.gif){:width="400px"}
 
 Unlike the real world, the trees can also move if they are sprites because they are not drawn onto the backdrop. This can create a greater sense of movement of another sprite, such as a car, driving in the foreground. Notice the car is not moving, but the trees are.
 
-![Sprite car stays still, street moves](images/challenge2-two-sprites2.gif){:width="400px"}
+![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
 If some of your background objects are sprites you will be able to create a greater sense of 3-dimensions and, in some instance, make you animation appear more realistic.
 
