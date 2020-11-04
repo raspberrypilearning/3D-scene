@@ -24,11 +24,13 @@ In order to program aspects of your backdrop you will now add objects as sprites
 --- collapse ---
 ---
 
-title: Design your own backdrop
+title: Design your own Backdrop and object sprite costumes
 
 ---
 
-The backdrop is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. Here's an example of making a blue **Backdrop** with hills as sprite costumes. Use the example to create the objects you require in your scenery.
+The backdrop is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
+
+Below is an example of a blue **Backdrop** with hills as sprite costumes. You can use the example to create the Backdrop and objects you require in your scenery.
 
 To create a sky blue backdrop go to **Backdrops** and select **Paint**.
 
@@ -38,13 +40,11 @@ In **Backdrops tab** select a suitable **Fill** colour and no **Outline**. Go to
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.png){:width="400px"}
 
-Select **Paint** when creating a new sprite to go direct to the **Paint Editor**
+Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume.
 
 ![Select sprite paint](images/challenge2-sprite-paint.png){:width="400px"}
 
-
-Don't forget to name you sprite.
-
+Don't forget to name your sprite.
 
 --- /collapse ---
 
