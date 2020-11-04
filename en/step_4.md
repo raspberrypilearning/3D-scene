@@ -14,9 +14,12 @@ Unlike the real world, buildings for example, can move if they are sprites as lo
 
 ![Sprite car stays still, street moves](images/Challenge2-car-driving.gif){:width="400px"}
 
-In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project ideas.
+In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project ideas because it has drawn objects rather than objects as sprites. Below shows an example where the drawn object may be visually in the way of your project:
++ a Backdrop with a drawn chair
++ a wheelchair as a sprite
++ the wheelchair as a sprite with the Backdrop
 
-![Backdrop with furniture](images/challenge2-backdrop-bedroom.png){:width="600px"}
+![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
 
 --- collapse ---
 ---
@@ -34,17 +37,6 @@ WRITE SRTUFF HERE! The background will the very back of your scene - it might be
 --- task ---
 
 To use **Paint Editor** effectively you need to be familiar with the difference between vector and bitmap graphics.
-
-**COLLAPSE OR GET EVERYONE TO DO THIS BIT?
-
---- collapse ---
----
-
-title: Vector and bitmap graphics
-
----
-
---- /collapse ---
 
 --- /task ---
 
