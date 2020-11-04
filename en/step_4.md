@@ -55,11 +55,11 @@ title: Vector and bitmap graphics
 
 In order to make an object for your scenery, click below to design two sprite costumes.
 
---- no-print --
+--- no-print ---
 
 ![Background with dinosaur and mountains](images/challenge2-dinosaur-left-right.gif)
 
---- /no-print --
+--- /no-print ---
 
 --- /task ---
 
