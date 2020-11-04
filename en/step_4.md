@@ -2,7 +2,7 @@
 
 **ARE WE REFERING TOTHE THING THEY ARE MAKING ASAN interactive animation?**
 
-You have selected a backdrop. Now it's time to think about what **objects** you want in your **scenery**. In this step you will be create own objects as sprite costumes in **Paint Editor**.
+You have selected a backdrop. Now it's time to think about what **objects** you want in your **scenery**. In this step you will create your own objects as sprite costumes in **Paint Editor**.
 
 --- task ---
 
