@@ -16,7 +16,22 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=�
 --- /task ---
 
 --- task ---
-Add a backdrop of your choice. Don't worry too much as you can change it at any time as you develop your idea. Below are some examples of **How to …** You can use these if you need a reminder, or to understand blocks in more detail.
+Add a backdrop of your choice. Don't worry too much as you can change it at any time as you develop your idea. 
+
+**NEW SECTION AND COLLAPSE
+Note: objects which are already drawn onto a Backdrop cannot be individually programmed. Choose a simple backdrop with just a few or no objects drawn on it or design your own background. This will give you more freedom as you go on to develop your project by animating your scenery.**
+
+--- collapse ---
+---
+
+title: Design your own background
+
+---
+
+--- /collapse --- 
+
+
+Below are some examples of **How to …** You can use these if you need a reminder, or to understand blocks in more detail.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
