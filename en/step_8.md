@@ -1,125 +1,127 @@
 ## Add more...
-Now you've got one sprite moving the way you want it to, add another sprite to make your animation more dynamic.
+
+Now you are going to add variables and use them to control the way your project behaves. You could add a variable that changes the colour or other graphic effects or a variable that controls the speed of your project. 
+
+**Tip:** You can use a variable instead of a fixed value in a (input) to a block. 
 
 --- task ---
+Think of something you would like the user to be able to change in your project using a slider. This could be the size or graphic effects of a sprite or the speed that a sprite moves at.
 
-Each sprite will have a different algorithm that makes its behaviour unique. An algorithm is a set of clear instructions in the right order for performing a task.
+In this space scene you can adjust the view of the planet that you see from inside your spaceship. Change the zoom slider to change the size of the planet to make it seem closer or further away and change the colour slide to change the colour effect. 
 
-Ask yourself the following questions about your second sprite:
-+ Where will you position it?
-+ Do you want to change its colour or make it a new costume in the Paint editor?
-+ How big should it be? 
-+ Which direction will it be pointing?
-+ How will it move differently to the first sprite?
-
-See how this project has two sprites.
-
-**Astronaut and spaceship**: [See inside](https://scratch.mit.edu/projects/438623095/editor){:target="_blank"}
+**Space scene**: [See inside](https://scratch.mit.edu/projects/444586036/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/438623095/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444586036/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
 
 --- task ---
-
-You may want to investigate the example projects in **step 2: Get inspiration**. If so, you could compare the programs of sprites whose movement and appearance are relevant to your project ideas. 
-
-**Tip**: Professional programmers explore and take inspiration from code created by other programmers.
-
---- /task ---
-
---- task ---
-
-Choose one of these three methods to create your second sprite: 
-+ Duplicate your first sprite if you want multiples of the same sprite
-+ Create a new sprite and copy over the first sprite's code 
-+ Create a new sprite and start coding it from the beginning
+Make a new variable and change it to use a slider on the Stage. Drag the variable into a block so that you can control the value. 
 
 --- collapse ---
----
-
-title: Duplicate a sprite
 
 ---
 
-Right-click on your first sprite in the Sprite list below the Stage (or if you are using a tablet, tap and hold):
-![Image right click first sprite](images/challenge1-right-click-sprite.png){:width="300px"}
+title: Add a variable with a slider
 
-Select **duplicate**. This will create a copy of your first sprite with the suffix '2':
-![Image duplicate sprite](images/challenge1-duplicate-sprite.png){:width="300px"}
+---
 
-Rename your sprite:
-![Image rename sprite](images/challenge1-rename-sprite.png){:width="300px"}
-
-Your sprite's name will change in the Sprite list:
-![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
-
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite — you will not see the second sprite because it is sitting underneath the first sprite.
+**Tip:** Always give a variable a sensible name so that you will remember what it is for. You can rename it later if you think of a better name. 
 
 --- /collapse ---
 
---- collapse ---
----
+**Tip:** If a block that uses a variable is inside a forever loop then it will use the changed variable value the next time the loop runs. If a block that uses a variable is under a `when this sprite clicked` block then it will use the new value the next time the sprite is clicked. 
 
-title: Copy sprite code
-
----
-In the Sprite pane, go to **Choose a Sprite** and select your second sprite.
-
-Click the first sprite and go to its **Code** tab. Drag the code that is in the first sprite to the second sprite. You may have one script that starts with a `when the green flag clicked`{:class="block3events"} block, as well as another script that starts with `when this sprite clicked`{:class="block3events"}. Make sure you copy **all** the code scripts that you have created. 
-
-![Image copy code to sprite](images/challenge1-sprite-list.gif){:width="300px"}
-
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite — you will not see the second sprite because it is sitting underneath the first sprite.
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-
-Now edit the code so that the new sprite animates the way you want it to. 
-
-Go to **Step 4: Animate using  motions** for a reminder on how to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
-
---- /task ---
-
---- task ---
-
-Change how your second sprite appears in relation to the first sprite. Layering sprites helps them appear three-dimensional in relation to each other and within the backdrop.
+You can use one of these examples to get started:
 
 --- collapse ---
----
-
-title: Layers
 
 ---
-There are two ways to create layering.
 
-**Option one:** In the Stage area, click on the sprite you want as the front layer. Drag it over the front of the other sprite. This layering will stay when you run the program next time.
+title: Control ghost effect with a variable to see through a sprite
 
-![Image showing how to drag to create layering](images/challenge1-change-layers.gif){:width="300px"}
+---
 
+**Transparent rainbow**: [See inside](https://scratch.mit.edu/projects/444579529/editor){:target="_blank"}
 
-**Option two:** Use a `go to front layer`{:class="block3looks"} block to the relevant sprite and select either a drop-down `front`{:class="block3looks"} or `back`{:class="block3looks"} block, and add it to the set-up under a `when green flag clicked`{:class="block3events"} block.
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444579529/?autostart=false" frameborder="0"></iframe>
+</div>
+
+You can use a `ghost`{:class="block3data"} variable to control the ghost effect on a sprite at the front and use it to reveal or hide sprites in lower layers. 
 
 ```blocks3
+when flag clicked
 go to [front v] layer
+```
+
+```blocks3
+when flag clicked
+forever
+set [ghost v] effect to (ghost)
 ```
 
 --- /collapse ---
 
---- /task ---
+--- collapse ---
 
-You may want to tweak the position, size, layers, etc. of your second sprite. It may take a few attempts before you are pleased with your second sprite's movement.
+---
+
+title: Speed up a sound
+
+---
+
+**Sound speed**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444614449/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Changing the pitch of a sound also speeds it up. 
+
+```blocks3
+when flag clicked
+forever
+set [pitch v] effect to (speed)
+```
+
+Play the sound in a separate forever loop so that the pitch will change immediately rather than waiting until the sound is done: 
+
+```blocks3
+when flag clicked
+forever
+play sound [Dance Head Nod v] until done
+```
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+
+title: Make things further away move more slowly to create a 3D effect
+
+---
+
+<mark>Should this be covered in movement? Should we mention how to use a speed variable with it here??</mark>
+
+--- /collapse ---
+
+
+--- /task ---
 
 --- task ---
+Test your project and make changes until you are happy with it. 
 
-If you have time, keep adding more sprites. Make each one a little different to the others. 
+Think about:
++ Is there more that one sprite that could react to the same variable such as two sprites moving faster?
++ What range should your slider have? Should it start from 0 or 1, are negative values allowed?
++ Do you need to multiple or divide your variable value to get the number you want?
 
 --- /task ---
+
 
 --- save ---
 
