@@ -69,10 +69,29 @@ Go [backward v] (1) layers
 
 --- /task ---
 
---- task ---
+Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"}
 
-Once you have your layers set up, you can use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprite is behind or in front! 
+**Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/445055782/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+--- task ---
+Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front! 
 --- /task ---
- 
- 
+
+You can also use the  `layer`{:class="block3looks"} blocks while your code is running, to  automatically change the order of sprites and create the illusion of depth. Click the green flag on the project below and notice how the cat goes behind one tree, but in front of another:
+
+**Depth with Layers**: [See inside](https://scratch.mit.edu/projects/445072215/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/445072215/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+--- task --- 
+
+
+--- /task ---
+
+
 --- save ---
