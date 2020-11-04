@@ -4,7 +4,7 @@ You have selected a backdrop. Now it's time to think about what **objects** you 
 
 --- task ---
 
-**ADD TO STEP 3? Objects which are already drawn onto a Backdrop cannot be individually programmed. Choose a simple backdrop with just a few or no objects drawn on it or design your own background. This will give you more freedom as you go on to develop your project by animating your scenery. WHERE TO ADD INFO ON DESIGNING TEIR OWN - STEP 3 OR4 ?**
+**ADD TO STEP 3? Objects which are already drawn onto a Backdrop cannot be individually programmed. Choose a simple backdrop with just a few or no objects drawn on it or design your own background. This will give you more freedom as you go on to develop your project by animating your scenery. WHERE TO ADD INFO ON DESIGNING THEIR OWN - STEP 3 OR4 ?**
 
 In the real world, a backdrop if often static such as a street, hills or an internal wall. Added to this are objects such as people, vehicles and furniture which are able to move in front of the backdrop. In Scratch, you can create some interesting and more realistic effects by developing some of your backdrop as sprites. 
 
