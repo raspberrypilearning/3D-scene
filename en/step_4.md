@@ -12,7 +12,7 @@ Then, for example, the sun can go behind the trees because they are both sprites
 
 Unlike the real world, the trees can also move if they are sprites because they are not drawn onto the backdrop. This can create a greater sense of movement of another sprite, such as a car, driving in the foreground. Notice the car is not moving, but the trees are.
 
-![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
+![Sprite car stays still, street moves](images/Challenge2-car-driving.gif){:width="400px"}
 
 If some of your background objects are sprites you will be able to create a greater sense of 3-dimensions and, in some instance, make you animation appear more realistic.
 
