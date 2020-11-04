@@ -24,7 +24,7 @@ title: Design your own backdrop
 
 ---
 
-WRITE SRTUFF HERE! The background will the very back of your scene - it might be sky, and hills ora bedroom wall - you decide. 
+WRITE SRTUFF HERE! The background will the very back of your scene - it might be a skyline, a street, a wood or a bedroom wall - you decide. 
 
 --- /collapse ---
 
