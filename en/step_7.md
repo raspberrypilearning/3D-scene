@@ -170,6 +170,28 @@ title: Incidental sounds
  
 --- /collapse ---
 
+--- /task ---
+ 
+--- task ---
+
+Once you have your sounds, you may want to change some details such as setting the `volume`{:class="block3sound"}, the `pitch`{:class="block3sound"} or the balance, or `panning`{:class="block3sound"}, from left to right.
+
+--- collapse ---
+
+---
+title: Setting and changing the volume, pitch and pan effect
+---
+ 
+
+ 
+**Robot animation**: [See inside](https://scratch.mit.edu/projects/436260207/editor){:target="_blank"}
+ 
+<div class="scratch-preview">
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436260207/?autostart=false" frameborder="0"></iframe>
+</div>
+ 
+--- /collapse ---
+
 --- collapse ---
 
 ---
@@ -201,31 +223,7 @@ play sound [Dance Head Nod v] until done
 ```
 
 --- /collapse ---
- 
---- /task ---
- 
---- task ---
-
-Once you have your sounds, you may want to change some details such as setting the `volume`{:class="block3sound"}, the `pitch`{:class="block3sound"} or the balance, or `panning`{:class="block3sound"}, from left to right.
-
---- collapse ---
-
----
-title: Setting and changing the volume, pitch and pan effect
----
- 
-
- 
-**Robot animation**: [See inside](https://scratch.mit.edu/projects/436260207/editor){:target="_blank"}
- 
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436260207/?autostart=false" frameborder="0"></iframe>
-</div>
- 
-
- 
---- /collapse ---
- 
+  
 --- /task ---
  
  
