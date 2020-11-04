@@ -65,37 +65,6 @@ set [ghost v] effect to (ghost)
 
 --- /collapse ---
 
---- collapse ---
-
----
-
-title: Speed up a sound
-
----
-
-**Sound speed**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444614449/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Changing the pitch of a sound also speeds it up. 
-
-```blocks3
-when flag clicked
-forever
-set [pitch v] effect to (speed)
-```
-
-Play the sound in a separate forever loop so that the pitch will change immediately rather than waiting until the sound is done: 
-
-```blocks3
-when flag clicked
-forever
-play sound [Dance Head Nod v] until done
-```
-
---- /collapse ---
 
 --- collapse ---
 
