@@ -92,11 +92,11 @@ For now, organise your sprites into their layering position by dragging them in 
 
 You can create sprites which are the same colour or texture as the background so they are invisible but can be layered. Another sprite can then **appear** to come out from behind the invisible sprite.
 
---- no-print --
+--- no-print ---
 
 ![Invisible sprites](images/challenge2-sprite-invisible.gif)
 
---- /no-print --
+--- /no-print ---
 
 --- collapse ---
 ---
