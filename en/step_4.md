@@ -4,17 +4,15 @@ You have selected a backdrop. Now it's time to think about what **objects** you 
 
 --- task ---
 
-In the real world, a backdrop if often static such as internal walls, a street or hills. Added to this are objects such as people, vehicles and furniture which are able to move in front of the backdrop. In Scratch, you can create some interesting and more realistic effects by developing some of your backdrop as sprites. 
+In the real world, a backdrop if often static such as internal walls, a street or hills. Added to this are objects such as people, vehicles and furniture which are able to move in front of the backdrop. In Scratch, by developing some of your backdrop as sprites you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
 
-Then, for example, the sun can go behind the trees because they are both sprites.
+For example, the moon can rise above the hill because they are both sprites.
 
 ![Sprite moon goes behind sprite trees](images/Challenge2-moon-rising.gif)
 
-Unlike the real world, the trees can also move if they are sprites because they are not drawn onto the backdrop. This can create a greater sense of movement of another sprite, such as a car, driving in the foreground. Notice the car is not moving, but the trees are.
+Unlike the real world, buildings for example, can move if they are sprites as long as they are not drawn onto the backdrop. This can create a sense of movement of another sprite, such as a car, driving in the foreground. Notice the buildings are moving, not the car.
 
 ![Sprite car stays still, street moves](images/Challenge2-car-driving.gif){:width="400px"}
-
-If some of your background objects are sprites you will be able to create a greater sense of 3-dimensions and, in some instance, make you animation appear more realistic.
 
 In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project ideas.
 
