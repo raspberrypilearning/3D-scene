@@ -30,6 +30,12 @@ title: Design your own backdrop
 
 WRITE SRTUFF HERE! The background will the very back of your scene - it might be a skyline, a street, a wood or a bedroom wall - you decide. 
 
+Select **Paint** when creating a new sprite to go direct to the **Paint Editor**
+
+Don't forget to name you sprite.
+
+![Select sprite paint](images/challenge2-sprite-paint.png){:width="600px"}
+
 --- /collapse ---
 
 --- /task ---
