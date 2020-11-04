@@ -32,9 +32,12 @@ WRITE SRTUFF HERE! The background will the very back of your scene - it might be
 
 Select **Paint** when creating a new sprite to go direct to the **Paint Editor**
 
+![Select sprite paint](images/challenge2-sprite-paint.png){:width="600px"}
+
+Here's an example of making hills. You can use the example to create other backdrops.
+
 Don't forget to name you sprite.
 
-![Select sprite paint](images/challenge2-sprite-paint.png){:width="600px"}
 
 --- /collapse ---
 
