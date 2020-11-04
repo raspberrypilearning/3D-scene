@@ -8,7 +8,7 @@ In the real world, a backdrop if often static such as internal walls, a street o
 
 Then, for example, the sun can go behind the trees because they are both sprites.
 
-![Sprite moon goes behind sprite trees](images/challenge2-two-sprites1.gif){:width="400px"}
+![Sprite moon goes behind sprite trees](images/Challenge2-two-sprites1.gif)
 
 Unlike the real world, the trees can also move if they are sprites because they are not drawn onto the backdrop. This can create a greater sense of movement of another sprite, such as a car, driving in the foreground. Notice the car is not moving, but the trees are.
 
