@@ -2,7 +2,7 @@
 
 Now, you’re going to look at how to layer sprites to make some appear in front or behind others by using some of the `looks`{:class="block3looks"} blocks.
 
-When you think about a stage or theatre in real life, you understand that the actors can move closer or further away from the audience; so that one can pass in front of another. 
+When you think about a stage or theatre in real life, you understand that the actors can move closer or further away from the audience; so that one can pass in front of another. This is called **depth**, and it makes things feel more realistic when you watch them (even cartoons!)
 
 You can use `layers`{:class="block3looks"} in your Scratch projects to create the same effect! 
 
@@ -69,6 +69,7 @@ Go [backward v] (1) layers
 
 --- /task ---
 
+--- no-print ---
 Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"}
 
 **Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
@@ -76,18 +77,24 @@ Have a look at how this project orders the sprites from front to back by using `
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/445055782/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+--- /no-print ---
 
 --- task ---
 Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front! 
 --- /task ---
 
-You can also use the  `layer`{:class="block3looks"} blocks while your code is running, to  automatically change the order of sprites and create the illusion of depth. Click the green flag on the project below and notice how the cat goes behind one tree, but in front of another:
+You can also use the  `layer`{:class="block3looks"} blocks while your code is running, to  automatically change the order of sprites and create the illusion of depth. 
+
+--- no-print ---
+Click the green flag on the project below and notice how the cat goes behind one tree, but in front of another:
 
 **Depth with Layers**: [See inside](https://scratch.mit.edu/projects/445072215/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/445072215/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+--- /no-print ---
+
 --- task --- 
 
 
