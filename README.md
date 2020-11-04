@@ -1,11 +1,11 @@
-# moving-within-3D-environments
+# make-a-difference
 
-![moving-within-3D-environments](banner.png)
+![make-a-difference](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/moving-within-3D-environments](https://projects.raspberrypi.org/en/projects/moving-within-3D-environments)
+Find the project online at [projects.raspberrypi.org/en/projects/make-a-difference](https://projects.raspberrypi.org/en/projects/make-a-difference)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/moving-within-3D-environments/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/moving-within-3D-environments/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/make-a-difference/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/make-a-difference/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
