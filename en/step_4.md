@@ -34,7 +34,7 @@ To create a sky blue **Backdrop** go to Backdrop and select **Paint**.
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-In the Backdrop **Backdrops** select a suitable **Fill** colour and no **Outline**.
+In the Backdrop **Backdrops** select a suitable **Fill** colour and no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline.
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.png){:width="400px"}
 
