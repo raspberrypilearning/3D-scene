@@ -10,11 +10,11 @@ You can use `layers`{:class="block3looks"} in your Scratch projects to create th
 
 This project uses front and back `layers`{:class="block3looks"} to make the cats appear to circle the globe:
 
+**Layers**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/444530974/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
-**Layers**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
 
 --- /no-print ---
 
