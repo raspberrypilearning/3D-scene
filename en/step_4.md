@@ -28,13 +28,16 @@ title: Design your own backdrop
 
 ---
 
-WRITE SRTUFF HERE! The background will the very back of your scene - it might be a skyline, a street, a wood or a bedroom wall - you decide. 
+The background will the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. Here's an example of making hills as sprite costumes. Use the example to create the objects you require in your scenery.
+
+Create a blue **Backdrop**. Go to Backdrop and select **Paint**.
+
+![Select sprite paint](images/challenge2-sprite-paint.png){:width="400px"}
 
 Select **Paint** when creating a new sprite to go direct to the **Paint Editor**
 
-![Select sprite paint](images/challenge2-sprite-paint.png){:width="600px"}
+![Select sprite paint](images/challenge2-sprite-paint.png){:width="400px"}
 
-Here's an example of making hills. You can use the example to create other backdrops.
 
 Don't forget to name you sprite.
 
