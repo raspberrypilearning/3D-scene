@@ -18,9 +18,9 @@ In order to program aspects of your backdrop you will now add objects as sprites
 
 ![Backdrop with furniture](images/challenge2-backdrop-bedroom.png){:width="400px"}
 
-![Backdrop without furniture/objects](images/challenge2-backdrop-no-objects.png){:width="400px"}
+![Backdrop without furniture/objects](images/challenge2-wheelchair.png){:width="400px"}
 
-![Sprite furniture/objects](images/challenge2-objects.png){:width="400px"}
+![Sprite furniture/objects](images/challenge2-bedroom-wheelchair.png){:width="400px"}
 
 
 --- collapse ---
