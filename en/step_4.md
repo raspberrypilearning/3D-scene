@@ -16,12 +16,7 @@ Unlike the real world, buildings for example, can move if they are sprites as lo
 
 In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project ideas.
 
-![Backdrop with furniture](images/challenge2-backdrop-bedroom.png){:width="400px"}
-
-![Backdrop without furniture/objects](images/challenge2-wheelchair.png){:width="400px"}
-
-![Sprite furniture/objects](images/challenge2-bedroom-wheelchair.png){:width="400px"}
-
+![Backdrop with furniture](images/challenge2-backdrop-bedroom.png){:width="600px"}
 
 --- collapse ---
 ---
