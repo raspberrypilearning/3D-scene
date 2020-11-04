@@ -8,7 +8,19 @@ You have selected a backdrop. Now it's time to think about what **objects** you 
 
 **ADD TO STEP 3? Objects which are already drawn onto a Backdrop cannot be individually programmed. Choose a simple backdrop with just a few or no objects drawn on it or design your own background. This will give you more freedom as you go on to develop your project by animating your scenery. WHERE TO ADD INFO ON DESIGNING TEIR OWN - STEP 3 OR4 ?**
 
-In order to program aspects of your backdrop you will need to add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project ideas.
+In the real world, a backdrop if often static such as a street, hills or an internal wall. Added to this are objects such as people, vehicles and furniture which are able to move in front of the backdrop. In Scratch, you can create some interesting and more realistic effects by developing some of your backdrop as sprites. 
+
+Then, for example, the sun will be able to go behind the trees because they are both sprites.
+
+![Sprite moon goes behind sprite trees](images/challenge2-two-sprites1.gif){:width="400px"}
+
+Unlike the real world, the trees can also move if they are sprites because they are not drawn onto the backdrop. This can create a greater sense of movement of another sprite, such as a car, driving in the foreground. Notice the car is not moving, but the trees are.
+
+![Sprite car stays still, street moves](images/challenge2-two-sprites2.gif){:width="400px"}
+
+If some of your background objects are sprites you will be able to create a greater sense of 3-dimensions and, in some instance, make you animation appear more realistic.
+
+In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project ideas.
 
 ![Backdrop with furniture](images/challenge2-backdrop-bedroom.png){:width="400px"}
 
@@ -29,14 +41,6 @@ WRITE SRTUFF HERE! The background will the very back of your scene - it might be
 --- /collapse ---
 
 --- /task ---
-
-In the real world, a backdrop if often static such as a street, hills or an internal wall. Added to this are objects such as people, vehicles and furniture whichare able to move in front of the backdrop. However, in Scratch, you can create some interesting effects by moving some of your backdrop. 
-
-In Dinosaur, the mountains can move because they are sprites which are not drawn onto the backdrop. This creates a greater sense of the dinosuar's own movement when it runs left and right.
-
-The sun can go behind the mountains because theyare sprites.
-
-If some of your background objects are sprites you can create a greater sense of 3-dimensions and, in some instance, make you animation appear more realistic.
 
 --- task ---
 
