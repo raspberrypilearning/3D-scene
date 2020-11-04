@@ -36,13 +36,13 @@ To create a sky blue backdrop go to **Backdrops** and select **Paint**.
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-In **Backdrops tab** select a suitable **Fill** colour and no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor).
+In the **Backdrops tab** and  select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor).
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
 Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume.
 
-![Select sprite paint](images/challenge2-sprite-paint.png){:width="400px"}
+![Make hills as sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
 Don't forget to name your sprite.
 
