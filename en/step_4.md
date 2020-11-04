@@ -53,15 +53,13 @@ title: Vector and bitmap graphics
 
 --- /task ---
 
-In order to make an object for your scenery, click below to design two sprite costumes.
+Make two object for your scenery. Click below to design two sprite costumes.
 
 --- no-print ---
 
 ![Background with dinosaur and mountains](images/challenge2-dinosaur-left-right.gif)
 
 --- /no-print ---
-
---- /task ---
 
 --- collapse ---
 ---
@@ -70,7 +68,7 @@ title: Make two sprite costumes
 
 ---
 
-WRITE SRTUFF HERE! Moon comes up behind mountain, Bat flies out of building. **Top tip for taking sections of other sprites to work on?**
+WRITE SRTUFF HERE! Let's make something that's usually static a sprite. Moon comes up behind mountain, Bat flies out of building. **Top tip for taking sections of other sprites to work on?**
 
 --- /collapse ---
 
