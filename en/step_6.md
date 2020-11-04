@@ -88,7 +88,7 @@ title: Change speed when using glide blocks
 
 Use a variable called `time`{:class="block3data"} to control how many seconds it takes for a sprite to glide `forever`{:class="block3control"} loop runs. Setting the speed to a smaller number will make the sprite move faster. 
 
-
+--- /collapse ---
 
 --- /task ---
  
