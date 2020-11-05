@@ -42,15 +42,17 @@ In the **Backdrops tab** and  select a suitable **Fill** colour with no **Outlin
 
 Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume - a number of hills.
 
-![Make hills as sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
+![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
 Choose a colour and a series of ovals using the **Circle** tool. Draw a number of ovals and a rectangle at the bottom of the **Costume Editor**.
 
-Now select them together and group them by clicking **Group**. You will now be able to adjust or move them as one shape.
+Select them together and group them by clicking **Group**. You will now be able to adjust or move them as one shape.
 
 Don't forget to name your sprite.
 
 Add a second sprite if this suits your project. Sprites that sit further away in your scene should be lighter in  colour - to achieve this you can lower the sprite's colour saturation. The sprite will then appear further away. This is a traditional technique used by landscape painters to create a sense of depth.
+
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
 --- /collapse ---
 
