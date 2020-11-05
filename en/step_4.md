@@ -175,6 +175,8 @@ WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like 
 
 --- /collapse ---
 
+--- /task ---
+
 --- task ---
 
 In your scenery, you may want to create multiple copies of a shape within a costume so whether the sprite is static or moving your scenery will appear busier. This effect is used by proffessional animators to create weather patterns such as rain or clouds, to create a cluster of objects such as buildings and tree and to create the impression of a crowd of people in a scene.
@@ -196,6 +198,8 @@ title: Multiple shapes in a sprite costume
 --- /collapse ---
 
 --- /task ---
+
+--- task ---
 
 Sprites as large as the Stage can sit in the 3D scene as the foreground (the very front layer). The 3D-scene will then appear to happen **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
 
