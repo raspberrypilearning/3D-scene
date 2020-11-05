@@ -179,7 +179,7 @@ WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like 
 
 --- task ---
 
-In your scenery, you may want to create multiple copies of a shape within a costume so whether the sprite is static or moving your scenery will appear busier. This effect is used by proffessional animators to create weather patterns such as rain or clouds, to create a cluster of objects such as buildings and tree and to create the impression of a crowd of people in a scene.
+In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier. This effect is used by professional animators to create weather patterns (rain and clouds), to create a cluster of objects such as buildings or a wood as well as create the impression of a crowd of people in a scene.
 
 --- no-print ---
 
