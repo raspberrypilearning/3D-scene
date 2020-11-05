@@ -46,9 +46,13 @@ Now go to **Choose a Sprite** and select **Paint** to create a new sprite costum
 
 Choose a colour and a series of ovals using the **Circle** tool. Draw a number of ovals and a rectangle at the bottom of the **Costume Editor**.
 
-Select them together and group them by clicking **Group**. You will now be able to adjust or move them as one shape.
+![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
 
 Objects that sit further away in your scene could appear lighter in colour - to achieve this you can lower the sprite costume's colour **Saturation**. The sprite costume will then appear further away. Altering the colour saturation to create a sense of depth is a traditional technique used by landscape painters.
+
+Now select the shapes and **Group** them together. You will now be able to adjust or move them as one shape.
+
+![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
 Don't forget to title your sprite.
 
