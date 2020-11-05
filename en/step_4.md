@@ -54,15 +54,23 @@ Don't forget to name your sprite.
 
 To use **Paint Editor** effectively you need to be familiar with the difference between **bitmap** and **vector** graphics.
 
-In Scratch, vector and bitmap graphics have different **Costume Editors**. The default setting is in vector although you can **Convert to Bitmap** if you would prefer to use pen marks to createor develop your sprite costume. Both types of graphics have similar tool pallets with the additonal vector tool, **Reshape**, 
+In Scratch, the default setting is in vector graphics although you can **Convert to Bitmap** if you would prefer to use pen marks to create or develop your sprite costume. Vector and bitmap graphics have different **Costume Editors** with offering similar tools. The vector pallete offer the additional tool **Reshape**.
+
+Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic where you you will see the grid of pixels. On a vector graphic there are no pixels, just control points.
+
+--- collapse ---
+---
+
+title: Bitmap** and vector graphics
+
+---
 
 **Bitmap graphics** are made from grids of pixels, the sprite costumes tend to be low resolution (quality) and may appear a little 'blocky', expecially when the graphics is enlarged.
+
 **Vector graphics** are made up of splines (mathmatical curves) and are stored and drawn with these instructions. Vector graphics appear as shapes with a set of control points which means they can be reshaped easily and still keep a high resolution (smooth appearance).
 
+--- /collapse ---
 
-Try zooming in on a bitmap graphic and you will see the pixels. On a vector graphic there are no pixels.
-
-splines (mathematical curve) 
 --- /task ---
 
 Make two object for your scenery. Click below to design two sprite costumes.
