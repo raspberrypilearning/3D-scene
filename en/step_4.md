@@ -61,7 +61,7 @@ In **Paint Editor** in the **Costume Editor** there are two graphics settings: *
 --- collapse ---
 ---
 
-title: Costume Editor: vector and bitmap graphics
+title: Vector and bitmap graphics in the Costume Editor
 
 ---
 
