@@ -40,13 +40,13 @@ In the **Backdrops tab** and  select a suitable **Fill** colour with no **Outlin
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
-Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume.
+Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume - a number of hills.
 
 ![Make hills as sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
 Choose a colour and a series of ovals using the **Circle** tool. Draw a number of ovals and a rectangle at the bottom of the **Costume Editor**.
 
-Now group them so you can adjust them or move them about together as one shape.
+Now select them together and group them by clicking **Group**. You will now be able to adjust or move them as one shape.
 
 Don't forget to name your sprite.
 
