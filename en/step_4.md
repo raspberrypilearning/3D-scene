@@ -177,7 +177,7 @@ WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like 
 
 In addition to coding layers to create a sense of 3-dimensions, in the next step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
-Some sprites can be the size of the stage and sit in the scene as the front layer. The interactive animation will then appear to happen **through** this sprite just like looking through a window, binoculars or a mask.
+Some sprites can be the size of the stage and sit in the scene as the front layer. The 3D-scene will then appear to happen **through** this sprite just like looking through a window, binoculars or a mask.
 
 --- no-print ---
 
@@ -192,7 +192,7 @@ title: Make a sprite mask
 
 ---
 
-WRITE SRTUFF HERE! Binoculars looking at scenery. window
+You can create a sprite which sits in the foregorund of your projects. In this example its bars of a cage (poor lion) but you could similarly create a window.
 
 --- /collapse ---
 
