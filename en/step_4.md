@@ -54,10 +54,6 @@ Don't forget to name your sprite.
 
 In the **Paint Editor** there are two graphics settings: **vector** and **bitmap**.
 
-**Vector graphics** are made up of splines (mathmatical curves) and appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
-
-**Bitmap graphics** are made from grids of pixels, they tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the image is enlarged.
-
 Build your confidence with vector and bitmap graphics when developing sprite costumes by exploring the **How to...** below.
 
 --- collapse ---
@@ -78,7 +74,7 @@ You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you 
 ![Bitmap](images/challenge2-bitmap.png){:width="400px"}
 
 
-Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. Vector offers an additional tool, **Reshape**:
+Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. Vector has an additional tool, **Reshape**:
 
 
 ![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="150px"}
@@ -94,6 +90,10 @@ Using this tool you can move the position of the **nodes**, turn or pull the **h
 
 
 --- /no-print ---
+
+**Vector graphics** are made up of splines (mathmatical curves) and appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
+
+**Bitmap graphics** are made from grids of pixels, they tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the image is enlarged.
 
 Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic using the maginifing tool where you will see the grids of pixels. On a vector graphic there are no pixels, just control points.
 
