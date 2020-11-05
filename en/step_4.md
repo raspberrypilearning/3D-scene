@@ -8,11 +8,11 @@ In the real world, a backdrop if often static such as internal walls, a street o
 
 For example, the moon can rise above the hill because they are both sprites.
 
-![Sprite moon goes behind sprite trees](images/Challenge2-moon-rising.gif)
+![Sprite moon goes behind sprite trees](images/challenge2-moon-rising.gif)
 
 Unlike the real world, buildings for example, can move if they are sprites as long as they are not drawn onto the backdrop. This can create a sense of movement of another sprite, such as a car, driving in the foreground. Notice the buildings are moving, not the car.
 
-![Sprite car stays still, street moves](images/Challenge2-car-driving.gif){:width="400px"}
+![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
 In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project ideas because it has drawn objects rather than objects as sprites. Below shows an example where the drawn object may be visually in the way of your project:
 + a Backdrop with a drawn chair
