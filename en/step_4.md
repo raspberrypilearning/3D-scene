@@ -52,13 +52,11 @@ Don't forget to name your sprite.
 
 --- task ---
 
-To use **Paint Editor** effectively you need to be familiar with the different **bitmap** and **vector** graphic settings.
-
-In Scratch, the default setting is in vector graphics:
+To use **Paint Editor** effectively you need to be familiar with the different **vector** and **bitmap** graphic settings. The **Paint Editor** automatically takes you to vector graphic:
 
 ![Vector](images/challenge2-vector.png){:width="400px"}
 
-You can **Convert to Bitmap** if you would prefer to use pen marks to develop your sprite costume.
+You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you would prefer to use pen marks to develop your sprite costume:
 
 ![Bitmap](images/challenge2-bitmap.png){:width="400px"}
 
@@ -69,13 +67,13 @@ Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap gra
 --- collapse ---
 ---
 
-title: Bitmap and vector graphics
+title: Vector and bitmap and graphics
 
 ---
 
-**Bitmap graphics** are made from grids of pixels, tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the graphic is enlarged.
-
 **Vector graphics** are made up of splines (mathmatical curves) and are stored and drawn with these instructions. Vector graphics appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
+
+**Bitmap graphics** are made from grids of pixels, tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the graphic is enlarged.
 
 --- /collapse ---
 
