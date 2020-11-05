@@ -52,7 +52,7 @@ Don't forget to name your sprite.
 
 --- task ---
 
-In **Paint Editor** in the **Costume Editor** there are two graphics settings: **vector** and **bitmap**.The **Costume Editor** automatically opens in the vector graphic setting.
+In **Paint Editor** in the **Costume Editor** there are two graphics settings: **vector** and **bitmap**.
 
 **Vector graphics** are made up of splines (mathmatical curves) and are stored and drawn with these instructions. Vector graphics appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
 
@@ -65,21 +65,31 @@ title: Costume Editor: vector and bitmap graphics
 
 ---
 
+The **Costume Editor** automatically opens in the vector graphic setting.
+
 ![Vector](images/challenge2-vector.png){:width="400px"}
+
 
 You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you would prefer to use pen marks to develop your sprite costume:
 
+
 ![Bitmap](images/challenge2-bitmap.png){:width="400px"}
 
-Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. Vector offers an additional tool, **Reshape**.
+
+Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. Vector offers an additional tool, **Reshape**:
+
 
 ![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="150px"}
 
-Using this tool you can move the position of the **nodes**, turn or pull the **handles**, and add more nodes to your shape.
+
+Using this tool you can move the position of the **nodes**, turn or pull the **handles**, and add more nodes to your shape:
+
 
 --- no-print ---
 
+
 ![Vector Reshape tool in action](images/challenge2-vector-reshape-tool.gif)
+
 
 --- /no-print ---
 
