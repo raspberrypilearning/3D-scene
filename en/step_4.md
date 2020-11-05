@@ -50,6 +50,8 @@ Now group them so you can adjust them or move them about together as one shape.
 
 Don't forget to name your sprite.
 
+Add a second sprite if this suits your project. Sprites that sit further away in your scene should be lighter in  colour - to achieve this you can lower the sprite's colour saturation. The sprite will then appear further away. This is a traditional technique used by landscape painters to create a sense of depth.
+
 --- /collapse ---
 
 --- /task ---
