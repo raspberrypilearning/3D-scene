@@ -48,9 +48,11 @@ Choose a colour and a series of ovals using the **Circle** tool. Draw a number o
 
 Select them together and group them by clicking **Group**. You will now be able to adjust or move them as one shape.
 
-Don't forget to name your sprite.
+Objects that sit further away in your scene could appear lighter in colour - to achieve this you can lower the sprite costume's colour **Saturation**. The sprite costume will then appear further away. Altering the colour saturation to create a sense of depth is a traditional technique used by landscape painters.
 
-Add a second sprite if this suits your project. Sprites that sit further away in your scene should be lighter in  colour - to achieve this you can lower the sprite's colour saturation. The sprite will then appear further away. This is a traditional technique used by landscape painters to create a sense of depth.
+Don't forget to title your sprite.
+
+You can always add a second or third shape as other sprites instead of a shape, if this suits your project.
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
