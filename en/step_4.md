@@ -52,11 +52,13 @@ Don't forget to name your sprite.
 
 --- task ---
 
-To use **Paint Editor** effectively you need to be familiar with the difference between **bitmap** and **vector** graphics.
+To use **Paint Editor** effectively you need to be familiar with the different **bitmap** and **vector** graphic settings.
 
-In Scratch, the default setting is in vector graphics although you can **Convert to Bitmap** if you would prefer to use pen marks to create or develop your sprite costume. Vector and bitmap graphics have different **Costume Editors** with offering similar tools. The vector pallete offer the additional tool **Reshape**.
+In Scratch, the default setting is in vector graphics although you can **Convert to Bitmap** if you would prefer to use pen marks to develop your sprite costume. Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. 
 
-Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic where you you will see the grid of pixels. On a vector graphic there are no pixels, just control points.
+Vector offers an additional tool, **Reshape**, so you can move the position of the **nodes**, turn or pull the handles, and add more **nodes** to your shape.
+
+Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic where you will see the grid of pixels. On a vector graphic there are no pixels, just control points.
 
 --- collapse ---
 ---
