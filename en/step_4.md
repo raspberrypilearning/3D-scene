@@ -177,11 +177,11 @@ In addition to coding layers to create a sense of 3-dimensions, in the next step
 
 Some sprites can be the size of the stage and sit in the scene as the front layer. The interactive animation will then appear to happen **through** this sprite just like looking through a window, binoculars or a mask.
 
---- no-print --
+--- no-print ---
 
 ![Sprite costume mask](images/challenge2-sprite-costume-mask.gif)
 
---- /no-print --
+--- /no-print ---
 
 --- collapse ---
 ---
