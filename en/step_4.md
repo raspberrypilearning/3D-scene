@@ -183,10 +183,7 @@ In your 3D scene, you may want to create multiple copies of a shape within a cos
 
 --- no-print ---
 
-Go to **Choose a Sprite** and select **Cloud**. Go to  the **Select** tool and select all of the cloud shape. You can create multiples of this shape by using the **Copy** and **Paste** tools. Move the shapes around using the **Select** tools. Vary to shapes by making them bigger and smaller. This will  help to create a greater sense of 3D-dimensions.  
-
 ![Costume with multiple cloud shapes](images/challenge2-sprite-costume-multiples.gif)
-![Costume with multiple people](images/challenge2-sprite-costume-multiples.gif)
 
 --- /no-print ---
 
@@ -196,6 +193,8 @@ Go to **Choose a Sprite** and select **Cloud**. Go to  the **Select** tool and s
 title: Multiple shapes in a sprite costume
 
 ---
+
+Go to **Choose a Sprite** and select **Cloud**. Go to  the **Select** tool and select all of the cloud shape. You can create multiples of this shape using the **Copy** and **Paste** tools. Move the shapes around using the **Select** tools. Vary the shapes by making them bigger and smaller. This will help to create a greater sense of 3D-dimensions.  
 
 --- /collapse ---
 
