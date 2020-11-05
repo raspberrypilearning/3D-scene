@@ -201,7 +201,7 @@ title: Multiple shapes in a sprite costume
 
 --- task ---
 
-Sprites as large as the Stage can sit in the 3D scene as the foreground (the very front layer). The 3D-scene will then appear to happen **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
+Sprites as large as the Stage can sit in the 3D scene as the foreground (the very front layer). The scene will then appear **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
 
 --- no-print ---
 
