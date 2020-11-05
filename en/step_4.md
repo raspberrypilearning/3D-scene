@@ -52,11 +52,13 @@ Don't forget to name your sprite.
 
 --- task ---
 
-In **Paint Editor** in the **Costume Editor** there are two graphics settings: **vector** and **bitmap**.
+In the **Paint Editor** there are two graphics settings: **vector** and **bitmap**.
 
-**Vector graphics** are made up of splines (mathmatical curves) and are stored and drawn with these instructions. Vector graphics appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
+**Vector graphics** are made up of splines (mathmatical curves) and appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
 
-**Bitmap graphics** are made from grids of pixels, tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the graphic is enlarged.
+**Bitmap graphics** are made from grids of pixels, they tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the image is enlarged.
+
+Build your confidence with vector and bitmap graphics when developing sprite costumes by exploring the **How to...** below.
 
 --- collapse ---
 ---
