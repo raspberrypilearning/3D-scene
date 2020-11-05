@@ -175,9 +175,7 @@ WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like 
 
 --- /collapse ---
 
-In addition to coding layers to create a sense of 3-dimensions, in the next step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
-
-Some sprites can be the size of the stage and sit in the scene as the front layer. The 3D-scene will then appear to happen **through** this sprite just like looking through a window, binoculars or a mask.
+Some sprites can sit in the scene as the foreground (front layer) and be the same size as the Stage. The 3D-scene will then appear to happen **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
 
 --- no-print ---
 
@@ -192,7 +190,9 @@ title: Make a sprite mask
 
 ---
 
-You can create a sprite which sits in the foregorund of your projects. In this example its bars of a cage (poor lion) but you could similarly create a window.
+Go to **Choose a Sprite** and select **Paint**, choose a colour and draw a rectangle. You can repeat this shape by using the **Copy** and **Paste** tools. Move the shapes around using the **Select** tool.
+
+![Sprite costume mask copy](images/challenge2-sprite-costume-mask-copy.png)
 
 --- /collapse ---
 
@@ -219,6 +219,8 @@ title: Multiple shapes in a sprite costume
 --- /collapse ---
 
 --- /task ---
+
+In addition to coding layers to create a sense of 3-dimensions, in the next step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
 --- save ---
 
