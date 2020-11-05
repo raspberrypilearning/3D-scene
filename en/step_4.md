@@ -44,6 +44,10 @@ Now go to **Choose a Sprite** and select **Paint** to create a new sprite costum
 
 ![Make hills as sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
+Choose a colour and a series of ovals using the **Circle** tool. Draw a number of ovals and a rectangle at the bottom of the **Costume Editor**.
+
+Now group them so you can adjust them or move them about together as one shape.
+
 Don't forget to name your sprite.
 
 --- /collapse ---
