@@ -67,9 +67,9 @@ title: Bitmap and vector graphics
 
 ---
 
-**Bitmap graphics** are made from grids of pixels, the sprite costumes tend to be low resolution (quality) and may appear a little 'blocky', expecially when the graphics is enlarged.
+**Bitmap graphics** are made from grids of pixels, tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the graphic is enlarged.
 
-**Vector graphics** are made up of splines (mathmatical curves) and are stored and drawn with these instructions. Vector graphics appear as shapes with a set of control points which means they can be reshaped easily and still keep a high resolution (smooth appearance).
+**Vector graphics** are made up of splines (mathmatical curves) and are stored and drawn with these instructions. Vector graphics appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
 
 --- /collapse ---
 
