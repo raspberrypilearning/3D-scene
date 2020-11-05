@@ -62,6 +62,8 @@ You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you 
 
 Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. Vector offers an additional tool, **Reshape**, so you can move the position of the **nodes**, turn or pull the handles, and add more **nodes** to your shape.
 
+![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="300px"}
+
 Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic where you will see the grid of pixels. On a vector graphic there are no pixels, just control points.
 
 --- collapse ---
