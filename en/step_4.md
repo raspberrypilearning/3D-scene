@@ -140,11 +140,11 @@ WRITE SRTUFF HERE! Let's make something that's usually static a sprite. Moon com
 
 --- /task ---
 
-Layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. You can layer all sprites. The important thing is to remember the order (row) that you want the sprites to sit!
+Layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. The important thing is to correctly order the layers that you want the sprites to sit!
 
 --- task ---
 
-For now, organise your sprites into their layering position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
+For now, organise your sprites into their layer position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
 
 --- no-print ---
 
