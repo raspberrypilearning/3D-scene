@@ -56,7 +56,7 @@ Now select the shapes and **Group** them together. You will now be able to adjus
 
 Don't forget to title your sprite.
 
-You can always add a second or third shape as other sprites instead of a shape, if this suits your project.
+You can always add shapes as sprites instead of shapes in a sprite costume, if this suits your project.
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
