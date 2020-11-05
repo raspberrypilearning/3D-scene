@@ -62,7 +62,7 @@ You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you 
 
 Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. Vector offers an additional tool, **Reshape**.
 
-![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="300px"}
+![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="150px"}
 
 Using this tool you can move the position of the **nodes**, turn or pull the handles, and add more **nodes** to your shape.
 
