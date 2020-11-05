@@ -63,7 +63,7 @@ Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap gra
 --- collapse ---
 ---
 
-title: Bitmap** and vector graphics
+title: Bitmap and vector graphics
 
 ---
 
