@@ -175,7 +175,7 @@ WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like 
 
 --- /collapse ---
 
-Some sprites can sit in the scene as the foreground (front layer) and be the same size as the Stage. The 3D-scene will then appear to happen **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
+Sprites as large as the Stage can sit in the 3D scene as the foreground (the very front layer). The 3D-scene will then appear to happen **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
 
 --- no-print ---
 
