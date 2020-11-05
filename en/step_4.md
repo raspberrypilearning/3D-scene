@@ -52,7 +52,18 @@ Don't forget to name your sprite.
 
 --- task ---
 
-To use **Paint Editor** effectively you need to be familiar with the different **vector** and **bitmap** graphic settings. The **Paint Editor** automatically takes you to vector graphic:
+In **Paint Editor** in the **Costume Editor** there are two graphics settings: **vector** and **bitmap**.The **Costume Editor** automatically opens in the vector graphic setting.
+
+**Vector graphics** are made up of splines (mathmatical curves) and are stored and drawn with these instructions. Vector graphics appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
+
+**Bitmap graphics** are made from grids of pixels, tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the graphic is enlarged.
+
+--- collapse ---
+---
+
+title: Costume Editor: vector and bitmap graphics
+
+---
 
 ![Vector](images/challenge2-vector.png){:width="400px"}
 
@@ -66,22 +77,15 @@ Vector and bitmap graphics have different **Costume Editors** whilst offering si
 
 Using this tool you can move the position of the **nodes**, turn or pull the **handles**, and add more nodes to your shape.
 
+--- no-print ---
+
 ![Vector Reshape tool in action](images/challenge2-vector-reshape-tool.gif)
+
+--- /no-print ---
 
 Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic using the maginifing tool where you will see the grids of pixels. On a vector graphic there are no pixels, just control points.
 
 ![Bitmap pixels](images/challenge2-bitmap-pixels.png){:width="400px"}
-
---- collapse ---
----
-
-title: Vector and bitmap and graphics
-
----
-
-**Vector graphics** are made up of splines (mathmatical curves) and are stored and drawn with these instructions. Vector graphics appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
-
-**Bitmap graphics** are made from grids of pixels, tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the graphic is enlarged.
 
 --- /collapse ---
 
