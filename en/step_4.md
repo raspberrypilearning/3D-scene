@@ -93,6 +93,8 @@ Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap gra
 
 Make two object for your scenery. Click below to design two sprite costumes.
 
+--- task ---
+
 --- no-print ---
 
 ![Background with dinosaur and mountains](images/challenge2-dinosaur-left-right.gif)
@@ -117,8 +119,6 @@ Layers can be used to change the way a sprite appears in relation to other sprit
 ![Sprites in layers](images/challenge2-sprite-layers.png)
 
 ![Sprites in layers](images/challenge2-change-layers.gif)
-
-
 
 --- task ---
 
