@@ -175,6 +175,28 @@ WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like 
 
 --- /collapse ---
 
+--- task ---
+
+In your scenery, you may want to create multiple copies of a shape within a costume so whether the sprite is static or moving your scenery will appear busier. This effect is used by proffessional animators to create weather patterns such as rain or clouds, to create a cluster of objects such as buildings and tree and to create the impression of a crowd of people in a scene.
+
+--- no-print ---
+
+![Costume with multiple cloud shapes](images/challenge2-sprite-costume-multiples.gif)
+![Costume with multiple people](images/challenge2-sprite-costume-multiples.gif)
+
+--- /no-print ---
+
+--- collapse ---
+---
+
+title: Multiple shapes in a sprite costume
+
+---
+
+--- /collapse ---
+
+--- /task ---
+
 Sprites as large as the Stage can sit in the 3D scene as the foreground (the very front layer). The 3D-scene will then appear to happen **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
 
 --- no-print ---
@@ -198,27 +220,6 @@ Go to **Choose a Sprite** and select **Paint**, choose a colour and draw a recta
 
 --- /task ---
 
---- task ---
-
-In your scenery, you may want to create multiple copies of a shape within a costume so whether the sprite is static or moving your scenery will appear busier. This effect is used by proffessional animators to create weather patterns such as rain or clouds, to create a cluster of objects such as buildings and tree and to create the impression of a crowd of people in a scene.
-
---- no-print ---
-
-![Costume with multiple cloud shapes](images/challenge2-sprite-costume-multiples.gif)
-![Costume with multiple people](images/challenge2-sprite-costume-multiples.gif)
-
---- /no-print ---
-
---- collapse ---
----
-
-title: Multiple shapes in a sprite costume
-
----
-
---- /collapse ---
-
---- /task ---
 
 In addition to coding layers to create a sense of 3-dimensions, in the next step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
