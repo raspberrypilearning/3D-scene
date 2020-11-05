@@ -106,7 +106,7 @@ Layers can be used to change the way a sprite appears in relation to other sprit
 
 ![Sprites in layers](images/challenge2-sprite-layers.png)
 
-![Sprites in layers](images/challenge1-change-layers.gif)
+![Sprites in layers](images/challenge2-change-layers.gif)
 
 
 
