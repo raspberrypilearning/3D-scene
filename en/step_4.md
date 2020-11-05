@@ -202,12 +202,12 @@ Go to **Choose a Sprite** and select **Paint**, choose a colour and draw a recta
 
 In your scenery, you may want to create multiple copies of a shape within a costume so whether the sprite is static or moving your scenery will appear busier. This effect is used by proffessional animators to create weather patterns such as rain or clouds, to create a cluster of objects such as buildings and tree and to create the impression of a crowd of people in a scene.
 
---- no-print --
+--- no-print ---
 
 ![Costume with multiple cloud shapes](images/challenge2-sprite-costume-multiples.gif)
 ![Costume with multiple people](images/challenge2-sprite-costume-multiples.gif)
 
---- /no-print --
+--- /no-print ---
 
 --- collapse ---
 ---
