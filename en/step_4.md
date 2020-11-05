@@ -194,7 +194,11 @@ title: Multiple shapes in a sprite costume
 
 ---
 
-Go to **Choose a Sprite** and select **Cloud**. Go to  the **Select** tool and select all of the cloud shape. You can create multiples of this shape using the **Copy** and **Paste** tools. Move the shapes around using the **Select** tools. Vary the shapes by making them bigger and smaller. This will help to create a greater sense of 3D-dimensions.  
+Go to **Choose a Sprite** and select **Cloud**. Go to the **Select** tool to select the whole of the cloud shape. 
+
+Create multiples of the shape using the **Copy** and **Paste** tools. 
+
+Move the shapes around using the **Select** tools. Vary the size of the shapes. This will also help to create a greater sense of 3D-dimensions.  
 
 --- /collapse ---
 
