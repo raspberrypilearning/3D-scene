@@ -70,7 +70,7 @@ Using this tool you can move the position of the **nodes**, turn or pull the **h
 
 Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic using the maginifing tool where you will see the grids of pixels. On a vector graphic there are no pixels, just control points.
 
-![Bitmap pixels](images/challenge2-bitmap-pixels.png)
+![Bitmap pixels](images/challenge2-bitmap-pixels.png){:width="400px"}
 
 --- collapse ---
 ---
