@@ -124,6 +124,8 @@ Don't forget to title your sprite. Also title each costume.
 
 You can create shapes as objects in a number of sprite costumes. Then a character sprite can move between the shape objects. This may suit your project. 
 
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
+
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
 --- collapse ---
