@@ -8,15 +8,13 @@ For example, the moon can rise above the houses because they are both sprite obj
 
 ![Sprite moon goes behind houses](images/challenge2-moon-rising-houses.gif)
 
-In Scratch, unlike the real world, buildings, for example, can move if they are sprite objects ie not drawn onto the backdrop because sprites canbe programmed. Objects drawnotobackdrops cannot individually be programmed. In the example below the buildings create a sense of movement of the car as if it is driving in the foreground. Notice the buildings are moving, not the car.
+In Scratch, unlike the real world, buildings, for example, can move if they are sprite objects. In the example below the moving buildings create the sense that the car is driving.
 
 ![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
 --- task ---
 
-In the **Paint Editor** there are two graphics settings: **vector** and **bitmap**.
-
-Build your confidence with vector and bitmap graphics when developing sprite costumes by exploring the **How to...** below.
+In this step you are going to work a lot in the **Paint Editor** where there are two graphics settings: **vector** and **bitmap**. Build your confidence with these graphic settings when developing sprite costumes by exploring the **How to...** below.
 
 --- collapse ---
 ---
@@ -29,9 +27,7 @@ The **Costume Editor** automatically opens in the vector graphic setting.
 
 ![Vector](images/challenge2-vector.png){:width="400px"}
 
-
 You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you would prefer to use pen marks to develop your sprite costume:
-
 
 ![Bitmap](images/challenge2-bitmap.png){:width="400px"}
 
@@ -67,9 +63,7 @@ Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap gra
 
 In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects rather than objects as sprites. 
 
-Layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. 
-
-For now, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
+Don't forget that layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. For now, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
 
 --- no-print ---
 
