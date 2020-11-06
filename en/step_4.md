@@ -80,7 +80,7 @@ Now design your own Backdrop or create another sprite to go in your scene.
 --- collapse ---
 ---
 
-title: Design your own **scenery** sprites
+title: Make backdrop sprites for your scenery
 
 ---
 
