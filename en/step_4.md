@@ -53,11 +53,24 @@ Now select the shapes and **Group** them together. You will now be able to adjus
 
 Don't forget to title your sprite.
 
-You can always add shapes as sprites instead of shapes in a sprite costume, if this suits your project.
+--- /collapse ---
+
+You can add add shapes as sprites instead of shapes in a sprite costume.  Then a sprite can move betweenthe shapes. if this suits your project.
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
+--- collapse ---
+---
+
+title: Make two sprite costumes
+
+---
+
+WRITE SRTUFF HERE! Let's make something that's usually static a sprite. Moon comes up behind mountain, Bat flies out of building. **Top tip for taking sections of other sprites to work on?**
+
 --- /collapse ---
+
+--- /task ---
 
 --- /task ---
 
@@ -123,19 +136,6 @@ Make two object for your scenery. Click below to design two sprite costumes.
 ![Background with dinosaur and mountains](images/challenge2-dinosaur-left-right.gif)
 
 --- /no-print ---
-
---- collapse ---
----
-
-title: Make two sprite costumes
-
----
-
-WRITE SRTUFF HERE! Let's make something that's usually static a sprite. Moon comes up behind mountain, Bat flies out of building. **Top tip for taking sections of other sprites to work on?**
-
---- /collapse ---
-
---- /task ---
 
 Layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. The important thing is to correctly order the layers that you want the sprites to sit!
 
