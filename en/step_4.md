@@ -1,23 +1,20 @@
 ## Scenery
 
-You have selected a backdrop. Now it's time to think about what **objects** you want in your **scenery**. In this step you will create your own objects as sprite costumes in **Paint Editor**.
+You have selected a backdrop and a sprite. Now it's time to think about what other **objects** you want in your **scenery**. In this step you will create another sprite but this time it will be an object. During this step you will become more familiar with **Paint Editor**. If you want to change your choice of backdrop and/or sprite that's fine.
 
 --- task ---
 
-In the real world, a backdrop if often static such as internal walls, a street or hills. Added to this are objects such as people, vehicles and furniture which are able to move in front of the backdrop. In Scratch, by developing some of your backdrop as sprites you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
+In the real world, some objects are static such as internal walls, a street or hills. Other objects, such as people, vehicles and furniture, then move through the static objects. By developing some of your backdrop as sprite object you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
 
-For example, the moon can rise above the hill because they are both sprites.
+For example, the moon can rise above the houses because they are both sprite objects.
 
 ![Sprite moon goes behind houses](images/challenge2-moon-rising-houses.gif)
 
-Unlike the real world, buildings for example, can move if they are sprites as long as they are not drawn onto the backdrop. This can create a sense of movement of another sprite, such as a car, driving in the foreground. Notice the buildings are moving, not the car.
+In Scratch, unlike the real world, buildings, for example, can move if they are sprite objects ie not drawn onto the backdrop because sprites canbe programmed. Objects drawnotobackdrops cannot individually be programmed. In the example below the buildings create a sense of movement of the car as if it is driving in the foreground. Notice the buildings are moving, not the car.
 
 ![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
-In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project ideas because it has drawn objects rather than objects as sprites. Below shows an example where the drawn object may be visually in the way of your project:
-+ a Backdrop with a drawn chair
-+ a wheelchair as a sprite
-+ the wheelchair as a sprite with the Backdrop
+In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects rather than objects as sprites. Below shows a Backdrop with a drawn wooden chair on the right-hand side. The wooden chair cannot be programmed. Then a wheelchair is added to the scene as a sprite. The wheelchair can be programmed.
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
 
@@ -36,11 +33,11 @@ To create a sky blue backdrop go to **Backdrops** and select **Paint**.
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-In the **Backdrops tab** and  select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor).
+In the **Backdrops tab**, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor).
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
-Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume - a number of hills.
+Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example is a few hills.
 
 ![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
