@@ -128,8 +128,6 @@ You can also create shapes as objects in a number of sprite costumes. Then a cha
 
 --- task ---
 
---- task ---
-
 You can create sprites which are the same colour or texture as the background so they are invisible but can be layered. Another sprite can then **appear** to come out from behind the invisible sprite.
 
 --- no-print ---
