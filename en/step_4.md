@@ -4,7 +4,7 @@ You have selected a backdrop and a sprite. Now it's time to think about what oth
 
 The wooden chair below cannot be animated because it is drawn on to the backdrop and therefore cannot be programmed. The added **Wheelchair** sprite can be animated because sprites can be programmed.
 
-![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
+![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
 By developing some of your backdrop as a sprite or a series of sprites you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
 
