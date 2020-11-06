@@ -106,13 +106,15 @@ Objects that sit further away in your scene could appear lighter in colour - to 
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
+Use the  **Front** and **Back** tools to move your shape so it sits correctly within your scene.
+
 ![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
 
 Now select the shapes and **Group** them together. You will now be able to adjust or move them as one shape.
 
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-Don't forget to title your sprite.
+Don't forget to title your sprite. Also title each costume.
 
 --- /collapse ---
 
