@@ -2,17 +2,17 @@
 
 You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create other sprites using the **Paint Editor**.
 
-The wooden chair below cannot be animated because it is drawn on to the Backdrop. The added **Wheelchair** sprite can be animated because a sprite can be programmed.
+The wooden chair below cannot be animated because it is drawn on to the backdrop and therefore cannot be programmed. The added **Wheelchair** sprite can be animated because sprites can be programmed.
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
 
 By developing some of your backdrop as a sprite or a series of sprites you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
 
-For example, the moon can rise behind the houses because they are both created as sprites.
+For example, the moon can rise behind the houses because they are both sprites.
 
 ![Sprite moon goes behind houses](images/challenge2-moon-rising-houses.gif)
 
-In Scratch, objects that in the real-world don't move, such as buildings, can move if they are created as sprites. In the example below the moving buildings create the sense that the car is driving.
+In Scratch, objects that in the real-world don't move, such as buildings, can move if they are created as sprites. In the example below the moving **Building** sprites create the sense that the car is driving.
 
 ![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
