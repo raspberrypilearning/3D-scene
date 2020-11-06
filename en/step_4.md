@@ -1,14 +1,18 @@
 ## Scenery
 
-You have selected a backdrop and a sprite. Now it's time to think about what other **objects** you want in your **scenery**. In this step you will create another sprite but this time it will be an object. During this step you will become more familiar with **Paint Editor**. If you want to change your choice of backdrop and/or sprite that's fine.
+You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create other sprites using the **Paint Editor**.
 
-In the real world, some objects are static backdrops such as internal walls, a street or hills. Characters, such as people, vehicles and furniture, then move through the static backdrop objects. By developing some of your backdrop as sprite object you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
+The wooden chair below cannot be animated because it is drawn on to the Backdrop. The added **Wheelchair** sprite can be animated because a sprite can be programmed.
 
-For example, the moon can rise above the houses because they are both sprite objects.
+![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
+
+By developing some of your backdrop as a sprite or a series of sprites you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
+
+For example, the moon can rise behind the houses because they are both created as sprites.
 
 ![Sprite moon goes behind houses](images/challenge2-moon-rising-houses.gif)
 
-In Scratch, unlike the real world, buildings, for example, can move if they are sprite objects. In the example below the moving buildings create the sense that the car is driving.
+In Scratch, objects that in the real-world don't move, such as buildings, can move if they are created as sprites. In the example below the moving buildings create the sense that the car is driving.
 
 ![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
@@ -31,21 +35,15 @@ You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you 
 
 ![Bitmap](images/challenge2-bitmap.png){:width="400px"}
 
-
 Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. Vector has an additional tool, **Reshape**:
-
 
 ![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="150px"}
 
-
 Using this tool you can move the position of the **nodes**, turn or pull the **handles**, and add more nodes to your shape:
-
 
 --- no-print ---
 
-
 ![Vector Reshape tool in action](images/challenge2-vector-reshape-tool.gif)
-
 
 --- /no-print ---
 
@@ -53,7 +51,7 @@ Using this tool you can move the position of the **nodes**, turn or pull the **h
 
 **Bitmap graphics** are made from grids of pixels, they tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the image is enlarged.
 
-Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic using the maginifing tool where you will see the grids of pixels. On a vector graphic there are no pixels, just control points.
+Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic using the **maginifing tool** where you will see the grids of pixels. On a vector graphic there are no pixels, just control points.
 
 ![Bitmap pixels](images/challenge2-bitmap-pixels.png){:width="400px"}
 
@@ -61,9 +59,9 @@ Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap gra
 
 --- /task ---
 
-In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects rather than objects as sprites. 
+In order to program aspects of your Backdrop you will now add sprites. You may need to change or alter your Backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects which you want to animate. 
 
-Don't forget that layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. For now, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
+As you workthrough this step don't forget that layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. For now, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
 
 --- no-print ---
 
@@ -73,18 +71,16 @@ Don't forget that layers can be used to change the way a sprite appears in relat
 
 --- task ---
 
-Below shows a wooden chair drawn on a Backdrop. The wooden chair cannot be programmed. A wheelchair sprite is added to the scene. Because the wheelchair is a sprite it can be programmed.
-
-![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
+Now design your own Backdrop or create another sprite to go in your scene.
 
 --- collapse ---
 ---
 
-title: Design your own Backdrop and object sprite costumes
+title: Design your own Backdrop and sprite costumes
 
 ---
 
-The backdrop is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
+The Backdrop is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
 
 Below is an example of a blue **Backdrop** with hills as sprite costumes. You can use the example to create the Backdrop and objects you require in your scenery.
 
