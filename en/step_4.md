@@ -8,7 +8,7 @@ In the real world, a backdrop if often static such as internal walls, a street o
 
 For example, the moon can rise above the hill because they are both sprites.
 
-![Sprite moon goes behind sprite trees](images/challenge2-moon-rising.gif)
+![Sprite moon goes behind houses](images/challenge2-moon-rising-houses.gif)
 
 Unlike the real world, buildings for example, can move if they are sprites as long as they are not drawn onto the backdrop. This can create a sense of movement of another sprite, such as a car, driving in the foreground. Notice the buildings are moving, not the car.
 
