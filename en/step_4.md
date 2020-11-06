@@ -80,13 +80,13 @@ Now design your own Backdrop or create another sprite to go in your scene.
 --- collapse ---
 ---
 
-title: Design your own Backdrop and sprite costumes
+title: Design your own **scenery** sprites
 
 ---
 
 The Backdrop is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
 
-Below is an example of a blue **Backdrop** with hills as sprite costumes. You can use the example to create the Backdrop and objects you require in your scenery.
+Below is an example of a blue **backdrop** with hills as sprite costumes. You can use the example to create the Backdrop and objects you require in your scenery.
 
 To create a sky blue backdrop go to **Backdrops** and select **Paint**.
 
@@ -106,7 +106,7 @@ Objects that sit further away in your scene could appear lighter in colour - to 
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
-Use the  **Front** and **Back** tools to move your shape so it sits correctly within your scene.
+Use the **Front** and **Back** tools to move your shape so it sits correctly within your scene.
 
 ![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
 
@@ -116,30 +116,17 @@ Now select the shapes and **Group** them together. You will now be able to adjus
 
 Don't forget to title your sprite. Also title each costume.
 
---- /collapse ---
-
---- /task ---
-
---- task ---
-
-You can create shapes as objects in a number of sprite costumes. Then a character sprite can move between the shape objects. This may suit your project. 
+You can also create shapes as objects in a number of sprite costumes. Then a character sprite can move between the shape objects. This may suit your project. 
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
---- collapse ---
----
-
-title: Make two sprite costumes
-
----
-
-WRITE SRTUFF HERE! Let's make something that's usually static a sprite. Moon comes up behind mountain, Bat flies out of building. **Top tip for taking sections of other sprites to work on?**
-
 --- /collapse ---
 
 --- /task ---
+
+--- task ---
 
 --- task ---
 
