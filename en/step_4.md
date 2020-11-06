@@ -1,6 +1,6 @@
 ## Scenery
 
-You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create other sprites using the **Paint Editor**.
+You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create other sprites using the **Paint editor**.
 
 The wooden chair below cannot be animated because it is drawn on to the backdrop and therefore cannot be programmed. The added **Wheelchair** sprite can be animated because sprites can be programmed.
 
@@ -18,16 +18,16 @@ In Scratch, objects that in the real-world don't move, such as buildings, can mo
 
 --- task ---
 
-In this step you are going to work a lot in the **Paint Editor** where there are two graphics settings: **vector** and **bitmap**. Build your confidence with these graphic settings when developing sprite costumes by exploring the **How to...** below.
+In this step you are going to work a lot in the **Paint editor** where there are two graphics settings: **vector** and **bitmap**. Build your confidence with these graphic settings when developing sprite costumes by exploring the **How to...** below.
 
 --- collapse ---
 ---
 
-title: Vector and bitmap graphics in the Costume Editor
+title: Vector and bitmap graphics in the Costume editor
 
 ---
 
-The **Costume Editor** automatically opens in the vector graphic setting.
+The **Costume editor** automatically opens in the vector graphic setting.
 
 ![Vector](images/challenge2-vector.png){:width="400px"}
 
@@ -35,7 +35,7 @@ You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you 
 
 ![Bitmap](images/challenge2-bitmap.png){:width="400px"}
 
-Vector and bitmap graphics have different **Costume Editors** whilst offering similar tools. Vector has an additional tool, **Reshape**:
+Vector and bitmap graphics have different **Costume editors** whilst offering similar tools. Vector has an additional tool, **Reshape**:
 
 ![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="150px"}
 
@@ -51,7 +51,7 @@ Using this tool you can move the position of the **nodes**, turn or pull the **h
 
 **Bitmap graphics** are made from grids of pixels, they tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the image is enlarged.
 
-Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap graphic using the **maginifing tool** where you will see the grids of pixels. On a vector graphic there are no pixels, just control points.
+Using your chosen sprite, go to the **Paint editor** and zoom in on a bitmap graphic using the **maginifing tool** where you will see the grids of pixels. On a vector graphic there are no pixels, just control points.
 
 ![Bitmap pixels](images/challenge2-bitmap-pixels.png){:width="400px"}
 
