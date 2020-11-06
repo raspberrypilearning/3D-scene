@@ -178,7 +178,7 @@ Move the shapes around using the **Select** tools. Vary the size of the shapes. 
 
 --- task ---
 
-A sprite the size of the stage can sit at the front of a 3D scene. Just like looking through the bars of a cage, a window, binoculars or a mask, the action will then appear **through** the sprite.
+A sprite the size of the stage at the front of a 3D scene can look like bars of a cage, a window, binoculars or a mask. The action then appears **through** the sprite.
 
 --- no-print ---
 
