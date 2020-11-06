@@ -61,6 +61,8 @@ Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap gra
 
 In order to program aspects of your Backdrop you will now add sprites. You may need to change or alter your Backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects which you want to animate. 
 
+--- task ---
+
 As you workthrough this step don't forget that layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. For now, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
 
 --- no-print ---
@@ -68,6 +70,8 @@ As you workthrough this step don't forget that layers can be used to change the 
 ![Sprites in layers](images/challenge2-change-layers.gif)
 
 --- /no-print ---
+
+--- /task ---
 
 --- task ---
 
