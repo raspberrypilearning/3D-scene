@@ -2,8 +2,6 @@
 
 You have selected a backdrop and a sprite. Now it's time to think about what other **objects** you want in your **scenery**. In this step you will create another sprite but this time it will be an object. During this step you will become more familiar with **Paint Editor**. If you want to change your choice of backdrop and/or sprite that's fine.
 
---- task ---
-
 In the real world, some objects are static backdrops such as internal walls, a street or hills. Characters, such as people, vehicles and furniture, then move through the static backdrop objects. By developing some of your backdrop as sprite object you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
 
 For example, the moon can rise above the houses because they are both sprite objects.
@@ -67,7 +65,21 @@ Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap gra
 
 --- /task ---
 
-In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects rather than objects as sprites. Below shows a Backdrop with a drawn wooden chair on the right-hand side. The wooden chair cannot be programmed. Then a wheelchair is added to the scene as a sprite. The wheelchair can be programmed.
+In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects rather than objects as sprites. 
+
+Layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. 
+
+For now, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
+
+--- no-print ---
+
+![Sprites in layers](images/challenge2-change-layers.gif)
+
+--- /no-print ---
+
+--- task ---
+
+Below shows a wooden chair drawn on a Backdrop. The wooden chair cannot be programmed. A wheelchair sprite is added to the scene. Because the wheelchair is a sprite it can be programmed.
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
 
@@ -108,7 +120,11 @@ Don't forget to title your sprite.
 
 --- /collapse ---
 
-You can create shapes as objects a number of sprite costumes. Then a character sprite can move between the shapes objects. This may suit your project. 
+--- /task ---
+
+--- task ---
+
+You can create shapes as objects in a number of sprite costumes. Then a character sprite can move between the shape objects. This may suit your project. 
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
@@ -122,30 +138,6 @@ title: Make two sprite costumes
 WRITE SRTUFF HERE! Let's make something that's usually static a sprite. Moon comes up behind mountain, Bat flies out of building. **Top tip for taking sections of other sprites to work on?**
 
 --- /collapse ---
-
---- /task ---
-
---- /task ---
-
---- task ---
-
---- no-print ---
-
-![Background with dinosaur and mountains](images/challenge2-dinosaur-left-right.gif)
-
---- /no-print ---
-
-Layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. The important thing is to correctly order the layers that you want the sprites to sit!
-
---- task ---
-
-For now, organise your sprites into their layer position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
-
---- no-print ---
-
-![Sprites in layers](images/challenge2-change-layers.gif)
-
---- /no-print ---
 
 --- /task ---
 
