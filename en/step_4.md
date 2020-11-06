@@ -178,7 +178,7 @@ Move the shapes around using the **Select** tools. Vary the size of the shapes. 
 
 --- task ---
 
-Sprites as large as the Stage can sit in the 3D scene as the foreground (the very front layer). The scene will then appear **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
+A sprite the size of the Stage can sit at the front of your 3D scene. The action will then appear **through** this sprite just like looking through the bars of a cage, a window, binoculars or a mask.
 
 --- no-print ---
 
@@ -200,7 +200,6 @@ Go to **Choose a Sprite** and select **Paint**, choose a colour and draw a recta
 --- /collapse ---
 
 --- /task ---
-
 
 In addition to coding layers to create a sense of 3-dimensions, in the next step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
