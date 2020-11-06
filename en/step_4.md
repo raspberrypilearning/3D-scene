@@ -184,7 +184,7 @@ Sprites as large as the Stage can sit in the 3D scene as the foreground (the ver
 
 --- no-print ---
 
-![Sprite costume mask](images/challenge2-sprite-costume-mask.gif)
+![Sprite costume cage mask](images/challenge2-sprite-costume-mask-cage.gif)
 
 --- /no-print ---
 
