@@ -4,7 +4,7 @@ You have selected a backdrop and a sprite. Now it's time to think about what oth
 
 --- task ---
 
-In the real world, some objects are static such as internal walls, a street or hills. Other objects, such as people, vehicles and furniture, then move through the static objects. By developing some of your backdrop as sprite object you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
+In the real world, some objects are static backdrops such as internal walls, a street or hills. Characters, such as people, vehicles and furniture, then move through the static backdrop objects. By developing some of your backdrop as sprite object you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
 
 For example, the moon can rise above the houses because they are both sprite objects.
 
@@ -13,66 +13,6 @@ For example, the moon can rise above the houses because they are both sprite obj
 In Scratch, unlike the real world, buildings, for example, can move if they are sprite objects ie not drawn onto the backdrop because sprites canbe programmed. Objects drawnotobackdrops cannot individually be programmed. In the example below the buildings create a sense of movement of the car as if it is driving in the foreground. Notice the buildings are moving, not the car.
 
 ![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
-
-In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects rather than objects as sprites. Below shows a Backdrop with a drawn wooden chair on the right-hand side. The wooden chair cannot be programmed. Then a wheelchair is added to the scene as a sprite. The wheelchair can be programmed.
-
-![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
-
---- collapse ---
----
-
-title: Design your own Backdrop and object sprite costumes
-
----
-
-The backdrop is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
-
-Below is an example of a blue **Backdrop** with hills as sprite costumes. You can use the example to create the Backdrop and objects you require in your scenery.
-
-To create a sky blue backdrop go to **Backdrops** and select **Paint**.
-
-![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
-
-In the **Backdrops tab**, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor).
-
-![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
-
-Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example is a few hills.
-
-![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
-
-Choose a colour and a series of ovals using the **Circle** tool. Draw a number of ovals and a rectangle at the bottom of the **Costume Editor**.
-
-![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
-
-Objects that sit further away in your scene could appear lighter in colour - to achieve this you can lower the sprite costume's colour **Saturation**. The sprite costume will then appear further away. Altering the colour saturation to create a sense of depth is a traditional technique used by landscape painters.
-
-Now select the shapes and **Group** them together. You will now be able to adjust or move them as one shape.
-
-![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
-
-Don't forget to title your sprite.
-
---- /collapse ---
-
-You can add add shapes as sprites instead of shapes in a sprite costume.  Then a sprite can move betweenthe shapes. if this suits your project.
-
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
-
---- collapse ---
----
-
-title: Make two sprite costumes
-
----
-
-WRITE SRTUFF HERE! Let's make something that's usually static a sprite. Moon comes up behind mountain, Bat flies out of building. **Top tip for taking sections of other sprites to work on?**
-
---- /collapse ---
-
---- /task ---
-
---- /task ---
 
 --- task ---
 
@@ -127,7 +67,65 @@ Using your chosen sprite, go to the **Paint Editor** and zoom in on a bitmap gra
 
 --- /task ---
 
-Make two object for your scenery. Click below to design two sprite costumes.
+In order to program aspects of your backdrop you will now add objects as sprites. You may need to change or alter your backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects rather than objects as sprites. Below shows a Backdrop with a drawn wooden chair on the right-hand side. The wooden chair cannot be programmed. Then a wheelchair is added to the scene as a sprite. The wheelchair can be programmed.
+
+![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="600px"}
+
+--- collapse ---
+---
+
+title: Design your own Backdrop and object sprite costumes
+
+---
+
+The backdrop is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
+
+Below is an example of a blue **Backdrop** with hills as sprite costumes. You can use the example to create the Backdrop and objects you require in your scenery.
+
+To create a sky blue backdrop go to **Backdrops** and select **Paint**.
+
+![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
+
+In the **Backdrops tab**, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor).
+
+![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
+
+Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example is a few hills.
+
+![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
+
+Choose a colour and a series of ovals using the **Circle** tool. Draw a number of ovals and a rectangle at the bottom of the **Costume Editor**.
+
+![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
+
+Objects that sit further away in your scene could appear lighter in colour - to achieve this you can lower the sprite costume's colour **Saturation**. The sprite costume will then appear further away. Altering the colour saturation to create a sense of depth is a traditional technique used by landscape painters.
+
+Now select the shapes and **Group** them together. You will now be able to adjust or move them as one shape.
+
+![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
+
+Don't forget to title your sprite.
+
+--- /collapse ---
+
+You can create shapes as objects a number of sprite costumes. Then a character sprite can move between the shapes objects. This may suit your project. 
+
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
+
+--- collapse ---
+---
+
+title: Make two sprite costumes
+
+---
+
+WRITE SRTUFF HERE! Let's make something that's usually static a sprite. Moon comes up behind mountain, Bat flies out of building. **Top tip for taking sections of other sprites to work on?**
+
+--- /collapse ---
+
+--- /task ---
+
+--- /task ---
 
 --- task ---
 
