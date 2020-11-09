@@ -12,7 +12,7 @@ Because both the **Moon** and the **Skyline** are sprites they can be layered an
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
-In Scratch, objects that in the real-world don't move, such as buildings, can move if they are created as sprites. In the example below the moving series of **Tower block** sprites create the sense that the static car is driving.
+Objects that in the real-world don't move, such as buildings, can move in Scratch if they are created as sprites. In the example below a series of **Tower block** sprites create the sense that the static car is driving when in fact it is the towers that are moving.
 
 ![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
