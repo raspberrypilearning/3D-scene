@@ -73,9 +73,9 @@ Throughout this step, organise your sprites into their layer position by draggin
 
 --- /task ---
 
-Now make a background sprite or sprites for your scene using your chosen backdrop or by making a plain backdrop.
+Now make a background sprite object for your scene using your chosen backdrop or by creating a plain backdrop.
 
-If your chosen backdrop has drawn objects which you now want to animate you may need to change the backdrop to realise your project.
+If your chosen backdrop has drawn objects on it which you now want to animate you may need to change the backdrop to realise your project.
 
 --- task ---
 
@@ -83,45 +83,45 @@ If your chosen backdrop has drawn objects which you now want to animate you may 
 --- collapse ---
 ---
 
-title: Make background sprites for your scene
+title: Create a background from backdrop and sprite objects
 
 ---
 
 The background is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
 
-Below is an example of a blue background with **Hill** sprites. You can use the example below to create any background and objects you require in your scene.
+Below is an example of a **Sky** background with **Hill** sprites. You can use the example below to create any background and objects you require in your scene.
 
-To create a sky blue Backdrop go to **Backdrops** and select **Paint**.
+To create a sky blue backdrop go to **Backdrops** in the **Stage pane** and select **Paint**.
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-In the **Backdrops tab**, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor**). Don't forget to title your backdrop **Sky**.
+In the **Backdrops tab**, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the **Paint Editor**). Don't forget to title your backdrop.
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
-Everything else for you scene will be created as a sprite which will sit on the **Sky** backdrop.
+Now you will create background sprites for your scene which will sit on the **Sky** backdrop.
 
-Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example is a few hills.
+Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
 
 ![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
-Choose a colour and a series of ovals using the **Circle** tool. Draw a number of ovals and a rectangle at the bottom of the **Costume Editor**.
+Choose a colour and draw a series of ovals using the **Circle** tool. Then draw a rectangle at the bottom of the bottomof the same colour.
 
-Objects that sit further away in your scene appear lighter in colour - to achieve this you can lower the sprite costume's colour **Saturation**. The sprite costume will then appear further away. Altering the colour saturation to create a sense of depth is a traditional technique used by landscape painters.
+Inthereal-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away. Altering colour saturation to create a sense of depth is a traditional technique used by landscape painters.
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
-Use the **Front** and **Back** tools to move your shape so it sits correctly within your scene.
+Use the **Front** and **Back** tools in  the**Paint editor** to move your shapes foreward or backwards so they sit correctly within your background.
 
 ![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
 
-Now select the shapes and **Group** them together. You will now be able to adjust or move them as one shape.
+You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-Don't forget to title your sprite. It may help to title each costume.
+Don't forget to title your sprite. It also helps to title each costume.
 
-You can also create shapes as objects in a number of sprite costumes. Then a character sprite can move between the shape objects. This may suit your project. 
+You can also create the same shapes as sprites rather than as a sprite costume. Then a character sprite can move between the shapes. This may suit your project. 
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
 
