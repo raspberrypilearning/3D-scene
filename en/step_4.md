@@ -189,7 +189,7 @@ Following the below, you can any type of multiple shapes:
 
 --- task ---
 
-A sprite at the front of your 3D scene and the size of the stage area can create the impression that your 3D scene is visible **through** it such as the bars of a cage, a window pane, surveying a scene through binoculars or wearing a mask.
+A sprite at the front of your 3D scene and the size of the stage area can create the impression that your 3D scene is visible **through** it like the bars of a cage, a window pane, surveying a scene through binoculars or wearing a mask.
 
 --- no-print ---
 
