@@ -3,7 +3,7 @@
 In this step you will add a speed variable and use it to control the timing of your scene. The user will be able to drag a slider to make your project go faster or slower. 
 
 --- task ---
-Make a new variable, for all sprites, and call it `speed`.
+Make a new variable, for all sprites, and call it `speed`{:class="block3variables"}.
 
 --- collapse ---
 
@@ -15,7 +15,8 @@ title: Add a speed variable
 
 Click on the 'Code' tab for any sprite or the Stage. 
 
-Click on `Variables`{:class="block3data"} and then 'Make a Variable'.
+Click on `Variables`{:class="block3variables"} and then 'Make a Variable'.
+Click on `Variables`{:class="block3variables"} and then 'Make a Variable'.
 
 ![Make a variable](images/make-a-variable.png)
 
@@ -23,7 +24,7 @@ Name the variable 'speed'. Keep the 'For all sprites' box checked, this means yo
 
 ![Speed variable settings](images/speed-variable.png)
 
-Click 'OK' to make the new variable. You will have new Variable blocks available including a `speed`{:class="block3data"} block that you can use as an input to other blocks. 
+Click 'OK' to make the new variable. You will have new Variable blocks available including a `speed`{:class="block3variables"} block that you can use as an input to other blocks. 
 
 --- /collapse ---
 
@@ -91,7 +92,7 @@ title: Control movement speed with a variable
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447139076/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use the `speed`{:class="block3data"} variable as the input to a `move () steps`{:class="block3data"} block:
+Use the `speed`{:class="block3variables"} variable as the input to a `move () steps`{:class="block3motion"} block:
 
 ```blocks3
 when flag clicked
@@ -118,15 +119,15 @@ title: Control turn speed with a variable
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447146281/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use the `speed`{:class="block3data"} variable as the input to a `turn-right () degrees`{:class="block3data"} block:
+Use the `speed`{:class="block3variables"} variable as the input to a `turn right () degrees`{:class="block3variables"} block:
 
 ```blocks3
 when flag clicked
 forever
-turn-right (speed) steps
+turn right (speed) steps
 ```
 
-Set the minimum and maximum values for the range of the slider to suit your project. If you include negative values in your range then you can make your sprite turn in the opposite direction. `turn-right (-10) degrees` will actually turn left (anti-clockwise) by 10 degrees. 
+Set the minimum and maximum values for the range of the slider to suit your project. If you include negative values in your range then you can make your sprite turn in the opposite direction. `turn right (-10) degrees` will actually turn left (anti-clockwise) by 10 degrees. 
 
 --- /collapse ---
 
@@ -144,7 +145,8 @@ title: Control the speed of multiple sprites with a variable
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444733969/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use a variable called `speed`{:class="block3data"} to control how many steps a sprite moves each time a `forever`{:class="block3control"} loop runs. Setting the speed to a higher number will make the sprite move faster. 
+Use a variable called `speed`{:class="block3variables"} to control how many steps a sprite moves each time a `forever`{:class="block3control"} loop runs. Setting the speed to a higher number will make the sprite move faster. 
+Use a variable called `speed`{:class="block3variables"} to control how many steps a sprite moves each time a `forever`{:class="block3control"} loop runs. Setting the speed to a higher number will make the sprite move faster. 
 
 Set the range of the slider to the minimum and maximum speeds that you want to allow (for example 0 and 10).
 
@@ -155,7 +157,7 @@ move (speed) steps
 if on edge, bounce
 ```
 
-If you want **a different sprite** to go twice as fast then you can multiply `speed`{:class="block3data"} by two to make it move twice as many steps:
+If you want **a different sprite** to go twice as fast then you can multiply `speed`{:class="block3variables"} by two to make it move twice as many steps:
 
 ```blocks3
 when flag clicked
