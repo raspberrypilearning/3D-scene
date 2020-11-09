@@ -84,7 +84,7 @@ Now make a background sprite object for your scene using your chosen backdrop or
 --- collapse ---
 ---
 
-title: Create a background from backdrop and sprites
+title: Create a background from a backdrop and sprites
 
 ---
 
