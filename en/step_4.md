@@ -2,23 +2,25 @@
 
 You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create other sprites using the **Paint editor**.
 
-The wooden chair below cannot be animated because it is drawn on to the backdrop and therefore cannot be programmed. The added **Wheelchair** sprite can be animated because sprites can be programmed.
+Objects that are drawn on a backdrop are not sprites, they cannot be layered or programmed and cannot be animated. In the below example, the wooden chair drawn on the backdrop cannot be animated but the **Wheelchair** sprite can.  
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
-By developing some of your backdrop as a sprite or a series of sprites you can create some interesting, 3-dimensions effects which will make your scenery appear more realistic.
+In this step we will refer to backdrops in the **backdrop gallery** whereas a **background**, also the very back of your scene, is something which you will create or adapt instead. By developing some of your background as a sprite or a series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
-For example, the moon can rise behind the houses because they are both sprites.
+In the below example the **Moon** sprite can rise from behind the **Skyline** sprite. Because they are both sprites they can be layered and programmed.
 
 ![Sprite moon goes behind houses](images/challenge2-moon-rising-houses.gif)
 
-In Scratch, objects that in the real-world don't move, such as buildings, can move if they are created as sprites. In the example below the moving **Building** sprites create the sense that the car is driving.
+In Scratch, objects that in the real-world don't move, such as buildings, can move if they are created as sprites. In the example below the moving series of **Tower block** sprites create the sense that the static car is driving.
 
 ![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
+In this step you are going to work with the **Paint editor** using two type of graphics: **vector** and **bitmap**. 
+
 --- task ---
 
-In this step you are going to work a lot in the **Paint editor** where there are two graphics settings: **vector** and **bitmap**. Build your confidence with these graphic settings when developing sprite costumes by exploring the **How to...** below.
+Build your confidence with these vector and bitmap graphics when developing sprite costumes by exploring the **How to...** below.
 
 --- collapse ---
 ---
@@ -31,15 +33,15 @@ The **Costume editor** automatically opens in the vector graphic setting.
 
 ![Vector](images/challenge2-vector.png){:width="400px"}
 
-You can go to bitmaps by selecting the blue button **Convert to Bitmap** if you would prefer to use pen marks to develop your sprite costume:
+If you would prefer to use pen marks to develop your sprite costume you can go to bitmaps by selecting the blue button **Convert to Bitmap**.
 
 ![Bitmap](images/challenge2-bitmap.png){:width="400px"}
 
-Vector and bitmap graphics have different **Costume editors** whilst offering similar tools. Vector has an additional tool, **Reshape**:
+Vector and bitmap graphics have different **Costume editors**. Both offer similar tools. Vector offers an additional tool - **Reshape**:
 
 ![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="150px"}
 
-Using this tool you can move the position of the **nodes**, turn or pull the **handles**, and add more nodes to your shape:
+Using the **Reshape** tool you can move the position of the **nodes**, turn or pull the **handles**, and add more nodes to your shape:
 
 --- no-print ---
 
@@ -59,11 +61,11 @@ Using your chosen sprite, go to the **Paint editor** and zoom in on a bitmap gra
 
 --- /task ---
 
-In order to program aspects of your Backdrop you will now add sprites. You may need to change or alter your Backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects which you want to animate. 
+In order to program aspects of your background you will now add sprites. You may need to change or alter your Backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects which you now want to animate. Now design your own background or create another sprite to go with your Backdrop.
 
 --- task ---
 
-As you workthrough this step don't forget that layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. For now, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
+As you work through this step don't forget that layers can be used to change the way a sprite appears in relation to other sprites. Layering also helps sprites appear to sit three-dimensional within a scene. All sprites can be layered. Throughout this step, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
 
 --- no-print ---
 
@@ -75,26 +77,27 @@ As you workthrough this step don't forget that layers can be used to change the 
 
 --- task ---
 
-Now design your own Backdrop or create another sprite to go in your scene.
 
 --- collapse ---
 ---
 
-title: Make backdrop sprites for your scenery
+title: Make background sprites for your scene
 
 ---
 
-The Backdrop is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
+The background is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
 
-Below is an example of a blue **backdrop** with hills as sprite costumes. You can use the example to create the Backdrop and objects you require in your scenery.
+Below is an example of a blue background with **Hill** sprites. You can use the example below to create any background and objects you require in your scene.
 
-To create a sky blue backdrop go to **Backdrops** and select **Paint**.
+To create a sky blue Backdrop go to **Backdrops** and select **Paint**.
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-In the **Backdrops tab**, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor).
+In the **Backdrops tab**, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area shown as an outline in the **Paint Editor**). Don't forget to title your backdrop **Sky**.
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
+
+Everything else for you scene will be created as a sprite which will sit on the **Sky** backdrop.
 
 Now go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example is a few hills.
 
@@ -102,7 +105,7 @@ Now go to **Choose a Sprite** and select **Paint** to create a new sprite costum
 
 Choose a colour and a series of ovals using the **Circle** tool. Draw a number of ovals and a rectangle at the bottom of the **Costume Editor**.
 
-Objects that sit further away in your scene could appear lighter in colour - to achieve this you can lower the sprite costume's colour **Saturation**. The sprite costume will then appear further away. Altering the colour saturation to create a sense of depth is a traditional technique used by landscape painters.
+Objects that sit further away in your scene appear lighter in colour - to achieve this you can lower the sprite costume's colour **Saturation**. The sprite costume will then appear further away. Altering the colour saturation to create a sense of depth is a traditional technique used by landscape painters.
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
@@ -114,7 +117,7 @@ Now select the shapes and **Group** them together. You will now be able to adjus
 
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-Don't forget to title your sprite. Also title each costume.
+Don't forget to title your sprite. It may help to title each costume.
 
 You can also create shapes as objects in a number of sprite costumes. Then a character sprite can move between the shape objects. This may suit your project. 
 
@@ -128,7 +131,7 @@ You can also create shapes as objects in a number of sprite costumes. Then a cha
 
 --- task ---
 
-You can create sprites which are the same colour as their surrounding which will make them invisible. Another sprite can then **appear** to come out from behind the invisible sprite.
+Sprites which are the same colour as their surrounding are invisible. Another sprite can **appear** to come out from behind the invisible sprite. This effect is useful for characters which appear out of a hole or through a doorway.
 
 --- no-print ---
 
@@ -143,7 +146,11 @@ title: Make an invisible sprite
 
 ---
 
-WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like there’s a hole in the backdrop
+To make an invisible sprite:
++ make a shape (without an outline) in **Vector** graphics ensuring that the shape is suitable to cover the area of background
++ copy the background colour using the **Eye dropper** tool
++ **Fill** the invisible shape
++ You may need to move, resize or adapt the shape of the **Invisible** sprite until covers the area correctly
 
 --- /collapse ---
 
@@ -151,7 +158,7 @@ WRITE SRTUFF HERE! Mouse from hole. Copy part of backdrop a sprite to look like 
 
 --- task ---
 
-In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier. This effect is used by professional animators to create weather patterns (rain and clouds), to create a cluster of objects such as buildings or a wood as well as create the impression of a crowd of people in a scene.
+In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier. This effect is used by professional animators to create  the impression of: weather patterns such as rain or clouds; a cluster of objects such as buildings or a wood; as well as a crowd of people in a scene.
 
 --- no-print ---
 
@@ -166,11 +173,11 @@ title: Multiple shapes in a sprite costume
 
 ---
 
-Go to **Choose a Sprite** and select **Cloud**. Go to the **Select** tool to select the whole of the cloud shape. 
+Go to **Choose a Sprite** and select **Cloud**. In the **Costumes editor**, using the **Select** tool highlight the whole of the **Cloud** costume. 
 
 Create multiples of the shape using the **Copy** and **Paste** tools. 
 
-Move the shapes around using the **Select** tools. Vary the size of the shapes. This will also help to create a greater sense of 3D-dimensions.  
+Move the shapes around using the **Select** tool. Varying the size of the shapes will also help to create a greater sense of 3D-dimensions.  
 
 --- /collapse ---
 
@@ -178,7 +185,7 @@ Move the shapes around using the **Select** tools. Vary the size of the shapes. 
 
 --- task ---
 
-A sprite the size of the stage at the front of a 3D scene can look like bars of a cage, a window, binoculars or a mask. The action then appears **through** the sprite.
+A sprite the size of the stage area and as the front layer in your 3D scene will create the impression that your 3D scene is visible **through** it. For instance like being behind the bars of a cage, looking through a window, surveying a scene through binoculars or wearing a mask.
 
 --- no-print ---
 
@@ -189,11 +196,11 @@ A sprite the size of the stage at the front of a 3D scene can look like bars of 
 --- collapse ---
 ---
 
-title: Make a sprite mask
+title: Make a masking sprite
 
 ---
 
-Go to **Choose a Sprite** and select **Paint**, choose a colour and draw a rectangle. You can repeat this shape by using the **Copy** and **Paste** tools. Move the shapes around using the **Select** tool.
+Go to **Choose a Sprite** and select **Paint**, choose a colour and draw a rectangle. You can repeat this shape by using the **Copy** and **Paste** tools. Move the shapes around using the **Select** tool. As you place your shapes make sure they touch the edge of the stage to fit in with your project idea.
 
 ![Sprite costume mask copy](images/challenge2-sprite-costume-mask-copy.png)
 
