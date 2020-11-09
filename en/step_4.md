@@ -25,7 +25,7 @@ Build your confidence with these vector and bitmap graphics when developing spri
 --- collapse ---
 ---
 
-title: Vector and bitmap graphics in the Costume editor
+title: Vector and bitmap graphics
 
 ---
 
