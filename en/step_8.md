@@ -69,6 +69,23 @@ set [ghost v] effect to (ghost)
 --- collapse ---
 
 ---
+title: Change speed when using glide blocks 
+----
+
+**Penguin slide**: [See inside](https://scratch.mit.edu/projects/445030302/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/445030302/?autostart=false" frameborder="0"></iframe>
+</div>
+
+
+Use a variable called `time`{:class="block3data"} to control how many seconds it takes for a sprite to glide `forever`{:class="block3control"} loop runs. Setting the speed to a smaller number will make the sprite move faster. 
+
+--- /collapse ---
+
+--- collapse ---
+
+---
 
 title: Make things further away move more slowly to create a 3D effect
 
