@@ -73,12 +73,11 @@ Throughout this step, organise your sprites into their layer position by draggin
 
 --- /task ---
 
-Now make a background sprite object for your scene using your chosen backdrop or by creating a plain backdrop.
-
 If your chosen backdrop has drawn objects on it which you now want to animate you may need to change the backdrop to realise your project.
 
 --- task ---
 
+Now make a background sprite object for your scene using your chosen backdrop or by creating a plain backdrop.
 
 --- collapse ---
 ---
