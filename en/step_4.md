@@ -160,7 +160,7 @@ To make an invisible sprite:
 
 --- task ---
 
-In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier. This effect is used by professional animators to create  the impression of: weather patterns such as rain or clouds; a cluster of objects such as buildings or a wood; as well as a crowd of people in a scene.
+In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier or more crowded.
 
 --- no-print ---
 
@@ -174,6 +174,8 @@ In your 3D scene, you may want to create multiple copies of a shape within a cos
 title: Multiple shapes in a sprite costume
 
 ---
+
+The effect of multiplying shapes is used by professional animators to create the impression of: weather patterns such as rain or clouds; a cluster of objects such as buildings or a wood; as well as a crowd of people in a scene.
 
 Go to **Choose a Sprite** and select **Cloud**. In the **Costumes editor**, using the **Select** tool highlight the whole of the **Cloud** costume. 
 
