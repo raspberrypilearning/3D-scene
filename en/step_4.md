@@ -191,7 +191,7 @@ Following the below, you can multiply any type of shape:
 
 --- task ---
 
-A sprite at the front of your 3D scene and the size of the stage area can create the impression that your 3D scene is visible **through** it like the bars of a cage, a window pane, surveying a scene through binoculars or wearing a mask.
+You can view your 3D scene **through** a **Masking** sprite. If it sits as the front layer and is the size of the stage it will look like view through the bars of a cage or a series of window panes, surveying a scene through binoculars or wearing a mask. 
 
 --- no-print ---
 
@@ -218,8 +218,6 @@ Following the below, you can any type of masking sprite:
 --- /collapse ---
 
 --- /task ---
-
-In addition to coding layers to create a sense of 3-dimensions, in the next step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
 --- save ---
 
