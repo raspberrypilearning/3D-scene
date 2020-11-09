@@ -145,7 +145,7 @@ Sprites which are the same colour as their surrounding are invisible. Another sp
 --- collapse ---
 ---
 
-title: Make an invisible sprite
+title: Create an invisible sprite
 
 ---
 
