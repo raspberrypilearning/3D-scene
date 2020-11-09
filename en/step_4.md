@@ -73,11 +73,9 @@ Throughout this step, organise your sprites into their layer position by draggin
 
 --- /task ---
 
-You may need to change your chosen backdrop if it has drawn objects on it which you now want to animate to realise your project idea.
-
 --- task ---
 
-Now make a background sprite for your scene using your chosen backdrop or by creating your own backdrop.
+Now make a background sprite for your scene using your chosen backdrop, change your chosen backdrop or by creating your own backdrop.
 
 ![Sprite hills as background](images/challenge2-sprite-hills.png){:width="400px"}
 
