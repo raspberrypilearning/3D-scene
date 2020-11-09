@@ -20,7 +20,7 @@ In this step you are going to work with the **Paint editor** using two type of g
 
 --- task ---
 
-Build your confidence with these vector and bitmap graphics when developing sprite costumes by exploring the **How to...** below.
+Build your confidence when developing sprite costumes with vector and bitmap graphics by exploring the **How to...** below.
 
 --- collapse ---
 ---
