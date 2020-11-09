@@ -178,11 +178,12 @@ title: Multiple shapes in a sprite costume
 
 The effect of multiplying shapes is used by professional animators to create the impression of: weather patterns such as rain or clouds; a cluster of objects such as buildings or a wood; as well as a crowd of people in a scene.
 
-Go to **Choose a Sprite** and select **Cloud**. In the **Costumes editor**, using the **Select** tool highlight the whole of the **Cloud** costume. 
-
-Create multiples of the shape using the **Copy** and **Paste** tools. 
-
-Move the shapes around using the **Select** tool. Varying the size of the shapes will also help to create a greater sense of 3D-dimensions.  
+Following the below, you can any type of multiple shapes:
++ Go to **Choose a Sprite** and select, in this example, the **Cloud** sprite
++ In the **Costumes editor**, using the **Select** tool highlight the whole of the shape
++ Create multiples of the shape using the **Copy** and **Paste** tools
++ Move the shape within the stage area using the **Select** tool
++ Varying the size of the shapes will also help to create a greater sense of 3D-dimensions
 
 --- /collapse ---
 
@@ -190,7 +191,7 @@ Move the shapes around using the **Select** tool. Varying the size of the shapes
 
 --- task ---
 
-A sprite at the front of your 3D scene and the size of the stage area can create the impression that your 3D scene is visible **through** it such as behind the bars of a cage, looking through a window, surveying a scene through binoculars or wearing a mask.
+A sprite at the front of your 3D scene and the size of the stage area can create the impression that your 3D scene is visible **through** it such as the bars of a cage, a window pane, surveying a scene through binoculars or wearing a mask.
 
 --- no-print ---
 
@@ -204,7 +205,8 @@ A sprite at the front of your 3D scene and the size of the stage area can create
 title: Create a masking sprite
 
 ---
-To create the bars of a cage:
+
+Following the below, you can any type of masking sprite:
 + Go to **Choose a Sprite** and select **Paint**
 + Choose a colour with no **Outline** and draw a vertical rectangle. 
 + Repeat this shape by using the **Copy** and **Paste** tools. 
