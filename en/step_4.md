@@ -132,7 +132,7 @@ You can also create the same shapes as sprites rather than as a sprite costume. 
 
 --- task ---
 
-Sprites which are the same colour as their surrounding are invisible. Another sprite can **appear** to come out from behind the invisible sprite. This effect is useful for sprites which seem to appear through a hole, crack or doorway.
+Sprites which are the same colour as the backdrop will be invisible. Another sprite can **appear** to come out from behind the invisible sprite. This effect is useful for sprites which you want to appear through a hole, crack or doorway.
 
 --- no-print ---
 
