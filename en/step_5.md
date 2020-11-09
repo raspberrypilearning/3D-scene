@@ -18,7 +18,6 @@ This project uses front and back `layers`{:class="block3looks"} to make the cats
 
 --- /no-print ---
 
---- task ---
 Think of the sprites in your project and decide how you can have them move in front of (or behind!) different parts of your project, like the scenery or other sprites. 
 
 Consider how many layers you will have, and add blocks that will allow your sprites to change between the layers as above.
@@ -33,8 +32,6 @@ title: Treat layers like rows!
 Once you know which sprites you would like to go on top, you can do this by having a sprite `go to front`{:class="block3looks"} or `go to back`{:class="block3looks"} layer, and stepping into the right position through the layers.
 
 --- /collapse ---
-
---- /task ---
 
 --- task ---
 To select your first sprite, click or tap on it under the Stage.
@@ -95,7 +92,7 @@ Click the green flag on the project below and notice how the cat goes behind one
 </div>
 --- /no-print ---
 
---- task --- 
+ 
 When we look at things which are further away, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
@@ -105,6 +102,42 @@ When we look at things which are further away, they look a lot smaller than they
 </div>
 
 
+--- task ---
+Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="block3looks"} block in your code to make your sprite shrink when it moves to the `back layer`{:class="block3looks"} and grow when it moves to the `front layer`{:class="block3looks"}! 
+
+--- collapse ---
+---
+title: I need a hint!
+---
+Make your code change the size of your sprite when the layer changes by adding the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="block3looks"} like this:
+``` blocks3
+when up arrow pressed
+go to [front v] layer
+set size to (120)%
+```
+
+
+``` blocks3
+when down arrow pressed
+go to [back v] layer
+set size to (100)%
+```
+
+You can also have the size of your sprite change every time it changes layer:
+
+``` blocks3
+when up arrow pressed
+go [forward v] (1) layers
+change size by (20)
+```
+
+``` blocks3
+when down arrow pressed
+go [back v] (1) layers
+change size by (-20)
+```
+
+--- /collapse ---
 --- /task ---
 
 
