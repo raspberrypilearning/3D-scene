@@ -1,6 +1,6 @@
 ## Scenery
 
-You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create other sprites using the **Paint editor**.
+You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create a background with sprites using the **Paint editor**.
 
 Objects that are drawn on a backdrop are not sprites, they cannot be layered or programmed and cannot be animated. In the below example, the wooden chair drawn on the backdrop cannot be animated but the **Wheelchair** sprite can.  
 
