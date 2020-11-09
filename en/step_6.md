@@ -1,6 +1,6 @@
 ## Adjustable speed
 
-In this step you will add a speed variable and use it to control the timing of your scene. You will add a slider for the speed variable to the stage and choose the range of values that you want to allow.
+In this step you will add a speed variable and use it to control the timing of your scene. The user will be able to drag a slider to make your project go faster or slower. 
 
 --- task ---
 Make a new variable, for all sprites, and call it `speed`.
@@ -48,7 +48,9 @@ Select 'slider' from the menu.
 
 ![Speed slider](images/variable-slider.png)
 
-Right-click or tap and hold on the `speed` variable on the Stage again and choose 
+**Tip:** You can double click or tap on a variable on the Stage to switch between normal, large and slider. 
+
+Right-click or tap and hold on the `speed` variable on the Stage again and choose 'change slider range'. 
 
 ![Speed slider](images/slider-range.png)
 Set the range to a minimum of 1 and a maximum of 10:
@@ -184,6 +186,8 @@ Things to try:
 + Include `0` in the range for your speed slider. What happens?
 + Include negative numbers in the range for your slider. What happens when you use move or turn blocks?
 + Try having one sprite move faster than another one and both changing with the speed.
+
+**Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
 
 --- /task ---
 
