@@ -61,11 +61,9 @@ Using your chosen sprite, go to the **Paint editor** and zoom in on a bitmap gra
 
 --- /task ---
 
-In order to program aspects of your background you will now add sprites. You may need to change or alter your Backdrop if the one you have chosen won't allow you to realise your project idea because it has drawn objects which you now want to animate. Now design your own background or create another sprite to go with your Backdrop.
-
 --- task ---
 
-Organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
+Throughout this step, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
 
 --- no-print ---
 
@@ -74,6 +72,10 @@ Organise your sprites into their layer position by dragging them in front of one
 --- /no-print ---
 
 --- /task ---
+
+Now make a background sprite or sprites for your scene using your chosen backdrop or by making a plain backdrop.
+
+If your chosen backdrop has drawn objects which you now want to animate you may need to change the backdrop to realise your project.
 
 --- task ---
 
