@@ -43,7 +43,7 @@ title: Use a slider to change a variable
 
 ---
 
-Right-click or tap and hold on the `speed` variable on the Stage. 
+Right-click or tap and hold on the `speed`{:class="block3variables"} variable on the Stage. 
 
 Select 'slider' from the menu. 
 
@@ -51,7 +51,7 @@ Select 'slider' from the menu.
 
 **Tip:** You can double click or tap on a variable on the Stage to switch between normal, large and slider. 
 
-Right-click or tap and hold on the `speed` variable on the Stage again and choose 'change slider range'. 
+Right-click or tap and hold on the `speed`{:class="block3variables"} variable on the Stage again and choose 'change slider range'. 
 
 ![Speed slider](images/slider-range.png)
 Set the range to a minimum of 1 and a maximum of 10:
