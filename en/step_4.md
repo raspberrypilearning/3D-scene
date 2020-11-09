@@ -161,7 +161,7 @@ To make an invisible sprite:
 
 In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier or more crowded.
 
-![Multiple cloud shapes](images/challenge2-sprite-costume-multiples.png)
+![Multiple cloud shapes](images/challenge2-sprite-costume-multiples.png){:width="400px"}
 
 --- collapse ---
 ---
