@@ -83,7 +83,7 @@ If your chosen backdrop has drawn objects on it which you now want to animate yo
 --- collapse ---
 ---
 
-title: Create a background from backdrop and sprite objects
+title: Create a background from backdrop and sprites
 
 ---
 
@@ -133,7 +133,7 @@ You can also create the same shapes as sprites rather than as a sprite costume. 
 
 --- task ---
 
-Sprites which are the same colour as their surrounding are invisible. Another sprite can **appear** to come out from behind the invisible sprite. This effect is useful for characters which appear out of a hole or through a doorway.
+Sprites which are the same colour as their surrounding are invisible. Another sprite can **appear** to come out from behind the invisible sprite. This effect is useful for sprites which seem to appear through a hole, crack or doorway.
 
 --- no-print ---
 
