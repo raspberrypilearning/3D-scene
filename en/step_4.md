@@ -6,9 +6,9 @@ Objects that are drawn on a backdrop are not sprites, they cannot be layered or 
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
-In this step we will refer to backdrops in the **backdrop gallery** whereas a **background**, also the very back of your scene, is something which you will create or adapt instead. By developing some of your background as a sprite or a series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+In the below example the **Moon** sprite can rise from behind the **Skyline** sprite. There is a **Sky** (blue) backdrop. The **Sky** backdrop and the **Skyline** sprite are referred to as the **background** as they are something which are created or adapted. By developing some of your background as a sprite or a series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
-In the below example the **Moon** sprite can rise from behind the **Skyline** sprite. Because they are both sprites they can be layered and programmed.
+Because both the **Moon** and the **Skyline** are sprites they can be layered and programmed.
 
 ![Sprite moon goes behind houses](images/challenge2-moon-rising-houses.gif)
 
