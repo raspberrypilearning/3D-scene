@@ -12,7 +12,7 @@ By developing some of your background as a sprite or a series of sprites you can
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
-Objects that in the real-world don't move, such as buildings, can move in Scratch if they are created as sprites. In the example below a series of **Tower block** sprites create the sense that the static car is driving when in fact it is the towers that are moving.
+Objects that in the real-world don't move, such as buildings, can move in Scratch if they are created as sprites. In the example below a series of **Tower block** sprites are moving but they create the sense that the static car is driving.
 
 ![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
 
