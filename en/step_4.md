@@ -65,7 +65,7 @@ In order to program aspects of your background you will now add sprites. You may
 
 --- task ---
 
-As you work through this step don't forget that layers can be used to change the way a sprite appears in relation to other sprites. Throughout this step, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
+Organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
 
 --- no-print ---
 
