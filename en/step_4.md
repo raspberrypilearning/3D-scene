@@ -190,7 +190,7 @@ Move the shapes around using the **Select** tool. Varying the size of the shapes
 
 --- task ---
 
-A sprite the size of the stage area and as the front layer in your 3D scene will create the impression that your 3D scene is visible **through** it. For instance like being behind the bars of a cage, looking through a window, surveying a scene through binoculars or wearing a mask.
+A sprite at the front of your 3D scene and the size of the stage area can create the impression that your 3D scene is visible **through** it such as behind the bars of a cage, looking through a window, surveying a scene through binoculars or wearing a mask.
 
 --- no-print ---
 
@@ -201,11 +201,15 @@ A sprite the size of the stage area and as the front layer in your 3D scene will
 --- collapse ---
 ---
 
-title: Make a masking sprite
+title: Create a masking sprite
 
 ---
-
-Go to **Choose a Sprite** and select **Paint**, choose a colour and draw a rectangle. You can repeat this shape by using the **Copy** and **Paste** tools. Move the shapes around using the **Select** tool. As you place your shapes make sure they touch the edge of the stage to fit in with your project idea.
+To create the bars of a cage:
++ Go to **Choose a Sprite** and select **Paint**
++ Choose a colour with no **Outline** and draw a vertical rectangle. 
++ Repeat this shape by using the **Copy** and **Paste** tools. 
++ Move the shapes around using the **Select** tool 
++ As you place your shapes make sure they are touching the edge of the stage to fit in with your project idea
 
 ![Sprite costume mask copy](images/challenge2-sprite-costume-mask-copy.png)
 
