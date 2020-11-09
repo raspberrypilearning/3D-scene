@@ -10,7 +10,7 @@ In the below example the **Moon** sprite can rise from behind the **Skyline** sp
 
 Because both the **Moon** and the **Skyline** are sprites they can be layered and programmed.
 
-![Sprite moon goes behind houses](images/challenge2-moon-rising.gif)
+![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
 In Scratch, objects that in the real-world don't move, such as buildings, can move if they are created as sprites. In the example below the moving series of **Tower block** sprites create the sense that the static car is driving.
 
