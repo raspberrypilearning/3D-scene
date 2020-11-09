@@ -79,7 +79,7 @@ If your chosen backdrop has drawn objects on it which you now want to animate yo
 
 Now make a background sprite object for your scene using your chosen backdrop or by creating a plain backdrop.
 
-![Sprite hills as background](images/challenge2-sprite-hills.png)
+![Sprite hills as background](images/challenge2-sprite-hills.png){:width="400px"}
 
 --- collapse ---
 ---
