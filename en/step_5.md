@@ -112,28 +112,30 @@ Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="
 
 Make your code change the size of your sprite when the layer changes by adding the `set size to ()%`{:class="block3looks"} like this:
 ``` blocks3
-when [up arrow v] key pressed
++when green flag clicked
 go to [front v] layer
-set size to (120)%
++set size to (120)%
 ```
 
 
 ``` blocks3
-when [down arrow v] key pressed
+when green flag clicked
 go to [back v] layer
-set size to (100)%
++set size to (80)%
 ```
 
 You can also have the size of your sprite change every time it changes layer by using the `change size by ()`{:class="block3looks"} blocks:
 
 ``` blocks3
-when [up arrow v] key pressed
+when green flag clicked
+go to [back v] layer
 go [forward v] (1) layers
-change size by (20)
++change size by (20)
 ```
 
 ``` blocks3
 when [down arrow v] key pressed
+go to [front v] layer
 go [back v] (1) layers
 change size by (-20)
 ```
