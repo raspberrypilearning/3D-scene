@@ -11,7 +11,7 @@ Click or tap the backdrop to change the scene!
 </div>
 
 --- task ---
-Now, program your sprites into layers by programming them. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
+Program your sprites into layers by programming them. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
 
 --- collapse ---
 ---
