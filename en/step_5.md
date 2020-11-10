@@ -29,7 +29,7 @@ Consider how many layers you will have, and add blocks that will allow your spri
 --- collapse ---
 
 --- 
-title: Treat layers like rows!
+title: Treat layers like rows
 ---
 **Tip:** Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. 
 
