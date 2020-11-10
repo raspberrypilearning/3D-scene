@@ -112,7 +112,7 @@ Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="
 
 Make your code change the size of your sprite when the layer changes by adding the `set size to ()%`{:class="block3looks"} like this:
 ``` blocks3
-+when green flag clicked
+when green flag clicked
 go to [front v] layer
 +set size to (120)%
 ```
