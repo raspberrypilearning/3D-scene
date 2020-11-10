@@ -12,7 +12,7 @@ In the below example the **Moon** sprite rises from behind the **Rooftop** sprit
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
-The background is made up by the **Sky** backdrop and the **Rooftop** sprite. By developing our background using backdrops and a sprite or series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+The background is made up by the **Sky** backdrop and the **Rooftop** sprite. By developing your background using backdrops and a sprite or series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
 --- task ---
 
