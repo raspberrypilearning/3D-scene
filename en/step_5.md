@@ -8,19 +8,25 @@ You can use `layers`{:class="block3looks"} in your Scratch projects to create th
 
 In addition to coding layers to create a sense of 3-dimensions, in this step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
+**Cars in Space**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+
+--- task ---
+Now, we're going to create multiple layers for your sprites. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
 
 This project uses front and back `layers`{:class="block3looks"} to make the cats appear to circle the globe:
 
-**Layers**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
+**Cats Around the World**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/444530974/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Create your layers**
 
---- task ---
 Think of the sprites in your project and decide how you can have them move in front of (or behind!) different parts of your project, like the scenery or other sprites. 
 
 Consider how many layers you will have, and add blocks that will allow your sprites to change between the layers as above.
@@ -35,15 +41,11 @@ title: Treat layers like rows
 Once you know which sprites you would like to go on top, you can do this by having a sprite `go to front`{:class="block3looks"} or `go to back`{:class="block3looks"} layer, and stepping into the right position through the layers.
 
 --- /collapse ---
---- /task ---
 
---- task ---
 To select your first sprite, click or tap on it under the Stage.
 
 Click on the Code tab.
---- /task ---
 
---- task ---
 Use a `go to [back v] layer`{:class="block3looks"} or a `go to [front v] layer`{:class="block3looks"} block and either a `go [forward v] (1) layer`{:class="block3looks"} or a `go [backward v] (1) layer`{:class="block3looks"} block to create an order for your sprites and scenery.
 
 --- collapse ---
@@ -84,10 +86,6 @@ Go [backward v] (2) layers
 
 --- /collapse ---
 
---- /task ---
-
-
-
 Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
 **Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
@@ -95,10 +93,10 @@ Have a look at how this project orders the sprites from front to back by using `
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/445055782/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
+--- /task ---
 
 --- task ---
-Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front! 
+You can also create static scenery by using sprites and shapes to create a 'foreground' and 'background' in your scene. Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front of parts of your scenery to make it feel more three dimensional! 
 
 --- collapse ---
 ---
