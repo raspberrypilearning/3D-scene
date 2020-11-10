@@ -18,10 +18,8 @@ This project uses front and back `layers`{:class="block3looks"} to make the cats
   <iframe src="https://scratch.mit.edu/projects/444530974/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-
---- task ---
 **Create your layers**
-
+--- task ---
 Think of the sprites in your project and decide how you can have them move in front of (or behind!) different parts of your project, like the scenery or other sprites. 
 
 Consider how many layers you will have, and add blocks that will allow your sprites to change between the layers as above.
