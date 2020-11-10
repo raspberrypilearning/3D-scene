@@ -10,6 +10,8 @@ In addition to coding layers to create a sense of 3-dimensions, in this step you
 
 **Cars in Space**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
+Click (or tap on mobile!) the backdrop to change the scene!
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
