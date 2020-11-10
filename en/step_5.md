@@ -11,12 +11,12 @@ Click or tap the backdrop to change the scene!
 </div>
 
 --- task ---
+Now, we're going to organise your sprites into layers by programming them. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
+
 --- collapse ---
 ---
 title: Program your sprites into layers
 ---
-
-Now, we're going to organise your sprites into layers by programming them. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
 
 This project uses front and back layers to make the cats appear to circle the globe:
 
@@ -39,7 +39,7 @@ Once you know which sprites you would like to go on top, you can do this by havi
 
 --- collapse ---
 ---
-title: Order your sprites in multiple layers
+title: Program your sprites from front to back
 ---
 Have a look at how this project orders each of the sprites from front to back by using `Go backward X layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
@@ -54,12 +54,7 @@ To select your first sprite, click or tap on it under the Stage.
 Click on the Code tab.
 
 Use a `go to back layer`{:class="block3looks"} or a `go to front layer`{:class="block3looks"} block and either a `go forward 1 layer`{:class="block3looks"} or a `go backward 1 layer`{:class="block3looks"} block to create an order for your sprites and scenery.
---- /collapse ---
 
---- collapse ---
---- 
-title: Control layer placement with code
----
 You should get your sprite to go to the back (or front) layer and then move each sprite a concurrent number of layers at the start of your project:
 
 Front sprite:
