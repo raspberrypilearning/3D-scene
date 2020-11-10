@@ -35,8 +35,9 @@ title: Treat layers like rows
 Once you know which sprites you would like to go on top, you can do this by having a sprite `go to front`{:class="block3looks"} or `go to back`{:class="block3looks"} layer, and stepping into the right position through the layers.
 
 --- /collapse ---
+--- /task ---
 
-
+--- task ---
 To select your first sprite, click or tap on it under the Stage.
 
 Click on the Code tab.
