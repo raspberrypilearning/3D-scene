@@ -4,10 +4,6 @@ Now, you’re going to look at how to layer sprites to make some appear in front
 
 When you think about a stage or theatre in real life, you understand that the actors can move closer or further away from the audience; so that one can pass in front of another. This is called **depth**, and it makes things feel more realistic when you watch them (even cartoons!)
 
-You can use `layers`{:class="block3looks"} in your Scratch projects to create the same effect! 
-
-In addition to coding layers to create a sense of 3-dimensions, in this step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
-
 **Cars in Space**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
 Click (or tap on mobile) the backdrop to change the scene!
@@ -15,6 +11,12 @@ Click (or tap on mobile) the backdrop to change the scene!
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+
+You can use `layers`{:class="block3looks"} in your Scratch projects to create the same effect! 
+
+In addition to coding layers to create a sense of 3-dimensions, in this step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
+
 
 
 --- task ---
