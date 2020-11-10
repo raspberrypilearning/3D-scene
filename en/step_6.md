@@ -97,12 +97,12 @@ In this example the variable controls how quickly the sprite rotates:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447146281/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use the `speed`{:class="block3variables"} variable as the input to a `turn right () degrees`{:class="block3variables"} block:
+Use the `turn`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
 
 ```blocks3
 when flag clicked
 forever
-turn right (speed) degrees
+turn right (turn) degrees
 ```
 
 Here are some more examples of how you can use your variable slider: 
