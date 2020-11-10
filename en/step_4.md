@@ -96,13 +96,13 @@ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume wh
 
 ![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
-Choose a colour and draw a series of ovals using the **Circle** tool. Then draw a rectangle at the bottom of the bottomof the same colour.
+Choose a colour and draw a series of ovals using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
 
-Inthereal-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away. Altering colour saturation to create a sense of depth is a traditional technique used by landscape painters.
+In the real-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away. Altering colour saturation to create a sense of depth is a traditional technique used by landscape painters.
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
-Use the **Front** and **Back** tools in  the**Paint editor** to move your shapes foreward or backwards so they sit correctly within your background.
+Use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
 
 ![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
 
@@ -118,7 +118,32 @@ Don't forget to title your sprite. It also helps to title each costume.
 
 --- task ---
 
-Here's some other effects that may fit into your project.
+Here's some other effects you can create using the Paint editor. Which ones fit into your project idea?
+
+--- collapse ---
+---
+
+title: Geometic sprite costumes
+
+---
+
+Following the same method you used of the above task to make hills, you can create geometric shapes such as houses.
+
+Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
+
+![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
+
+Choose a colour and draw a triangle using the **Line** tool. Then draw a rectangle at the bottom of the triangle using the same **Fill** colour.
+
+Use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
+
+You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
+
+![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
+
+Don't forget to title your sprite.
+
+--- /collapse ---
 
 --- collapse ---
 ---
