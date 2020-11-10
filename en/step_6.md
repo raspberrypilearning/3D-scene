@@ -84,7 +84,9 @@ These are good values to start with but you can change them later.
 
 --- task ---
 
-Now drag your new variable into a block.  
+Use a variable as an input to a block.
+
+Here are some examples you could use to get started. 
 
 --- collapse ---
 
@@ -120,7 +122,6 @@ set [ghost v] effect to (ghost)
 ---
 title: Change the delay in a wait block
 ---
-
 
 --- /collapse ---
 
@@ -177,53 +178,6 @@ Set the minimum and maximum values for the range of the slider to suit your proj
 
 --- /collapse ---
 
---- collapse ---
-
----
-
-title: Control the speed of multiple sprites with a variable
-
----
-
-**Fish tank**: [See inside](https://scratch.mit.edu/projects/444733969/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444733969/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Use a variable called `speed`{:class="block3variables"} to control how many steps a sprite moves each time a `forever`{:class="block3control"} loop runs. Setting the speed to a higher number will make the sprite move faster. 
-Use a variable called `speed`{:class="block3variables"} to control how many steps a sprite moves each time a `forever`{:class="block3control"} loop runs. Setting the speed to a higher number will make the sprite move faster. 
-
-Set the range of the slider to the minimum and maximum speeds that you want to allow (for example 0 and 10).
-
-```blocks3
-when flag clicked
-forever
-move (speed) steps
-if on edge, bounce
-```
-
-If you want **a different sprite** to go twice as fast then you can multiply `speed`{:class="block3variables"} by two to make it move twice as many steps:
-
-```blocks3
-when flag clicked
-forever
-move ((speed) * (2) ) steps
-if on edge, bounce
-```
-
-If you increase the speed using the slider then both sprites will go even faster. 
-
-You can also use the divide operator to make a sprite move fewer steps than the speed: 
-
-```blocks3
-when flag clicked
-forever
-move ((speed) / (2) ) steps
-if on edge, bounce
-```
-
---- /collapse ---
 --- /task ---
 
 --- task ---
