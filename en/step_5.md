@@ -1,6 +1,6 @@
 ## Distance and depth
 
-Now, you’re going to program your sprites using layers to make some appear in front or behind others using the `looks`{:class="block3looks"} blocks. You will also change the size of sprites in relation to each other. 
+Now, you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into 'layers'{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites in relation to each other. 
 
 **Cars in Space**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
@@ -10,15 +10,13 @@ Click or tap the backdrop to change the scene!
   <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-
-You can use `layers`{:class="block3looks"} in your Scratch projects to create the same effect! 
-
- 
-
-
-
 --- task ---
-Now, we're going to create multiple layers for your sprites. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
+--- collapse ---
+---
+title: Program your sprites into layers
+---
+
+Now, we're going to organise your sprites into layers by programming them. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
 
 This project uses front and back layers to make the cats appear to circle the globe:
 
@@ -33,17 +31,16 @@ Think of the sprites in your project and decide how you can have them move in fr
 
 Consider how many layers you will have, and add blocks that will allow your sprites to change between the layers as above.
 
---- collapse ---
-
---- 
-title: Treat layers like rows
----
-**Tip:** Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. 
+**Tip: Treat layers like rows:** Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. 
 
 Once you know which sprites you would like to go on top, you can do this by having a sprite `go to front`{:class="block3looks"} or `go to back`{:class="block3looks"} layer, and stepping into the right position through the layers.
 
 --- /collapse ---
 
+--- collapse ---
+---
+title: Order your sprites in multiple layers
+---
 Have a look at how this project orders each of the sprites from front to back by using `Go backward X layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
 **Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
@@ -57,6 +54,7 @@ To select your first sprite, click or tap on it under the Stage.
 Click on the Code tab.
 
 Use a `go to back layer`{:class="block3looks"} or a `go to front layer`{:class="block3looks"} block and either a `go forward 1 layer`{:class="block3looks"} or a `go backward 1 layer`{:class="block3looks"} block to create an order for your sprites and scenery.
+--- /collapse ---
 
 --- collapse ---
 --- 
