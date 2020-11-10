@@ -84,7 +84,7 @@ Here's some other effects you can create in the Paint editor. Use the effects th
 --- collapse ---
 ---
 
-title: Geometic sprite costumes
+title: Create a shape with the Line tool
 
 ---
 
@@ -103,7 +103,7 @@ You can use the **Front** and **Back** tools in the **Paint editor** to move you
 --- collapse ---
 ---
 
-title: Multiple shapes in a sprite costume
+title: Create a sprite costume with multiple shapes
 
 ---
 
@@ -134,7 +134,7 @@ Following the below, you can multiply any type of shape:
 --- collapse ---
 ---
 
-title: Multiple shapes as number of sprites
+title: Create a sprite for each shape
 
 ---
 
