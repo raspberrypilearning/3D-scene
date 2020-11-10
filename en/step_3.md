@@ -15,6 +15,8 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=�
 
 --- /task ---
 
+Below are some examples of **How to …** You can use these if you need a reminder, or to understand blocks in more detail.
+
 --- task ---
 Add a backdrop of your choice. Don't worry too much as you can change it at any time as you develop your idea. 
 
@@ -28,12 +30,12 @@ title: Design your own background
 
 ---
 
---- /collapse --- 
-
-
-Below are some examples of **How to …** You can use these if you need a reminder, or to understand blocks in more detail.
 
 [[[generic-scratch3-backdrop-from-library]]]
+
+
+--- /collapse --- 
+
 
 --- /task ---
 
