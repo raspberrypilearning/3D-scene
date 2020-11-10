@@ -39,36 +39,6 @@ You can use one of these examples to get started:
 --- collapse ---
 
 ---
-
-title: Control ghost effect with a variable to see through a sprite
-
----
-
-**Transparent rainbow**: [See inside](https://scratch.mit.edu/projects/444579529/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444579529/?autostart=false" frameborder="0"></iframe>
-</div>
-
-You can use a `ghost`{:class="block3data"} variable to control the ghost effect on a sprite at the front and use it to reveal or hide sprites in lower layers. 
-
-```blocks3
-when flag clicked
-go to [front v] layer
-```
-
-```blocks3
-when flag clicked
-forever
-set [ghost v] effect to (ghost)
-```
-
---- /collapse ---
-
-
---- collapse ---
-
----
 title: Change speed when using glide blocks 
 ----
 
