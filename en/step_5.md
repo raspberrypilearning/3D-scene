@@ -92,29 +92,7 @@ Go [backward v] (2) layers
 --- /task ---
 
 --- task ---
-You can also create static scenery by using sprites and shapes to create a 'foreground' and 'background' in your scene. Once you have your layers set up, use the `Go backward 1 layers`{:class="block3looks"} or `Go forward 1 layers`{:class="block3looks"} to change whether your sprites are behind or in front of parts of your scenery to make it feel more three dimensional! 
-
---- collapse ---
----
-title: Creating a foreground and background with sprites
----
-You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  dynamically change the order of sprites and create the illusion of depth while your code is running. 
-
-
-Click the green flag on the project below and notice how the character goes behind one tree, but in front of another:
-
-**Depth with Layers**: [See inside](https://scratch.mit.edu/projects/447184192/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/447184192/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-Now, change the size of some of your sprites to create a sense of distance and increase the three dimensional effect:
+Now, change the size of some of your sprites to increase the 3-dimensional effect:
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
