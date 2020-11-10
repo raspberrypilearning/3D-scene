@@ -1,4 +1,4 @@
-## 3-Dimensional Effects
+## 3-Dimensional effects
 
 Now, you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into 'layers'{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites in relation to each other. 
 
