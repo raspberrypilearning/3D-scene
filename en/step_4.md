@@ -8,6 +8,8 @@ Objects that are drawn on a backdrop are not sprites, they cannot be layered or 
 
 In the below example the **Moon** sprite rises from behind the **Rooftop** sprite. The **Moon** and the **Rooftop** are both sprites so they can be layered and programmed.
 
+Rising moon: https://scratch.mit.edu/projects/445119855/editor
+
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
 The background is made up by the **Sky** backdrop and the **Rooftop** sprite. By developing some of your background as a sprite or a series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
