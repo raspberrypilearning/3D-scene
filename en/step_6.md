@@ -92,9 +92,11 @@ Here are some examples you could use to get started.
 
 ---
 
-title: Control ghost effect with a variable to see through a sprite
+title: Control graphic effects with a variable
 
 ---
+
+This example changes the ghost graphics effect so you can see through the rainbow.
 
 **Transparent rainbow**: [See inside](https://scratch.mit.edu/projects/444579529/editor){:target="_blank"}
 
@@ -115,13 +117,7 @@ forever
 set [ghost v] effect to (ghost)
 ```
 
---- /collapse ---
-
---- collapse ---
-
----
-title: Change the delay in a wait block
----
+Try using the same approach with other graphic effects such as brightness or colour.
 
 --- /collapse ---
 
@@ -166,6 +162,48 @@ turn right (speed) degrees
 ```
 
  If you include negative values in your range then you can make your sprite turn in the opposite direction. `turn right (-10) degrees` will actually turn left (anti-clockwise) by 10 degrees. 
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Change the delay in a wait block
+---
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+
+title: Change sound effects
+
+---
+
+**Sound speed**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444614449/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Changing the pitch of a sound also speeds it up. 
+
+```blocks3
+when flag clicked
+forever
+set [pitch v] effect to (speed)
+```
+
+Play the sound in a separate forever loop so that the pitch will change immediately rather than waiting until the sound is done: 
+
+```blocks3
+when flag clicked
+forever
+play sound [Dance Head Nod v] until done
+```
+
+You can also use a variable to change the volume and pan/tilt effect.
 
 --- /collapse ---
 
