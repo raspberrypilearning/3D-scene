@@ -4,6 +4,8 @@ Now it's time to work on your own project. You may be bursting with ideas alread
 
 When you think about a stage or theatre in real life, you understand that the actors can move closer or further away from the audience; so that one can pass in front of another. This is called **depth**, and it makes things feel more realistic when you watch them (even cartoons!)
 
+This will help to create a greater sense of depth in your scene. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
+
 --- task ---
 
 Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}. Take five minutes to think about **your** '3D scene' project. 
