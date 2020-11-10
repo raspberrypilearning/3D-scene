@@ -22,7 +22,7 @@ In addition to coding layers to create a sense of 3-dimensions, in this step you
 --- task ---
 Now, we're going to create multiple layers for your sprites. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
 
-This project uses front and back `layers`{:class="block3looks"} to make the cats appear to circle the globe:
+This project uses front and back layers to make the cats appear to circle the globe:
 
 **Cats Around the World**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
 
@@ -46,7 +46,7 @@ Once you know which sprites you would like to go on top, you can do this by havi
 
 --- /collapse ---
 
-Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
+Have a look at how this project orders each of the sprites from front to back by using `Go backward X layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
 **Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
 
@@ -58,7 +58,7 @@ To select your first sprite, click or tap on it under the Stage.
 
 Click on the Code tab.
 
-Use a `go to [back v] layer`{:class="block3looks"} or a `go to [front v] layer`{:class="block3looks"} block and either a `go [forward v] (1) layer`{:class="block3looks"} or a `go [backward v] (1) layer`{:class="block3looks"} block to create an order for your sprites and scenery.
+Use a `go to back layer`{:class="block3looks"} or a `go to front layer`{:class="block3looks"} block and either a `go forward 1 layer`{:class="block3looks"} or a `go backward 1 layer`{:class="block3looks"} block to create an order for your sprites and scenery.
 
 --- collapse ---
 --- 
@@ -101,7 +101,7 @@ Go [backward v] (2) layers
 --- /task ---
 
 --- task ---
-You can also create static scenery by using sprites and shapes to create a 'foreground' and 'background' in your scene. Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front of parts of your scenery to make it feel more three dimensional! 
+You can also create static scenery by using sprites and shapes to create a 'foreground' and 'background' in your scene. Once you have your layers set up, use the `Go backward 1 layers`{:class="block3looks"} or `Go forward 1 layers`{:class="block3looks"} to change whether your sprites are behind or in front of parts of your scenery to make it feel more three dimensional! 
 
 --- collapse ---
 ---
@@ -124,7 +124,7 @@ Click the green flag on the project below and notice how the cat goes behind one
 ---
 title: Creating a foreground and background with scenery
 ---
-You can also create parts of your scenery as separate sprites which sit on different `layers`{:class="block3looks"} by using the **paint editor**, then have your character sprite move between the shapes you create. This may suit your project better than using existing sprites from the library and will allow you to easily mask the edges of your stage. 
+You can also create parts of your scenery as separate sprites which sit on different `layers`{:class="block3looks"} by using the **Paint editor**, then have your character sprite move between the shapes you create. This may suit your project better than using existing sprites from the library and will allow you to easily mask the edges of your stage. 
 
 **Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
 
@@ -143,7 +143,7 @@ Now, we're going to change the size of some of our sprites to make it appear as 
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
-Click (or tap on mobile!) the backdrop to change the scenery for some added perspective!
+Click or tap the backdrop to change the scenery for some added perspective!
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
