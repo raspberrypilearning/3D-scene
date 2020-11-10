@@ -99,7 +99,7 @@ Now, change the size of some of your sprites to increase the 3-dimensional effec
 title: Resizing each layer
 ---
 
-**Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
+**Numbers in a row**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
 Click or tap the backdrop to change the scenery for some added perspective!
 
