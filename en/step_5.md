@@ -4,7 +4,7 @@ Now, you’re going to program your sprites using layers to make some appear in 
 
 **Cars in Space**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
-Click (or tap on mobile) the backdrop to change the scene!
+Click or tap the backdrop to change the scene!
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
