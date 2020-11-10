@@ -121,7 +121,7 @@ Click the green flag on the project below and notice how the cat goes behind one
 ---
 title: Creating a foreground and background with scenery
 ---
-You can also create parts of your scenery as separate sprites which sit on different `layers`{:class="block3looks"} by using the **paint editor**. Then have your character sprite move between the shapes you create. This may suit your project better than using existing sprites and will allow you to mask the edges of your stage. 
+You can also create parts of your scenery as separate sprites which sit on different `layers`{:class="block3looks"} by using the **paint editor**, then have your character sprite move between the shapes you create. This may suit your project better than using existing sprites from the library and will allow you to easily mask the edges of your stage. 
 
 **Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
 
