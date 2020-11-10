@@ -8,7 +8,7 @@ You can use `layers`{:class="block3looks"} in your Scratch projects to create th
 
 In addition to coding layers to create a sense of 3-dimensions, in this step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
---- no-print ---
+
 
 This project uses front and back `layers`{:class="block3looks"} to make the cats appear to circle the globe:
 
@@ -18,7 +18,6 @@ This project uses front and back `layers`{:class="block3looks"} to make the cats
   <iframe src="https://scratch.mit.edu/projects/444530974/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
---- /no-print ---
 
 --- task ---
 **Create your layers**
@@ -85,7 +84,7 @@ Go [backward v] (2) layers
 
 --- /task ---
 
---- no-print ---
+
 
 Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
@@ -94,7 +93,7 @@ Have a look at how this project orders the sprites from front to back by using `
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/445055782/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
---- /no-print ---
+
 
 --- task ---
 Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front! 
@@ -102,7 +101,7 @@ Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward 
 --- collapse ---
 You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  dynamically change the order of sprites and create the illusion of depth while your code is running. 
 
---- no-print ---
+
 Click the green flag on the project below and notice how the cat goes behind one tree, but in front of another:
 
 **Depth with Layers**: [See inside](https://scratch.mit.edu/projects/447184192/editor){:target="_blank"}
@@ -110,7 +109,7 @@ Click the green flag on the project below and notice how the cat goes behind one
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447184192/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
---- /no-print ---
+
 
 --- /collapse ---
 
