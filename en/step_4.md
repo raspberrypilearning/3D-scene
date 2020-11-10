@@ -1,6 +1,6 @@
 ## Scenery
 
-You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create a background with sprites using the **Paint editor**.
+You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create a background made up of a backdrop and sprites. In the next step you will program the sprites.
 
 Objects that are drawn on a backdrop are not sprites, they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair drawn is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can.  
 
@@ -84,11 +84,11 @@ Here's some other effects you can create in the Paint editor. Use the effects th
 --- collapse ---
 ---
 
-title: Create a shape with the Line tool
+title: Create a sprite costume using the Line tool
 
 ---
 
-Following the same method you used on the above task to make hills, you can create geometric shapes such as traingle. This example creates a single house in silhouette. Got to the **How to...** 'Multiple shapes in a sprite costume' to find out how to create a skyline of houses.
+Following the same method you used on the above task to make hills, you can create geometric shapes such as traingle. This example creates a single house in silhouette.
 
 Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
 
@@ -99,6 +99,8 @@ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume wh
 Choose a colour and draw a triangle using the **Line** tool. Then draw a rectangle at the bottom of the triangle using the same **Fill** colour.
 
 You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette.
+
+To make a skyline of houses, go to the **How to...** 'Multiple shapes in a sprite costume' below.
 
 --- /collapse ---
 
@@ -136,11 +138,11 @@ Following the below, you can multiply any type of shape:
 --- collapse ---
 ---
 
-title: Create a sprite for each shape
+title: Create a new sprite for each shape
 
 ---
 
-You can also create the same shapes as sprites rather than as a sprite costume. Then a character sprite can move between the shapes. This may suit your project. 
+You can create shapes as individual sprites rather than as one sprite costume. Then another sprite can move between the shapes. This may suit your project. 
 
 **Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
 
