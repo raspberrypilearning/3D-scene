@@ -4,12 +4,12 @@ Now it's time to work on your own project. You may be bursting with ideas alread
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”} to look at the range of sprites and backdrops. Take five minutes to think about **your** 'Interactive animation' project. 
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}. Take five minutes to think about **your** '3D scene' project. 
 
 + What mood do you want to create? Will it be relaxing, energising, or funny?
-+ Which backdrop will you choose? 
-+ Which sprites will you choose? 
++ Which main sprites will you choose? 
 + Maybe you will just start with one sprite and add more if you have time.
++ In this project you will sprites and backdrops. 
 
 ![Image with sprites and backdrops](images/sprite-backdrop.png)
 
