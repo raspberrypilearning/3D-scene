@@ -19,6 +19,7 @@ This project uses front and back `layers`{:class="block3looks"} to make the cats
 </div>
 
 **Create your layers**
+
 --- task ---
 Think of the sprites in your project and decide how you can have them move in front of (or behind!) different parts of your project, like the scenery or other sprites. 
 
@@ -182,6 +183,7 @@ change size by (-20)
 ```
 
 --- /collapse ---
+
 --- /task ---
 
 
