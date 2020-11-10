@@ -88,9 +88,11 @@ title: Create a shape with the Line tool
 
 ---
 
-Following the same method you used on the above task to make hills, you can create geometric shapes such as houses.  This example creates a single house in silhouette. Got to the **How to...** 'Multiple shapes in a sprite costume' to find out how to create a skyline of houses.
+Following the same method you used on the above task to make hills, you can create geometric shapes such as traingle. This example creates a single house in silhouette. Got to the **How to...** 'Multiple shapes in a sprite costume' to find out how to create a skyline of houses.
 
 Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
+
+**House**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
 
 ![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
 
