@@ -96,7 +96,7 @@ Now, change the size of some of your sprites to increase the 3-dimensional effec
 
 --- collapse ---
 ---
-title: Changing size with layer
+title: Resizing each layer
 ---
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
