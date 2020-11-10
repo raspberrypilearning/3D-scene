@@ -150,5 +150,6 @@ change size by (-20)
 
 --- /task ---
 
+If you need a reminder about how to create your sprite’s movement, then explore [Animate using motion](https://github.com/raspberrypilearning/interactive-animation/edit/draft/en/step_4.md) in Challenge 1 Interactive animation.
 
 --- save ---
