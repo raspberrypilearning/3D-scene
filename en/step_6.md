@@ -222,10 +222,10 @@ title: Controlling more than one sprite using the same variable
 
 ---
 
-**Under the waves**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
+**Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444614449/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
 </div>
 
 There is nothing really new to learn here. You will simply use the same variable in more than one place. It may be to control the speed of two different sprites, or the moving speed of a sprite and the pitch of a sound at the same time.
