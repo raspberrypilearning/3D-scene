@@ -181,13 +181,11 @@ Set the minimum and maximum values for the range of the slider to suit your proj
 --- /task ---
 
 --- task ---
-Experiment with using a speed variable to control how fast sprites move or turn in your scene. 
+Experiment with using your variable to control the scene. 
 
 Things to try:
-+ Change the range of the slider so that you are happy with the maximum and minimum speeds. Choose values that make sense for your project. 
-+ Include `0` in the range for your speed slider. What happens?
-+ Include negative numbers in the range for your slider. What happens when you use move or turn blocks?
-+ Try having one sprite move faster than another one and both changing with the speed.
++ Change the range of the slider so that you are happy with the maximum and minimum values. Choose values that make sense for your project. 
++ Include `0` or negative numbers in the range for your slider. What happens?
 
 **Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
 
