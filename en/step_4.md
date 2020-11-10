@@ -71,6 +71,8 @@ Throughout this step, organise your sprites into their layer position by draggin
 
 Now make a background sprite for your scene using your chosen backdrop, change your chosen backdrop or by creating your own backdrop.
 
+**Hills as a sprite costume**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
+
 ![Sprite hills as background](images/challenge2-sprite-hills.png){:width="400px"}
 
 --- collapse ---
@@ -156,6 +158,8 @@ title: Multiple shapes as number of sprites
 
 You can also create the same shapes as sprites rather than as a sprite costume. Then a character sprite can move between the shapes. This may suit your project. 
 
+**Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
+
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
@@ -170,6 +174,8 @@ title: Multiple shapes in a sprite costume
 ---
 
 In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier or more crowded.
+
+**Multiple clouds**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
 
 ![Multiple cloud shapes](images/challenge2-sprite-costume-multiples.png){:width="400px"}
 
@@ -200,6 +206,8 @@ title: Create a masking sprite
 You can view your 3D scene **through** a **Masking** sprite. If it sits as the front layer and is the size of the stage it will look like view through the bars of a cage or a series of window panes, surveying a scene through binoculars or wearing a mask. 
 
 --- no-print ---
+
+**Caged lion**: [See inside](https://scratch.mit.edu/projects/445680159/editor){:target="_blank"}
 
 ![Sprite costume cage mask](images/challenge2-sprite-costume-mask-cage.gif)
 
