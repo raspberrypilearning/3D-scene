@@ -92,7 +92,7 @@ Go [backward v] (2) layers
 --- /task ---
 
 --- task ---
-Now, change the size of some of your sprites to increase the 3-dimensional effect:
+Change the size of relevant sprites to increase the 3-dimensional effect.
 
 --- collapse ---
 ---
