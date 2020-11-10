@@ -79,7 +79,7 @@ Don't forget to title your sprite. It also helps to title each costume.
 
 --- task ---
 
-Here's some other effects you can create in the Paint editor. Use them is they fit into your project idea.
+Here's some other effects you can create in the Paint editor. Use the effects that fit into your project idea.
 
 --- collapse ---
 ---
