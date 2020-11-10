@@ -41,6 +41,10 @@ Name the variable to match its use, for example `turn`{:class="block3variables"}
 
 Click 'OK' to make the new variable. You will have new variable blocks available including a `turn`{:class="block3variables"} block (or whatever you named your variable) that you can use as an input to other blocks. 
 
+```blocks3
+turn ::variables
+```
+
 --- /collapse ---
 
 --- /task ---
