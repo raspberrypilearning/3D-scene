@@ -119,8 +119,9 @@ Click the green flag on the project below and notice how the cat goes behind one
 --- /collapse ---
 
 --- collapse ---
+---
 title: Creating a foreground and background in your scene
-
+---
 You can also create the same shapes as sprites rather than as a sprite costume. Then a character sprite can move between the shapes. This may suit your project.
 
 Hills as sprites: See inside{:target="_blank"}
