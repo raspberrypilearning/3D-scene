@@ -24,11 +24,11 @@ Throughout this step, organise your sprites into their layer position by draggin
 
 --- task ---
 
-Now make a background sprite for your scene using your chosen backdrop, change your chosen backdrop or by creating your own backdrop.
+Now make a background sprite for your scene. You can use your chosen backdrop, change your chosen backdrop or create your own backdrop.
 
-In this step you are going to work with the **Paint editor** where there are two types of graphics: **vector** and **bitmap**. You will be using vectors. The **Costume editor** automatically opens in the vector graphic setting.
+In this step you are going to work with the **Paint editor** where there are two types of graphics: **vector** and **bitmap**. The **Costume editor** automatically opens in the vector graphic setting. You will be using vector graphics for this project.
 
-**Hills as a sprite costume**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
+**Hills as one sprite costume**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 
 ![Sprite hills as background](images/challenge2-sprite-hills.png){:width="400px"}
 
