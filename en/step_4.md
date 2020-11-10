@@ -12,50 +12,7 @@ In the below example the **Moon** sprite rises from behind the **Rooftop** sprit
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
-The background is made up by the **Sky** backdrop and the **Rooftop** sprite. By developing your background using backdrops and a sprite or series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
-
---- task ---
-
-In this step you are going to work with the **Paint editor** using two type of graphics: **vector** and **bitmap**. Build your confidence when developing sprite costumes with vector and bitmap graphics by exploring the **How to...** below.
-
---- collapse ---
----
-
-title: Vector and bitmap graphics
-
----
-
-The **Costume editor** automatically opens in the vector graphic setting.
-
-![Vector](images/challenge2-vector.png){:width="400px"}
-
-If you would prefer to use pen marks to develop your sprite costume you can go to bitmaps by selecting the blue button **Convert to Bitmap**.
-
-![Bitmap](images/challenge2-bitmap.png){:width="400px"}
-
-Vector and bitmap graphics have different **Costume editors**. Both offer similar tools. Vector offers an additional tool - **Reshape**:
-
-![Vector Reshape tool](images/challenge2-vector-reshape-tool.png){:width="150px"}
-
-Using the **Reshape** tool you can move the position of the **nodes**, turn or pull the **handles**, and add more nodes to your shape:
-
---- no-print ---
-
-![Vector Reshape tool in action](images/challenge2-vector-reshape-tool.gif)
-
---- /no-print ---
-
-**Vector graphics** are made up of splines (mathmatical curves) and appear as shapes with a set of control points which means they can be reshaped easily and still maintain a high resolution (smooth appearance).
-
-**Bitmap graphics** are made from grids of pixels, they tend to be low resolution (low quality) and may appear a little 'blocky', expecially when the image is enlarged.
-
-Using your chosen sprite, go to the **Paint editor** and zoom in on a bitmap graphic using the **maginifing tool** where you will see the grids of pixels. On a vector graphic there are no pixels, just control points.
-
-![Bitmap pixels](images/challenge2-bitmap-pixels.png){:width="400px"}
-
---- /collapse ---
-
---- /task ---
+The background is made up by the blue **Sky** backdrop and the silhouette **Rooftop** sprite. By developing your background using a backdrop and one or more sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
 Throughout this step, organise your sprites into their layer position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
 
@@ -68,6 +25,8 @@ Throughout this step, organise your sprites into their layer position by draggin
 --- task ---
 
 Now make a background sprite for your scene using your chosen backdrop, change your chosen backdrop or by creating your own backdrop.
+
+In this step you are going to work with the **Paint editor** where there are two types of graphics: **vector** and **bitmap**. You will be using vectors. The **Costume editor** automatically opens in the vector graphic setting.
 
 **Hills as a sprite costume**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 
