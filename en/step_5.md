@@ -21,7 +21,7 @@ This project uses front and back `layers`{:class="block3looks"} to make the cats
 --- /no-print ---
 
 --- task ---
-Create your layers
+**Create your layers**
 
 Think of the sprites in your project and decide how you can have them move in front of (or behind!) different parts of your project, like the scenery or other sprites. 
 
@@ -86,6 +86,7 @@ Go [backward v] (2) layers
 --- /task ---
 
 --- no-print ---
+
 Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
 **Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
@@ -110,10 +111,13 @@ Click the green flag on the project below and notice how the cat goes behind one
   <iframe src="https://scratch.mit.edu/projects/447184192/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
+
 --- /collapse ---
+
 --- /task ---
 
-### Using size to create distance
+--- task ---
+**Using size to create distance**
 
 When we look at things which are further away, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
 
@@ -126,7 +130,6 @@ When we look at things which are further away, they look a lot smaller than they
 </div>
 
 
---- task ---
 Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="block3looks"} block in your code to make your sprite shrink when it moves to the `back layer`{:class="block3looks"} and grow when it moves to the `front layer`{:class="block3looks"}! 
 
 --- collapse ---
