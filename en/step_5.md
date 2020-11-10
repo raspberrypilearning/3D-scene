@@ -19,7 +19,9 @@ This project uses front and back `layers`{:class="block3looks"} to make the cats
 </div>
 
 --- /no-print ---
-### Create your layers
+
+--- task ---
+Create your layers
 
 Think of the sprites in your project and decide how you can have them move in front of (or behind!) different parts of your project, like the scenery or other sprites. 
 
@@ -36,7 +38,7 @@ Once you know which sprites you would like to go on top, you can do this by havi
 
 --- /collapse ---
 
---- task ---
+
 To select your first sprite, click or tap on it under the Stage.
 
 Click on the Code tab.
@@ -95,8 +97,8 @@ Have a look at how this project orders the sprites from front to back by using `
 
 --- task ---
 Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front! 
---- /task ---
 
+--- collapse ---
 You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  dynamically change the order of sprites and create the illusion of depth while your code is running. 
 
 --- no-print ---
@@ -108,6 +110,8 @@ Click the green flag on the project below and notice how the cat goes behind one
   <iframe src="https://scratch.mit.edu/projects/447184192/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
+--- /collapse ---
+--- /task ---
 
 ### Using size to create distance
 
