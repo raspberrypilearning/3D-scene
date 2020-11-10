@@ -129,7 +129,7 @@ title: Change the delay in a wait block
 
 ---
 
-title: Control movement speed with a variable
+title: Control move or turn speed with a variable
 
 ---
 
@@ -147,18 +147,9 @@ forever
 move (speed) steps
 if on edge, bounce
 ```
+Set the minimum and maximum values for the range of the slider to suit your project.
 
-Set the minimum and maximum values for the range of the slider to suit your project. 
-
---- /collapse ---
-
---- collapse ---
-
----
-
-title: Control turn speed with a variable
-
----
+You can also control the turn speed based on a variable. 
 
 **Space dog**: [See inside](https://scratch.mit.edu/projects/447146281/editor){:target="_blank"}
 
@@ -174,7 +165,7 @@ forever
 turn right (speed) degrees
 ```
 
-Set the minimum and maximum values for the range of the slider to suit your project. If you include negative values in your range then you can make your sprite turn in the opposite direction. `turn right (-10) degrees` will actually turn left (anti-clockwise) by 10 degrees. 
+ If you include negative values in your range then you can make your sprite turn in the opposite direction. `turn right (-10) degrees` will actually turn left (anti-clockwise) by 10 degrees. 
 
 --- /collapse ---
 
