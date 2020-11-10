@@ -7,33 +7,32 @@ Now it's time to work on your own project. You may be bursting with ideas alread
 Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}. Take five minutes to think about **your** '3D scene' project. 
 
 + What mood do you want to create? Will it be relaxing, energising, or funny?
-+ Which main sprites will you choose? 
-+ Maybe you will just start with one sprite and add more if you have time.
-+ In this project you will sprites and backdrops. 
+
+In this project you will choose or design your own a backdrop. You will also create a number of sprites
 
 ![Image with sprites and backdrops](images/sprite-backdrop.png)
 
 --- /task ---
 
-Below are some examples of **How to …** You can use these if you need a reminder, or to understand blocks in more detail.
+Below are some examples of **How to…**. You can use these if you need a reminder, or to understand blocks in more detail.
 
 --- task ---
 Add a backdrop of your choice. Don't worry too much as you can change it at any time as you develop your idea. 
 
-Note: objects which are already drawn onto a backdrop cannot be individually programmed. Choose a simple backdrop with just a few or no objects drawn on it or design your own background. This will give you more freedom as you go on to develop your project by animating your scenery.**
+Objects which are already drawn onto a backdrop cannot be programmed. Choose a simple backdrop with just a few or no objects drawn on it. This will give you more freedom as you go on to create sprites as part of your scenery in the next step.
 
 --- collapse ---
 ---
 
-title: Design your own background
+title: Choose a backdrop
 
 ---
 
-+ Click on **Choose a Backdrop** in the bottom right.
+Click on **Choose a Backdrop** in the bottom right.
 
 ![Image of Choose a Backdrop](images/stage-choose.png)
 
-+ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
+You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
 
 ![Image of Backdrop Library](images/backdrop.png)
 
@@ -44,7 +43,7 @@ title: Design your own background
 
 --- task ---
 
-Add your first sprite. You will always be able to change the way it looks or add more sprites later if you have time. 
+Add your first sprite. You will always be able to change the way it looks or add more sprites later.
 
 --- collapse ---
 ---
