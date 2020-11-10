@@ -1,4 +1,4 @@
-## Distance and depth
+## 3-Dimensional Effects
 
 Now, you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into 'layers'{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites in relation to each other. 
 
@@ -114,7 +114,7 @@ Click the green flag on the project below and notice how the character goes behi
 --- /task ---
 
 --- task ---
-Now, we're going to change the size of some of our sprites to make it appear as if they are further away from us than others. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
+Now, change the size of some of your sprites to create a sense of distance and increase the three dimensional effect:
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
