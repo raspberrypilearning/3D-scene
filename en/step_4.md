@@ -96,11 +96,17 @@ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume wh
 
 ![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
 
-Choose a colour and draw a triangle using the **Line** tool. Then draw a rectangle at the bottom of the triangle using the same **Fill** colour.
+Following the below, you can any shape using the linetool:
++ Choose a **Fill** colour with no outline
++ Draw a rectangle using the **Rectangle** tool
++ Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
++ Move the two shapes together
++ Select the **Bucket** tool and fill the triangle
++ Draw another rectangle shape for the chimney using the **Rectangle** tool
++ You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette
++ Select all the shapes and **Group** them together so that you can adjust them or move them as one shape
 
-You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette.
-
-To make a skyline of houses, go to the **How to...** 'Multiple shapes in a sprite costume' below.
+To make multiples of your shapes such as a skyline of houses, follow the **How to...** 'Multiple shapes in a sprite costume' below.
 
 --- /collapse ---
 
