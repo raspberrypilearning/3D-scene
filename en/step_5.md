@@ -99,6 +99,9 @@ Have a look at how this project orders the sprites from front to back by using `
 Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front! 
 
 --- collapse ---
+---
+title: Change layers while running
+---
 You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  dynamically change the order of sprites and create the illusion of depth while your code is running. 
 
 
