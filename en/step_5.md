@@ -129,6 +129,8 @@ You can also create parts of your scenery as separate sprites which sit on diffe
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
+If you need some reminders, click back to the previous **Scenery** step for some tips!
+
 --- /collapse ---
 
 --- /task ---
