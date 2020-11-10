@@ -4,7 +4,7 @@ In this step you will add a variable with a slider to control something in your 
 
 --- task --- 
 
-Look at the example below. The speed variable controls how fast the snowman moves, ********** and how fast the snowflake moves and turns:
+Look at the example below. The `speed`{:class="block3variables"} variable controls how fast the snowman moves, `size`{:class="block3variables"} controls the size of the snowflake, and `pitch`{:class="block3variables"} controls the pitch of the music that is playing:
 
 **Winter scene**: [See inside](https://scratch.mit.edu/projects/447121911/editor){:target="_blank"}
 
@@ -35,7 +35,7 @@ Go to the `Variables`{:class="block3variables"} blocks and click on 'Make a Vari
 
 ![Make a variable](images/make-a-variable.png)
 
-Name the variable to match its use, for example 'turn'. Keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
+Name the variable to match its use, for example `turn`{:class="block3variables"}. Generally, you will keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
 
 ![Speed variable settings](images/speed-variable.png)
 
@@ -45,9 +45,10 @@ Click 'OK' to make the new variable. You will have new variable blocks available
 
 --- /task ---
 
---- task ---
-Your new variable will automatically appear on the Stage. 
+Your new variable will automatically appear on the Stage.
 
+--- task ---
+ 
 Change it to a slider. It will automatically have a range from 1 to 10 which you can change at any point. 
 
 --- collapse ---
@@ -58,7 +59,7 @@ title: Use a slider to change a variable
 
 ---
 
-Right-click or tap and hold on the `turn`{:class="block3variables"} variable on the Stage. 
+Right-click or tap and hold on your variable on the Stage. 
 
 Select 'slider' from the menu. 
 
@@ -66,14 +67,16 @@ Select 'slider' from the menu.
 
 **Tip:** You can double click or tap on a variable on the Stage to switch between normal, large and slider. 
 
-Right-click or tap and hold on the `turn`{:class="block3variables"} variable on the Stage again and choose 'change slider range'. 
+Right-click or tap and hold on your variable on the Stage again and choose 'change slider range'. 
 
 ![Speed slider](images/slider-range.png)
-Set the range to a minimum of 1 and a maximum of 10:
+Set the range by specifying a minimum and maximum value.
+
+A minimum of 1 and a maximum of 10 work fairly well for how quickly a sprite spins.
 
 ![Speed slider range 1 to 10](images/range-values.png)
 
-These are good values to start with but you can change them later.
+The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right but remember that you can chnage it at any time.
 
 **Tip:** Variables on the Stage always appear in a layer above all of the sprites. If you have a moving sprite it will go under any variables on the Stage. 
 
@@ -84,9 +87,25 @@ These are good values to start with but you can change them later.
 
 --- task ---
 
-Use a variable as an input to a block.
+Use your variable input block to control something in your project, such as changing the size of a sprite, the way it looks or the volume of a sound.
 
-Here are some examples you could use to get started. 
+In this example the variable controls how quickly the sprite rotates:
+
+**Space dog**: [See inside](https://scratch.mit.edu/projects/447146281/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447146281/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Use the `speed`{:class="block3variables"} variable as the input to a `turn right () degrees`{:class="block3variables"} block:
+
+```blocks3
+when flag clicked
+forever
+turn right (speed) degrees
+```
+
+Here are some more examples of how you can use your variable slider: 
 
 --- collapse ---
 
@@ -144,24 +163,6 @@ move (speed) steps
 if on edge, bounce
 ```
 Set the minimum and maximum values for the range of the slider to suit your project.
-
-You can also control the turn speed based on a variable. 
-
-**Space dog**: [See inside](https://scratch.mit.edu/projects/447146281/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447146281/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Use the `speed`{:class="block3variables"} variable as the input to a `turn right () degrees`{:class="block3variables"} block:
-
-```blocks3
-when flag clicked
-forever
-turn right (speed) degrees
-```
-
- If you include negative values in your range then you can make your sprite turn in the opposite direction. `turn right (-10) degrees` will actually turn left (anti-clockwise) by 10 degrees. 
 
 --- /collapse ---
 
