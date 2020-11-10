@@ -133,10 +133,8 @@ If you need some reminders, click back to the previous **Scenery** step for some
 
 --- /task ---
 
-**Using size to create distance**
-
 --- task ---
-When we look at things which are further away, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
+Now, we're going to change the size of some of our sprites to make it appear as fi they are further away from us than others. When we look at things which are further away in real life, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
