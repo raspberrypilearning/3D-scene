@@ -131,7 +131,7 @@ title: Geometic sprite costumes
 
 ---
 
-Following the same method you used of the above task to make hills, you can create geometric shapes such as houses.
+Following the same method you used on the above task to make hills, you can create geometric shapes such as houses.  This example creates a single house in silhouette. Got to the **How to...** 'Multiple shapes in a sprite costume' to find out how to create a skyline of houses.
 
 Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
 
@@ -139,30 +139,7 @@ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume wh
 
 Choose a colour and draw a triangle using the **Line** tool. Then draw a rectangle at the bottom of the triangle using the same **Fill** colour.
 
-Use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
-
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
-
-![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
-
-Don't forget to title your sprite.
-
---- /collapse ---
-
---- collapse ---
----
-
-title: Multiple shapes as number of sprites
-
----
-
-You can also create the same shapes as sprites rather than as a sprite costume. Then a character sprite can move between the shapes. This may suit your project. 
-
-**Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
-
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
-
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
+You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette.
 
 --- /collapse ---
 
@@ -193,6 +170,24 @@ Following the below, you can multiply any type of shape:
 + Create multiples of the shape using the **Copy** and **Paste** tools
 + Move the shape within the stage area using the **Select** tool
 + Varying the size of the shapes will also help to create a greater sense of 3D-dimensions
++ You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape
+
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Multiple shapes as number of sprites
+
+---
+
+You can also create the same shapes as sprites rather than as a sprite costume. Then a character sprite can move between the shapes. This may suit your project. 
+
+**Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
+
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
+
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
 --- /collapse ---
 
