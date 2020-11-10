@@ -6,19 +6,15 @@ Objects that are drawn on a backdrop are not sprites, they cannot be layered or 
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
-In the below example the **Moon** sprite rises from behind the **Skyline** sprite. The background is created by the blue **Sky** backdrop and the **Skyline** sprite. 
+In the below example the **Moon** sprite rises from behind the blue **Skyline** sprite. Because they are both sprites they can be layered and programmed. 
 
-By developing some of your background as a sprite or a series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic. Because both the **Moon** and the **Skyline** are sprites they can be layered and programmed. 
+The background is made up by the **Sky** backdrop and the **Skyline** sprite. By developing some of your background as a sprite or a series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
-Objects that in the real-world don't move, such as buildings, can move in Scratch if they are created as sprites. In the example below a series of **Tower block** sprites are moving but they create the sense that the static car is driving.
-
-![Sprite car stays still, street moves](images/challenge2-car-driving.gif){:width="400px"}
+--- task ---
 
 In this step you are going to work with the **Paint editor** using two type of graphics: **vector** and **bitmap**. 
-
---- task ---
 
 Build your confidence when developing sprite costumes with vector and bitmap graphics by exploring the **How to...** below.
 
@@ -61,17 +57,13 @@ Using your chosen sprite, go to the **Paint editor** and zoom in on a bitmap gra
 
 --- /task ---
 
---- task ---
-
-Throughout this step, organise your sprites into their layer position by dragging them in front of one another. (In the next step, you will program your sprites so they are organised into those layers).
+Throughout this step, organise your sprites into their layer position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
 
 --- no-print ---
 
 ![Sprites in layers](images/challenge2-change-layers.gif)
 
 --- /no-print ---
-
---- /task ---
 
 --- task ---
 
@@ -120,6 +112,21 @@ You can select all the shapes and **Group** them together so that you can adjust
 
 Don't forget to title your sprite. It also helps to title each costume.
 
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+Here's some other effects that may fit into your project.
+
+--- collapse ---
+---
+
+title: Multiple shapes as number of sprites
+
+---
+
 You can also create the same shapes as sprites rather than as a sprite costume. Then a character sprite can move between the shapes. This may suit your project. 
 
 ![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
@@ -128,47 +135,16 @@ You can also create the same shapes as sprites rather than as a sprite costume. 
 
 --- /collapse ---
 
---- /task ---
-
---- task ---
-
-Sprites which are the same colour as the backdrop will be invisible. Another sprite can **appear** to come out from behind the invisible sprite. This effect is useful for sprites which you want to appear through a hole, crack or doorway.
-
---- no-print ---
-
-![Invisible sprites](images/challenge2-sprite-invisible.gif)
-
---- /no-print ---
-
---- collapse ---
----
-
-title: Create an invisible sprite
-
----
-
-To make an invisible sprite:
-+ make a shape (without an outline) in **Vector** graphics ensuring that the shape is suitable to cover the area of background
-+ copy the background colour using the **Eye dropper** tool
-+ **Fill** the invisible shape
-+ You may need to move, resize or adapt the shape of the **Invisible** sprite until covers the area correctly
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-
-In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier or more crowded.
-
-![Multiple cloud shapes](images/challenge2-sprite-costume-multiples.png){:width="400px"}
-
 --- collapse ---
 ---
 
 title: Multiple shapes in a sprite costume
 
 ---
+
+In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier or more crowded.
+
+![Multiple cloud shapes](images/challenge2-sprite-costume-multiples.png){:width="400px"}
 
 The effect of multiplying shapes is used by professional animators to create the impression of: weather patterns such as rain or clouds; a cluster of objects such as buildings or a wood; as well as a crowd of people in a scene.
 
@@ -187,9 +163,12 @@ Following the below, you can multiply any type of shape:
 
 --- /collapse ---
 
---- /task ---
+--- collapse ---
+---
 
---- task ---
+title: Create a masking sprite
+
+---
 
 You can view your 3D scene **through** a **Masking** sprite. If it sits as the front layer and is the size of the stage it will look like view through the bars of a cage or a series of window panes, surveying a scene through binoculars or wearing a mask. 
 
@@ -198,13 +177,6 @@ You can view your 3D scene **through** a **Masking** sprite. If it sits as the f
 ![Sprite costume cage mask](images/challenge2-sprite-costume-mask-cage.gif)
 
 --- /no-print ---
-
---- collapse ---
----
-
-title: Create a masking sprite
-
----
 
 Following the below, you can any type of masking sprite:
 + Go to **Choose a Sprite** and select **Paint**
