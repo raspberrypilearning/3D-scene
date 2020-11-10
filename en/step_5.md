@@ -140,7 +140,7 @@ When we look at things which are further away, they look a lot smaller than they
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
-(Click (or tap on mobile!) the backdrop to change the scenery for some added perspective!)
+Click (or tap on mobile!) the backdrop to change the scenery for some added perspective!
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
