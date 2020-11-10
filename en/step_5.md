@@ -96,7 +96,7 @@ Change the size of relevant sprites to increase the 3-dimensional effect.
 
 --- collapse ---
 ---
-title: Resizing each layer
+title: Resizing by layer
 ---
 
 **Numbers in a row**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
