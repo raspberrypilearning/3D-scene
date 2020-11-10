@@ -123,27 +123,19 @@ when green flag clicked
 go to [back v] layer
 +set size to (80)%
 ```
---- /collapse ---
-
---- collapse ---
----
-title: Resize when you change layer
----
-
-You can also have the size of your sprite change every time it changes layer by using the `change size by ()`{:class="block3looks"} blocks:
 
 ``` blocks3
 when green flag clicked
 go to [back v] layer
-go [forward v] (1) layers
++go [forward v] (1) layers
 +change size by (20)
 ```
 
 ``` blocks3
-when [down arrow v] key pressed
+when green flag clicked
 go to [front v] layer
-go [back v] (1) layers
-change size by (-20)
++go [back v] (1) layers
++change size by (-20)
 ```
 
 --- /collapse ---
