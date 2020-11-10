@@ -1,6 +1,6 @@
 ## Distance and depth
 
-Now, you’re going to look at how to layer sprites to make some appear in front or behind others by using some of the `looks`{:class="block3looks"} blocks.
+Now, you’re going to program your sprites using layers to make some appear in front or behind others using the `looks`{:class="block3looks"} blocks. In addition to coding layers to create a sense of 3-dimensions, in this step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth in your scene. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
 When you think about a stage or theatre in real life, you understand that the actors can move closer or further away from the audience; so that one can pass in front of another. This is called **depth**, and it makes things feel more realistic when you watch them (even cartoons!)
 
@@ -15,7 +15,7 @@ Click (or tap on mobile) the backdrop to change the scene!
 
 You can use `layers`{:class="block3looks"} in your Scratch projects to create the same effect! 
 
-In addition to coding layers to create a sense of 3-dimensions, in this step you will also change the size of sprites in relation to each other. This will help to create a greater sense of depth to your scenery. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
+ 
 
 
 
