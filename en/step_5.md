@@ -136,7 +136,7 @@ Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="
 
 --- collapse ---
 ---
-title: I need a hint!
+title: Changing size with layer
 ---
 Make your code change the size of your sprite when the layer changes by adding the `set size to ()%`{:class="block3looks"} like this:
 ``` blocks3
