@@ -94,7 +94,7 @@ Click the green flag on the project below and notice how the cat goes behind one
 </div>
 --- /no-print ---
 
- 
+###Using size to create distance 
 When we look at things which are further away, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
