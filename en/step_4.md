@@ -8,7 +8,7 @@ Objects that are drawn on a backdrop are not sprites, they cannot be layered or 
 
 In the below example the **Moon** sprite rises from behind the **Rooftop** sprite. The **Moon** and the **Rooftop** are both sprites so they can be layered and programmed.
 
-Rising moon: https://scratch.mit.edu/projects/445119855/editor
+**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
