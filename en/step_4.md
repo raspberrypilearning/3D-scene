@@ -12,13 +12,11 @@ In the below example the **Moon** sprite rises from behind the **Rooftop** sprit
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
-The background is made up by the **Sky** backdrop and the **Rooftop** sprite. By developing some of your background as a sprite or a series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+The background is made up by the **Sky** backdrop and the **Rooftop** sprite. By developing our background using backdrops and a sprite or series of sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
 --- task ---
 
-In this step you are going to work with the **Paint editor** using two type of graphics: **vector** and **bitmap**. 
-
-Build your confidence when developing sprite costumes with vector and bitmap graphics by exploring the **How to...** below.
+In this step you are going to work with the **Paint editor** using two type of graphics: **vector** and **bitmap**. Build your confidence when developing sprite costumes with vector and bitmap graphics by exploring the **How to...** below.
 
 --- collapse ---
 ---
