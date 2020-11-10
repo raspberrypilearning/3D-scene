@@ -102,7 +102,7 @@ Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward 
 
 --- collapse ---
 ---
-title: Change layers while running
+title: Creating a foreground and background with sprites
 ---
 You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  dynamically change the order of sprites and create the illusion of depth while your code is running. 
 
@@ -115,20 +115,19 @@ Click the green flag on the project below and notice how the cat goes behind one
   <iframe src="https://scratch.mit.edu/projects/447184192/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Creating a foreground and background in your scene
+title: Creating a foreground and background with scenery
 ---
-You can also create the same shapes as sprites rather than as a sprite costume. Then a character sprite can move between the shapes. This may suit your project.
+You can also create parts of your scenery as separate sprites which sit on different `layers`{:class="block3looks"} by using the **paint editor**. Then have your character sprite move between the shapes you create. This may suit your project better than using existing sprites and will allow you to mask the edges of your stage. 
 
-Hills as sprites: See inside{:target="_blank"}
+**Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
 
-Make hills as a number of sprite
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
 
-Make hills as a number of sprite{:width="400px"}
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
 
 --- /collapse ---
 
