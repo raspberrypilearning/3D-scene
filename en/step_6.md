@@ -49,7 +49,7 @@ Your new variable will automatically appear on the Stage.
 
 --- task ---
  
-Change it to a slider. It will automatically have a range from 1 to 10 which you can change at any point. 
+Change it to a slider. It will start with a range from 1 to 100 which you can change at any point. 
 
 --- collapse ---
 
@@ -210,15 +210,62 @@ You can also use a variable to change the volume and pan/tilt effect.
 
 --- /task ---
 
---- task ---
-Experiment with using your variable to control the scene. 
-
-Things to try:
-+ Change the range of the slider so that you are happy with the maximum and minimum values. Choose values that make sense for your project. 
-+ Include `0` or negative numbers in the range for your slider. What happens?
-
 **Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
 
---- /task ---
+You can add as many `variables`{:class="block3variables"} as you like to control movement, delays, visual effects and sound effects. You may have already realised that you can control different sprites, or different effects, using the same variable.
+
+--- collapse ---
+
+---
+
+title: Controlling more than one sprite using the same variable
+
+---
+
+**Under the waves**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444614449/?autostart=false" frameborder="0"></iframe>
+</div>
+
+There is nothing really new to learn here. You will simply use the same variable in more than one place. It may be to control the speed of two different sprites, or the moving speed of a sprite and the pitch of a sound at the same time.
+
+You can use the same variable as many times as you like in a project, and as long as you left 'for all sprites' selected, it can be used for any sprites at the same time.
+
+Here are some examples of a variable, simply called `variable`{:class="block3variables"}, being used in different scripts at the same time:
+
+```blocks3
+when flag clicked
+set rotation style [left-right v]
+forever
+move (variable) steps
+if on edge, bounce
+end
+
+when flag clicked
+forever
+set [pitch v] effect to (variable)
+end
+
+when flag clicked
+forever
+set [whirl v] effect to (variable)
+end
+
+when flag clicked
+forever
+wait (variable) seconds
+next costume
+end
+
+when flag clicked
+forever
+turn right (variable) degrees
+end
+```
+
+All of these scripts can use the same variable at the same time. 
+
+--- /collapse ---
 
 --- save ---
