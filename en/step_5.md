@@ -94,6 +94,11 @@ Go [backward v] (2) layers
 --- task ---
 Now, change the size of some of your sprites to increase the 3-dimensional effect:
 
+--- collapse ---
+---
+title: Changing size with layer
+---
+
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
 Click or tap the backdrop to change the scenery for some added perspective!
@@ -103,12 +108,8 @@ Click or tap the backdrop to change the scenery for some added perspective!
 </div>
 
 
-Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="block3looks"} block in your code to make your sprite shrink when it moves to the `back layer`{:class="block3looks"} and grow when it moves to the `front layer`{:class="block3looks"}! 
+Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="block3looks"} block in your code to make your sprite shrink when it moves to the `back layer`{:class="block3looks"} and grow when it moves to the `front layer`{:class="block3looks"}!
 
---- collapse ---
----
-title: Changing size with layer
----
 Make your code change the size of your sprite when the layer changes by adding the `set size to ()%`{:class="block3looks"} like this:
 ``` blocks3
 when [up arrow v] key pressed
