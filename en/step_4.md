@@ -28,7 +28,7 @@ Now make a background sprite for your scene. You can use your chosen backdrop, c
 
 In this step you are going to work with the **Paint editor** where there are two types of graphics: **vector** and **bitmap**. The **Costume editor** automatically opens in the vector graphic setting. You will be using vector graphics for this project.
 
-**Hills as one sprite costume**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
+**Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 
 ![Sprite hills as background](images/challenge2-sprite-hills.png){:width="400px"}
 
