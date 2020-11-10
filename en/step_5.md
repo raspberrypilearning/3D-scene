@@ -101,29 +101,13 @@ title: Creating a foreground and background with sprites
 You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  dynamically change the order of sprites and create the illusion of depth while your code is running. 
 
 
-Click the green flag on the project below and notice how the cat goes behind one tree, but in front of another:
+Click the green flag on the project below and notice how the character goes behind one tree, but in front of another:
 
 **Depth with Layers**: [See inside](https://scratch.mit.edu/projects/447184192/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447184192/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
---- /collapse ---
-
---- collapse ---
----
-title: Creating a foreground and background with scenery
----
-You can also create parts of your scenery as separate sprites which sit on different `layers`{:class="block3looks"} by using the **Paint editor**, then have your character sprite move between the shapes you create. This may suit your project better than using existing sprites from the library and will allow you to easily mask the edges of your stage. 
-
-**Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
-
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
-
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
-
-If you need some reminders, click back to the previous **Scenery** step for some tips!
 
 --- /collapse ---
 
