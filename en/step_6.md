@@ -1,11 +1,10 @@
 ## Control your scene with variables
 
-In this step you will add a variable with a slider to control something in your scene. You could use a variable to control graphic effects, sound effects or timing. 
+In this step you will add a variable with a slider to control something in your scene such as a graphic effects, sound effects, movement or timing. 
 
---- task ---
-Think about what you want to be able to control with a variable. 
+--- task --- 
 
-In this example, the speed variable controls how fast the snowman moves and how fast the snowflake moves and turns:
+Look at the example below. The speed variable controls how fast the snowman moves, ********** and how fast the snowflake moves and turns:
 
 **Winter scene**: [See inside](https://scratch.mit.edu/projects/447121911/editor){:target="_blank"}
 
@@ -16,9 +15,10 @@ In this example, the speed variable controls how fast the snowman moves and how 
 --- /task ---
 
 --- task ---
-Think of a sensible name for your variable.
 
-Make a new variable, for all sprites, and give it the name you have chosen.
+Decide what you want to control using a variable.
+
+Create a new variable and give it the name that matches its use, e.g. if it will control how quickly a sprite spins, name it `turn`{:class="block3variables"}.
 
 --- collapse ---
 
@@ -30,16 +30,16 @@ title: Add a new variable
 
 Click on the 'Code' tab for any sprite or the Stage. 
 
-Click on `Variables`{:class="block3variables"} and then 'Make a Variable'.
-Click on `Variables`{:class="block3variables"} and then 'Make a Variable'.
+
+Go to the `Variables`{:class="block3variables"} blocks and click on 'Make a Variable'.
 
 ![Make a variable](images/make-a-variable.png)
 
-Name the variable, for example 'speed'. Keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
+Name the variable to match its use, for example 'turn'. Keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
 
 ![Speed variable settings](images/speed-variable.png)
 
-Click 'OK' to make the new variable. You will have new Variable blocks available including a `speed`{:class="block3variables"} block that you can use as an input to other blocks. 
+Click 'OK' to make the new variable. You will have new variable blocks available including a `turn`{:class="block3variables"} block (or whatever you named your variable) that you can use as an input to other blocks. 
 
 --- /collapse ---
 
@@ -48,7 +48,7 @@ Click 'OK' to make the new variable. You will have new Variable blocks available
 --- task ---
 Your new variable will automatically appear on the Stage. 
 
-Change it to a slider with the range 1 to 10, you can change the range later. 
+Change it to a slider. It will automatically have a range from 1 to 10 which you can change at any point. 
 
 --- collapse ---
 
@@ -58,7 +58,7 @@ title: Use a slider to change a variable
 
 ---
 
-Right-click or tap and hold on the `speed`{:class="block3variables"} variable on the Stage. 
+Right-click or tap and hold on the `turn`{:class="block3variables"} variable on the Stage. 
 
 Select 'slider' from the menu. 
 
@@ -66,7 +66,7 @@ Select 'slider' from the menu.
 
 **Tip:** You can double click or tap on a variable on the Stage to switch between normal, large and slider. 
 
-Right-click or tap and hold on the `speed`{:class="block3variables"} variable on the Stage again and choose 'change slider range'. 
+Right-click or tap and hold on the `turn`{:class="block3variables"} variable on the Stage again and choose 'change slider range'. 
 
 ![Speed slider](images/slider-range.png)
 Set the range to a minimum of 1 and a maximum of 10:
