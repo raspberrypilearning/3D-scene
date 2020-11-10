@@ -48,20 +48,34 @@ Use a `go to [back v] layer`{:class="block3looks"} or a `go to [front v] layer`{
 --- 
 title: Control layer placement with code
 ---
-You should get your sprite to go to the back (or front) layer and then move a number of layers at the start of your project:
+You should get your sprite to go to the back (or front) layer and then move each sprite a concurrent number of layers at the start of your project:
 
+Front sprite:
 ``` blocks3
 when green flag clicked
 go to [back v] layer
 Go [forward v] (1) layers
 ```
+Rear sprite:
+``` blocks3
+when green flag clicked
+go to [back v] layer
+Go [forward v] (2) layers
+```
 
-Or:
+**Or:**
 
+Front sprite:
 ``` blocks3
 when green flag clicked
 go to [front v] layer
 Go [backward v] (1) layers
+```
+Rear sprite:
+``` blocks3
+when green flag clicked
+go to [front v] layer
+Go [backward v] (2) layers
 ```
 
 --- /collapse ---
@@ -87,14 +101,15 @@ You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  
 --- no-print ---
 Click the green flag on the project below and notice how the cat goes behind one tree, but in front of another:
 
-**Depth with Layers**: [See inside](https://scratch.mit.edu/projects/445072215/editor){:target="_blank"}
+**Depth with Layers**: [See inside](https://scratch.mit.edu/projects/447184192/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/445072215/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/447184192/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
 
-###Using size to create distance 
+### Using size to create distance
+
 When we look at things which are further away, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
 
 **Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
