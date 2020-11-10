@@ -20,8 +20,7 @@ Below are some examples of **How to …** You can use these if you need a remind
 --- task ---
 Add a backdrop of your choice. Don't worry too much as you can change it at any time as you develop your idea. 
 
-**NEW SECTION AND COLLAPSE
-Note: objects which are already drawn onto a Backdrop cannot be individually programmed. Choose a simple backdrop with just a few or no objects drawn on it or design your own background. This will give you more freedom as you go on to develop your project by animating your scenery.**
+Note: objects which are already drawn onto a backdrop cannot be individually programmed. Choose a simple backdrop with just a few or no objects drawn on it or design your own background. This will give you more freedom as you go on to develop your project by animating your scenery.**
 
 --- collapse ---
 ---
@@ -30,9 +29,13 @@ title: Design your own background
 
 ---
 
++ Click on __Choose a Backdrop__ in the bottom right.
 
-[[[generic-scratch3-backdrop-from-library]]]
+![screenshot](images/stage-choose.png)
 
++ You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
+
+![screenshot](images/backdrop.png)
 
 --- /collapse --- 
 
