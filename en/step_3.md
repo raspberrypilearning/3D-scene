@@ -14,7 +14,9 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 
 + What mood do you want to create? Will it be relaxing, energising, or funny?
 
-In this project you will choose or design your own a backdrop. You will also create a number of sprites
+Your scenery is what makes up your scene - it tends to be made up of anything which in real-life does not move. This could include a mountainscape with pine trees, a street with houses, a wood with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best.
+
+In this project, for your scenery, you can **Choose a Backdrop** or make one. You can also **Choose a Sprite** or make them. 
 
 ![Image with sprites and backdrops](images/sprite-backdrop.png)
 
@@ -37,11 +39,11 @@ Objects that are drawn on a backdrop are not sprites, they cannot be layered or 
 --- collapse ---
 ---
 
-title: Choose a backdrop
+title: Choose a Backdrop
 
 ---
 
-Click on **Choose a Backdrop** in the bottom right.
+In the bottom-right of the **Stage pane**, click on **Choose a Backdrop**.
 
 ![Image of Choose a Backdrop](images/stage-choose.png)
 
