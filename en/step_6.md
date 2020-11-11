@@ -18,7 +18,9 @@ Look at the example below. The `speed`{:class="block3variables"} variable contro
 
 Decide what you want to control using a variable.
 
-Create a new variable and give it the name that matches its use, e.g. if it will control how quickly a sprite spins, name it `turn`{:class="block3variables"}.
+Create a new variable and give it the name that matches its use. For example, if it will control how quickly a sprite spins, name it `turn`{:class="block3variables"}.
+
+<mark>Should we give more examples such as volume, colour, size, ghost, brightness?</mark>
 
 --- collapse ---
 
@@ -29,7 +31,6 @@ title: Add a new variable
 ---
 
 Click on the 'Code' tab for any sprite or the Stage. 
-
 
 Go to the `Variables`{:class="block3variables"} blocks and click on 'Make a Variable'.
 
@@ -78,7 +79,7 @@ Set the range by specifying a minimum and maximum value.
 
 A minimum of 1 and a maximum of 10 work fairly well for how quickly a sprite spins.
 
-![Speed slider range 1 to 10](images/range-values.png)
+![Slider range 1 to 10](images/range-values.png)
 
 The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right but remember that you can chnage it at any time.
 
@@ -87,7 +88,6 @@ The value range that is right for your variable depends on what you are using it
 --- /collapse ---
 
 --- /task ---
-
 
 --- task ---
 
@@ -173,8 +173,35 @@ Set the minimum and maximum values for the range of the slider to suit your proj
 --- collapse ---
 
 ---
+
 title: Change the delay in a wait block
+
 ---
+
+**Dance delay**: [See inside](https://scratch.mit.edu/projects/447752917/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447752917/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Use a `delay`{:class="block3variables"} variable as the input to a `wait`{:class="block3motion"} block:
+
+```blocks3
+when flag clicked
+forever
+wait (delay) seconds
+next costume
+```
+
+A delay of more than one second is quite a long time. If you include a decimal number in the range of a slider then you can change the value 100th of a second at a time. 
+
+A range of 0 to 1.0 would let you choose value between 0 seconds (no delay) and 1 second.
+
+This example lets you choose values between one hundredth of a second (0.01) and 3 tenths of a second (0.30). 
+
+![Decimal range](images/decimal-range.png)
+
+Try changing the numbers to get the maximum and minumum that you want users to be able to use in your project.
 
 --- /collapse ---
 
@@ -217,6 +244,24 @@ You can also use a variable to change the volume and pan/tilt effect.
 **Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
 
 You can add as many `variables`{:class="block3variables"} as you like to control movement, delays, visual effects and sound effects. You may have already realised that you can control different sprites, or different effects, using the same variable.
+
+--- collapse ---
+
+---
+
+title: Renaming a variable
+
+---
+
+Sometimes you think of a better name for a variable. 
+
+You can give a variable a new name by going to the Variables section, right-clicking on the variable and choosing 'rename'.
+
+![Rename a variable](images/rename-variable.png)
+
+This will change the name of the variable in all the code blocks where you have used it. 
+
+--- /collapse ---
 
 --- collapse ---
 
