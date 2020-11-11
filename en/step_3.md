@@ -38,7 +38,6 @@ In this project, for your scenery, you can **Choose a Backdrop** or make one. Yo
 Below are some examples of **How to…**. You can use these if you need a reminder, or to understand blocks in more detail.
 
 --- task ---
-Add a backdrop of your choice. Don't worry too much as you can change it at any time as you develop your idea. 
 
 Objects which are already drawn onto a backdrop cannot be programmed. Choose a simple backdrop with just a few or no objects drawn on it. This will give you more freedom as you go on to create sprites as part of your scenery in the next step.
 
@@ -49,29 +48,34 @@ Objects that are drawn on a backdrop are not sprites, they cannot be layered or 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
 
+
+
+--- task ---
+
+Add a backdrop of your choice. Don’t worry about it too much, you can change it as you develop your idea. Below are some examples of **How to …**. You can use these if you need a reminder, or to understand blocks in more detail.
+
 --- collapse ---
 ---
 
-title: Choose a Backdrop
+title: Choose a backdrop
 
 ---
 
-In the bottom-right of the **Stage pane**, click on **Choose a Backdrop**.
-
+In the bottom-right corner of the Stage pane, click on **Choose a Backdrop**.
 ![Image of Choose a Backdrop](images/stage-choose.png)
 
-You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
-
+You can search for a backdrop, or browse for one by category or theme. Click on a backdrop to select it.
 ![Image of Backdrop Library](images/backdrop.png)
 
---- /collapse --- 
-
+--- /collapse ---
 
 --- /task ---
 
 --- task ---
 
-Add your first sprite. You will always be able to change the way it looks or add more sprites later.
+Add your first sprite. You will be able to change the way it looks or add more sprites later.
+
+--- /collapse ---
 
 --- collapse ---
 ---
@@ -80,17 +84,16 @@ title: Choose a sprite
 
 ---
 
-In the **Sprite pane**, click **Choose a Sprite** to see the library of all Scratch sprites.
-
-![Image sprite library](images/sprite-library.png)
+In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
+![Image Sprite Library](images/sprite-library.png)
 
 You can search or browse sprites by theme. Click on a sprite to add it to your project.
+![Image Sprite Library - choose](images/sprite-choose.png)
 
-![Image sprite library - choose](images/sprite-choose.png)
-
---- /collapse --- 
+--- /collapse ---
 
 --- /task ---
+
 
 --- task ---
 
