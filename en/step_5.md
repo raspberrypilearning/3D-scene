@@ -14,7 +14,7 @@ Notice how the rocket is smaller than the robot as well as higher up on the stag
 --- /task ---
 
 --- task ---
-Program you sprites into layers. You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks.
+Program your sprites into layers. You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks.
 
 --- collapse ---
 ---
@@ -47,7 +47,7 @@ Once you know which sprites you would like to go on top, you can do this by havi
 
 --- /collapse ---
 
-You could also or create more complexity by programming your sprites from front to back.
+You could also or create more complexity by programming your sprites from front to back in multiple layers:
 
 --- collapse ---
 ---
