@@ -2,23 +2,33 @@
 
 In this step you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into `layers`{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites to increase the 3-dimensional effect. 
 
-**Moon base**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
+--- task ---
+Notice how the rocket is smaller than the robot as well as higher up on the stage, creating the illusion of distance in this project. 
 
-Click or tap the backdrop to change the scene!
+**Moon base**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
+--- /task ---
+
 --- task ---
-Progmram you sprites into layers. You can simply program your sprites into two layers and use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"}.
+Program you sprites into layers. You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks.
 
 --- collapse ---
 ---
 title: Program your sprites with front and back layers 
 ---
+Have a look at this project and notice how it uses the front and back layers to order the sprites when you click the green flag.
 
-This project uses only front and back layers to make the cats appear to circle the globe:
+**Front and back layers:** [See inside](https://scratch.mit.edu/projects/448361272/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/448361272/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div> 
+
+Once you have your sprites in layers, you can create cool animated effects! This project uses only front and back layers to make the cats appear to circle the globe:
 
 **Cats Around the World**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
 
