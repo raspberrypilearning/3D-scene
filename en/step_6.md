@@ -38,7 +38,7 @@ Go to the `Variables`{:class="block3variables"} blocks and click on 'Make a Vari
 
 Name the variable to match its use, for example `turn`{:class="block3variables"}. Generally, you will keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
 
-![Speed variable settings](images/speed-variable.png)
+![Turn variable settings](images/turn-variable.png)
 
 Click 'OK' to make the new variable. You will have new variable blocks available including a `turn`{:class="block3variables"} block (or whatever you named your variable) that you can use as an input to other blocks. 
 
@@ -68,7 +68,7 @@ Right-click or tap and hold on your variable on the Stage.
 
 Select 'slider' from the menu. 
 
-![Speed slider](images/variable-slider.png)
+![Turn slider](images/variable-slider.png)
 
 **Tip:** You can double click or tap on a variable on the Stage to switch between normal, large and slider. 
 
@@ -79,9 +79,9 @@ Set the range by specifying a minimum and maximum value.
 
 A minimum of 1 and a maximum of 10 work fairly well for how quickly a sprite spins.
 
-![Slider range 1 to 10](images/range-values.png)
+![Slider range 1 to 10](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right but remember that you can chnage it at any time.
+The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right but remember that you can change it at any time.
 
 **Tip:** Variables on the Stage always appear in a layer above all of the sprites. If you have a moving sprite it will go under any variables on the Stage. 
 
