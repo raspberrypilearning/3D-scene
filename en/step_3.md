@@ -29,6 +29,8 @@ This will help to create a greater sense of depth in your scene. Bigger sprites 
 
 In this project, for your scenery, you can **Choose a Backdrop** or make one. You can also **Choose a Sprite** or make them. 
 
+--- /task ---
+
 --- task ---
 
 + Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
