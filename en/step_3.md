@@ -2,25 +2,38 @@
 
 Now it's time to work on your own project. You may be bursting with ideas already, or you may need to take a few minutes to decide on a theme you want to work with. 
 
-When you think about a stage or theatre in real life, you understand that the actors can move closer or further away from the audience; so that one can pass in front of another. This is called **depth**, and it makes things feel more realistic when you watch them (even cartoons!)
+--- task ---
+
++ Take five minutes to think about **your** '3D scene' project. 
++ What mood do you want to create? Will it be relaxing, energising, or funny?
+
+--- /task ---
+
+--- task ---
+
++ What will your scenery look like? 
+
+As on a stage in the theatre, scenery tends to be made up of anything which in real-life does not move. This could include a mountainscape with pine trees, a street with houses, a wood with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best.
+
+![Image with sprites and backdrops](images/sprite-backdrop.png)
+
+Think again about the theatre, characters then move through the scenery. Things which are further away from the audience are smaller and lighter in colour. 
+
+This is called **depth**, and it makes things feel more realistic when you watch them (even cartoons!)
 
 When we look at things which are further away in real life, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect.
 
 This will help to create a greater sense of depth in your scene. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
 
---- task ---
-
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}. Take five minutes to think about **your** '3D scene' project. 
-
-+ What mood do you want to create? Will it be relaxing, energising, or funny?
-
-Your scenery is what makes up your scene - it tends to be made up of anything which in real-life does not move. This could include a mountainscape with pine trees, a street with houses, a wood with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best.
++ Think about what backdrop and sprites will you choose and/or create for your scenery?
 
 In this project, for your scenery, you can **Choose a Backdrop** or make one. You can also **Choose a Sprite** or make them. 
 
-![Image with sprites and backdrops](images/sprite-backdrop.png)
+--- task ---
 
---- /task ---
++ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
+
+--- task ---
 
 Below are some examples of **How to…**. You can use these if you need a reminder, or to understand blocks in more detail.
 
