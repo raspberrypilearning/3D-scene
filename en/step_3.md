@@ -35,7 +35,7 @@ In this project, for your scenery, you can **Choose a Backdrop** or make one. Yo
 
 + Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
 
---- task ---
+--- /task ---
 
 Below are some examples of **How to…**. You can use these if you need a reminder, or to understand blocks in more detail.
 
@@ -49,8 +49,7 @@ Objects that are drawn on a backdrop are not sprites, they cannot be layered or 
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
-
-
+--- /task ---
 
 --- task ---
 
@@ -79,6 +78,10 @@ Add your first sprite. You will be able to change the way it looks or add more s
 
 --- /collapse ---
 
+--- /task ---
+
+--- task ---
+
 --- collapse ---
 ---
 
@@ -95,7 +98,6 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 --- /collapse ---
 
 --- /task ---
-
 
 --- task ---
 
