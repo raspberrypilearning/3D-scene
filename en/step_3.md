@@ -27,6 +27,8 @@ Add a backdrop of your choice. Don't worry too much as you can change it at any 
 
 Objects which are already drawn onto a backdrop cannot be programmed. Choose a simple backdrop with just a few or no objects drawn on it. This will give you more freedom as you go on to create sprites as part of your scenery in the next step.
 
+![Image with sprites and backdrops](images/challenge2-layers.gif)
+
 --- collapse ---
 ---
 
