@@ -1,6 +1,6 @@
 ## Control your scene with variables
 
-In this step you will add a variable with a slider to control something in your scene such as a graphic effects, sound effects, movement or timing. 
+In this step you will add one or more variables with sliders to control something in your scene such as graphic effects, sound effects, movement or timing. 
 
 --- task --- 
 
@@ -16,7 +16,7 @@ Look at the example below. The `speed`{:class="block3variables"} variable contro
 
 --- task ---
 
-Decide what you want to control using a variable.
+Decide what you want to control using a variable. 
 
 Create a new variable and give it the name that matches its use. For example, if it will control how quickly a sprite spins, name it `turn`{:class="block3variables"}.
 
@@ -245,8 +245,7 @@ You can also use a variable to change the volume and pan/tilt effect.
 
 **Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
 
-
-You can add as many `variables`{:class="block3variables"} as you like to control movement, delays, visual effects and sound effects. You may have already realised that you can control different sprites, or different effects, using the same variable.
+ You may have already realised that you can control different sprites, or different effects, using the same variable.
 
 --- collapse ---
 
@@ -319,5 +318,15 @@ You can give a variable a new name by going to the Variables section, right-clic
 This will change the name of the variable in all the code blocks where you have used it. 
 
 --- /collapse ---
+
+--- task ---
+Add as many `variables`{:class="block3variables"} as you like to control movement, delays, visual effects and sound effects.
+
+Things to consider:
++ Have your given your variables names that match what they are used for?
++ Have you chosen the best maximum and minumum values for your sliders?
++ Are your sliders neatly arranged on the Stage?
+
+--- /task ---
 
 --- save ---
