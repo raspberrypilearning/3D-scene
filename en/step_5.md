@@ -1,6 +1,6 @@
 ## 3-Dimensional effects
 
-In this step you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into 'layers'{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites in relation to each other. 
+In this step you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into `layers`{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites to increase the 3-dimensional effect. 
 
 **Cars in Space**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
@@ -11,14 +11,14 @@ Click or tap the backdrop to change the scene!
 </div>
 
 --- task ---
-Program your sprites into layers by programming them. You can keep it simple and just use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} if you like, or create multiple layers for more complex projects.
+Progmram you sprites into layers. You can simply program your sprites into two layers and use the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"}.
 
 --- collapse ---
 ---
-title: Program your sprites into layers
+title: Program your sprites with front and back layers 
 ---
 
-This project uses front and back layers to make the cats appear to circle the globe:
+This project uses only front and back layers to make the cats appear to circle the globe:
 
 **Cats Around the World**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
 
@@ -37,9 +37,11 @@ Once you know which sprites you would like to go on top, you can do this by havi
 
 --- /collapse ---
 
+You could also or create more complexity by programming your sprites from front to back:
+
 --- collapse ---
 ---
-title: Program your sprites from front to back
+title: Program your sprites with multiple layers
 ---
 Have a look at how this project orders each of the sprites from front to back by using `Go backward X layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
