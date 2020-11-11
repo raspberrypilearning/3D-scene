@@ -40,11 +40,10 @@ Name the variable to match its use, for example `turn`{:class="block3variables"}
 
 ![Turn variable settings](images/turn-variable.png)
 
-Click 'OK' to make the new variable. You will have new variable blocks available including a `turn`{:class="block3variables"} block (or whatever you named your variable) that you can use as an input to other blocks. 
+Click 'OK' to make the new variable. You will have new variable blocks available including a `turn`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
 
-```blocks3
-turn ::variables
-```
+![Turn variable blocks](images/turn-variable-blocks.png)
+
 
 --- /collapse ---
 
