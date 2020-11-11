@@ -317,12 +317,13 @@ This will change the name of the variable in all the code blocks where you have 
 --- /collapse ---
 
 --- task ---
-Add as many `variables`{:class="block3variables"} as you like to control movement, delays, visual effects and sound effects.
+Add as many `variables`{:class="block3variables"} as you like to control movement, delays, visual effects and sound effects. 
 
 Things to consider:
-+ Have your given your variables names that match what they are used for?
++ Have you given your variables names that match what they are used for?
 + Have you chosen the best maximum and minumum values for your sliders?
 + Are your sliders neatly arranged on the Stage?
++ Can you use the same variable in multiple places?
 
 --- /task ---
 
