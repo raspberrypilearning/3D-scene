@@ -37,7 +37,7 @@ Once you know which sprites you would like to go on top, you can do this by havi
 
 --- /collapse ---
 
-You could also or create more complexity by programming your sprites from front to back:
+You could also or create more complexity by programming your sprites from front to back.
 
 --- collapse ---
 ---
@@ -94,11 +94,12 @@ Go [backward v] (2) layers
 --- /task ---
 
 --- task ---
-Change the size of relevant sprites to increase the 3-dimensional effect.
+
+Resize your sprites where relevant to increase the 3-dimensional effect.
 
 --- collapse ---
 ---
-title: Resizing by layer
+title: Set the size of your sprites
 ---
 
 **Numbers in a row**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
@@ -119,7 +120,6 @@ go to [front v] layer
 +set size to (120)%
 ```
 
-
 ``` blocks3
 when green flag clicked
 go to [back v] layer
@@ -139,7 +139,13 @@ go to [front v] layer
 +go [back v] (1) layers
 +change size by (-20)
 ```
+Make sure that you are changing the right sprite each time, with the smallest sprite being the furthest back.
+--- /collapse ---
 
+--- collapse ---
+---
+title: Change the size of your sprite
+---
 --- /collapse ---
 
 --- /task ---
