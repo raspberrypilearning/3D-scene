@@ -242,8 +242,6 @@ You can also use a variable to change the volume and pan/tilt effect.
 
 --- /task ---
 
-**Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
-
  You may have already realised that you can control different sprites, or different effects, using the same variable.
 
 --- collapse ---
@@ -327,5 +325,7 @@ Things to consider:
 + Are your sliders neatly arranged on the Stage?
 
 --- /task ---
+
+**Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
 
 --- save ---
