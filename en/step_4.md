@@ -1,14 +1,14 @@
 ## Scenery
 
-In this step you will create a background made up of a backdrop and sprites. In the next step you will program the sprites.
+In this step you will create scenery with one backdrop and a series of sprites using the **Paint editor**. In the next step you will program the sprites.
 
-In the below example the **Moon** sprite rises from behind the **Rooftop** sprite. Because they are both sprites they can be layered and programmed.
+In the below example the scenery is made up of a plain blue **Sky** backdrop and a silhouetted **Rooftop** sprite.
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
-The background is made up by the blue **Sky** backdrop and the silhouette **Rooftop** sprite. By developing your background using a backdrop and one or more sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+Because they are sprites, the **Moon** and the **Rooftop** can be programmed. The moon is programmed to rise. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
 Throughout this step, organise your sprites into their layer position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
 
@@ -20,9 +20,9 @@ Throughout this step, organise your sprites into their layer position by draggin
 
 --- task ---
 
-Now make a background sprite for your scene. You can use your chosen backdrop, change your chosen backdrop or create your own backdrop.
+Now make a scenery sprite. You can use your chosen backdrop, change your chosen backdrop or create your own backdrop.
 
-In this step you are going to work with the **Paint editor** where there are two types of graphics: **vector** and **bitmap**. The **Costume editor** automatically opens in the vector graphic setting. You will be using vector graphics for this project.
+In this step you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **Costume editor** automatically opens in the vector graphic setting. You will be using vector graphics for this project.
 
 **Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 
@@ -31,43 +31,42 @@ In this step you are going to work with the **Paint editor** where there are two
 --- collapse ---
 ---
 
-title: Create a background from a backdrop and sprites
+title: Create your scenery from a backdrop and sprites
 
 ---
 
-The background is the very back of your scene - it might be a skyline, a street, a forest or a bedroom wall - whatever suits your project best. 
-
 Below is an example of a **Sky** background with **Hill** sprites. You can use the example below to create any background and objects you require in your scene.
 
-To create a sky blue backdrop go to **Backdrops** in the **Stage pane** and select **Paint**.
+To make your own backdrop:
++ Go to the **Stage pane**, click **Backdrops** and selecting **Paint**.
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-In the **Backdrops tab**, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the **Paint Editor**). Don't forget to title your backdrop.
++ In the **Backdrops** tab, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the **Paint Editor**). Don't forget to title your backdrop.
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
-Now you will create background sprites for your scene which will sit on the **Sky** backdrop.
++ Now you will create sprites for your scenery which will sit on the **Sky** backdrop.
 
-Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
++ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
 
 ![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
-Choose a colour and draw a series of ovals using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
++ Choose a colour and draw a series of ovals using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
 
 In the real-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away. Altering colour saturation to create a sense of depth is a traditional technique used by landscape painters.
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
-Use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
++ Use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
 
 ![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
++ You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-Don't forget to title your sprite. It also helps to title each costume.
++ Don't forget to title your backdrop and sprite. It also helps to title each costume.
 
 --- /collapse ---
 
