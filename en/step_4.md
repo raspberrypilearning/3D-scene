@@ -1,10 +1,6 @@
 ## Scenery
 
-You have selected a backdrop and a sprite. Now it's time to think about what other sprites you want in your **scenery**. In this step you will create a background made up of a backdrop and sprites. In the next step you will program the sprites.
-
-Objects that are drawn on a backdrop are not sprites, they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair drawn is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can.  
-
-![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
+In this step you will create a background made up of a backdrop and sprites. In the next step you will program the sprites.
 
 In the below example the **Moon** sprite rises from behind the **Rooftop** sprite. Because they are both sprites they can be layered and programmed.
 
