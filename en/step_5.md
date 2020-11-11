@@ -28,7 +28,7 @@ Have a look at this project and notice how it uses the front and back layers to 
   <iframe src="https://scratch.mit.edu/projects/448361272/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div> 
 
-Once you have your sprites in layers, you can create cool animated effects! This project uses only front and back layers to make the cats appear to circle the globe:
+By using layers, you can create cool animated effects! This project uses only front and back layers to make the cats appear to circle the globe:
 
 **Cats Around the World**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
 
