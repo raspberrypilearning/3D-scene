@@ -2,7 +2,7 @@
 
 In this step you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into `layers`{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites to increase the 3-dimensional effect. 
 
-**Cars in Space**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
+**Moon base**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
 Click or tap the backdrop to change the scene!
 
