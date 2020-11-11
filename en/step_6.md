@@ -188,15 +188,6 @@ title: Setting and changing the volume, pitch and pan effect
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/448392543/?autostart=false" frameborder="0"></iframe>
 </div>
 
-The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. Click on the guitar in the example to increase the pitch (click the green flag to set it back to normal.)
-
-The guitar plays a continuous sound loop, this code increases the pitch when you click on the guitar:
-
-```blocks3
-when this sprite clicked
-change [pitch v] effect by (10)
-```
-
 The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. If you have stereo headphones or speakers then clicking on the left speaker will play sound on the left and clicking the right speaker will play sound on the right. 
 
 Code for the left speaker:
@@ -213,12 +204,26 @@ when flag clicked
 set [pan left/right v] effect to (100)
 ```
 
+**Tip**: Click the red stop icon above the stage to stop the guitar sound if it is playing. Then you'll be able to hear the speakers more clearly.
+
+The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. Click on the guitar in the example to increase the pitch (click the green flag to set it back to normal.)
+
+This code increases the pitch when you click on the guitar:
+
+```blocks3
+when this sprite clicked
+change [pitch v] effect by (10)
+```
+
 The volume of the guitar is lower than the volume of the speakers. This is useful if you want some sounds louder than others or if you want a sprite to appear further away. 
 
-This code sets the volume of the guitar:
+This code sets the volume of the guitar to 0 when the green flag is clicked and then to 25% when you click on the guitar:
 
 ```blocks3
 when flag clicked
+set volume to (0) %
+
+when this sprite clicked
 set volume to (25) %
 ``` 
 
