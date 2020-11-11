@@ -29,6 +29,11 @@ Objects which are already drawn onto a backdrop cannot be programmed. Choose a s
 
 ![Image with sprites and backdrops](images/challenge2-layers.gif)
 
+Objects that are drawn on a backdrop are not sprites, they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair drawn is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can.  
+
+![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
+
+
 --- collapse ---
 ---
 
