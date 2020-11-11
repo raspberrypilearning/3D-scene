@@ -174,7 +174,7 @@ title: Incidental sounds
  
 --- task ---
 
-Once you have your sounds, you may want to change some details such as setting the `volume`{:class="block3sound"}, the `pitch`{:class="block3sound"} or the balance, or `panning`{:class="block3sound"}, from left to right.
+Once you have your sounds, you may want to change some details such as setting the `volume`{:class="block3sound"}, the `pitch`{:class="block3sound"}, or changing the `pan`{:class="block3sound"} to make sound come from the left or right.
 
 --- collapse ---
 
@@ -188,43 +188,50 @@ title: Setting and changing the volume, pitch and pan effect
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/448392543/?autostart=false" frameborder="0"></iframe>
 </div>
 
-The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. If you have stereo headphones or speakers then clicking on the left speaker will play sound on the left and clicking the right speaker will play sound on the right. 
+The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. A value of -100 plays all of the sound through the left speaker, 100 plays all of the sound through the right speaker, values in between play some some through each. 
+
+If you have stereo headphones or speakers then clicking on the left speaker will play sound on the left and clicking the right speaker will play sound on the right. 
 
 Code for the left speaker:
 
 ```blocks3
-when flag clicked
+when this sprite clicked
 set [pan left/right v] effect to (-100)
+start sound (Drum Funky v)
 ```
 
 Code for the right speaker:
 
 ```blocks3
-when flag clicked
+when this sprite clicked
 set [pan left/right v] effect to (100)
+start sound (Drum Funky v)
 ```
 
-**Tip**: Click the red stop icon above the stage to stop the guitar sound if it is playing. Then you'll be able to hear the speakers more clearly.
+**Tip**: If the guitar is playing, click the green flag and stop it so you can hear the speakers clearly.
 
-The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. Click on the guitar in the example to increase the pitch (click the green flag to set it back to normal.)
+The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between -360 (very low) and 360 (very high). Click on the guitar in the example to increase the pitch (click the green flag to set it back to normal.)
 
 This code increases the pitch when you click on the guitar:
 
 ```blocks3
 when this sprite clicked
-change [pitch v] effect by (10)
+start sound (Guitar Chords1 v)
+change [pitch v] effect by (50)
 ```
+
+You can set the volume from 0 (silent) to 100 (full volume).
 
 The volume of the guitar is lower than the volume of the speakers. This is useful if you want some sounds louder than others or if you want a sprite to appear further away. 
 
-This code sets the volume of the guitar to 0 when the green flag is clicked and then to 25% when you click on the guitar:
+This code sets the volume of the guitar to 0 when the green flag is clicked and then to 10% when you click on the guitar:
 
 ```blocks3
 when flag clicked
 set volume to (0) %
 
 when this sprite clicked
-set volume to (25) %
+set volume to (10) %
 ``` 
 
 Sound effects are cleared when the green flag is clicked.
