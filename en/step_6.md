@@ -1,6 +1,6 @@
 ## Soundtrack
 
-Now you're going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at a specific time, such as when a new sprite appears.
+Now you're going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at a specific time, such as when you click on a sprite.
 
 --- task ---
  
@@ -103,9 +103,7 @@ end
 ---
 title: Continuous soundtrack using a sequence of short sounds
 ---
- 
-Some Scratch sprites have costumes that can be used to create a simple animation.
- 
+  
 **Champ performance**: [See inside](https://scratch.mit.edu/projects/444673165/editor){:target="_blank"}
  
 <div class="scratch-preview">
@@ -150,7 +148,7 @@ when green flag clicked
  
 --- /collapse ---
  
-Or you may just want to use sounds that happen at a certain time, such as when a user interacts with a sprite or when sprites interact with each other.
+Or you may just want to use sounds that happen at a certain time, such as when a user interacts with a sprite.
 
 --- collapse ---
 
@@ -158,16 +156,18 @@ Or you may just want to use sounds that happen at a certain time, such as when a
 title: Incidental sounds
 ---
  
-
- 
-**Robot animation**: [See inside](https://scratch.mit.edu/projects/436260207/editor){:target="_blank"}
+**Football sounds**: [See inside](https://scratch.mit.edu/projects/448305841/editor){:target="_blank"}
  
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436260207/?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/448305841/?autostart=false" frameborder="0"></iframe>
 </div>
  
+ You can start or play a sound when a sprite is clicked. 
 
- 
+ ```blocks3
+ when this sprite clicked
+ play sound (referee whistle v) until done
+ ```
 --- /collapse ---
 
 --- /task ---
@@ -181,15 +181,49 @@ Once you have your sounds, you may want to change some details such as setting t
 ---
 title: Setting and changing the volume, pitch and pan effect
 ---
- 
 
- 
-**Robot animation**: [See inside](https://scratch.mit.edu/projects/436260207/editor){:target="_blank"}
+**Sound effects**: [See inside](https://scratch.mit.edu/projects/448392543/editor){:target="_blank"}
  
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436260207/?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/448392543/?autostart=false" frameborder="0"></iframe>
 </div>
- 
+
+The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. Click on the guitar in the example to increase the pitch (click the green flag to set it back to normal.)
+
+The guitar plays a continuous sound loop, this code increases the pitch when you click on the guitar:
+
+```blocks3
+when this sprite clicked
+change [pitch v] effect by (10)
+```
+
+The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. If you have stereo headphones or speakers then clicking on the left speaker will play sound on the left and clicking the right speaker will play sound on the right. 
+
+Code for the left speaker:
+
+```blocks3
+when flag clicked
+set [pan left/right v] effect to (-100)
+```
+
+Code for the right speaker:
+
+```blocks3
+when flag clicked
+set [pan left/right v] effect to (100)
+```
+
+The volume of the guitar is lower than the volume of the speakers. This is useful if you want some sounds louder than others or if you want a sprite to appear further away. 
+
+This code sets the volume of the guitar:
+
+```blocks3
+when flag clicked
+set volume to (25) %
+``` 
+
+Sound effects are cleared when the green flag is clicked.
+
 --- /collapse ---
   
 --- /task ---
