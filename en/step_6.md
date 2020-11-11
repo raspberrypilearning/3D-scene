@@ -83,6 +83,8 @@ A minimum of 1 and a maximum of 10 work fairly well for how quickly a sprite spi
 
 The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right but remember that you can change it at any time.
 
+You can drag the slider to a convenient position on the Stage.
+
 **Tip:** Variables on the Stage always appear in a layer above all of the sprites. If you have a moving sprite it will go under any variables on the Stage. 
 
 --- /collapse ---
@@ -243,25 +245,8 @@ You can also use a variable to change the volume and pan/tilt effect.
 
 **Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
 
+
 You can add as many `variables`{:class="block3variables"} as you like to control movement, delays, visual effects and sound effects. You may have already realised that you can control different sprites, or different effects, using the same variable.
-
---- collapse ---
-
----
-
-title: Renaming a variable
-
----
-
-Sometimes you think of a better name for a variable. 
-
-You can give a variable a new name by going to the Variables section, right-clicking on the variable and choosing 'rename'.
-
-![Rename a variable](images/rename-variable.png)
-
-This will change the name of the variable in all the code blocks where you have used it. 
-
---- /collapse ---
 
 --- collapse ---
 
@@ -314,6 +299,24 @@ end
 ```
 
 All of these scripts can use the same variable at the same time. 
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+
+title: Renaming a variable
+
+---
+
+Sometimes you think of a better name for a variable. 
+
+You can give a variable a new name by going to the Variables section, right-clicking on the variable and choosing 'rename'.
+
+![Rename a variable](images/rename-variable.png)
+
+This will change the name of the variable in all the code blocks where you have used it. 
 
 --- /collapse ---
 
