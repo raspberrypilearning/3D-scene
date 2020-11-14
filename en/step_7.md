@@ -149,7 +149,7 @@ Try using the same approach with other graphic effects such as brightness or col
 
 ---
 
-title: Control move or turn speed with a variable
+title: Control move speed with a variable
 
 ---
 
@@ -159,7 +159,7 @@ title: Control move or turn speed with a variable
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447139076/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use the `speed`{:class="block3variables"} variable as the input to a `move () steps`{:class="block3motion"} block:
+Use the `speed`{:class="block3variables"} variable as the input to a `move`{:class="block3motion"} block:
 
 ```blocks3
 when flag clicked
@@ -212,18 +212,18 @@ title: Change sound effects
 
 ---
 
-**Sound speed**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
+**Sound pitch**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444614449/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Changing the pitch of a sound also speeds it up. 
+Changing the pitch of a sound makes the notes higher and also speeds it up. 
 
 ```blocks3
 when flag clicked
 forever
-set [pitch v] effect to (speed)
+set [pitch v] effect to (pitch)
 ```
 
 Play the sound in a separate forever loop so that the pitch will change immediately rather than waiting until the sound is done: 
@@ -306,7 +306,7 @@ title: Renaming a variable
 
 Sometimes you think of a better name for a variable. 
 
-You can give a variable a new name by going to the Variables section, right-clicking on the variable and choosing 'rename'.
+You can give a variable a new name by going to the Variables section, right-clicking on the variable and choosing 'Rename variable'.
 
 ![Rename a variable](images/rename-variable.png)
 
