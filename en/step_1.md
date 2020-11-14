@@ -1,11 +1,14 @@
 ## Introduction
-Create a project — relaxing, energising, funny, or inspiring — to try and change someone’s mood using sprites that move over a backdrop.
+You'll create a 3D scene that can be controlled with variables. The user will be able to act as the 'director' of the scene and play around until they get it just the way they want it. 
+
+Your scene doesn't have to be sensible. You should try and make it fun for you and others to play around with. 
 
 ## What you will make
-You will create your own project where you will choose your own sprites and backdrop to make a unique interactive animation. Your project might have balls bouncing around, birds that flap their wings, animals that move through the wood, or hearts that float around. Your sprites could do something when you click on them. For example, you could have a bird that squawks, a heart that glows, or a balloon that pops.
+You will create a scene that uses a `layers`, `size` and `motion` to create a 3D effect. You will add variables with sliders to control features of your scene so that the user can play around and customize the scene. 
 
-You will apply your skills to make a unique project of your own. You will be introduced to a range of creative projects where sprites are animated in different ways using loops. 
+You will see some examples and then plan your own scene. You will apply your coding and art skills to make a unique 3D scene of your own.  
 
+<mark>TBD</mark>
 ![Collage of completed projects](images/showcase_static.png){:width="400px"}
 
 --- collapse ---
@@ -33,6 +36,7 @@ Before starting this project, we recommend you complete the the first three proj
 
 For this project, you need to know how to:  
 
+<mark>How many of the skills from the previous challenge should we keep here?</mark>
 + Add code to sprites and a backdrop
 + Use the tools in the Paint editor to add details to a sprite
 + Add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
@@ -41,6 +45,12 @@ For this project, you need to know how to:
 + Use the `forever`{:class="block3control"} block
 + Use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
 
+
++ Make a `variable`{:class="block3control"}, turn it into a slider with a range and use it as an input to a block
++ Use `layers`{:class="block3looks"} blocks to move Sprites in front or behind other Sprites
++ Use `wait`{:class="block3control"} blocks to add a delay 
++ Use simple `operators`{:class="operators"} to do calculations
+
 --- /collapse ---
 
 --- collapse ---
@@ -48,9 +58,9 @@ For this project, you need to know how to:
 title: What you will learn
 ---
 
-+ How to apply your skills to realise your own project ideas
-+ How to select the appropriate block for your plan
-+ How to think about what you've made and the ways you can improve it
++ How to plan a project and then make it
++ How to apply your skills to make a project that is fun to play with
++ How to get feedback on your ideas from others
 
 --- /collapse ---
 
