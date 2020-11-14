@@ -162,12 +162,22 @@ title: Incidental sounds
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/448305841/?autostart=false" frameborder="0"></iframe>
 </div>
  
- You can start or play a sound when a sprite is clicked. 
+ You can add code to a Sprite or the Stage to play a sound at regular intervals:
+
+ ```blocks3
+ when flag clicked
+ forever
+ wait (5)
+ play sound (Cheer v) until done
+ ```
+
+ You can start or play a sound when a Sprite is clicked: 
 
  ```blocks3
  when this sprite clicked
  play sound (referee whistle v) until done
  ```
+
 --- /collapse ---
 
 --- /task ---
