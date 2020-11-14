@@ -153,7 +153,7 @@ title: Control move or turn speed with a variable
 
 ---
 
-**Ladybug from above**: [See inside](https://scratch.mit.edu/projects/447139076/editor){:target="_blank"}
+**Ladybug on a wall**: [See inside](https://scratch.mit.edu/projects/447139076/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447139076/?autostart=false" frameborder="0"></iframe>
@@ -179,10 +179,10 @@ title: Change the delay in a wait block
 
 ---
 
-**Dance delay**: [See inside](https://scratch.mit.edu/projects/447752917/editor){:target="_blank"}
+**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449629487/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447752917/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/449629487/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Use a `delay`{:class="block3variables"} variable as the input to a `wait`{:class="block3motion"} block:
@@ -196,11 +196,9 @@ next costume
 
 A delay of more than one second is quite a long time. If you include a decimal number in the range of a slider then you can change the value 100th of a second at a time. 
 
-A range of 0 to 1.0 would let you choose value between 0 seconds (no delay) and 1 second.
+A range of 0.0 to 1.0 allows you to choose a delay between 0 seconds (no delay) and 1 second.
 
-This example lets you choose values between one hundredth of a second (0.01) and 3 tenths of a second (0.30). 
-
-![Decimal range](images/decimal-range.png)
+![Decimal range](images/decimal-delay.png)
 
 Try changing the numbers to get the maximum and minumum that you want users to be able to use in your project.
 
