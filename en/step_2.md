@@ -1,6 +1,6 @@
 ## Get inspiration
 
-You are going to create an 'Interactive animation' project to change someone's mood. The theme of the project, how it looks, and the way the sprites move, is up to you. 
+You are going to create a '3D scene' project that can be controlled using slider variables. The theme of the project and the way the sprites look and move, is up to you. You will also choose which variables to add and how they are used to change the scene to get the effect you want. 
 
 You can get ideas for your own project by investigating projects created by others.
 
