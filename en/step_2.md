@@ -8,38 +8,39 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- print-only ---
 
-Have a look at the [Interactive animation](https://scratch.mit.edu/studios/27756161){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
+Have a look at the [3D Scene](https://scratch.mit.edu/studios/27756161){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
 
+<mark>Link to new studio to be added</mark>
 --- /print-only ---
 
 --- no-print ---
 
-Click the green flags below to **experience** the example Scratch projects. Look at the appearance of each sprite and how they move. Can you identify the projects where the sprites are interactive?
+Click the green flags below to **play with** the example Scratch projects. Can you spot features that make the scenes look 3-dimensional? Do some things look further away than others? Do some things seem to be in front of others? Drag the sliders and see what changes. 
 
-Give some thought to **your** project's theme, how it will look, and the way you want **your** sprites to move:
+Give some thought to **your** 3D scene, how it will look, what 3D effects will it use, what will the user be able to control?:
 
-**Popping balloons**: [See inside](https://scratch.mit.edu/projects/435808726/editor){:target="_blank"}
+**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449737128/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/435808726/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/449737128/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Bouncing balls**: [See inside](https://scratch.mit.edu/projects/425675232/editor){:target="_blank"}
+**Winter scene**: [See inside](https://scratch.mit.edu/projects/447121911/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
+  <iframe src="https://scratch.mit.edu/projects/447121911/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Animal behaviour**: [See inside](https://scratch.mit.edu/projects/433177517/editor){:target="_blank"}
+**Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Love hearts**: [See inside](https://scratch.mit.edu/projects/408665598/editor){:target="_blank"}
+**3D Dinosaur**: [See inside](https://scratch.mit.edu/projects/445737025/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/408665598/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/445737025/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
