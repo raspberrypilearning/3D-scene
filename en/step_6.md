@@ -167,7 +167,7 @@ title: Incidental sounds
  ```blocks3
  when flag clicked
  forever
- wait (5)
+ wait (5) seconds
  play sound (Cheer v) until done
  ```
 
