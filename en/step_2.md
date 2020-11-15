@@ -37,6 +37,12 @@ Give some thought to **your** 3D scene, how it will look, what 3D effects will i
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
 </div>
 
+**Evening window scene**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
+</div>
+
 **3D Dinosaur**: [See inside](https://scratch.mit.edu/projects/445737025/editor){:target="_blank"}
 
 <div class="scratch-preview">
