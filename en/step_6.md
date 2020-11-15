@@ -1,6 +1,6 @@
 ## Soundtrack
 
-Now you're going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at a specific time, such as when you click on a sprite.
+Now you're going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at regular intervals or a combination.
 
 --- task ---
  
@@ -148,7 +148,7 @@ when green flag clicked
  
 --- /collapse ---
  
-Or you may just want to use sounds that happen at a certain time, such as when a user interacts with a sprite.
+Or you may just want to use sounds that happen at regular intervals.
 
 --- collapse ---
 
@@ -171,6 +171,8 @@ title: Incidental sounds
  play sound (Cheer v) until done
  ```
 
+ <mark>Would it be better to remove this to avoid clicking on sprites and accidentally dragging them?</mark>
+
  You can start or play a sound when a Sprite is clicked: 
 
  ```blocks3
@@ -192,6 +194,8 @@ Once you have your sounds, you may want to change some details such as setting t
 title: Setting and changing the volume, pitch and pan effect
 ---
 
+Click the green flag to hear the sounds. 
+
 **Sound effects**: [See inside](https://scratch.mit.edu/projects/448392543/editor){:target="_blank"}
  
 <div class="scratch-preview">
@@ -200,49 +204,39 @@ title: Setting and changing the volume, pitch and pan effect
 
 The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. A value of -100 plays all of the sound through the left speaker, 100 plays all of the sound through the right speaker, values in between play some some through each. 
 
-If you have stereo headphones or speakers then clicking on the left speaker will play sound on the left and clicking the right speaker will play sound on the right. 
+If you have stereo headphones or speakers then the sound from the left speaker sprite will come from the left headphone/speaker and the sound from the right speaker sprite will come from the right headphone speaker. 
 
-Code for the left speaker:
+This code sets the pan for the left speaker:
 
 ```blocks3
-when this sprite clicked
 set [pan left/right v] effect to (-100)
-start sound (Drum Funky v)
 ```
 
-Code for the right speaker:
+This code sets the pan for the right speaker:
 
 ```blocks3
-when this sprite clicked
 set [pan left/right v] effect to (100)
-start sound (Drum Funky v)
 ```
 
-**Tip**: If the guitar is playing, click the green flag and stop it so you can hear the speakers clearly.
+**Tip**: Listen carefully to where the sound is coming from. 
 
-The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between -360 (very low) and 360 (very high). Click on the guitar in the example to increase the pitch (click the green flag to set it back to normal.)
+The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between -360 (very low) and 360 (very high). 
 
-This code increases the pitch when you click on the guitar:
+This code sets the pitch of the guitar to 200 (high).
 
 ```blocks3
-when this sprite clicked
-start sound (Guitar Chords1 v)
-change [pitch v] effect by (50)
+set [pitch v] effect to (200)
 ```
 
 You can set the volume from 0 (silent) to 100 (full volume).
 
 The volume of the guitar is lower than the volume of the speakers. This is useful if you want some sounds louder than others or if you want a sprite to appear further away. 
 
-This code sets the volume of the guitar to 0 when the green flag is clicked and then to 10% when you click on the guitar:
+This code sets the volume of the guitar to 10 (quiet):
 
 ```blocks3
-when flag clicked
-set volume to (0) %
-
-when this sprite clicked
 set volume to (10) %
-``` 
+```
 
 Sound effects are cleared when the green flag is clicked.
 
