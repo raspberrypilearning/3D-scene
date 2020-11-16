@@ -312,14 +312,14 @@ Sometimes it's useful to use operators (+, -, * or /) with variables to calculat
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/450249059/?autostart=false" frameborder="0"></iframe>
 </div>
 
-In this example, the size of the first sprite is set to `balance`{:class="block3variables"} while the size of the second sprite is set to 100 minus `balance`{:class="block3variables". 
+In this example, the size of the first sprite is set to `balance`{:class="block3variables"} while the size of the second sprite is set to 100 minus `balance`{:class="block3variables"}. 
 
 If the size of the first sprite is 30 then the size of the second sprite will be 70 (which is 100 - 30). 
 
 ```blocks3
 when flag clicked
 forever
-set size to (100 - (balance))%
+set size to ((100) - (balance))%
 ```
 
 You can use `*` to multiply and make a number bigger. It's useful to be able to set the pitch to a bigger number than a `speed`{:class="block3variables"} variable:
@@ -327,7 +327,7 @@ You can use `*` to multiply and make a number bigger. It's useful to be able to 
 ```blocks3
 when flag clicked
 forever
-set pitch to ((speed) * 20)
+set pitch to ((speed) * (20))
 ```
 
 --- /collapse ---
