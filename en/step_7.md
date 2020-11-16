@@ -332,6 +332,8 @@ set [pitch v] effect to ((speed) * (20))
 
 --- /collapse ---
 
+You can rename a variable if you change your mind:
+
 --- collapse ---
 
 ---
