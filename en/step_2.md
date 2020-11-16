@@ -21,6 +21,8 @@ Give some thought to **your** 3D scene, how it will look, what 3D effects will i
 
 **Tip:** Click the red stop icon above the Stage when you have finished with a project so that it stops playing sound. 
 
+The projects will stop after 30 seconds. Click the green flag again if you need more time. 
+
 **Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449737128/editor){:target="_blank"}
 
 <div class="scratch-preview">
