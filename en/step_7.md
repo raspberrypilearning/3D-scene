@@ -327,7 +327,7 @@ You can use `*` to multiply and make a number bigger. It's useful to be able to 
 ```blocks3
 when flag clicked
 forever
-set pitch to ((speed) * (20))
+set [pitch v] effect to ((speed) * (20))
 ```
 
 --- /collapse ---
