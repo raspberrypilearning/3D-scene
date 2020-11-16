@@ -298,6 +298,42 @@ All of these scripts can use the same variable at the same time.
 
 --- collapse ---
 
+--- 
+
+title: Using operators with variables
+
+---
+
+Sometimes it's useful to use operators (+, -, * or /) with variables to calculate different numbers.
+
+**Space size and distance**: [See inside](https://scratch.mit.edu/projects/450249059/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/450249059/?autostart=false" frameborder="0"></iframe>
+</div>
+
+In this example, the size of the first sprite is set to `balance`{:class="block3variables"} while the size of the second sprite is set to 100 minus `balance`{:class="block3variables". 
+
+If the size of the first sprite is 30 then the size of the second sprite will be 70 (which is 100 - 30). 
+
+```blocks3
+when flag clicked
+forever
+set size to (100 - (balance))%
+```
+
+You can use `*` to multiply and make a number bigger. It's useful to be able to set the pitch to a bigger number than a `speed`{:class="block3variables"} variable:
+
+```blocks3
+when flag clicked
+forever
+set pitch to ((speed) * 20)
+```
+
+--- /collapse ---
+
+--- collapse ---
+
 ---
 
 title: Renaming a variable
