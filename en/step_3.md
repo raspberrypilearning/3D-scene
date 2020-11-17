@@ -58,8 +58,6 @@ In this project, for your scenery, you can **Choose a Backdrop** or you'll be ab
 
 Remember to use **How to…** if you need support.
 
---- task ---
-
 --- collapse ---
 ---
 
@@ -80,8 +78,6 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 --- task ---
 
 Now think about what **object** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you'll also be able to make them. The choice is yours. Just think, imagine and explore for now. You might want to explore the sprite gallery for inspiration.
-
---- task ---
 
 --- collapse ---
 ---
