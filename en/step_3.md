@@ -1,6 +1,6 @@
 ## Choose your theme
 
-Now it's time to work on your own project. You may be bursting with ideas already, or you may need to take a few minutes to decide on a theme you want to work with. 
+Now it's time to work on your own project.
 
 --- task ---
 
@@ -13,35 +13,19 @@ Now it's time to work on your own project. You may be bursting with ideas alread
 
 + What will your scenery look like? 
 
-As on a stage in the theatre, scenery tends to be made up of anything which in real-life does not move. This could include a mountainscape with pine trees, a street with houses, a wood with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best.
+Imagine a stage in the theatre. Scenery tends to be made up of anything which in real-life does not move such as a mountainscape with pine trees, a street with houses, a forest with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best. 
+
+Things which are further away from the audience are smaller and lighter in colour. This creates a greater sense of depth and helps to make things more realistic.
+
+Look at the examples below:
 
 ![Image with sprites and backdrops](images/sprite-backdrop.png)
 
-Think again about the theatre, characters then move through the scenery. Things which are further away from the audience are smaller and lighter in colour. 
-
-This is called **depth**, and it makes things feel more realistic when you watch them (even cartoons!)
-
-When we look at things which are further away in real life, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect.
-
-This will help to create a greater sense of depth in your scene. Bigger sprites appear to be closer to the front of the stage with smaller sprites appearing further away.
-
-+ Think about what backdrop and sprites will you choose and/or create for your scenery?
-
-In this project, for your scenery, you can **Choose a Backdrop** or make one. You can also **Choose a Sprite** or make them. 
-
 --- /task ---
 
 --- task ---
 
-+ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
-
---- /task ---
-
-Below are some examples of **How to…**. You can use these if you need a reminder, or to understand blocks in more detail.
-
---- task ---
-
-Objects which are already drawn onto a backdrop cannot be programmed. Choose a simple backdrop with just a few or no objects drawn on it. This will give you more freedom as you go on to create sprites as part of your scenery in the next step.
+Objects which are already drawn onto a backdrop cannot be programmed.
 
 ![Image with sprites and backdrops](images/challenge2-layers.gif)
 
@@ -50,6 +34,32 @@ Objects that are drawn on a backdrop are not sprites, they cannot be layered or 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
 --- /task ---
+
+--- task ---
+
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
+
+Think about what backdrop and sprites will you choose and/or create for your scenery. In this project, for your scenery, you can **Choose a Backdrop** or make one. For other objects in your scene you can either **Choose a Sprite** or make them. The choice is yours.
+
+--- /task ---
+
+
+--- /task ---
+
+--- task ---
+
+Now think again the theatre where characters move through the scenery. 
+
+--- /task ---
+
+
+
+
+--- /task ---
+
+Below are some examples of **How to…**. You can use these if you need a reminder, or to understand blocks in more detail.
+
+
 
 --- task ---
 
