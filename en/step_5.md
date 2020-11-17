@@ -99,6 +99,13 @@ Front sprite:
 ``` blocks3
 when green flag clicked
 go to [back v] layer
+Go [forward v] (2) layers
+```
+
+Middle sprite:
+``` blocks3
+when green flag clicked
+go to [back v] layer
 Go [forward v] (1) layers
 ```
 
@@ -116,11 +123,18 @@ when green flag clicked
 go to [front v] layer
 ```
 
-Rear sprite:
+Middle sprite:
 ``` blocks3
 when green flag clicked
 go to [front v] layer
 Go [backward v] (1) layers
+```
+
+Rear sprite:
+``` blocks3
+when green flag clicked
+go to [front v] layer
+Go [backward v] (2) layers
 ```
 
 --- /collapse ---
