@@ -46,9 +46,7 @@ If you like, you can combine sprites from the Scratch library and your own sprit
 **Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 ![Hills image](images/challenge2-sprite-hills.png){:width="400px"}
 
-This example has build a hills sprite that sits in front of the blue sky backdrop.
-
-These hills have been created as a single sprite but you could also create each hill as an individual sprite making it easy for you to move things around later.
+This example has a single **Hills** sprite that sits in front of the blue sky backdrop, but you could also create each hill as an individual sprite making it easy for you to move things around later.
 
 --- collapse ---
 ---
