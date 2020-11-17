@@ -2,15 +2,49 @@
 
 In this step you will create scenery with one backdrop and a series of sprites. In the next step, you will be programming your sprites so don't worry about that now.
 
-**Tip:** As you move your sprites around the stage, whenever you click on a sprite it will jump to the front layer.
+**Tip:** Whenever you click on a sprite it will jump to the front layer and in in front of any other sprites.
 
 --- task ---
 
-Now make or choose a backdrop.
+First, you will make or choose a backdrop.
 
-In this step you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **Costume editor** automatically opens in the vector graphic setting. You will be using vector graphics for this project.
+Either you will choose a relatively plain backdrop from the Scratch backdrop library, or you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **backdrop editor** automatically opens in the vector graphic setting and you will be using vector graphics for this project.
 
-**Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
+**Blue sky**:
+![Blue sky image](images/blueSkyBackdrop.png){:width="400px"}
+
+In this example a plain blue sky backdrop has been created because any additional scenery, such as hills, trees or buildings will be added as sprites that can be moved around.
+
+--- collapse ---
+---
+
+title: Create a plain backdrop
+
+---
+
+To make your own backdrop:
++ Go to the **Stage pane**, click **Backdrops** and selecting **Paint**.
+
+![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
+
++ In the **Backdrops** tab, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the **Paint Editor**). Don't forget to title your backdrop.
+
+![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+First, you will make or choose a backdrop.
+
+Either you will choose a relatively plain backdrop from the Scratch backdrop library, or you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **backdrop editor** automatically opens in the vector graphic setting and you will be using vector graphics for this project.
+
+**Blue sky**:
+![Blue sky image](images/blueSkyBackdrop.png){:width="400px"}
+
+In this example the backdrop is a plain blue sky because any additional scenery, such as hills, trees or buildings will be added as sprites that can be moved around.
 
 ![Sprite hills as background](images/challenge2-sprite-hills.png){:width="400px"}
 
