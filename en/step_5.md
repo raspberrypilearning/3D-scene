@@ -3,7 +3,7 @@
 In this step you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into `layers`{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites to increase the 3-dimensional effect. 
 
 --- task ---
-Notice how the rocket is smaller than the robot as well as higher up on the stage, creating the illusion of distance in this project. 
+Notice how the rocket is smaller than the robot as well as higher up on the stage, creating the illusion of distance in this project. This is the overall effect we are trying to achieve:
 
 **Moon base**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
 
