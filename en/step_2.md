@@ -35,7 +35,7 @@ In the below example the scenery is made up of a plain blue **Sky** backdrop and
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/447121911/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/445119855/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 --- /no-print ---
