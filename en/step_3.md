@@ -1,6 +1,6 @@
 ## Choose your theme
 
-Now it's time to work on your own project. In this step you will think about your project idea. In the next step, you will begin to make your project.
+Now it is time to work on your own project. In this step you will think about your project idea. In the next step, you will begin to make your project.
 
 --- task ---
 
