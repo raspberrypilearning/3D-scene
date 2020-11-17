@@ -6,19 +6,25 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
-Imagine a stage in the theatre. Look at the examples below which is made up of a backdrop and a number of sprites to create a 3D scene:
+The wooden chair in the below example is drawn onto a backdrop. It is not a sprite so it cannot be layered or programmed and therefore cannot be animated. The **Wheelchair** sprite can be programmed. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
-In the below example the scenery is made up of a plain blue **Sky** backdrop and a silhouetted **Rooftop** sprite.
-
-Because they are sprites, the **Moon** and the **Rooftop** can be programmed. The moon is programmed to rise. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
-
-Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the **Jellyfish**, **Puffafish** and **Scuba diver** sprites move but the underwater plants, which are drawn on the backdrop, are static. As in the theatre, a characters or characters moves through the scenery:
-
-Things which appear behind other objects or characters (layers) and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which can be used to create a greater sense of depth. They help to make your project appear more realistic.
+![Backdrop and sprites](images/challenge2-backdrop-bedroom.png){:width="400px"}
 
 --- /task ---
 
+--- task ---
+
+Sprites which sit behind other sprites, are smaller and lighter in colour appear further away from the audience/user. Layers, size and colour are useful 3-dimensional effects which can be used to create a greater sense of depth and help to make '3D scene' projects appear more realistic.
+
+EXAMPLE
+
+--- /task ---
+
+--- task ---
+
 --- print-only ---
+
+Look at some examples and explore different 3D scenes.
 
 Have a look at the [3D Scene](https://scratch.mit.edu/studios/27756161){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
 
