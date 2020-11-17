@@ -1,29 +1,13 @@
 ## Choose your theme
 
-Now it is time to work on your own project. In this step you will think about your project idea. In the next step, you will begin to make your project.
-
-Imagine a stage in the theatre. Scenery tends to be made up of anything which in real-life does not move. For example, a mountainscape with pine trees, a street with houses, a forest with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best.
-
-
-
-Can you spot features that make the scenes look 3-dimensional? Do some things look further away than others? Do some things seem to be in front of others? Drag the sliders and see what changes. 
-
-
-
-////
-
-What will your scenery look like? 
-
-
-
+Now it is time to take five minutes to think about **your** '3D scene' project.
 
 --- task ---
 
-Take five minutes to think about **your** '3D scene' project.
-
 What mood do you want to create? Will it be relaxing, energising, or funny?
-How will you scene look?
-What 3D effects will you use? 
+What will your scenery look like?
+What objects and characters will you include?
+What 3D effects will you use?
 What will the user be able to control?
 
 --- /task ---
