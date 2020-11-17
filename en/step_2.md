@@ -32,7 +32,7 @@ Imagine a stage in the theatre. Look at the examples below which is made up of a
   <iframe src="https://scratch.mit.edu/projects/447121911/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
---- no-print ---
+--- /no-print ---
 
 --- /task ---
 
@@ -92,10 +92,7 @@ Things which appear behind other objects or characters (layers) and are smaller 
 
 **3D Dinosaur**: [See inside](https://scratch.mit.edu/projects/445737025/editor){:target="_blank"}
 
---- no-print ---
-
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/445737025/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
