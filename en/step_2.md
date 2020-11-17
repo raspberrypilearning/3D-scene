@@ -22,15 +22,23 @@ Have a look at the [3D Scene](https://scratch.mit.edu/studios/27756161){:target=
 
 Imagine a stage in the theatre. Look at the examples below which is made up of a backdrop and a number of sprites to create a 3D scene:
 
-**Winter scene**: [See inside](https://scratch.mit.edu/projects/447121911/editor){:target="_blank"}
+In the below example the scenery is made up of a plain blue **Sky** backdrop and a silhouetted **Rooftop** sprite.
+
+**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
 <mark>png example</mark>
 
 --- no-print ---
 
+![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447121911/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+--- /no-print ---
+
+Because they are sprites, the **Moon** and the **Rooftop** can be programmed. The moon is programmed to rise. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
 --- /no-print ---
 
