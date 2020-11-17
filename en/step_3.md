@@ -15,7 +15,7 @@ What will your scenery look like?
 
 Imagine a stage in the theatre. Scenery tends to be made up of anything which in real-life does not move such as a mountainscape with pine trees, a street with houses, a forest with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best. 
 
-NEW EXAMPLES NEEDED!
+NEW EXAMPLES NEEDED WITH NO CHARACTERS!
 
 Look at the examples below. Each  project is made up of one backdrop and a number of sprites to create a 3D scene:
 
@@ -27,7 +27,7 @@ Look at the examples below. Each  project is made up of one backdrop and a numbe
 
 Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
 
-Give your project a name that matches your theme. 
+Give your project a name that matches your theme. Remember to use a **How to…** when you need support.
 
 --- collapse ---
 ---
@@ -52,11 +52,9 @@ Objects which are already drawn onto a backdrop are not sprites so they cannot b
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
-Begin to think about the backdrop for your 3D scene. Just think and explore for now. You might want to explore the backdrops gallery for inspiration.
+Begin to think about the backdrop for your 3D scene. In this project, for your scenery, you can **Choose a Backdrop** or you'll be able to make one. 
 
-In this project, for your scenery, you can **Choose a Backdrop** or you'll be able to make one. 
-
-Remember to use **How to…** if you need support.
+Just think and imagine for now. You might want to explore the **Backdrops gallery** for inspiration.
 
 --- collapse ---
 ---
@@ -77,7 +75,7 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 
 --- task ---
 
-Now think about what **object** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you'll also be able to make them. The choice is yours. Just think, imagine and explore for now. You might want to explore the sprite gallery for inspiration.
+Now think about what **object** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you'll also be able to make them. The choice is yours. Just think and imagine for now. You might want to explore the **Sprites gallery** for inspiration.
 
 --- collapse ---
 ---
@@ -100,13 +98,13 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 
 As in the theatre, characters move through the scenery.  
 
-What characters will you choose and/or create?
+What characters will you choose and/or create? Just think and imagine for now. You can change your mind throughout the project.
 
 --- /task ---
 
 --- task ---
 
-Things which appear smaller and lighter in colour look further away from the audience/user. This is a useful effect to use to create a greater sense of depth and helps to make things more realistic. Remember these effects as you move through your project.
+Things which appear smaller and lighter in colour look further away from the audience/user. This is a useful effect to use to create a greater sense of depth and helps to make things more realistic. Remember these useful 3-dimensional effects as you move through your project.
 
 EXAMPLE
 
