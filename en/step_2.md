@@ -6,9 +6,17 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
-In the example below, the wooden chair is drawn onto a backdrop. It is not a sprite so it cannot be layered or programmed and therefore cannot be animated. The **Wheelchair** sprite can be programmed. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+In the example below, the moon can be programmed to rise about the silhouette **Rooftops** because they are both sprites. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
-![Backdrop and sprites](images/challenge2-backdrop-bedroom.png){:width="400px"}
+**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
+
+--- no-print ---
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/445119855/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+--- /no-print ---
 
 --- /task ---
 
@@ -31,16 +39,6 @@ Look at some examples and explore different 3D scenes  by exploring example proj
 Exploring 3D scene projects below.
  
 To **play with** the example Scratch projects below, click the green flag. Then click the red stop icon above the stage when you have finished with a project so that it stops playing sound. The projects will stop after 30 seconds. Click the green flag again if you need more time. 
-
-**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
-
---- no-print ---
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/445119855/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
---- /no-print ---
 
 **Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
 
