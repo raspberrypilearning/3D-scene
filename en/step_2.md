@@ -78,9 +78,9 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- task ---
 
-Now have a quick think about what kind of 3D scene project that you want to make using variable sliders. It can be whatever you want
+Now have a quick think about what kind of 3D scene project that you want to make using variable sliders. It can be whatever you want it to be.
 
-Don't be afraid to change your mind about things and try new things out as you go along!
+Don't be afraid to change your mind about things and try out new ideas out as you go along!
 
 --- /task ---
 
