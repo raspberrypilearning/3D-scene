@@ -24,8 +24,6 @@ Create a new variable and give it the name that matches its use. For example:
 + if it will control the length of a `wait`{:class="block3control"}, name it `delay`{:class="block3variables"}
 + if it will control how quickly a sprite spins, name it `turn`{:class="block3variables"}
 
-<mark>Should we give more examples such as volume, colour, size, ghost, brightness?</mark>
-
 --- collapse ---
 
 ---
@@ -59,9 +57,7 @@ Your new variable will automatically appear on the Stage.
 
 --- task ---
  
-Change it to a slider. It will start with a range from 1 to 100 which you can change at any point. 
-
-<mark>Do we need to direct them to the drop down below in case they do not know how to turn it into a slider?</mark>
+Change it to a slider (click on the 'how to' below if you need a reminder). It will start with a range from 1 to 100 which you can change at any point. 
 
 --- collapse ---
 
@@ -304,7 +300,7 @@ All of these scripts can use the same variable at the same time.
 
 --- /collapse ---
 
-<mark>This title could be another language to many pupils. Should we give a surfaced sentence before it that might help them decide if this drop down is something they want to go into?</mark>
+Sometimes you may want to use a single `variable`{:class="block3variables"} for mulitple tasks but the value needs to be adjusted in some way for one use, for example, `wait`{:class="block3control"} times often need to be very small while `size`{:class="block3looks"} values are usually much larger. In this case you may need to use an `operator`{:class="block3operators"} to adjust the value. The 'how to' below gives some examples of this.
 
 --- collapse ---
 
