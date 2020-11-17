@@ -6,7 +6,7 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
-Click the green flag below to **play with** the example Scratch project. Click the red stop icon above the stage when you have finished with a project so that it stops playing sound. The project will stop after 30 seconds. Click the green flag again if you need more time. 
+To **play with** the example Scratch projects below, click the green flag. Then click the red stop icon above the stage when you have finished with a project so that it stops playing sound. The projects will stop after 30 seconds. Click the green flag again if you need more time. 
 
 --- print-only ---
 
