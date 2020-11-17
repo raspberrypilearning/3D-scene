@@ -24,14 +24,12 @@ EXAMPLE
 
 --- print-only ---
 
-Look at some examples and explore different 3D scenes.
-
-Have a look at the [3D Scene](https://scratch.mit.edu/studios/27756161){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
-
-<mark>Link to new studio to be added</mark>
+Look at some examples and explore different 3D scenes  by exploring example projects from the Raspberry Pi Foundation Scratch studio [3D Scene](https://scratch.mit.edu/studios/28058862){:target="_blank"}.
 
 --- /print-only ---
 
+Exploring 3D scene projects below.
+ 
 To **play with** the example Scratch projects below, click the green flag. Then click the red stop icon above the stage when you have finished with a project so that it stops playing sound. The projects will stop after 30 seconds. Click the green flag again if you need more time. 
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
