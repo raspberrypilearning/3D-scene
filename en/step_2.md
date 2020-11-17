@@ -4,9 +4,9 @@ You are going to create a '3D scene' project that can be controlled using slider
 
 You can get ideas for your own project by investigating projects created by others.
 
-### The difference between backdrops and sprites
+--- task ---
 
-The **Moon** is able to rise from behind the **Rooftops** because **Rooftops** is a sprite rather than a part of the backdrop.
+See how the **Moon** sprite is able to rise from behind the **Rooftops** sprite because **Rooftops** is a sprite rather than a part of the backdrop.
 
 + The backdrop is **always** at the back and cannot move
 + Sprites can move around the screen, and be infront of or behind other sprites
@@ -21,13 +21,15 @@ The **Moon** is able to rise from behind the **Rooftops** because **Rooftops** i
 
 --- /no-print ---
 
+--- /task ---
+
 --- task ---
 
 --- print-only ---
 
 Take a look at these 3D scene projects, and adjust any sliders you see.
 
-+ Can you see which sprites are infront of other sprites?
++ Can you see which sprites are in front of other sprites?
 + Can you tell what effect each variable slider has?
 
 --- /print-only ---
@@ -62,7 +64,7 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- /no-print ---
  
- **Evening window scene**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
+ **Evening window**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
 
 --- no-print ---
 

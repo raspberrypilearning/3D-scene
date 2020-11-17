@@ -1,6 +1,6 @@
-## Creating scenery
+## Set your scene
 
-In this step you will create scenery with one backdrop and a series of sprites using the **Paint editor**. In the next step you will create sprites which sit behind other sprites and are smaller and lighter in colour to appear further away from the audience/user. Layers, size and colour are traditional techniques which are used by landscape painters to create a sense of depth. The effects can be used to make your '3D scene' appear more realistic. 
+In this step you will create scenery with one backdrop and a series of sprites. In the next step you will create sprites which sit behind other sprites and are smaller and lighter in colour to appear further away from the audience/user. Layers, size and colour are traditional techniques which are used by landscape painters to create a sense of depth. The effects can be used to make your '3D scene' appear more realistic. 
 
 Throughout this step, organise your sprites into their layer position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
 
