@@ -22,14 +22,6 @@ In the example below, the moon can be programmed to rise about the silhouette **
 
 --- task ---
 
-Sprites which sit behind other sprites, are smaller and lighter in colour appear further away from the audience/user. Layers, size and colour are useful 3-dimensional effects which can be used to create a greater sense of depth and help to make '3D scene' projects appear more realistic.
-
-EXAMPLE
-
---- /task ---
-
---- task ---
-
 --- print-only ---
 
 Look at some examples and explore different 3D scenes  by exploring example projects from the Raspberry Pi Foundation Scratch studio [3D Scene](https://scratch.mit.edu/studios/28058862){:target="_blank"}.
