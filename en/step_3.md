@@ -79,8 +79,6 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 
 --- task ---
 
-As in the theatre, characters move through the scenery.  
-
 What **character** or **characters** will you choose and/or create? You might want to explore the **Sprites gallery** for inspiration.
 
 --- /task ---
