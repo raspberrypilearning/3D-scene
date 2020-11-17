@@ -1,22 +1,95 @@
-## 3-dimensions
+## Choose your theme
 
-In this step you will think about 3-dimensional scenery.
+Now it is time to work on your own project. In this step you will think about your project idea. In the next step, you will begin to make your project.
+
+Imagine a stage in the theatre. Scenery tends to be made up of anything which in real-life does not move. For example, a mountainscape with pine trees, a street with houses, a forest with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best.
+
+
+
+Can you spot features that make the scenes look 3-dimensional? Do some things look further away than others? Do some things seem to be in front of others? Drag the sliders and see what changes. 
+
+
+
+////
+
+What will your scenery look like? 
+
+
+
 
 --- task ---
 
-Imagine a stage in the theatre. Scenery tends to be made up of anything which in real-life does not move. For example, a mountainscape with pine trees, a street with houses, a forest with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best. 
+Take five minutes to think about **your** '3D scene' project.
 
-Look at the examples below. Each project is made up of a backdrop and a number of sprites to create a 3D scene:
-
-SCREENSHOTS OF THE 4 EXAMPLE PROJECTS WITHOUT THE MOVING CHARACTERS...
+What mood do you want to create? Will it be relaxing, energising, or funny?
+How will you scene look?
+What 3D effects will you use? 
+What will the user be able to control?
 
 --- /task ---
 
 --- task ---
 
-Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can:
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
 
-![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
+Give your project a name that matches your theme. Remember to use a **How to…** when you need support.
+
+--- collapse ---
+---
+
+title: How do I give my project a name?
+
+---
+
+Click in the project name box and change the name to match your project. 
+
+![Project name highlighted](images/change-project-name.png)
+
+If you share your project, then others will also see this name, so make sure it makes sense. 
+
+--- /collapse --- 
+
+--- /task ---
+
+--- task ---
+
+Begin to think about the backdrop for your 3D scene. You can choose a backdrop or you can make one in thenext step. You might want to explore the **Backdrops gallery** for inspiration. You can always change your mind later on in the project.
+
+--- collapse ---
+---
+
+title: Explore the backdrops gallery
+
+---
+
+In the bottom-right corner of the Stage pane, click on **Choose a Backdrop**.
+![Image of Choose a Backdrop](images/stage-choose.png)
+
+You can search for a backdrop, or browse for one by category or theme. Click on a backdrop to select it.
+![Image of Backdrop Library](images/backdrop.png)
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+Now think about what **object** or **objects** will you choose and/or create to sit in your scenery. You can either choose a sprite or again, you can make them in the next step. The choice is yours. You might want to explore the **Sprites gallery** for inspiration.
+
+--- collapse ---
+---
+
+title: Explore the sprites gallery
+
+---
+
+In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
+![Image Sprite Library](images/sprite-library.png)
+
+You can search or browse sprites by theme. Click on a sprite to add it to your project.
+![Image Sprite Library - choose](images/sprite-choose.png)
+
+--- /collapse ---
 
 --- /task ---
 
@@ -24,19 +97,11 @@ Objects which are already drawn onto a backdrop are not sprites so they cannot b
 
 As in the theatre, characters move through the scenery.  
 
-GIFs OF THE 4 EXAMPLE PROJECTS SHOWING THE MOVING CHARACTERS...
+What **character** or **characters** will you choose and/or create? You might want to explore the **Sprites gallery** for inspiration.
 
 --- /task ---
 
---- task ---
-
-Things which appear behind other objects or characters (layers) and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which can be used to create a greater sense of depth. They help to make your project appear more realistic.
-
-SCREENSHOTS OF THE 4 EXAMPLE PROJECTS WITH LAYERS/SIZE/COLOUR CHANGE...
-
---- /task ---
-
-In the next step you will begin to make your project. 
+Great thinking and imaging! In the next step you will begin to make your project. 
 
 --- save ---
 
