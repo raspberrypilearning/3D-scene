@@ -6,7 +6,7 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
-In the example below, the moon can be programmed to rise about the silhouette **Rooftops** because they are both sprites. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+In the example below, the moon can be programmed to rise about the silhouetted **Rooftops** because they are both sprites. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
