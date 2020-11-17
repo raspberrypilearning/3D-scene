@@ -1,14 +1,6 @@
-## Choose your theme
+## 3-dimensions
 
-Now it is time to work on your own project. In this step you will think about your project idea. In the next step, you will begin to make your project.
-
---- task ---
-
-Take five minutes to think about **your** '3D scene' project. 
-
-What mood do you want to create? Will it be relaxing, energising, or funny?
-
---- /task ---
+In this step you will think about 3-dimensional scenery.
 
 --- task ---
 
@@ -20,31 +12,6 @@ NEW EXAMPLES NEEDED WITH NO CHARACTERS!
 
 ![Image with sprites and backdrops](images/sprite-backdrop.png)
 
-What will your scenery look like? 
-
---- /task ---
-
---- task ---
-
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
-
-Give your project a name that matches your theme. Remember to use a **How to…** when you need support.
-
---- collapse ---
----
-
-title: How do I give my project a name?
-
----
-
-Click in the project name box and change the name to match your project. 
-
-![Project name highlighted](images/change-project-name.png)
-
-If you share your project, then others will also see this name, so make sure it makes sense. 
-
---- /collapse --- 
-
 --- /task ---
 
 --- task ---
@@ -52,44 +19,6 @@ If you share your project, then others will also see this name, so make sure it 
 Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can:
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
-
-Begin to think about the backdrop for your 3D scene. You can **Choose a Backdrop** or you can make one. Just imagine for now. You might want to explore the **Backdrops gallery** for inspiration. You can always change your mind later on in the project.
-
---- collapse ---
----
-
-title: Choose a backdrop
-
----
-
-In the bottom-right corner of the Stage pane, click on **Choose a Backdrop**.
-![Image of Choose a Backdrop](images/stage-choose.png)
-
-You can search for a backdrop, or browse for one by category or theme. Click on a backdrop to select it.
-![Image of Backdrop Library](images/backdrop.png)
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-
-Now think about what **object** or **objects** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you can make them. The choice is yours. Just imagine for now. You might want to explore the **Sprites gallery** for inspiration.
-
---- collapse ---
----
-
-title: Choose a sprite
-
----
-
-In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
-![Image Sprite Library](images/sprite-library.png)
-
-You can search or browse sprites by theme. Click on a sprite to add it to your project.
-![Image Sprite Library - choose](images/sprite-choose.png)
-
---- /collapse ---
 
 --- /task ---
 
@@ -103,13 +32,13 @@ What **character** or **characters** will you choose and/or create? Just imagine
 
 --- task ---
 
-Things which appear behind other objects or characters and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which you can use to create a greater sense of depth. They help to make your project appear more realistic.
+Things which appear behind other objects or characters (layers) and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which can be used to create a greater sense of depth. They help to make your project appear more realistic.
 
 EXAMPLE
 
 --- /task ---
 
-Great thinking and imaging! In the next step you will beging to make your project. 
+In the next step you will beging to make your project. 
 
 --- save ---
 
