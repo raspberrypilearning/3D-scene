@@ -36,7 +36,7 @@ SCREENSHOTS OF THE 4 EXAMPLE PROJECTS WITH LAYERS/SIZE/COLOUR CHANGE...
 
 --- /task ---
 
-In the next step you will beging to make your project. 
+In the next step you will begin to make your project. 
 
 --- save ---
 
