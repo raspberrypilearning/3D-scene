@@ -4,7 +4,7 @@ You are going to create a '3D scene' project that can be controlled using slider
 
 You can get ideas for your own project by investigating projects created by others.
 
-### Subheading to be decided
+### The difference between backdrops and sprites
 
 The **Moon** is able to rise from behind the **Rooftops** because **Rooftops** is a sprite rather than a part of the backdrop.
 
