@@ -103,7 +103,7 @@ What **character** or **characters** will you choose and/or create? Just imagine
 
 --- task ---
 
-Things which appear behind other objects or characters and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which you can use to create a greater sense of depth and helps to make your project appear more realistic.
+Things which appear behind other objects or characters and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which you can use to create a greater sense of depth. They help to make your project appear more realistic.
 
 EXAMPLE
 
