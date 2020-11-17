@@ -20,7 +20,7 @@ Program your sprites into layers. You can simply program your sprites into two l
 ---
 title: Program your sprites with front and back layers 
 ---
-Have a look at this project and notice how it uses the front and back layers to order the sprites when you click the green flag.
+Have a look at this project and notice how it uses only the front and back layers to order the sprites when you click them.
 
 **Front and back layers:** [See inside](https://scratch.mit.edu/projects/448361272/editor){:target="_blank"}
 
