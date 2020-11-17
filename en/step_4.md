@@ -1,6 +1,6 @@
 ## Scenery
 
-In this step you will create scenery with one backdrop and a series of sprites using the **Paint editor**. In the next step you will program the sprites.
+In this step you will create scenery with one backdrop and a series of sprites using the **Paint editor**. In the next step you will create sprites which sit behind other sprites and are smaller and lighter in colour to appear further away from the audience/user. Layers, size and colour are traditional techniques which are used by landscape painters to create a sense of depth. The effects can be used to make your '3D scene' appear more realistic. 
 
 Throughout this step, organise your sprites into their layer position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
 
@@ -46,7 +46,7 @@ To make your own backdrop:
 
 + Choose a colour and draw a series of ovals using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
 
-In the real-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away. Altering colour saturation to create a sense of depth is a traditional technique used by landscape painters.
+In the real-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away.
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
