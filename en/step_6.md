@@ -153,31 +153,41 @@ Or you may just want to use sounds that happen at regular intervals.
 --- collapse ---
 
 ---
-title: Incidental sounds
+title: Regular interval sounds
 ---
  
-**Football sounds**: [See inside](https://scratch.mit.edu/projects/448305841/editor){:target="_blank"}
+**Football sounds**: [See inside](https://scratch.mit.edu/projects/450870079/editor){:target="_blank"}
+
+Each sprite makes a sound when you click on it.
  
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/448305841/?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/450870079/?autostart=false" frameborder="0"></iframe>
 </div>
  
- You can add code to a Sprite or the Stage to play a sound at regular intervals:
+ In this project, the Stage has code to play a sound at regular intervals:
 
  ```blocks3
  when flag clicked
  forever
- wait (5) seconds
  play sound (Cheer v) until done
+ wait (3) seconds
+ end
  ```
 
- <mark>Would it be better to remove this to avoid clicking on sprites and accidentally dragging them?</mark>
-
- You can start or play a sound when a Sprite is clicked: 
+ The sprites each play a sound when a `Sprite is clicked`{:class="block3events"}: 
 
  ```blocks3
  when this sprite clicked
  play sound (referee whistle v) until done
+ ```
+
+ Since clicking on a sprite will bring it to the `front layer`{:class="block3looks"}, you can add an extra script to force the sprite to go back to the layer you want.
+
+  ```blocks3
+ when flag clicked
+ forever
+ go to [front v] layer
+ end
  ```
 
 --- /collapse ---
