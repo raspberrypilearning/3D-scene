@@ -4,12 +4,12 @@ You are going to create a '3D scene' project that can be controlled using slider
 
 You can get ideas for your own project by investigating projects created by others.
 
---- task ---
+### Subheading to be decided
 
-The **Moon** is able to rise from behind the **Rooftops** because the **Rooftops** is a sprite rather than a part of the backdrop.
+The **Moon** is able to rise from behind the **Rooftops** because **Rooftops** is a sprite rather than a part of the backdrop.
 
 + The backdrop is **always** at the back and cannot move
-+ Sprites can move around the screen and be infront of or behind other sprites
++ Sprites can move around the screen, and be infront of or behind other sprites
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
@@ -21,13 +21,16 @@ The **Moon** is able to rise from behind the **Rooftops** because the **Rooftops
 
 --- /no-print ---
 
---- /task ---
-
 --- task ---
 
 --- print-only ---
 
-Look at some examples and explore different 3D scenes  by exploring example projects from the Raspberry Pi Foundation Scratch studio [3D Scene](https://scratch.mit.edu/studios/28058862){:target="_blank"}.
+Take a look at these 3D scene projects.
+
++ Can you see which sprites are infront of other sprites?
++ Can you tell what effect each variable slider does?
+
+Look at some examples and explore different 3D scenes by exploring example projects from the Raspberry Pi Foundation Scratch studio [3D Scene](https://scratch.mit.edu/studios/28058862){:target="_blank"}.
 
 --- /print-only ---
 
