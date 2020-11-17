@@ -36,7 +36,9 @@ Go to the `Variables`{:class="block3variables"} blocks and click on 'Make a Vari
 
 ![Make a variable](images/make-a-variable.png)
 
-Name the variable to match its use, for example `turn`{:class="block3variables"}. Generally, you will keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
+Name the variable to match its use, for example `turn`{:class="block3variables"}. 
+
+Generally, you will keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
 
 ![Turn variable settings](images/turn-variable.png)
 
@@ -54,6 +56,8 @@ Your new variable will automatically appear on the Stage.
 --- task ---
  
 Change it to a slider. It will start with a range from 1 to 100 which you can change at any point. 
+
+<mark>Do we need to direct them to the drop down below in case they do not know how to turn it into a slider?</mark>
 
 --- collapse ---
 
@@ -295,6 +299,8 @@ end
 All of these scripts can use the same variable at the same time. 
 
 --- /collapse ---
+
+<mark>This title could be another language to many pupils. SHould we give a surfaced sentence before it that might help them decide if this drop down is something they want to go into?</mark>
 
 --- collapse ---
 
