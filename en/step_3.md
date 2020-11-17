@@ -8,9 +8,7 @@ Imagine a stage in the theatre. Scenery tends to be made up of anything which in
 
 Look at the examples below. Each project is made up of a backdrop and a number of sprites to create a 3D scene:
 
-NEW EXAMPLES NEEDED WITH NO CHARACTERS!
-
-![Image with sprites and backdrops](images/sprite-backdrop.png)
+SCREENSHOTS OF THE 4 EXAMPLE PROJECTS WITHOUT THE MOVING CHARACTERS...
 
 --- /task ---
 
@@ -28,13 +26,15 @@ As in the theatre, characters move through the scenery.
 
 What **character** or **characters** will you choose and/or create? Just imagine for now.
 
+SCREENSHOTS OF THE 4 EXAMPLE PROJECTS SHOWING THE MOVING CHARACTERS...
+
 --- /task ---
 
 --- task ---
 
 Things which appear behind other objects or characters (layers) and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which can be used to create a greater sense of depth. They help to make your project appear more realistic.
 
-EXAMPLE
+SCREENSHOTS OF THE 4 EXAMPLE PROJECTS WITH LAYERS/SIZE/COLOUR CHANGE
 
 --- /task ---
 
