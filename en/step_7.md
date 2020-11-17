@@ -18,7 +18,11 @@ Look at the example below. The `speed`{:class="block3variables"} variable contro
 
 Decide what you want to control using a variable. 
 
-Create a new variable and give it the name that matches its use. For example, if it will control how quickly a sprite spins, name it `turn`{:class="block3variables"}.
+Create a new variable and give it the name that matches its use. For example: 
+
++ if it will control the `volume`{:class="block3sound"} of a sound, name it `volume`{:class="block3variables"}
++ if it will control the length of a `wait`{:class="block3control"}, name it `delay`{:class="block3variables"}
++ if it will control how quickly a sprite spins, name it `turn`{:class="block3variables"}
 
 <mark>Should we give more examples such as volume, colour, size, ghost, brightness?</mark>
 
