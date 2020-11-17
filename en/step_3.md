@@ -24,9 +24,7 @@ Objects which are already drawn onto a backdrop are not sprites so they cannot b
 
 As in the theatre, characters move through the scenery.  
 
-What **character** or **characters** will you choose and/or create? Just imagine for now.
-
-SCREENSHOTS OF THE 4 EXAMPLE PROJECTS SHOWING THE MOVING CHARACTERS...
+GIFs OF THE 4 EXAMPLE PROJECTS SHOWING THE MOVING CHARACTERS...
 
 --- /task ---
 
@@ -34,7 +32,7 @@ SCREENSHOTS OF THE 4 EXAMPLE PROJECTS SHOWING THE MOVING CHARACTERS...
 
 Things which appear behind other objects or characters (layers) and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which can be used to create a greater sense of depth. They help to make your project appear more realistic.
 
-SCREENSHOTS OF THE 4 EXAMPLE PROJECTS WITH LAYERS/SIZE/COLOUR CHANGE
+SCREENSHOTS OF THE 4 EXAMPLE PROJECTS WITH LAYERS/SIZE/COLOUR CHANGE...
 
 --- /task ---
 
