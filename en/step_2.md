@@ -15,13 +15,7 @@ Have a look at the [3D Scene](https://scratch.mit.edu/studios/27756161){:target=
 
 --- no-print ---
 
-Click the green flags below to **play with** the example Scratch projects. Can you spot features that make the scenes look 3-dimensional? Do some things look further away than others? Do some things seem to be in front of others? Drag the sliders and see what changes. 
-
-Give some thought to **your** 3D scene, how it will look, what 3D effects will it use, what will the user be able to control?.
-
-**Tip:** Click the red stop icon above the Stage when you have finished with a project so that it stops playing sound. 
-
-The projects will stop after 30 seconds. Click the green flag again if you need more time. 
+Click the green flags below to **play with** the example Scratch project. Click the red stop icon above the Stage when you have finished with a project so that it stops playing sound. The project will stop after 30 seconds. Click the green flag again if you need more time. 
 
 **Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449737128/editor){:target="_blank"}
 
