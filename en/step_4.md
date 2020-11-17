@@ -2,14 +2,6 @@
 
 In this step you will create scenery with one backdrop and a series of sprites using the **Paint editor**. In the next step you will program the sprites.
 
-In the below example the scenery is made up of a plain blue **Sky** backdrop and a silhouetted **Rooftop** sprite.
-
-**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
-
-![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
-
-Because they are sprites, the **Moon** and the **Rooftop** can be programmed. The moon is programmed to rise. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
-
 Throughout this step, organise your sprites into their layer position by dragging them in front of one another. In the next step, you will program your sprites so they are organised into those layers.
 
 --- no-print ---
