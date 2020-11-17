@@ -1,12 +1,15 @@
 ## Get inspiration
 
-You are going to create a '3D scene' project that can be controlled using slider variables. The theme of the project and the way the sprites look and move, is up to you. You will also include variables so that the user can customise the scene using sliders.
+You are going to create a '3D scene' project that can be controlled using slider variables. The theme of the project and the way the sprites look and move, is up to you. 
 
 You can get ideas for your own project by investigating projects created by others.
 
 --- task ---
 
-In the example below, the moon can be programmed to rise about the silhouetted **Rooftops** because they are both sprites. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+The **Moon** is able to rise from behind the **Rooftops** because the **Rooftops** is a sprite rather than a part of the backdrop.
+
++ The backdrop is **always** at the back and cannot move
++ Sprites can move around the screen and be infront of or behind other sprites
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
