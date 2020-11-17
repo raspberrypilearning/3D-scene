@@ -14,7 +14,9 @@ Notice how the rocket is smaller than the robot as well as higher up on the stag
 --- /task ---
 
 --- task ---
-Program your sprites into layers. You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks. Look at this project which brings the window frame to the front and puts everything else at the back when the green flag is clicked:
+Program your sprites into layers. You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks. 
+
+Look at how this project brings the window frame to the `front layer`{:class="block3looks"} and puts everything else at the back `when the green flag is clicked`{:class="block3events"}:
 
 **Evening window scene**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
 
