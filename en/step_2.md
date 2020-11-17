@@ -97,3 +97,5 @@ Things which appear behind other objects or characters (layers) and are smaller 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/445737025/?autostart=false" frameborder="0"></iframe>
 </div>
+
+--- /no-print ---
