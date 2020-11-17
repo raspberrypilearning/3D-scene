@@ -2,17 +2,11 @@
 
 In this step you will create scenery with one backdrop and a series of sprites. In the next step, you will be programming your sprites so don't worry about that now.
 
-As you move your sprites around the stage, whenever you click on a sprite it will jump to the front layer.
-
---- no-print ---
-
-![Sprites in layers](images/challenge2-change-layers.gif)
-
---- /no-print ---
+**Tip:** As you move your sprites around the stage, whenever you click on a sprite it will jump to the front layer.
 
 --- task ---
 
-Now make a scenery sprite. You can use your chosen backdrop, change your chosen backdrop or create your own backdrop.
+Now make or choose a backdrop.
 
 In this step you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **Costume editor** automatically opens in the vector graphic setting. You will be using vector graphics for this project.
 
