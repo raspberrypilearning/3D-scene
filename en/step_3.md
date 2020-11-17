@@ -4,14 +4,13 @@ Now it is time to work on your own project. In this step you will think about yo
 
 --- task ---
 
-+ Take five minutes to think about **your** '3D scene' project. 
-+ What mood do you want to create? Will it be relaxing, energising, or funny?
+Take five minutes to think about **your** '3D scene' project. 
+
+What mood do you want to create? Will it be relaxing, energising, or funny?
 
 --- /task ---
 
 --- task ---
-
-What will your scenery look like? 
 
 Imagine a stage in the theatre. Scenery tends to be made up of anything which in real-life does not move. For example, a mountainscape with pine trees, a street with houses, a forest with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best. 
 
@@ -20,6 +19,8 @@ Look at the examples below. Each project is made up of a backdrop and a number o
 NEW EXAMPLES NEEDED WITH NO CHARACTERS!
 
 ![Image with sprites and backdrops](images/sprite-backdrop.png)
+
+What will your scenery look like? 
 
 --- /task ---
 
@@ -73,7 +74,7 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 
 --- task ---
 
-Now think about what **object** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you can make them. The choice is yours. Just imagine for now. You might want to explore the **Sprites gallery** for inspiration.
+Now think about what **object** or **objects** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you can make them. The choice is yours. Just imagine for now. You might want to explore the **Sprites gallery** for inspiration.
 
 --- collapse ---
 ---
@@ -96,19 +97,19 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 
 As in the theatre, characters move through the scenery.  
 
-What characters will you choose and/or create? Just imagine for now.
+What **character** or **characters** will you choose and/or create? Just imagine for now.
 
 --- /task ---
 
 --- task ---
 
-Things which appear smaller and lighter in colour look further away from the audience/user. This is a useful effect to use to create a greater sense of depth and helps to make things more realistic. Remember these useful 3-dimensional effects as you move through your project.
+Things which appear behind other objects or characters and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which you can use to create a greater sense of depth and helps to make your project appear more realistic.
 
 EXAMPLE
 
 --- /task ---
 
-Great thinking and imaging! In the next step you will make your project. 
+Great thinking and imaging! In the next step you will beging to make your project. 
 
 --- save ---
 
