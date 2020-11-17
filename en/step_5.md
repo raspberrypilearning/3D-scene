@@ -24,6 +24,18 @@ Look at how this project brings the window frame to the `front layer`{:class="bl
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
 </div>
 
+Rear sprites:
+``` blocks3
+when green flag clicked
+go to [back v] layer
+```
+
+Window frame sprite:
+``` blocks3
+when green flag clicked
+go to [front v] layer
+```
+
 --- collapse ---
 ---
 title: Program your sprites with front and back layers 
@@ -34,7 +46,13 @@ Have a look at this project and notice how it uses only the front and back layer
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/448361272/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div> 
+</div>
+
+This effect is done very simply using a `when this sprite clicked`{:class="block3events"} block:
+``` blocks3
+when this sprite clicked
+go to [front v] layer
+```
 
 By using layers, you can create cool animated effects! This project uses only front and back layers to make the cats appear to circle the globe:
 
@@ -55,13 +73,13 @@ Once you know which sprites you would like to go on top, you can do this by havi
 
 --- /collapse ---
 
-You could also or create more complexity by programming your sprites from front to back in multiple layers:
+You could also create more complexity by programming your sprites from front to back in multiple layers:
 
 --- collapse ---
 ---
 title: Program your sprites with multiple layers
 ---
-Have a look at how this project orders each of the sprites from front to back by using `Go backward X layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
+Have a look at how this project orders each of the sprites from front to back by using `Go backward a number of layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
 **Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
 
@@ -75,7 +93,7 @@ Click on the Code tab.
 
 Use a `go to back layer`{:class="block3looks"} or a `go to front layer`{:class="block3looks"} block and either a `go forward 1 layer`{:class="block3looks"} or a `go backward 1 layer`{:class="block3looks"} block to create an order for your sprites and scenery.
 
-You should get your sprite to go to the back (or front) layer and then move each sprite a concurrent number of layers at the start of your project:
+You should get your sprite to go to the back (or front) layer and then move each sprite a different number of layers at the start of your project:
 
 Front sprite:
 ``` blocks3
@@ -88,7 +106,6 @@ Rear sprite:
 ``` blocks3
 when green flag clicked
 go to [back v] layer
-Go [forward v] (2) layers
 ```
 
 **Or:**
@@ -97,14 +114,13 @@ Front sprite:
 ``` blocks3
 when green flag clicked
 go to [front v] layer
-Go [backward v] (1) layers
 ```
 
 Rear sprite:
 ``` blocks3
 when green flag clicked
 go to [front v] layer
-Go [backward v] (2) layers
+Go [backward v] (1) layers
 ```
 
 --- /collapse ---
