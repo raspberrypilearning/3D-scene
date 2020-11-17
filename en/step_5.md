@@ -152,12 +152,6 @@ go to [front v] layer
 Make sure that you are changing the right sprite each time, with the smallest sprite being the furthest back.
 --- /collapse ---
 
---- collapse ---
----
-title: Change the size of your sprite
----
---- /collapse ---
-
 --- /task ---
 
 If you need a reminder about how to create your sprite’s movement, then explore [Animate using motion](https://github.com/raspberrypilearning/interactive-animation/edit/draft/en/step_4.md) in Challenge 1 Interactive animation.
