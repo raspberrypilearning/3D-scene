@@ -18,7 +18,7 @@ Have a look at the [3D Scene](https://scratch.mit.edu/studios/27756161){:target=
 
 --- /task ---
 
---- /task ---
+--- task ---
 
 Imagine a stage in the theatre. Look at the examples below which is made up of a backdrop and a number of sprites to create a 3D scene:
 
@@ -97,5 +97,3 @@ Things which appear behind other objects or characters (layers) and are smaller 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/445737025/?autostart=false" frameborder="0"></iframe>
 </div>
-
---- /task ---
