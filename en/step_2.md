@@ -32,6 +32,8 @@ In the below example the scenery is made up of a plain blue **Sky** backdrop and
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
+--- no-print ---
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447121911/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -39,8 +41,6 @@ In the below example the scenery is made up of a plain blue **Sky** backdrop and
 --- /no-print ---
 
 Because they are sprites, the **Moon** and the **Rooftop** can be programmed. The moon is programmed to rise. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
-
---- /no-print ---
 
 --- /task ---
 
