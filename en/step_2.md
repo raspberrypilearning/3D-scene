@@ -42,7 +42,7 @@ Because they are sprites, the **Moon** and the **Rooftop** can be programmed. Th
 
 --- task ---
 
-Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the **Jellyfish**, **Puffafish** and **Scuba diver** sprites move but the underwater plants, which are drawn on the backdrop, are static.
+Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the **Jellyfish**, **Puffafish** and **Scuba diver** sprites move but the underwater plants, which are drawn on the backdrop, are static. As in the theatre, a characters or characters moves through the scenery:
 
 **Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
 
@@ -59,8 +59,6 @@ Objects which are already drawn onto a backdrop are not sprites so they cannot b
 --- /task ---
 
 --- task ---
-
-As in the theatre, a characters or charcaters moves through the scenery:
  
  **Evening window scene**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
 
