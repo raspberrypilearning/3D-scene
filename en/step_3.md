@@ -1,6 +1,6 @@
 ## Choose your theme
 
-Now it's time to work on your own project. In this step you will think about your project idea. In the next step, you will then begin to create your project with a backdrop and sprites.
+Now it's time to work on your own project. In this step you will think about your project idea. In the next step, you will begin to make your project.
 
 --- task ---
 
@@ -13,11 +13,11 @@ Now it's time to work on your own project. In this step you will think about you
 
 What will your scenery look like? 
 
-Imagine a stage in the theatre. Scenery tends to be made up of anything which in real-life does not move such as a mountainscape with pine trees, a street with houses, a forest with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best. 
+Imagine a stage in the theatre. Scenery tends to be made up of anything which in real-life does not move. For example, a mountainscape with pine trees, a street with houses, a forest with flowers, the moon with rocks, or a bedroom wall with furniture - whatever suits your project best. 
+
+Look at the examples below. Each project is made up of a backdrop and a number of sprites to create a 3D scene:
 
 NEW EXAMPLES NEEDED WITH NO CHARACTERS!
-
-Look at the examples below. Each  project is made up of one backdrop and a number of sprites to create a 3D scene:
 
 ![Image with sprites and backdrops](images/sprite-backdrop.png)
 
@@ -48,13 +48,11 @@ If you share your project, then others will also see this name, so make sure it 
 
 --- task ---
 
-Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can.
+Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can:
 
 ![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
-Begin to think about the backdrop for your 3D scene. In this project, for your scenery, you can **Choose a Backdrop** or you'll be able to make one. 
-
-Just think and imagine for now. You might want to explore the **Backdrops gallery** for inspiration.
+Begin to think about the backdrop for your 3D scene. You can **Choose a Backdrop** or you can make one. Just imagine for now. You might want to explore the **Backdrops gallery** for inspiration. You can always change your mind later on in the project.
 
 --- collapse ---
 ---
@@ -75,7 +73,7 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 
 --- task ---
 
-Now think about what **object** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you'll also be able to make them. The choice is yours. Just think and imagine for now. You might want to explore the **Sprites gallery** for inspiration.
+Now think about what **object** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you can make them. The choice is yours. Just imagine for now. You might want to explore the **Sprites gallery** for inspiration.
 
 --- collapse ---
 ---
@@ -98,7 +96,7 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 
 As in the theatre, characters move through the scenery.  
 
-What characters will you choose and/or create? Just think and imagine for now. You can change your mind throughout the project.
+What characters will you choose and/or create? Just imagine for now.
 
 --- /task ---
 
@@ -110,7 +108,7 @@ EXAMPLE
 
 --- /task ---
 
-Great thinking! In the next step you will begin to create your project. 
+Great thinking and imaging! In the next step you will make your project. 
 
 --- save ---
 
