@@ -32,6 +32,8 @@ In the below example the scenery is made up of a plain blue **Sky** backdrop and
 
 ![Sprite moon goes behind skyline](images/challenge2-moon-rising.gif)
 
+--- /no-print ---
+
 --- no-print ---
 
 <div class="scratch-preview">
