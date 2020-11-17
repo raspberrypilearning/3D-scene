@@ -161,7 +161,7 @@ Click or tap the backdrop to change the scenery for some added perspective!
 
 Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="block3looks"} block in your code to make your sprite shrink when it moves to the `back layer`{:class="block3looks"} and grow when it moves to the `front layer`{:class="block3looks"}!
 
-Make your code change the size of your sprite when the layer changes by adding the `set size to ()%`{:class="block3looks"} like this:
+Make your code change the size of your sprite when the layer changes by adding the `set size to ()%`{:class="block3looks"} or the `change size by`{:class="block3looks"} blocks like this:
 ``` blocks3
 when green flag clicked
 go to [front v] layer
