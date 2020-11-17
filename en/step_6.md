@@ -178,7 +178,7 @@ Each sprite makes a sound when you click on it.
 
  ```blocks3
  when this sprite clicked
- play sound (referee whistle v) until done
+ play sound (basketball bounce v) until done
  ```
 
  Since clicking on a sprite will bring it to the `front layer`{:class="block3looks"}, you can add an extra script to force the sprite to go back to the layer you want.
@@ -186,7 +186,7 @@ Each sprite makes a sound when you click on it.
   ```blocks3
  when flag clicked
  forever
- go to [front v] layer
+ go to [back v] layer
  end
  ```
 
@@ -212,7 +212,7 @@ Click the green flag to hear the sounds.
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/448392543/?autostart=false" frameborder="0"></iframe>
 </div>
 
-The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. A value of -100 plays all of the sound through the left speaker, 100 plays all of the sound through the right speaker, values in between play some some through each. 
+The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. A value of -100 plays **all** of the sound through the left speaker, 100 plays **all** of the sound through the right speaker, values in between gradually shift the sound balance from left to right as the number increases. 
 
 If you have stereo headphones or speakers then the sound from the left speaker sprite will come from the left headphone/speaker and the sound from the right speaker sprite will come from the right headphone speaker. 
 
