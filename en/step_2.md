@@ -6,7 +6,17 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
-To **play with** the example Scratch projects below, click the green flag. Then click the red stop icon above the stage when you have finished with a project so that it stops playing sound. The projects will stop after 30 seconds. Click the green flag again if you need more time. 
+Imagine a stage in the theatre. Look at the examples below which is made up of a backdrop and a number of sprites to create a 3D scene:
+
+In the below example the scenery is made up of a plain blue **Sky** backdrop and a silhouetted **Rooftop** sprite.
+
+Because they are sprites, the **Moon** and the **Rooftop** can be programmed. The moon is programmed to rise. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+
+Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the **Jellyfish**, **Puffafish** and **Scuba diver** sprites move but the underwater plants, which are drawn on the backdrop, are static. As in the theatre, a characters or characters moves through the scenery:
+
+Things which appear behind other objects or characters (layers) and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which can be used to create a greater sense of depth. They help to make your project appear more realistic.
+
+--- /task ---
 
 --- print-only ---
 
@@ -16,17 +26,9 @@ Have a look at the [3D Scene](https://scratch.mit.edu/studios/27756161){:target=
 
 --- /print-only ---
 
---- /task ---
-
---- task ---
-
-Imagine a stage in the theatre. Look at the examples below which is made up of a backdrop and a number of sprites to create a 3D scene:
-
-In the below example the scenery is made up of a plain blue **Sky** backdrop and a silhouetted **Rooftop** sprite.
+To **play with** the example Scratch projects below, click the green flag. Then click the red stop icon above the stage when you have finished with a project so that it stops playing sound. The projects will stop after 30 seconds. Click the green flag again if you need more time. 
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
-
-<mark>png example</mark>
 
 --- no-print ---
 
@@ -36,17 +38,7 @@ In the below example the scenery is made up of a plain blue **Sky** backdrop and
 
 --- /no-print ---
 
-Because they are sprites, the **Moon** and the **Rooftop** can be programmed. The moon is programmed to rise. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
-
---- /task ---
-
---- task ---
-
-Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the **Jellyfish**, **Puffafish** and **Scuba diver** sprites move but the underwater plants, which are drawn on the backdrop, are static. As in the theatre, a characters or characters moves through the scenery:
-
 **Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
-
-<mark>png example</mark>
 
 --- no-print ---
 
@@ -55,14 +47,8 @@ Objects which are already drawn onto a backdrop are not sprites so they cannot b
 </div>
 
 --- /no-print ---
-
---- /task ---
-
---- task ---
  
  **Evening window scene**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
-
-<mark>png example</mark>
 
 --- no-print ---
 
@@ -72,15 +58,7 @@ Objects which are already drawn onto a backdrop are not sprites so they cannot b
 
 --- /no-print ---
 
---- /task ---
-
---- task ---
-
-Things which appear behind other objects or characters (layers) and are smaller and lighter in colour look further away from the audience/user. These are useful 3-dimensional effects which can be used to create a greater sense of depth. They help to make your project appear more realistic.
-
 **Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449737128/editor){:target="_blank"}
-
-<mark>png example</mark>
 
 --- no-print ---
 
@@ -91,4 +69,3 @@ Things which appear behind other objects or characters (layers) and are smaller 
 --- /no-print ---
 
 --- /task ---
-
