@@ -25,18 +25,32 @@ The **Moon** is able to rise from behind the **Rooftops** because **Rooftops** i
 
 --- print-only ---
 
-Take a look at these 3D scene projects.
+Take a look at these 3D scene projects, and adjust any sliders you see.
 
 + Can you see which sprites are infront of other sprites?
-+ Can you tell what effect each variable slider does?
-
-Look at some examples and explore different 3D scenes by exploring example projects from the Raspberry Pi Foundation Scratch studio [3D Scene](https://scratch.mit.edu/studios/28058862){:target="_blank"}.
++ Can you tell what effect each variable slider has?
 
 --- /print-only ---
 
-Exploring 3D scene projects below.
- 
-To **play with** the example Scratch projects below, click the green flag. Then click the red stop icon above the stage when you have finished with a project so that it stops playing sound. The projects will stop after 30 seconds. Click the green flag again if you need more time. 
+**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449737128/editor){:target="_blank"}
+
+--- no-print ---
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/449737128/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /no-print ---
+
+**Moon base**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
+
+--- no-print ---
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+--- /no-print ---
 
 **Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
 
@@ -54,16 +68,6 @@ To **play with** the example Scratch projects below, click the green flag. Then 
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
-
-**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449737128/editor){:target="_blank"}
-
---- no-print ---
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/449737128/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
