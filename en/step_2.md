@@ -6,7 +6,7 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
-The wooden chair in the below example is drawn onto a backdrop. It is not a sprite so it cannot be layered or programmed and therefore cannot be animated. The **Wheelchair** sprite can be programmed. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
+In the esample below, the wooden chair is drawn onto a backdrop. It is not a sprite so it cannot be layered or programmed and therefore cannot be animated. The **Wheelchair** sprite can be programmed. By developing some of your scenery as sprites you can create some interesting, 3-dimensional effects which will make your scenery appear more realistic.
 
 ![Backdrop and sprites](images/challenge2-backdrop-bedroom.png){:width="400px"}
 
