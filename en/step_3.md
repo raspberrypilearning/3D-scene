@@ -25,18 +25,6 @@ Look at the examples below. Each  project is made up of one backdrop and a numbe
 
 --- task ---
 
-Begin to think about the backdrop for your 3D scene.
-
-Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can.  
-
-![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
-
-![Image with sprites and backdrops](images/challenge2-layers.gif)
-
---- /task ---
-
---- task ---
-
 Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
 
 Give your project a name that matches your theme. 
@@ -60,29 +48,15 @@ If you share your project, then others will also see this name, so make sure it 
 
 --- task ---
 
-Think about what object sprites will you choose and/or create for your scenery. In this project, for your scenery, you can **Choose a Backdrop** or make one. For other objects in your scene you can either **Choose a Sprite** or make them. The choice is yours.
+Objects which are already drawn onto a backdrop are not sprites so they cannot be layered or programmed and therefore cannot be animated. In the below example, the wooden chair is drawn onto the backdrop and cannot be programmed but the **Wheelchair** sprite can.
 
---- /task ---
+![Backdrop with furniture and chairs](images/challenge2-backdrop-bedroom.png){:width="1000px"}
 
---- task ---
+Begin to think about the backdrop for your 3D scene. Just think and explore for now. You might want to explore the backdrops gallery for inspiration.
 
-Now think again the theatre where characters move through the scenery.  
+In this project, for your scenery, you can **Choose a Backdrop** or you'll be able to make one. 
 
-What characters will you choose and/or create?
-
---- /task ---
-
---- task ---
-
-Things which appear smaller and lighter in colour look further away from the audience/user. This is a useful effect to use to create a greater sense of depth and helps to make things more realistic.
-
-EXAMPLE
-
---- /task ---
-
-In the next step you will begin to create your project. 
-
-Below are some examples of **How to…**. You can use these as a reminder on how to explore the backdrops and sprites galleries.
+Remember to use **How to…** if you need support.
 
 --- task ---
 
@@ -105,11 +79,7 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 
 --- task ---
 
-Add your first sprite. You will be able to change the way it looks or add more sprites later.
-
---- /collapse ---
-
---- /task ---
+Now think about what **object** will you choose and/or create to sit in your scenery. You can either **Choose a Sprite** or again, you'll also be able to make them. The choice is yours. Just think, imagine and explore for now. You might want to explore the sprite gallery for inspiration.
 
 --- task ---
 
@@ -130,6 +100,23 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 
 --- /task ---
 
+--- task ---
+
+As in the theatre, characters move through the scenery.  
+
+What characters will you choose and/or create?
+
+--- /task ---
+
+--- task ---
+
+Things which appear smaller and lighter in colour look further away from the audience/user. This is a useful effect to use to create a greater sense of depth and helps to make things more realistic. Remember these effects as you move through your project.
+
+EXAMPLE
+
+--- /task ---
+
+Great thinking! In the next step you will begin to create your project. 
 
 --- save ---
 
