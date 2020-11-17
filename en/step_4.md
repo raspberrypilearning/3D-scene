@@ -50,8 +50,6 @@ This example has build a hills sprite that sits in front of the blue sky backdro
 
 These hills have been created as a single sprite but you could also create each hill as an individual sprite making it easy for you to move things around later.
 
-![Sprite hills as background](images/challenge2-sprite-hills.png){:width="400px"}
-
 --- collapse ---
 ---
 
