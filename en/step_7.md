@@ -300,7 +300,7 @@ All of these scripts can use the same variable at the same time.
 
 --- /collapse ---
 
-<mark>This title could be another language to many pupils. SHould we give a surfaced sentence before it that might help them decide if this drop down is something they want to go into?</mark>
+<mark>This title could be another language to many pupils. Should we give a surfaced sentence before it that might help them decide if this drop down is something they want to go into?</mark>
 
 --- collapse ---
 
@@ -310,7 +310,7 @@ title: Using operators with variables
 
 ---
 
-Sometimes it's useful to use operators (+, -, * or /) with variables to calculate different numbers.
+Sometimes it's useful to use operators (+, -, x or ÷) with variables to calculate different numbers.
 
 **Space size and distance**: [See inside](https://scratch.mit.edu/projects/450249059/editor){:target="_blank"}
 
