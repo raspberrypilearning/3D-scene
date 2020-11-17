@@ -300,7 +300,13 @@ All of these scripts can use the same variable at the same time.
 
 --- /collapse ---
 
-Sometimes you may want to use a single `variable`{:class="block3variables"} for mulitple tasks but the value needs to be adjusted in some way for one use, for example, `wait`{:class="block3control"} times often need to be very small while `size`{:class="block3looks"} values are usually much larger. In this case you may need to use an `operator`{:class="block3operators"} to adjust the value. The 'how to' below gives some examples of this.
+You may want to use a single `variable`{:class="block3variables"} for mulitple tasks but the value needs to be adjusted in some way for one use.
+
++ `wait`{:class="block3control"} times often need to be very small 
++ `size`{:class="block3looks"} values are often quite larger
++ `pan`{:class="block3sound"} can use negative values
+
+In this case you may need to use an `operator`{:class="block3operators"} to adjust the value:
 
 --- collapse ---
 
@@ -365,7 +371,7 @@ Things to consider:
 + Have you given your variables names that match what they are used for?
 + Have you chosen the best maximum and minumum values for your sliders?
 + Are your sliders neatly arranged on the Stage?
-+ Can you use the same variable in multiple places?
++ Is it helpful to use the same variable in multiple places?
 
 --- /task ---
 
