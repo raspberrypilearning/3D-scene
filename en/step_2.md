@@ -64,7 +64,7 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- /no-print ---
  
- **Evening window**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
+**Evening window**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
 
 --- no-print ---
 

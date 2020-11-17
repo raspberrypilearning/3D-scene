@@ -27,9 +27,11 @@ To make your own backdrop:
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-+ In the **Backdrops** tab, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the **Paint Editor**). Don't forget to title your backdrop.
++ In the **Backdrops** tab, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the **Paint Editor**). 
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
+
+Don't forget to name your backdrop.
 
 --- /collapse ---
 
@@ -37,36 +39,27 @@ To make your own backdrop:
 
 --- task ---
 
-First, you will make or choose a backdrop.
+Next, you will choose or create sprites that will act as scenery. This could be hills or mountain in the distance, or objects much closer such as trees or flowers. 
 
-Either you will choose a relatively plain backdrop from the Scratch backdrop library, or you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **backdrop editor** automatically opens in the vector graphic setting and you will be using vector graphics for this project.
+If you like, you can combine sprites from the Scratch library and your own sprites created in the **Paint Editor**.
 
-**Blue sky**:
-![Blue sky image](images/blueSkyBackdrop.png){:width="400px"}
+**Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
+![Hills image](images/challenge2-sprite-hills.png){:width="400px"}
 
-In this example the backdrop is a plain blue sky because any additional scenery, such as hills, trees or buildings will be added as sprites that can be moved around.
+This example has build a hills sprite that sits in front of the blue sky backdrop.
+
+These hills have been created as a single sprite but you could also create each hill as an individual sprite making it easy for you to move things around later.
 
 ![Sprite hills as background](images/challenge2-sprite-hills.png){:width="400px"}
 
 --- collapse ---
 ---
 
-title: Create your scenery from a backdrop and sprites
+title: Create scenery sprites
 
 ---
 
-Below is an example of a **Sky** background with **Hill** sprites. You can use the example below to create any background and objects you require in your scene.
-
-To make your own backdrop:
-+ Go to the **Stage pane**, click **Backdrops** and selecting **Paint**.
-
-![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
-
-+ In the **Backdrops** tab, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the **Paint Editor**). Don't forget to title your backdrop.
-
-![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
-
-+ Now you will create sprites for your scenery which will sit on the **Sky** backdrop.
+This example is to make the hills shown above, but you can apply these skills to make your own sprites using the Circle or Rectangle tools in the **Paint Editor**:
 
 + Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
 
@@ -86,20 +79,24 @@ In the real-world, objects that sit further away appear lighter in colour - to a
 
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-+ Don't forget to title your backdrop and sprite. It also helps to title each costume.
++ Don't forget to name your sprites.
 
 --- /collapse ---
 
 --- /task ---
 
+**Tip:** If you find it hard to manage the sprites on your stage, such as having a large sprite that keeps covering a much smaller one, you can toggle any sprite to be hidden while you don't need to see it.
+
+![Hide sprites](images/hideSprites.png){:width="400px"}
+
 --- task ---
 
-Here's some other effects you can create in the Paint editor. Use the effects that fit into your project idea.
+Here's some other tools you can use in the Paint editor. Use the tools and techniques that fit into your project idea.
 
 --- collapse ---
 ---
 
-title: Create a sprite costume using the Line tool
+title: Create a sprite using the Line tool
 
 ---
 
