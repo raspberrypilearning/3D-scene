@@ -1,8 +1,6 @@
 ## Set the scene
 
-In this step you will set the scene by adding a backdrop and sprites.
-
-In the next step, you will be programming your sprites so don't worry about coding for now.
+In this step you will set the scene by adding a backdrop and sprites. You will be programming your sprites in the next step so don't worry about coding for now.
 
 **Walking in the hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 
