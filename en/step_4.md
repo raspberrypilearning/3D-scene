@@ -6,7 +6,7 @@ In the next step, you will be programming your sprites so don't worry about that
 
 --- task ---
 
-Either choose a backdrop from the Scratch backdrop library, or make a plain backdrop with the **Paint editor**.
+Either create a plain backdrop with the **Paint editor** or **Choose a Backdrop** from the Scratch library.
 
 --- collapse ---
 ---
@@ -16,9 +16,7 @@ title: Create a plain backdrop
 ---
 
 **Blue sky**:
-![Dark blue sky image](images/blueSkyBackdrop.png){:width="400px"}
-
-In this example a drak blue backdrop has been created because any additional scenery, such as hills, trees or buildings will be added as sprites that can be moved around.
+In the example a dark blue backdrop has been created because any additional scenery, such as hills, trees or buildings will be added as sprites that can be moved around.
 
 To make your own backdrop:
 + Go to the **Stage pane**, click **Backdrops** and selecting **Paint**.
@@ -38,7 +36,7 @@ Or,
 --- collapse ---
 ---
 
-title: Choose a backdrop from the gallery
+title: Choose a backdrop from the Scratch library
 
 ---
 
