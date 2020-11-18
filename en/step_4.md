@@ -4,6 +4,14 @@ In this step you will set the scene by adding a backdrop and sprites. You can us
 
 In the next step, you will be programming your sprites so don't worry about that now.
 
+**Walking in the hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
+
+--- no-print ---
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/445193602/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
 --- task ---
 
 Either create a plain backdrop with the **Paint editor** or **Choose a Backdrop** from the Scratch library.
