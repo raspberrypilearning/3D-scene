@@ -14,7 +14,7 @@ In this step you will set the scene by adding a backdrop and sprites. You will b
 
 --- task ---
 
-Use the **Paint Editor** to create your own backdrop and scenery sprites if you don't find what you need when you **Choose a Backdrop** from the Scratch library.
+Use the **Paint Editor** to create your own backdrop and scenery sprites or **Choose a Backdrop** from the Scratch library.
 
 --- collapse ---
 ---
