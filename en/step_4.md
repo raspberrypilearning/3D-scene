@@ -22,6 +22,8 @@ See how the **Moon** sprite is able to rise from behind the **Rooftops** sprite 
 
 --- /no-print ---
 
+--- /task ---
+
 --- task ---
 Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
 --- /task ---
