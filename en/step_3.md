@@ -1,13 +1,13 @@
 ## Choose a theme
 
-In this step you will choose a theme.
+In this step you will choose a theme for your 3D scene.
 
 --- task ---
 
 In the example below, see how the **Moon** is able to rise from behind the silhouetted roofs because **Rooftops** is a sprite rather than being drawn on the backdrop.
 
-+ Backdrop is **always** at the back and cannot move
-+ Sprites can move around the screen, and be infront of or behind other sprites
++ A Backdrop is **always** at the back and cannot move
++ Sprites can move around the stage, and be in front of or behind other sprites
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
@@ -22,19 +22,19 @@ In the example below, see how the **Moon** is able to rise from behind the silho
 --- /task ---
 
 --- task ---
+
 Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
+
 --- /task ---
 
 --- task ---
-Decide on the theme for your project. 
 
-Think about:
+To decide on the theme for your project try and answer the following questions. You don't have to decide all of the details yet:
 + What mood do you want to create? Will it be relaxing, energising, or funny?
 + What will your scenery look like?
-+ What objects and characters will you include?
-+ What will the user be able to control?
++ What objects and characters will you include in your scene?
++ What will the user be able to control with sliders?
 
-You don't have to decide all the details yet. 
 --- /task ---
 
 --- task ---
