@@ -46,7 +46,7 @@ Now program your sprites into layers.
 
 --- collapse ---
 ---
-title: Program your sprites front and back
+title: Program your sprites using front and back layers
 ---
 
 You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks. 
