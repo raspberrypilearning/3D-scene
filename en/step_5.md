@@ -113,5 +113,6 @@ wait (0.3) seconds
 ```
 If you want some  more information explore [Animate using looks](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/5) in Challenge 1 Interactive animation.
 
+--- /task ---
 
 --- save ---
