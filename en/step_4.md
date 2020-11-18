@@ -8,10 +8,14 @@ In this step you will create scenery with one backdrop and a series of sprites. 
 
 First, you will make or choose a backdrop.
 
-Either you will choose a relatively plain backdrop from the Scratch backdrop library, or you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **backdrop editor** automatically opens in the vector graphic setting and you will be using vector graphics for this project.
+Either you will choose a backdrop from the Scratch backdrop library, or you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **backdrop editor** automatically opens in the vector graphic setting and you will be using vector graphics for this project.
+
+<mark>Is mentioning bitmap graphics so prominently here necessary?</mark>
 
 **Blue sky**:
 ![Blue sky image](images/blueSkyBackdrop.png){:width="400px"}
+
+<mark>TBD: Scratch already has a blue sky background, can we use a different example.</mark>
 
 In this example a plain blue sky backdrop has been created because any additional scenery, such as hills, trees or buildings will be added as sprites that can be moved around.
 
@@ -35,6 +39,22 @@ Don't forget to name your backdrop.
 
 --- /collapse ---
 
+Or, 
+
+--- collapse ---
+---
+
+title: Choose a backdrop from the gallery
+
+---
+
+In the bottom-right corner of the Stage pane, click on **Choose a Backdrop**.
+![Image of Choose a Backdrop](images/stage-choose.png)
+
+You can search for a backdrop, or browse for one by category or theme. Click on a backdrop to select it.
+![Image of Backdrop Library](images/backdrop.png)
+
+--- /collapse ---
 --- /task ---
 
 --- task ---
@@ -76,6 +96,23 @@ In the real-world, objects that sit further away appear lighter in colour - to a
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
 + Don't forget to name your sprites.
+
+--- /collapse ---
+
+Add any sprites that you want to use from the gallery: 
+
+--- collapse ---
+---
+
+title: Add sprites from the gallery
+
+---
+
+In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
+![Image Sprite Library](images/sprite-library.png)
+
+You can search or browse sprites by theme. Click on a sprite to add it to your project.
+![Image Sprite Library - choose](images/sprite-choose.png)
 
 --- /collapse ---
 
