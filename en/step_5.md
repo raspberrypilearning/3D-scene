@@ -46,16 +46,28 @@ Now program your sprites into layers.
 
 --- collapse ---
 ---
-title: Program your sprites in layers 
+title: Program your sprites front and back
 ---
 
-Have a look at how this project orders each of the sprites from front to back by using `Go backward a number of layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
+You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks. 
 
 **Evening window scene**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
 </div>
+
+Rear sprites:
+``` blocks3
+when green flag clicked
+go to [back v] layer
+```
+
+Window frame sprite:
+``` blocks3
+when green flag clicked
+go to [front v] layer
+```
 
 Click on the **Code tab** of the sprite you want at the front and add a `go to front layer`{:class="block3looks"} block for the **front sprite**:
 
@@ -64,12 +76,18 @@ when green flag clicked
 go to [front v] layer
 ```
 
+--- /collapse ---
+
+--- collapse ---
+---
+title: Program your sprites in layers
+---
 Now, using the `go backward (1) layers`{:class="block3looks"} to place the **next sprite** 1 layer behind the **front sprite**:
 
 ``` blocks3
 when green flag clicked
 go to [front v] layer
-* Go [backward v] (1) layers
++go [backward v] (1) layers
 ```
 
 Allocate layers to other sprites. The value you use in the `go backward (1) layers`{:class="block3looks"} block will depend how many layers back you want each sprite to sit:
@@ -77,7 +95,7 @@ Allocate layers to other sprites. The value you use in the `go backward (1) laye
 ``` blocks3
 when green flag clicked
 go to [front v] layer
-* Go [backward v] (2) layers
++go [backward v] (2) layers
 ```
 
 --- /collapse ---
