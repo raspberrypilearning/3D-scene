@@ -86,7 +86,7 @@ go to [front v] layer
 
 --- task ---
 
-Now animate your sprite by moving or changing its costumes.
+Animate your sprite by moving or changing its costumes.
 
 --- collapse ---
 ---
