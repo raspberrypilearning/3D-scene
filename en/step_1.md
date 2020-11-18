@@ -17,6 +17,7 @@ title: What you will need
 ### Hardware
 
 + A computer or tablet capable of running Scratch
++ This projects features sound, headphones are recommended
 
 ### Software
 
