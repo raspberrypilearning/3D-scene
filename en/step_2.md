@@ -25,12 +25,12 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- /no-print ---
 
-**Moon base**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
+**Moon base**: [See inside](https://scratch.mit.edu/projects/451059914/editor){:target="_blank"}
 
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/451059914/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 --- /no-print ---
