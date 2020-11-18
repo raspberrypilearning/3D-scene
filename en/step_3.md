@@ -1,8 +1,12 @@
+## Choose a theme
+
+In this step you will choose a theme.
+
 --- task ---
 
-See how the **Moon** sprite is able to rise from behind the **Rooftops** sprite because **Rooftops** is a sprite rather than a part of the backdrop.
+In the example below, see how the **Moon** is able to rise from behind the silhouetted roofs because **Rooftops** is a sprite rather than being drawn on the backdrop.
 
-+ The backdrop is **always** at the back and cannot move
++ Backdrop is **always** at the back and cannot move
 + Sprites can move around the screen, and be infront of or behind other sprites
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
@@ -28,7 +32,6 @@ Think about:
 + What mood do you want to create? Will it be relaxing, energising, or funny?
 + What will your scenery look like?
 + What objects and characters will you include?
-+ What 3D effects will you use?
 + What will the user be able to control?
 
 You don't have to decide all the details yet. 
