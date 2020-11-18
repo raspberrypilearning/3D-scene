@@ -21,13 +21,11 @@ title: Set the size of your sprites
 
 **Numbers in a row**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
-Click or tap the backdrop to change the scenery for some added perspective!
-
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Use the `set size to ()%`{:class="block3looks"} block in your code to make your sprite decrease in size (less than 100%) when it sits towards the `back layer`{:class="block3looks"} or increase insize (more than 100%) when it sits towards the `front layer`{:class="block3looks"}. Some sprites can stay the same  size. Make sure that you select the correct **Code tab** for each sprite:
+Use the `set size to ()%`{:class="block3looks"} block in your code to make your sprite decrease in size (less than 100%) when it sits towards the back or increase in size (more than 100%) when it sits towards the front. Some sprites can stay the same size. Make sure that you select the correct **Code tab** for each sprite before add new code:
 
 ``` blocks3
 when green flag clicked
@@ -59,14 +57,14 @@ Have a look at how this project orders each of the sprites from front to back by
   <iframe src="https://scratch.mit.edu/projects/445055782/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Click on the **Code tab** of the sprite you want at the front and add the `go to front layer`{:class="block3looks"} block for the **front sprite**:
+Click on the **Code tab** of the sprite you want at the front and add a `go to front layer`{:class="block3looks"} block for the **front sprite**:
 
 ``` blocks3
 when green flag clicked
 go to [front v] layer
 ```
 
-Now, using the `go backward (1) layers`{:class="block3looks"} to place the **next sprite** 1 layer behind the front sprite:
+Now, using the `go backward (1) layers`{:class="block3looks"} to place the **next sprite** 1 layer behind the **front sprite**:
 
 ``` blocks3
 when green flag clicked
