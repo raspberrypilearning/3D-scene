@@ -108,7 +108,7 @@ Animate your sprite by moving or changing its costumes.
 
 --- collapse ---
 ---
-title: Animate your sprite
+title: Move your sprite
 ---
 
 Get your sprite moving:
@@ -128,7 +128,7 @@ For more information, explore [Animate using motion](https://learning-admin.rasp
 
 --- collapse ---
 ---
-title: Animate your sprite
+title: Change your sprite's costume
 ---
 
 Get your sprite changing costumes:
