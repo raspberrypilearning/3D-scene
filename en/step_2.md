@@ -11,7 +11,7 @@ You can get ideas for your own project by investigating projects created by othe
 Take a look at these 3D scene projects, and adjust any sliders you see.
 
 + Can you see which sprites are in front of other sprites?
-+ Can you identify the changes the variable sliders make?
++ Can you identify what changes the variable sliders make?
 
 --- /print-only ---
 
