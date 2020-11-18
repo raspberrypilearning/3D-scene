@@ -12,6 +12,8 @@ In the next step, you will be programming your sprites so don't worry about that
   <iframe src="https://scratch.mit.edu/projects/445193602/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
+--- /no-print ---
+
 --- task ---
 
 Either create a plain backdrop with the **Paint editor** or **Choose a Backdrop** from the Scratch library.
