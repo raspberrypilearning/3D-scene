@@ -71,7 +71,7 @@ This example has a single **Hills** sprite that sits in front of the blue sky ba
 --- collapse ---
 ---
 
-title: Create scenery sprites
+title: Create scenery sprites with shapes
 
 ---
 
@@ -98,6 +98,70 @@ In the real-world, objects that sit further away appear lighter in colour - to a
 + Don't forget to name your sprites.
 
 --- /collapse ---
+
+
+--- collapse ---
+---
+
+title: Create a scenery costume using copy and paste
+
+---
+
+In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier or more crowded.
+
+**Multiple clouds**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
+
+![Multiple cloud shapes](images/challenge2-sprite-costume-multiples.png){:width="400px"}
+
+The effect of multiplying shapes is used by professional animators to create the impression of: weather patterns such as rain or clouds; a cluster of objects such as buildings or a wood; as well as a crowd of people in a scene.
+
+--- no-print ---
+
+![Costume with multiple cloud shapes](images/challenge2-sprite-costume-multiples.gif)
+
+--- /no-print ---
+
+Following the below, you can multiply any type of shape:
++ Go to **Choose a Sprite** and select, in this example, the **Cloud** sprite
++ In the **Costumes editor**, using the **Select** tool highlight the whole of the shape
++ Create multiples of the shape using the **Copy** and **Paste** tools
++ Move the shape within the stage area using the **Select** tool
++ Varying the size of the shapes will also help to create a greater sense of 3D-dimensions
++ You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape
+
+--- /collapse ---
+
+
+--- collapse ---
+---
+
+title: Create triangles using the line tool
+
+---
+
+Following the same method you used on the above task to make hills, you can create geometric shapes such as traingle. This example creates a single house in silhouette.
+
+Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
+
+**House**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
+
+![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
+
+Following the below, you can any shape using the linetool:
++ Choose a **Fill** colour with no outline
++ Draw a rectangle using the **Rectangle** tool
++ Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
++ Move the two shapes together
++ Select the **Bucket** tool and fill the triangle
++ Draw another rectangle shape for the chimney using the **Rectangle** tool
++ You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette
++ Select all the shapes and **Group** them together so that you can adjust them or move them as one shape
+
+To make multiples of your shapes such as a skyline of houses, follow the **How to...** 'Multiple shapes in a sprite costume' below.
+
+--- /collapse ---
+
+
 
 Add any sprites that you want to use from the gallery: 
 
@@ -126,65 +190,6 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 
 Here's some other tools you can use in the Paint editor. Use the tools and techniques that fit into your project idea.
 
---- collapse ---
----
-
-title: Create a sprite using the Line tool
-
----
-
-Following the same method you used on the above task to make hills, you can create geometric shapes such as traingle. This example creates a single house in silhouette.
-
-Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
-
-**House**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
-
-![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
-
-Following the below, you can any shape using the linetool:
-+ Choose a **Fill** colour with no outline
-+ Draw a rectangle using the **Rectangle** tool
-+ Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
-+ Move the two shapes together
-+ Select the **Bucket** tool and fill the triangle
-+ Draw another rectangle shape for the chimney using the **Rectangle** tool
-+ You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette
-+ Select all the shapes and **Group** them together so that you can adjust them or move them as one shape
-
-To make multiples of your shapes such as a skyline of houses, follow the **How to...** 'Multiple shapes in a sprite costume' below.
-
---- /collapse ---
-
---- collapse ---
----
-
-title: Create a sprite costume with multiple shapes
-
----
-
-In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier or more crowded.
-
-**Multiple clouds**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
-
-![Multiple cloud shapes](images/challenge2-sprite-costume-multiples.png){:width="400px"}
-
-The effect of multiplying shapes is used by professional animators to create the impression of: weather patterns such as rain or clouds; a cluster of objects such as buildings or a wood; as well as a crowd of people in a scene.
-
---- no-print ---
-
-![Costume with multiple cloud shapes](images/challenge2-sprite-costume-multiples.gif)
-
---- /no-print ---
-
-Following the below, you can multiply any type of shape:
-+ Go to **Choose a Sprite** and select, in this example, the **Cloud** sprite
-+ In the **Costumes editor**, using the **Select** tool highlight the whole of the shape
-+ Create multiples of the shape using the **Copy** and **Paste** tools
-+ Move the shape within the stage area using the **Select** tool
-+ Varying the size of the shapes will also help to create a greater sense of 3D-dimensions
-+ You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape
-
---- /collapse ---
 
 --- collapse ---
 ---
