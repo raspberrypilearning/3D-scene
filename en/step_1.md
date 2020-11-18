@@ -48,7 +48,7 @@ For this project, you need to know how to:
 + Make a `variable`{:class="block3control"}, turn it into a slider with a range and use it as an input to a block
 + Use `layers`{:class="block3looks"} blocks to move Sprites in front or behind other Sprites
 + Use `wait`{:class="block3control"} blocks to add a delay 
-+ Use simple `operators`{:class="operators"} to do calculations
++ Use simple `operators`{:class="block3operators"} to do calculations
 
 --- /collapse ---
 
