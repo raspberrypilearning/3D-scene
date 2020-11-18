@@ -106,6 +106,13 @@ if on edge, bounce
 
 For more information, explore [Animate using motion](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/3) in Challenge 1 Interactive animation.
 
+--- /collapse ---
+
+--- collapse ---
+---
+title: Animate your sprite
+---
+
 Get your sprite changing costumes:
 
 ```blocks3
