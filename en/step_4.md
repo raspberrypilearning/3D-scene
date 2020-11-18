@@ -4,6 +4,62 @@ In this step you will create scenery with one backdrop and a series of sprites. 
 
 **Tip:** Whenever you click on a sprite it will jump to the front layer and in in front of any other sprites.
 
+
+--- task ---
+
+See how the **Moon** sprite is able to rise from behind the **Rooftops** sprite because **Rooftops** is a sprite rather than a part of the backdrop.
+
++ The backdrop is **always** at the back and cannot move
++ Sprites can move around the screen, and be infront of or behind other sprites
+
+**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
+
+--- no-print ---
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/445119855/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+--- /no-print ---
+
+--- task ---
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
+--- /task ---
+
+--- task ---
+Decide on the theme for your project. 
+
+Think about:
++ What mood do you want to create? Will it be relaxing, energising, or funny?
++ What will your scenery look like?
++ What objects and characters will you include?
++ What 3D effects will you use?
++ What will the user be able to control?
+
+You don't have to decide everything yet. 
+--- /task ---
+
+--- task ---
+
+Give your project a name that matches your theme. Remember to use a **How to…** when you need support.
+
+--- collapse ---
+---
+
+title: How do I give my project a name?
+
+---
+
+Click in the project name box and change the name to match your project. 
+
+![Project name highlighted](images/change-project-name.png)
+
+If you share your project, then others will also see this name, so make sure it makes sense. 
+
+--- /collapse --- 
+
+--- /task ---
+
 --- task ---
 
 First, you will make or choose a backdrop.
@@ -139,7 +195,7 @@ title: Create triangles using the line tool
 
 ---
 
-Following the same method you used on the above task to make hills, you can create geometric shapes such as traingle. This example creates a single house in silhouette.
+Following the same method you used on the above task to make hills, you can create polygons such as triangle. This example creates a single house in silhouette.
 
 Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
 
@@ -160,7 +216,6 @@ Following the below, you can any shape using the linetool:
 To make multiples of your shapes such as a skyline of houses, follow the **How to...** 'Multiple shapes in a sprite costume' below.
 
 --- /collapse ---
-
 
 
 Add any sprites that you want to use from the gallery: 

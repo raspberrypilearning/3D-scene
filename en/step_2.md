@@ -6,25 +6,6 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
-See how the **Moon** sprite is able to rise from behind the **Rooftops** sprite because **Rooftops** is a sprite rather than a part of the backdrop.
-
-+ The backdrop is **always** at the back and cannot move
-+ Sprites can move around the screen, and be infront of or behind other sprites
-
-**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
-
---- no-print ---
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/445119855/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
---- /no-print ---
-
---- /task ---
-
---- task ---
-
 --- print-only ---
 
 Take a look at these 3D scene projects, and adjust any sliders you see.
