@@ -185,9 +185,9 @@ To make multiples of your shapes such as a skyline of houses, follow the **How t
 
 --- /task ---
 
-**Tip:** If you find it hard to manage the sprites on your stage, such as having a large sprite that keeps covering a much smaller one, you can toggle any sprite to be hidden while you don't need to see it.
+**Tip:** If you find it hard to manage the sprites on your stage, such as having a large sprite that keeps covering a much smaller one, you can click **hide** so you don't see the sprite or sprites. Then click **show** again when you're done.
 
-![Hide sprites](images/hideSprites.png){:width="400px"}
+![Hide sprites](images/hideSprites.png){:width="300px"}
 
 --- task ---
 As you add more sprites you will need to think about how they will work together in your scene. 
