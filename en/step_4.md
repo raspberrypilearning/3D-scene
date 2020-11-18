@@ -1,9 +1,8 @@
 ## Set your scene
 
-In this step you will create scenery with one backdrop and a series of sprites. In the next step, you will be programming your sprites so don't worry about that now.
+In this step you will set the scene by adding a backdrop and sprites. You can use the **Paint Editor** to create your own backdrop and scenery sprites if you don't find what you need in the gallery. 
 
-**Tip:** Whenever you click on a sprite it will jump to the front layer and in in front of any other sprites.
-
+In the next step, you will be programming your sprites so don't worry about that now.
 
 --- task ---
 
@@ -38,12 +37,12 @@ Think about:
 + What 3D effects will you use?
 + What will the user be able to control?
 
-You don't have to decide everything yet. 
+You don't have to decide all the details yet. 
 --- /task ---
 
 --- task ---
 
-Give your project a name that matches your theme. Remember to use a **How to…** when you need support.
+Give your project a name that matches your theme. Remember to use a **How to…** when you need help.
 
 --- collapse ---
 ---
@@ -64,11 +63,7 @@ If you share your project, then others will also see this name, so make sure it 
 
 --- task ---
 
-First, you will make or choose a backdrop.
-
-Either you will choose a backdrop from the Scratch backdrop library, or you are going to work with the **Paint editor** where there are two types of graphics options: **vector** and **bitmap**. The **backdrop editor** automatically opens in the vector graphic setting and you will be using vector graphics for this project.
-
-<mark>Is mentioning bitmap graphics so prominently here necessary?</mark>
+Either choose a backdrop from the Scratch backdrop library, or make a backdrop with the **Paint editor**.
 
 **Blue sky**:
 ![Blue sky image](images/blueSkyBackdrop.png){:width="400px"}
@@ -117,9 +112,29 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 
 --- task ---
 
-Next, you will choose or create sprites that will act as scenery. This could be hills or mountain in the distance, or objects much closer such as trees or flowers. 
+Add any sprites that you want to use from the gallery. This could include people, animals or vehicles. It can also include existing scenery sprites such as trees, rocks or buildings. 
 
-If you like, you can combine sprites from the Scratch library and your own sprites created in the **Paint Editor**.
+Remember all sprites in Scratch can move so if you want your main character to be a bunch of bananas, that's fine!
+
+--- collapse ---
+---
+
+title: Add sprites from the gallery
+
+---
+
+In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
+![Image Sprite Library](images/sprite-library.png)
+
+You can search or browse sprites by theme. Click on a sprite to add it to your project.
+![Image Sprite Library - choose](images/sprite-choose.png)
+
+--- /collapse ---
+
+**Tip:** Whenever you drag a sprite it will jump to the front layer and in front of any other sprites.
+
+--- task ---
+Use the **Paint Editor** to create any additional sprites that you need as scenery. This could be hills or mountain in the distance, or objects much closer such as trees or flowers. 
 
 **Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 ![Hills image](images/challenge2-sprite-hills.png){:width="400px"}
@@ -219,24 +234,6 @@ To make multiples of your shapes such as a skyline of houses, follow the **How t
 
 --- /collapse ---
 
-
-Add any sprites that you want to use from the gallery: 
-
---- collapse ---
----
-
-title: Add sprites from the gallery
-
----
-
-In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
-![Image Sprite Library](images/sprite-library.png)
-
-You can search or browse sprites by theme. Click on a sprite to add it to your project.
-![Image Sprite Library - choose](images/sprite-choose.png)
-
---- /collapse ---
-
 --- /task ---
 
 **Tip:** If you find it hard to manage the sprites on your stage, such as having a large sprite that keeps covering a much smaller one, you can toggle any sprite to be hidden while you don't need to see it.
@@ -244,14 +241,14 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 ![Hide sprites](images/hideSprites.png){:width="400px"}
 
 --- task ---
+As you add more sprites you will need to think about how they will work together in your scene. 
 
-Here's some other tools you can use in the Paint editor. Use the tools and techniques that fit into your project idea.
-
+Here are some more examples:
 
 --- collapse ---
 ---
 
-title: Create a new sprite for each shape
+title: Create separate scenery sprites so characters can go behind them
 
 ---
 
@@ -268,7 +265,7 @@ You can create shapes as individual sprites rather than as one sprite costume. T
 --- collapse ---
 ---
 
-title: Create a masking sprite
+title: Create a sprite with gaps that you can see through
 
 ---
 
