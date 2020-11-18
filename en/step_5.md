@@ -1,6 +1,6 @@
 ## 3-Dimensional effects
 
-In this step you’re going to use the `looks`{:class="block3looks"} blocks to program your sprites into `layers`{:class="block3looks"} to make them appear in front or behind each other. You will also change the `size`{:class="block3looks"} of sprites to increase the 3-dimensional effect. 
+In this step you’re going to increase the sense of 3-dimensions, using the `looks`{:class="block3looks"} blocks to program the `size`{:class="block3looks"} of your sprites. You will also use `layers`{:class="block3looks"} to make your sprites appear in front or behind each other.
 
 --- task ---
 Notice how the rocket is smaller than the robot as well as higher up on the stage, creating the illusion of distance in this project. This is the overall effect we are trying to achieve:
@@ -10,6 +10,57 @@ Notice how the rocket is smaller than the robot as well as higher up on the stag
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+--- /task ---
+
+--- task ---
+
+Resize your sprites where relevant to increase the 3-dimensional effect.
+
+--- collapse ---
+---
+title: Set the size of your sprites
+---
+
+**Numbers in a row**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
+
+Click or tap the backdrop to change the scenery for some added perspective!
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+
+Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="block3looks"} block in your code to make your sprite shrink when it moves to the `back layer`{:class="block3looks"} and grow when it moves to the `front layer`{:class="block3looks"}!
+
+Make your code change the size of your sprite when the layer changes by adding the `set size to ()%`{:class="block3looks"} or the `change size by`{:class="block3looks"} blocks like this:
+``` blocks3
+when green flag clicked
+go to [front v] layer
++set size to (120)%
+```
+
+``` blocks3
+when green flag clicked
+go to [back v] layer
++set size to (80)%
+```
+
+``` blocks3
+when green flag clicked
+go to [back v] layer
++go [forward v] (1) layers
++change size by (20)
+```
+
+``` blocks3
+when green flag clicked
+go to [front v] layer
++go [back v] (1) layers
++change size by (-20)
+```
+Make sure that you are changing the right sprite each time, with the smallest sprite being the furthest back.
+--- /collapse ---
 
 --- /task ---
 
@@ -141,56 +192,6 @@ Go [backward v] (2) layers
 
 --- /task ---
 
---- task ---
-
-Resize your sprites where relevant to increase the 3-dimensional effect.
-
---- collapse ---
----
-title: Set the size of your sprites
----
-
-**Numbers in a row**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
-
-Click or tap the backdrop to change the scenery for some added perspective!
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-
-Use the `change size by ()`{:class="block3looks"} or  `set size to ()%`{:class="block3looks"} block in your code to make your sprite shrink when it moves to the `back layer`{:class="block3looks"} and grow when it moves to the `front layer`{:class="block3looks"}!
-
-Make your code change the size of your sprite when the layer changes by adding the `set size to ()%`{:class="block3looks"} or the `change size by`{:class="block3looks"} blocks like this:
-``` blocks3
-when green flag clicked
-go to [front v] layer
-+set size to (120)%
-```
-
-``` blocks3
-when green flag clicked
-go to [back v] layer
-+set size to (80)%
-```
-
-``` blocks3
-when green flag clicked
-go to [back v] layer
-+go [forward v] (1) layers
-+change size by (20)
-```
-
-``` blocks3
-when green flag clicked
-go to [front v] layer
-+go [back v] (1) layers
-+change size by (-20)
-```
-Make sure that you are changing the right sprite each time, with the smallest sprite being the furthest back.
---- /collapse ---
-
---- /task ---
 
 If you need a reminder about how to create your sprite’s movement, then explore [Animate using motion](https://github.com/raspberrypilearning/interactive-animation/edit/draft/en/step_4.md) in Challenge 1 Interactive animation.
 
