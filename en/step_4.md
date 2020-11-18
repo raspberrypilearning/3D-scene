@@ -55,6 +55,7 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 ![Image of Backdrop Library](images/backdrop.png)
 
 --- /collapse ---
+
 --- /task ---
 
 --- task ---
