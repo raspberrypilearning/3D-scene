@@ -41,8 +41,6 @@ Don't forget to name your backdrop.
 
 --- /collapse ---
 
-Or, 
-
 --- collapse ---
 ---
 
