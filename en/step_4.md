@@ -1,8 +1,8 @@
 ## 3-Dimensional effects
 
-In this step you’re going to increase the 3-dimensional appearance using the `looks`{:class="block3looks"} block to program the `size`{:class="block3looks"} of your sprites. You will also use `layers`{:class="block3looks"} to make your sprites appear in front of or behind each other.
+In this step you’re going to increase the 3-dimensional appearance by using the `looks`{:class="block3looks"} block to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
 
-In the below example, the rocket is smaller than the bus and robot. The sprites either go in front of or behind each other. This enhances the sense of depth in the scene:
+In the below example, the rocket which is in the distance is smaller than the bus and robot. The sprites are layered to appear to go in front of or behind each other. 
 
 **Moon base**: [See inside](https://scratch.mit.edu/projects/451453522/editor){:target="_blank"}
 
@@ -12,7 +12,7 @@ In the below example, the rocket is smaller than the bus and robot. The sprites 
 
 --- task ---
 
-Resize your sprites, where relevant, to increase the 3-dimensional effect.
+Where relevant, resize your sprites. Some sprites can stay the same size.
 
 --- collapse ---
 ---
@@ -25,18 +25,21 @@ title: Set the size of your sprites
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Use the `set size to ()%`{:class="block3looks"} block in your code to make your sprite decrease in size (less than 100%) when it sits towards the back or increase in size (more than 100%) when it sits towards the front. Some sprites can stay the same size. Make sure that you select the correct **Code tab** for each sprite before add new code:
+Make sure that you select the correct **Code tab** for the sprite you want to alter before adding new code.
 
-``` blocks3
-when green flag clicked
-+set size to (120)%
-```
+Use the `set size to ()%`{:class="block3looks"} block using a value below `100` to decrease its size:
 
 ``` blocks3
 when green flag clicked
 +set size to (80)%
 ```
 
+Use the `set size to ()%`{:class="block3looks"} block using a value above `100` to increase its size:
+
+``` blocks3
+when green flag clicked
++set size to (120)%
+```
 --- /collapse ---
 
 --- /task ---
