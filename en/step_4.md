@@ -80,16 +80,16 @@ Use the **Paint Editor** to create any additional sprites that you need as scene
 **Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 ![Hills image](images/challenge2-sprite-hills.png){:width="400px"}
 
-This example has a single **Hills** sprite that sits in front of the blue sky backdrop, but you could also create each hill as an individual sprite making it easy for you to move things around later.
+This example has a single **Hills** sprite that sits in front of the drak blue sky backdrop, but you could also create each hill as an individual sprite making it easy for you to move things around later.
 
 --- collapse ---
 ---
 
-title: Create scenery sprites with shapes
+title: Create a scenery sprite with shapes
 
 ---
 
-This example is to make the hills shown above, but you can apply these skills to make your own sprites using the Circle or Rectangle tools in the **Paint Editor**:
+In this example you will make the hills shown above, but you can apply these skills to make your own sprites using the **Circle** or **Rectangle** tools in the **Paint Editor**:
 
 + Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
 
