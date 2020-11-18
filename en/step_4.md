@@ -1,10 +1,10 @@
 ## 3-Dimensional effects
 
-In this step you’re going to increase the sense of 3-dimensions, using the `looks`{:class="block3looks"} blocks to program the `size`{:class="block3looks"} of your sprites. You will also use `layers`{:class="block3looks"} to make your sprites appear in front or behind each other.
+In this step you’re going to increase the 3-dimensional appearance using the `looks`{:class="block3looks"} block to program the `size`{:class="block3looks"} of your sprites. You will also use `layers`{:class="block3looks"} to make your sprites appear in front of or behind each other.
 
 In the below example, the rocket is smaller than the bus and robot. The sprites either go in front of or behind each other. This enhances the sense of depth in the scene:
 
-**Moon base**: [See inside](https://scratch.mit.edu/projects/447759319/editor){:target="_blank"}
+**Moon base**: [See inside](https://scratch.mit.edu/projects/451453522/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
