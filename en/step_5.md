@@ -84,6 +84,34 @@ go to [front v] layer
 
 --- /task ---
 
-If you need a reminder about how to create your sprite’s movement, then explore [Animate using motion](https://github.com/raspberrypilearning/interactive-animation/edit/draft/en/step_4.md) in Challenge 1 Interactive animation.
+--- task ---
+
+Get your sprite moving:
+
+```blocks3
+when green flag clicked
+point in direction (90)
+set rotation style [left-right v]
+forever
+move (5) steps
+if on edge, bounce
+```
+
+If you want some  more information explore [Animate using motion](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/3) in Challenge 1 Interactive animation.
+
+--- /task ---
+
+--- task ---
+
+Get your sprite changing costumes:
+
+```blocks3
+when green flag clicked
+forever
+next costume
+wait (0.3) seconds
+```
+If you want some  more information explore [Animate using looks](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/5) in Challenge 1 Interactive animation.
+
 
 --- save ---
