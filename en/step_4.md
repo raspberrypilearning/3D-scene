@@ -1,8 +1,8 @@
 ## Set the scene
 
-In this step you will set the scene by adding a backdrop and sprites. You can use the **Paint Editor** to create your own backdrop and scenery sprites if you don't find what you need in the gallery. 
+In this step you will set the scene by adding a backdrop and sprites.
 
-In the next step, you will be programming your sprites so don't worry about that now.
+In the next step, you will be programming your sprites so don't worry about coding for now.
 
 **Walking in the hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 
@@ -16,7 +16,7 @@ In the next step, you will be programming your sprites so don't worry about that
 
 --- task ---
 
-Either create a plain backdrop with the **Paint editor** or **Choose a Backdrop** from the Scratch library.
+Use the **Paint Editor** to create your own backdrop and scenery sprites if you don't find what you need when you **Choose a Backdrop** from the Scratch library.
 
 --- collapse ---
 ---
