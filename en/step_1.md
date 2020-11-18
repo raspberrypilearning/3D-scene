@@ -8,7 +8,7 @@ You will create a scene that uses a `layers`{:class="block3looks"}, `size`{:clas
 
 You will see some examples and then plan your own scene. You will apply your coding and graphic skills to make a unique 3D scene of your own.  
 
-![Collage of completed projects](images/showcase_static.png){:width="400px"}
+![Collage of completed projects](images/showcase_static.png){:width="500px"}
 
 --- collapse ---
 ---
