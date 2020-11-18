@@ -2,6 +2,8 @@
 
 In this step you will add one or more variables with sliders to control something in your scene such as graphic effects, sound effects, movement or timing. 
 
+<mark>TBD: Rename variables in examples so they don't clash with blocks to avoid confusion e.g. colour</mark>
+
 --- task --- 
 
 Look at the example below. The `speed`{:class="block3variables"} variable controls how fast the snowman moves, `size`{:class="block3variables"} controls the size of the snowflake, and `pitch`{:class="block3variables"} controls the pitch of the music that is playing:
