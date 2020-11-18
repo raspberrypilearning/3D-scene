@@ -8,6 +8,8 @@ In this step you will add one or more variables with sliders to control somethin
 
 Look at the example below. The `speed`{:class="block3variables"} variable controls how fast the snowman moves, `size`{:class="block3variables"} controls the size of the snowflake, and `pitch`{:class="block3variables"} controls the pitch of the music that is playing:
 
+<mark>Fab trees. Can we either use an existing Scratch backdrop as-is or one that they could easily create. Looks like they would need to delete the trees from Winter for this?</mark>
+
 **Winter scene**: [See inside](https://scratch.mit.edu/projects/451563340/editor){:target="_blank"}
 
 <div class="scratch-preview">
@@ -22,9 +24,9 @@ Decide what you want to control using a variable.
 
 Create a new variable and give it the name that matches its use. For example: 
 
-+ if it will control the `volume`{:class="block3sound"} of a sound, name it `volume`{:class="block3variables"}
++ if it will control the `volume`{:class="block3sound"} of a sound, name it `noise`{:class="block3variables"}
 + if it will control the length of a `wait`{:class="block3control"}, name it `delay`{:class="block3variables"}
-+ if it will control how quickly a sprite spins, name it `turn`{:class="block3variables"}
++ if it will control how many degrees a sprite turns, name it `angle`{:class="block3variables"}
 
 --- collapse ---
 
@@ -40,13 +42,13 @@ Go to the `Variables`{:class="block3variables"} blocks and click on 'Make a Vari
 
 ![Make a variable](images/make-a-variable.png)
 
-Name the variable to match its use, for example `turn`{:class="block3variables"}. 
+Name the variable to match its use, for example `angle`{:class="block3variables"}. 
 
 Generally, you will keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
 
 ![Turn variable settings](images/turn-variable.png)
 
-Click 'OK' to make the new variable. You will have new variable blocks available including a `turn`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
+Click 'OK' to make the new variable. You will have new variable blocks available including a `angle`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
 
 ![Turn variable blocks](images/turn-variable-blocks.png)
 
@@ -102,18 +104,18 @@ Use your variable input block to control something in your project, such as chan
 
 In this example the variable controls how quickly the sprite rotates:
 
-**Space dog**: [See inside](https://scratch.mit.edu/projects/447146281/editor){:target="_blank"}
+**Space dog**: [See inside](https://scratch.mit.edu/projects/451543041/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447146281/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451543041/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use the `turn`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
+Use the `angle`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
 
 ```blocks3
 when flag clicked
 forever
-turn right (turn) degrees
+turn right (angle) degrees
 ```
 
 Here are some more examples of how you can use your variable slider: 
@@ -128,13 +130,13 @@ title: Control graphic effects with a variable
 
 This example changes the ghost graphics effect so you can see through the rainbow.
 
-**Transparent rainbow**: [See inside](https://scratch.mit.edu/projects/444579529/editor){:target="_blank"}
+**Transparent rainbow**: [See inside](https://scratch.mit.edu/projects/451544795/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444579529/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451544795/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can use a `ghost`{:class="block3data"} variable to control the ghost effect on a sprite at the front and use it to reveal or hide sprites in lower layers. 
+You can use a `transparent`{:class="block3data"} variable to control the ghost effect on a sprite at the front and use it to reveal or hide sprites in lower layers. 
 
 ```blocks3
 when flag clicked
@@ -144,7 +146,7 @@ go to [front v] layer
 ```blocks3
 when flag clicked
 forever
-set [ghost v] effect to (ghost)
+set [ghost v] effect to (transparent)
 ```
 
 Try using the same approach with other graphic effects such as brightness or colour.
@@ -159,10 +161,10 @@ title: Control move speed with a variable
 
 ---
 
-**Ladybug on a wall**: [See inside](https://scratch.mit.edu/projects/447139076/editor){:target="_blank"}
+**Ladybug on a wall**: [See inside](https://scratch.mit.edu/projects/451545341/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447139076/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451545341/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Use the `speed`{:class="block3variables"} variable as the input to a `move`{:class="block3motion"} block:
@@ -185,10 +187,10 @@ title: Change the delay in a wait block
 
 ---
 
-**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449629487/editor){:target="_blank"}
+**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/451536565/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/449629487/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451536565/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Use a `delay`{:class="block3variables"} variable as the input to a `wait`{:class="block3motion"} block:
@@ -218,10 +220,10 @@ title: Change sound effects
 
 ---
 
-**Sound pitch**: [See inside](https://scratch.mit.edu/projects/444614449/editor){:target="_blank"}
+**Drum pitch**: [See inside](https://scratch.mit.edu/projects/451547017/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444614449/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451547017/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Changing the pitch of a sound makes the notes higher and also speeds it up. 
@@ -229,7 +231,7 @@ Changing the pitch of a sound makes the notes higher and also speeds it up.
 ```blocks3
 when flag clicked
 forever
-set [pitch v] effect to (pitch)
+set [pitch v] effect to (beat)
 ```
 
 Play the sound in a separate forever loop so that the pitch will change immediately rather than waiting until the sound is done: 
@@ -320,10 +322,10 @@ title: Using operators with variables
 
 Sometimes it's useful to use operators (+, -, x or ÷) with variables to calculate different numbers.
 
-**Space size and distance**: [See inside](https://scratch.mit.edu/projects/450249059/editor){:target="_blank"}
+**Space balance**: [See inside](https://scratch.mit.edu/projects/451682050/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/450249059/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451682050/?autostart=false" frameborder="0"></iframe>
 </div>
 
 In this example, the size of the first sprite is set to `balance`{:class="block3variables"} while the size of the second sprite is set to 100 minus `balance`{:class="block3variables"}. 
