@@ -131,6 +131,8 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 
 --- /collapse ---
 
+--- /task ---
+
 **Tip:** Whenever you drag a sprite it will jump to the front layer and in front of any other sprites.
 
 --- task ---
@@ -172,7 +174,6 @@ In the real-world, objects that sit further away appear lighter in colour - to a
 
 --- /collapse ---
 
-
 --- collapse ---
 ---
 
@@ -203,7 +204,6 @@ Following the below, you can multiply any type of shape:
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape
 
 --- /collapse ---
-
 
 --- collapse ---
 ---
