@@ -169,24 +169,18 @@ Each sprite makes a sound when you click on it.
  ```blocks3
  when flag clicked
  forever
- play sound (Cheer v) until done
  wait (3) seconds
+ play sound (Cheer v) until done
  end
  ```
 
- The sprites each play a sound when a `Sprite is clicked`{:class="block3events"}: 
+ The **Whistle** sprite also plays a regular sound: 
 
  ```blocks3
  when this sprite clicked
- play sound (basketball bounce v) until done
- ```
-
- Since clicking on a sprite will bring it to the `front layer`{:class="block3looks"}, you can add an extra script to force the sprite to go back to the layer you want.
-
-  ```blocks3
- when flag clicked
  forever
- go to [back v] layer
+ play sound (referee whistle v) until done
+ wait (4) seconds
  end
  ```
 
@@ -206,10 +200,10 @@ title: Setting and changing the volume, pitch and pan effect
 
 Click the green flag to hear the sounds. 
 
-**Sound effects**: [See inside](https://scratch.mit.edu/projects/448392543/editor){:target="_blank"}
+**Sound effects**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
  
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/448392543/?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451697380/?autostart=false" frameborder="0"></iframe>
 </div>
 
 The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. A value of -100 plays **all** of the sound through the left speaker, 100 plays **all** of the sound through the right speaker, values in between gradually shift the sound balance from left to right as the number increases. 
