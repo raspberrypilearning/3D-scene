@@ -24,7 +24,7 @@ See how the **Moon** sprite is able to rise from behind the **Rooftops** sprite 
 --- /task ---
 
 --- task ---
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=î_blankî}.
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=‚Äù_blank‚Äù}.
 --- /task ---
 
 --- task ---
@@ -42,7 +42,7 @@ You don't have to decide all the details yet.
 
 --- task ---
 
-Give your project a name that matches your theme. Remember to use a **How toÖ** when you need help.
+Give your project a name that matches your theme. Remember to use a **How to‚Ä¶** when you need help.
 
 --- collapse ---
 ---
