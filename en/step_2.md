@@ -15,22 +15,22 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- /print-only ---
 
-**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/449737128/editor){:target="_blank"}
+**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/451536565/editor){:target="_blank"}
 
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/449737128/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451536565/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
 
-**Moon base**: [See inside](https://scratch.mit.edu/projects/451059914/editor){:target="_blank"}
+**Moon base**: [See inside](https://scratch.mit.edu/projects/451534676/editor){:target="_blank"}
 
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/451059914/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/451534676/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 --- /no-print ---
@@ -45,12 +45,12 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- /no-print ---
  
-**Evening window**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
+**Evening window**: [See inside](https://scratch.mit.edu/projects/451538480/editor){:target="_blank"}
 
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451538480/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
