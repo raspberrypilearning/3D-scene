@@ -51,10 +51,10 @@ title: Program your sprites in layers
 
 Have a look at how this project orders each of the sprites from front to back by using `Go backward a number of layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
 
-**Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
+**Evening window scene**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/445055782/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Click on the **Code tab** of the sprite you want at the front and add a `go to front layer`{:class="block3looks"} block for the **front sprite**:
