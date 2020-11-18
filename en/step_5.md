@@ -86,6 +86,13 @@ go to [front v] layer
 
 --- task ---
 
+Now animate your sprite by moving or changing its costumes.
+
+--- collapse ---
+---
+title: Animate your sprite
+---
+
 Get your sprite moving:
 
 ```blocks3
@@ -97,11 +104,7 @@ move (5) steps
 if on edge, bounce
 ```
 
-If you want some  more information explore [Animate using motion](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/3) in Challenge 1 Interactive animation.
-
---- /task ---
-
---- task ---
+For more information, explore [Animate using motion](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/3) in Challenge 1 Interactive animation.
 
 Get your sprite changing costumes:
 
@@ -112,6 +115,8 @@ next costume
 wait (0.3) seconds
 ```
 If you want some  more information explore [Animate using looks](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/5) in Challenge 1 Interactive animation.
+
+--- /collapse ---
 
 --- /task ---
 
