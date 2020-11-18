@@ -51,7 +51,7 @@ title: Program your sprites using front and back layers
 
 You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks. 
 
-**Evening window scene**: [See inside](https://scratch.mit.edu/projects/437510050/editor){:target="_blank"}
+**Through the window**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
