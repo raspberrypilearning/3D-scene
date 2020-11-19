@@ -176,11 +176,11 @@ To make multiples of your shapes such as a skyline of houses, follow the **How t
 --- collapse ---
 ---
 
-title: Create a scenery costume using copy and paste
+title: Create a scenery costume by duplicating shapes
 
 ---
 
-In your 3D scene, you may want to create multiple copies of a shape within a costume so your scenery will appear busier or more crowded.
+In your 3D scene, you may want to duplicate shapes within a costume so your scenery will appear busier or more crowded.
 
 **Multiple clouds**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
 
