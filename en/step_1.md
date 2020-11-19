@@ -32,23 +32,16 @@ title: Skills you should have
 Before starting this project, we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
 + [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
 + [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
-+ [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
++ [Serene scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
 
 For this project, you need to know how to:  
 
-<mark>How many of the skills from the previous challenge should we keep here?</mark>
-+ Add code to sprites and a backdrop
-+ Use the tools in the Paint editor to add details to a sprite
-+ Add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
-+ Use `Motion`{:class="block3motion"} blocks to create animation
-+ Use costumes to customise sprites
++ Customise sprites in the Paint editor
++ Add `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"} and `sound`{:class="block3sound"} to a sprite
 + Use the `forever`{:class="block3control"} block
 + Use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
-
-
 + Make a `variable`{:class="block3control"}, turn it into a slider with a range and use it as an input to a block
 + Use `layers`{:class="block3looks"} blocks to move Sprites in front or behind other Sprites
-+ Use `wait`{:class="block3control"} blocks to add a delay 
 + Use simple `operators`{:class="block3operators"} to do calculations
 
 --- /collapse ---
@@ -58,9 +51,9 @@ For this project, you need to know how to:
 title: What you will learn
 ---
 
-+ How to plan a project and then make it
-+ How to apply your skills to make a project that is fun to play with
-+ How to get feedback on your ideas from others
++ How to explore the potential of Scratch to create a 3-dimensional scene
++ How to create an interactive and engaging project
++ How to improve your project using feedback from others
 
 --- /collapse ---
 
