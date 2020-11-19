@@ -4,7 +4,7 @@ You'll create a 3D scene that can be controlled with variables. The user will be
 Your scene doesn't have to be sensible. You should try and make it fun for you and others to play around with. 
 
 ## What you will make
-You will create a scene that uses a `layers`{:class="block3looks"}, `size`{:class="block3looks"}, `sound`{:class="block3sound"} and `motion`{:class="block3motion"} to create a 3D effect. You will add variables with sliders to control features of your scene so that the user can play around and customize the scene. 
+You will create a scene that uses a `layers`{:class="block3looks"}, `size`{:class="block3looks"}, `sound`{:class="block3sound"} and `motion`{:class="block3motion"} to create a 3D effect. You will add `variables`{:class="block3variables"} with sliders to control features of your scene so that the user can play around and customize the scene. 
 
 You will see some examples and then plan your own scene. You will apply your coding and graphic skills to make a unique 3D scene of your own.  
 
