@@ -39,14 +39,16 @@ To decide on the theme for your project try and answer the following questions. 
 
 --- task ---
 
-Give your project a name that matches your theme. Remember to use a **How to…** when you need help.
+Give your project a name that matches your theme and save it. Remember to use a **How to…** when you need help.
 
 --- collapse ---
 ---
 
-title: How do I give my project a name?
+title: How do I name and save my project?
 
 ---
+
+Save your project so far. Go to **File** in the menu. If you have a Scratch account, click on **Save now**. If you do not have an account, click on **Save to your computer**.
 
 Click in the project name box and change the name to match your project. 
 
