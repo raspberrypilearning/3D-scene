@@ -23,7 +23,6 @@ title: Create a plain backdrop
 
 ---
 
-**Blue sky**:
 In the example a dark blue backdrop has been created because any additional scenery, such as hills, trees or buildings will be added as sprites that can be moved around.
 
 To make your own backdrop:
