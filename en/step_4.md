@@ -1,6 +1,6 @@
 ## Set the scene
 
-In this step you will set the scene by adding a backdrop and sprites. You will be programming your sprites in the next step so don't worry about coding for now.
+In this step you will set the scene by adding a backdrop. Through this step you will also decide which objects and character sprites you want to include and/or make to create the appearance of 3-dimensions.
 
 **Walking in the hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 
@@ -14,7 +14,7 @@ In this step you will set the scene by adding a backdrop and sprites. You will b
 
 --- task ---
 
-Use the **Paint Editor** to create your own backdrop and scenery sprites OR **Choose a Backdrop** from the Scratch library.
+Use the Paint editor to create your own backdrop and scenery sprites OR **Choose a Backdrop** from the Scratch library.
 
 --- collapse ---
 ---
@@ -31,7 +31,7 @@ To make your own backdrop:
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-+ In the **Backdrops** tab, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the **Paint Editor**). 
++ In the **Backdrops** tab, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the Paint editor). 
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
@@ -97,7 +97,6 @@ title: Create a scenery sprite with shapes
 ![Hills image](images/challenge2-sprite-hills.png){:width="400px"}
 
 This example has a single **Hills** sprite that sits in front of the drak blue sky backdrop, but you could also create each hill as an individual sprite making it easy for you to move things around later.
-
 
 You can make the hills shown above or you can apply these skills to make your own sprites using the **Circle** or **Rectangle** tools in the **Paint Editor**:
 
