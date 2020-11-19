@@ -64,7 +64,7 @@ title: Additional information for educators
 
 You can [download the completed project here](http://rpf.io/p/en/make-a-difference-get).
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/make-a-difference/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/3D-scene/print){:target="_blank"}.
 
 --- /collapse ---
 
