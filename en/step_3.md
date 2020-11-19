@@ -23,7 +23,7 @@ In the example below, see how the **Moon** is able to rise from behind the silho
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target="_blank"}.
 
 --- /task ---
 
