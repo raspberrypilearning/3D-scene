@@ -147,6 +147,35 @@ Here's some other creative tips:
 --- collapse ---
 ---
 
+title: Create triangles using the line tool
+
+---
+
+You can create polygons such as triangle and use these shapes to create roofs or mountains.
+
+Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
+
+**House**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
+
+![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
+
+Following the below, you can any shape using the linetool:
++ Choose a **Fill** colour with no outline
++ Draw a rectangle using the **Rectangle** tool
++ Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
++ Move the two shapes together
++ Select the **Bucket** tool and fill the triangle
++ Draw another rectangle shape for the chimney using the **Rectangle** tool
++ You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette
++ Select all the shapes and **Group** them together so that you can adjust them or move them as one shape
+
+To make multiples of your shapes such as a skyline of houses, follow the **How to...** 'Multiple shapes in a sprite costume' below.
+
+--- /collapse ---
+
+--- collapse ---
+---
+
 title: Create a scenery costume using copy and paste
 
 ---
@@ -172,35 +201,6 @@ Following the below, you can multiply any type of shape:
 + Move the shape within the stage area using the **Select** tool
 + Varying the size of the shapes will also help to create a greater sense of 3D-dimensions
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape
-
---- /collapse ---
-
---- collapse ---
----
-
-title: Create triangles using the line tool
-
----
-
-Following the same method you used on the above task to make hills, you can create polygons such as triangle. This example creates a single house in silhouette.
-
-Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
-
-**House**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
-
-![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
-
-Following the below, you can any shape using the linetool:
-+ Choose a **Fill** colour with no outline
-+ Draw a rectangle using the **Rectangle** tool
-+ Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
-+ Move the two shapes together
-+ Select the **Bucket** tool and fill the triangle
-+ Draw another rectangle shape for the chimney using the **Rectangle** tool
-+ You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette
-+ Select all the shapes and **Group** them together so that you can adjust them or move them as one shape
-
-To make multiples of your shapes such as a skyline of houses, follow the **How to...** 'Multiple shapes in a sprite costume' below.
 
 --- /collapse ---
 
