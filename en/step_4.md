@@ -151,7 +151,7 @@ title: Create triangles using the line tool
 
 ---
 
-You can create polygons such as triangle and use these shapes to create roofs or mountains.
+You can create polygons such as a triangle and use these shapes to create roofs or mountains.
 
 Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
 
