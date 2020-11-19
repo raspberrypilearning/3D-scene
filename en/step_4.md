@@ -86,7 +86,7 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 --- task ---
 Use the **Paint Editor** to create any additional sprites that you need as scenery. This could be hills or mountain in the distance, or objects much closer such as trees or flowers. 
 
-Think about whether you want to create your scenery as one sprite or whether you want sprites to move through and behind the 3D scenery by creating separate scenery sprites.
+Think about whether you want to create your scenery as one sprite OR whether you want sprites to move through and behind the 3D scenery by creating separate scenery sprites.
 
 --- collapse ---
 ---
@@ -124,12 +124,12 @@ In the real-world, objects that sit further away appear lighter in colour - to a
 
 --- /collapse ---
 
-To enable sprites to move through the 3D scenery you will need to create each scenery object as a seperate sprite.
+OR,
 
 --- collapse ---
 ---
 
-title: Create separate scenery sprites so characters can go behind them
+title: Create scenery as seperate sprites
 
 ---
 
