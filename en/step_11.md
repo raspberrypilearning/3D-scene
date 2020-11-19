@@ -2,9 +2,9 @@
 
 In this project, you have:
 
-+ Applied your skills to realise your own project ideas to create a 3D scene
-+ Selected appropriate blocks to realise your plan
-+ Thought about what you've made and the ways you can improve it
++ How to explore the potential of Scratch to create a 3-dimensional scene
++ How to create an interactive and engaging project
++ How to improve your project using feedback from others
 
 If you are following the [Look after yourself](https://projects.raspberrypi.org/en/raspberrypi/look-after-yourself) pathway and have not completed the last three projects — Fruit salad, Relax and stretch, and Focus on the prize — then now continue the pathway with [Fruit salad](https://projects.raspberrypi.org/en/projects/fruit-salad).
 
