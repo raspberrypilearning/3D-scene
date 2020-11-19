@@ -84,12 +84,14 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 **Tip:** Whenever you drag a sprite it will jump to the front layer and in front of any other sprites.
 
 --- task ---
-Use the **Paint Editor** to create any additional sprite that you need as scenery. This could be hills or mountain in the distance, or objects much closer such as trees or flowers. 
+Use the **Paint Editor** to create any additional sprites that you need as scenery. This could be hills or mountain in the distance, or objects much closer such as trees or flowers. 
+
+Think about whether you want to create your scenery as one sprite or whether you want sprites to move through and behind the 3D scenery by creating separate scenery sprites.
 
 --- collapse ---
 ---
 
-title: Create a scenery sprite with shapes
+title: Create scenery as one sprite
 
 ---
 
@@ -121,6 +123,27 @@ In the real-world, objects that sit further away appear lighter in colour - to a
 + Don't forget to name your sprites.
 
 --- /collapse ---
+
+To enable sprites to move through the 3D scenery you will need to create each scenery object as a seperate sprite.
+
+--- collapse ---
+---
+
+title: Create separate scenery sprites so characters can go behind them
+
+---
+
+You can create shapes as individual sprites rather than as one sprite costume. Then another sprite can move between the shapes. This may suit your project. 
+
+**Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
+
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
+
+![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
+
+--- /collapse ---
+
+Here's some other creative tips:
 
 --- collapse ---
 ---
@@ -191,24 +214,7 @@ To make multiples of your shapes such as a skyline of houses, follow the **How t
 --- task ---
 As you add more sprites you will need to think about how they will work together in your scene. 
 
-Here are some more examples:
-
---- collapse ---
----
-
-title: Create separate scenery sprites so characters can go behind them
-
----
-
-You can create shapes as individual sprites rather than as one sprite costume. Then another sprite can move between the shapes. This may suit your project. 
-
-**Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
-
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
-
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
-
---- /collapse ---
+Here's another example:
 
 --- collapse ---
 ---
