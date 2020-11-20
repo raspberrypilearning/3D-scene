@@ -94,27 +94,21 @@ title: Create scenery as one sprite
 
 ---
 
-**Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
+**Hill as one sprites**: [See inside](https://scratch.mit.edu/projects/452582516/editor){:target="_blank"}
 
-![Hills image](images/challenge2-sprite-hills.png){:width="400px"}
+![Hills image](images/challenge2-sprite-hill.png){:width="400px"}
 
 This example has a single **Hills** sprite that sits in front of the dark blue sky backdrop.
 
-You can make the hills shown above or you can apply these skills to make your own sprites using the **Circle** or **Rectangle** tools in the **Paint Editor**:
+You can make the hill shown above or you can apply these skills to make your own sprites using the **Circle** or **Rectangle** tools in the **Paint Editor**:
 
 + Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
 
 ![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
 
-+ Choose a colour and draw a series of ovals using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
-
-In the real-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away.
-
-![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
++ Choose a colour and draw an oval using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
 
 + Use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
-
-![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
 
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
@@ -133,13 +127,15 @@ title: Create scenery as seperate sprites
 
 ---
 
+**Hill as separate sprites**: [See inside](https://scratch.mit.edu/projects/452573711/editor){:target="_blank"}
+
 You can create parts of your scenery as seperate sprites. Then other sprites can move between them.
 
-Either, you can create a new sprite for each object in the scenery. In the below example, each hill is a sprite.
+Either, you can create a new sprite for each object in the scenery. In the below example, you will create some **Hill** sprites.
 
 ![Make hills as a number of sprite](images/challenge2-scenery-sprites.png){:width="400px"}
 
-Or you can create a sprite that combines objects. For example, in the below there are two hills in one sprite:
+You can also create a sprite that combines objects. For example, in the below there are two hills in one sprite:
 
 ![Make hills as a number of sprite](images/challenge2-scenery-combine-sprites.png){:width="400px"}
 
@@ -147,21 +143,15 @@ You can make the hills shown above or you can apply these skills to make your ow
 
 + Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
 
-+ Choose a colour and draw a series of ovals using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
++ Choose a colour and draw an oval using the **Circle** tool. Then draw a rectangle at the bottom of the circle using the same **Fill** colour.
+
+![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
+
+Now make another **Hill** sprite, following the same process as above. You may want to include a number of objects for your scenery in a single sprite.
 
 In the real-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away.
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
-
-+ Use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
-
-![Make hills saturated](images/challenge2-saturation-front-back.png){:width="400px"}
-
-+ You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
-
-![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
-
-Now make another sprite, following the same process as above. You may want to include a number of objects for your scenery in a sprite.
 
 + Don't forget to name your sprites.
 
