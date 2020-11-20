@@ -1,111 +1,164 @@
-## Distance and depth
+## 3-Dimensional effects
 
-Now, you’re going to look at how to layer sprites to make some appear in front or behind others by using some of the `looks`{:class="block3looks"} blocks.
+In this step you’re going to increase the 3-dimensional appearance by using the `looks`{:class="block3looks"} block to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
 
-When you think about a stage or theatre in real life, you understand that the actors can move closer or further away from the audience; so that one can pass in front of another. This is called **depth**, and it makes things feel more realistic when you watch them (even cartoons!)
+In the below example, the rocket which is in the distance is smaller than the bus and robot. The sprites are layered to appear to go in front of or behind each other. 
 
-You can use `layers`{:class="block3looks"} in your Scratch projects to create the same effect! 
-
---- no-print ---
-
-This project uses front and back `layers`{:class="block3looks"} to make the cats appear to circle the globe:
-
-**Layers**: [See inside](https://scratch.mit.edu/projects/444530974/editor){:target="_blank"}
+**Moon base**: [See inside](https://scratch.mit.edu/projects/451453522/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/444530974/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/447759319/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
---- /no-print ---
-
 --- task ---
-Think of the sprites in your project and decide how you can have them move in front of (or behind!) different parts of your project, like the scenery or other sprites. 
 
-Consider how many layers you will have, and add blocks that will allow your sprites to change between the layers as above.
+Where relevant, resize your sprites. Some sprites can stay the same size.
 
 --- collapse ---
-
---- 
-title: Treat layers like rows!
 ---
-**Tip:** Think about layers as rows you can create to order your sprites from front to back and put them all in the right order. 
-
-Once you know which sprites you would like to go on top, you can do this by having a sprite `go to front`{:class="block3looks"} or `go to back`{:class="block3looks"} layer, and stepping into the right position through the layers.
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-To select your first sprite, click or tap on it under the Stage.
-
-Click on the Code tab.
---- /task ---
-
---- task ---
-Use a `go to [back v] layer`{:class="block3looks"} or a `go to [front v] layer`{:class="block3looks"} block and either a `go [forward v] (1) layer`{:class="block3looks"} or a `go [backward v] (1) layer`{:class="block3looks"} block to create an order for your sprites and scenery.
-
---- collapse ---
---- 
-title: Control layer placement with code
+title: Set the size of your sprites
 ---
-You should get your sprite to go to the back (or front) layer and then move a number of layers at the start of your project:
 
-``` blocks3
-when green flag clicked
-go to [back v] layer
-Go [forward v] (1) layers
-```
-
-Or:
-
-``` blocks3
-when green flag clicked
-go to [front v] layer
-Go [backward v] (1) layers
-```
-
---- /collapse ---
-
---- /task ---
-
---- no-print ---
-Have a look at how this project orders the sprites from front to back by using `Go [backward v] (1) layers`{:class="block3looks"} to create the feeling that the number 6 is 'at the back', while the number 1 is 'at the front':
-
-**Numbered Layers**: [See inside](https://scratch.mit.edu/projects/445055782/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/445055782/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
---- /no-print ---
-
---- task ---
-Once you have your `layers`{:class="block3looks"} set up, use the `Go [backward v] (1) layers`{:class="block3looks"} or `Go [forward v] (1) layers`{:class="block3looks"} to change whether your sprites are behind or in front! 
---- /task ---
-
-You can also use the  `layer`{:class="block3looks"} blocks in your scripts, to  dynamically change the order of sprites and create the illusion of depth while your code is running. 
-
---- no-print ---
-Click the green flag on the project below and notice how the cat goes behind one tree, but in front of another:
-
-**Depth with Layers**: [See inside](https://scratch.mit.edu/projects/445072215/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/445072215/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
---- /no-print ---
-
---- task --- 
-When we look at things which are further away, they look a lot smaller than they do up close. If we really want our animation to look realistic, we can change the size of our sprites to mimic this effect. Have a look at this project and notice how the size of the numbers adds to the illusion of distance:
-
-**Depth and Distance**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
+**Numbers in a row**: [See inside](https://scratch.mit.edu/projects/445071529/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
+Make sure that you select the correct **Code tab** for the sprite you want to alter before adding new code. Now use the `set size to ()%`{:class="block3looks"} block.
+
+Add a  value below `100` to decrease its size:
+
+``` blocks3
+when green flag clicked
++set size to (80)%
+```
+
+Add a  value above `100` to increase its size:
+
+``` blocks3
+when green flag clicked
++set size to (120)%
+```
+--- /collapse ---
 
 --- /task ---
 
+--- task ---
+Now program your sprites into layers.
 
+--- collapse ---
+---
+title: Program your sprites using front and back layers
+---
+
+You can simply program your sprites into two layers using the `front layer`{:class="block3looks"} and `back layer`{:class="block3looks"} blocks. 
+
+**Through the window**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Rear sprites:
+``` blocks3
+when green flag clicked
+go to [back v] layer
+```
+
+Window frame sprite:
+``` blocks3
+when green flag clicked
+go to [front v] layer
+```
+
+Click on the **Code tab** of the sprite you want at the front and add a `go to front layer`{:class="block3looks"} block for the **front sprite**:
+
+``` blocks3
+when green flag clicked
+go to [front v] layer
+```
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Program your sprites in layers
+---
+Now, using the `go backward (1) layers`{:class="block3looks"} to place the **next sprite** 1 layer behind the **front sprite**:
+
+``` blocks3
+when green flag clicked
+go to [front v] layer
++go [backward v] (1) layers
+```
+
+Allocate layers to other sprites. The value you use in the `go backward (1) layers`{:class="block3looks"} block will depend how many layers back you want each sprite to sit:
+
+``` blocks3
+when green flag clicked
+go to [front v] layer
++go [backward v] (2) layers
+```
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+Animate your sprite by moving or changing its costumes.
+
+--- collapse ---
+---
+title: Move your sprite
+---
+
+Get your sprite moving:
+
+```blocks3
+when green flag clicked
+point in direction (90)
+set rotation style [left-right v]
+forever
+move (5) steps
+if on edge, bounce
+```
+
+For more information, explore [Animate using motion](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/3) in Challenge 1 Interactive animation.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Change your sprite's costume
+---
+
+Get your sprite changing costumes:
+
+```blocks3
+when green flag clicked
+forever
+next costume
+wait (0.3) seconds
+```
+If you want some  more information explore [Animate using looks](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/5) in Challenge 1 Interactive animation.
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+Click on the 'Full Screen' icon above the Stage to run your project in full screen mode. 
+
+![Enter full screen](images/enter-full-screen.png)
+
+You can't accidentally drag sprites or sliders in full screen mode. 
+
+Click the 'Full Screen' icon again to continue working on your project.
+
+![Exit full screen](images/exit-full-screen.png)
+
+--- /task ---
 --- save ---

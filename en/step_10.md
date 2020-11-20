@@ -1,38 +1,41 @@
 ## Reflect
 
-How did your '**Interactive animation**' project go? Is there anything you would do like to improve? 
+How did your '**3D scene**' project go?  
 
-Remind yourself what you have achieved:
+Mark the items you have completed. See if you can add to your project to complete more if you have time:
 
 --- task ---
-I planned what I wanted a sprite to do and then used Scratch blocks to make it happen
+I planned a 3D scene and then made it
 --- /task ---
 --- task ---
-I used a **How to ...** to find out which code blocks to use to do what I wanted
+I used the Paint editor to create a new Sprite 
 --- /task ---
 --- task ---
-I clicked on **See inside** to view the code for a project
+I used `size`{:class="block3looks"} or `layer`{:class="block3looks"} blocks to make the scene appear three-dimensional
 --- /task ---
 --- task ---
-I used an `if on edge, bounce`{:class="block3motion"} block inside a `forever`{:class="block3control"} loop to make my sprite turn away from the edge of the Stage
+I ran my project in 'Full Screen' by clicking on the icon above the Stage
 --- /task ---
 --- task ---
-I used a `forever`{:class="block3control"} loop to animate my sprite
+I played `sounds`{:class="block3sound"} in a `forever`{:class="block3control"} loop to make a soundtrack
 --- /task ---
 --- task ---
-I modified a costume in the Paint editor
+I added one or more `variables`{:class="block3variables"} with sliders to control my scene
 --- /task ---
 --- task ---
-I used `graphic effect`{:class="block3looks"} blocks to change how my sprite appeared
+I used `looks`{:class="block3looks"} blocks to change the appearance of sprites and decided which `looks`{:class="block3looks"} blocks to control with variables{:class="block3variables"}
 --- /task ---
 --- task ---
-I used the `when this sprite clicked`{:class="block3events"} block to create user interaction
+I altered the `volume`{:class="block3sound"}, `pitch`{:class="block3sound"} or `pan`{:class="block3sound"} to control sounds and decided which sound effects to control with variables{:class="block3variables"}
 --- /task ---
 --- task ---
-I used `size`{:class="block3looks"} or `layer`{:class="block3looks"} blocks to make the animation appear three-dimensional
+I used `motion`{:class="block3motion"} blocks to control the movement or position of sprites and decided which `motion`{:class="block3motion"} blocks to control with variables{:class="block3variables"} 
 --- /task ---
 --- task ---
-I tested my project and then made an improvement 
+I showed my project to someone else and then made an improvement based on their feedback
+--- /task ---
+--- task ---
+I shared my project so that others can try it out
 --- /task ---
 
 You can go back and improve your project whenever you have time.

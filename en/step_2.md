@@ -1,6 +1,6 @@
 ## Get inspiration
 
-You are going to create an 'Interactive animation' project to change someone's mood. The theme of the project, how it looks, and the way the sprites move, is up to you. 
+You are going to create a '3D scene' project that can be controlled using slider variables. The theme of the project and the way the sprites look and move, is up to you. 
 
 You can get ideas for your own project by investigating projects created by others.
 
@@ -8,40 +8,60 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- print-only ---
 
-Have a look at the [Interactive animation](https://scratch.mit.edu/studios/27756161){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
+Take a look at these 3D scene projects, and adjust any sliders you see.
+
++ Can you see which sprites are in front of other sprites?
++ Can you identify what changes the variable sliders make?
 
 --- /print-only ---
 
+**Skeleton dance**: [See inside](https://scratch.mit.edu/projects/451536565/editor){:target="_blank"}
+
 --- no-print ---
 
-Click the green flags below to **experience** the example Scratch projects. Look at the appearance of each sprite and how they move. Can you identify the projects where the sprites are interactive?
-
-Give some thought to **your** project's theme, how it will look, and the way you want **your** sprites to move:
-
-**Popping balloons**: [See inside](https://scratch.mit.edu/projects/435808726/editor){:target="_blank"}
-
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/435808726/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451536565/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Bouncing balls**: [See inside](https://scratch.mit.edu/projects/425675232/editor){:target="_blank"}
+--- /no-print ---
+
+**Moon base**: [See inside](https://scratch.mit.edu/projects/451534676/editor){:target="_blank"}
+
+--- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
+  <iframe src="https://scratch.mit.edu/projects/451534676/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Animal behaviour**: [See inside](https://scratch.mit.edu/projects/433177517/editor){:target="_blank"}
+--- /no-print ---
+
+**Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
+
+--- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Love hearts**: [See inside](https://scratch.mit.edu/projects/408665598/editor){:target="_blank"}
+--- /no-print ---
+ 
+**Evening window**: [See inside](https://scratch.mit.edu/projects/451538480/editor){:target="_blank"}
+
+--- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/408665598/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451538480/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
 
 --- /task ---
+
+--- task ---
+
+Now have a quick think about what kind of 3D scene project that you want to make using variable sliders. It can be whatever you want it to be.
+
+Don't be afraid to change your mind about things and try out new ideas out as you go along!
+
+--- /task ---
+

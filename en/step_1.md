@@ -1,12 +1,14 @@
 ## Introduction
-Create a project — relaxing, energising, funny, or inspiring — to try and change someone’s mood using sprites that move over a backdrop.
+You'll create a 3D scene that can be controlled with variables. The user will be able to act as the 'director' of the scene and play around until they get it just the way they want it. 
+
+Your scene doesn't have to be sensible. You should try and make it fun for you and others to play around with. 
 
 ## What you will make
-You will create your own project where you will choose your own sprites and backdrop to make a unique interactive animation. Your project might have balls bouncing around, birds that flap their wings, animals that move through the wood, or hearts that float around. Your sprites could do something when you click on them. For example, you could have a bird that squawks, a heart that glows, or a balloon that pops.
+You will create a scene that uses a `layers`{:class="block3looks"}, `size`{:class="block3looks"}, `sound`{:class="block3sound"} and `motion`{:class="block3motion"} to create a 3D effect. You will add `variables`{:class="block3variables"} with sliders to control features of your scene so that the user can play around and customize the scene. 
 
-You will apply your skills to make a unique project of your own. You will be introduced to a range of creative projects where sprites are animated in different ways using loops. 
+You will see some examples and then plan your own scene. You will apply your coding and graphic skills to make a unique 3D scene of your own.  
 
-![Collage of completed projects](images/showcase_static.png){:width="400px"}
+![Collage of completed projects](images/showcase_static.png){:width="500px"}
 
 --- collapse ---
 ---
@@ -15,6 +17,7 @@ title: What you will need
 ### Hardware
 
 + A computer or tablet capable of running Scratch
++ This projects features sound, headphones are recommended
 
 ### Software
 
@@ -29,17 +32,17 @@ title: Skills you should have
 Before starting this project, we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
 + [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
 + [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
-+ [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
++ [Serene scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
 
 For this project, you need to know how to:  
 
-+ Add code to sprites and a backdrop
-+ Use the tools in the Paint editor to add details to a sprite
-+ Add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
-+ Use `Motion`{:class="block3motion"} blocks to create animation
-+ Use costumes to customise sprites
++ Customise sprites in the Paint editor
++ Add `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"} and `sound`{:class="block3sound"} to a sprite
 + Use the `forever`{:class="block3control"} block
 + Use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
++ Make a `variable`{:class="block3control"}, turn it into a slider with a range and use it as an input to a block
++ Use `layers`{:class="block3looks"} blocks to move Sprites in front or behind other Sprites
++ Use simple `operators`{:class="block3operators"} to do calculations
 
 --- /collapse ---
 
@@ -48,9 +51,9 @@ For this project, you need to know how to:
 title: What you will learn
 ---
 
-+ How to apply your skills to realise your own project ideas
-+ How to select the appropriate block for your plan
-+ How to think about what you've made and the ways you can improve it
++ How to explore the potential of Scratch to create a 3-dimensional scene
++ How to create an interactive and engaging project
++ How to improve your project using feedback from others
 
 --- /collapse ---
 
@@ -61,7 +64,7 @@ title: Additional information for educators
 
 You can [download the completed project here](http://rpf.io/p/en/make-a-difference-get).
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/make-a-difference/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/3D-scene/print){:target="_blank"}.
 
 --- /collapse ---
 
