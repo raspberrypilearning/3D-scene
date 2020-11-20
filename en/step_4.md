@@ -98,7 +98,7 @@ title: Create scenery as one sprite
 
 ![Hills image](images/challenge2-sprite-hill.png){:width="400px"}
 
-This example has a single **Hills** sprite that sits in front of the dark blue sky backdrop.
+This example has a single **Hill** sprite that sits in front of the dark blue sky backdrop.
 
 You can make the hill shown above or you can apply these skills to make your own sprites using the **Circle** or **Rectangle** tools in the **Paint Editor**:
 
@@ -108,7 +108,7 @@ You can make the hill shown above or you can apply these skills to make your own
 
 + Choose a colour and draw an oval using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
 
-+ Use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
++ If required, use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
 
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
