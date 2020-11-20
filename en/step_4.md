@@ -98,17 +98,15 @@ title: Create scenery as one sprite
 
 ![Hills image](images/challenge2-sprite-hill.png){:width="400px"}
 
-This example shows a single **Hill** sprite that sits in front of the dark blue sky backdrop.
+You can make the **Hill** sprite shown in the example above or you can apply the following skills to make your own sprite using the **Circle** or **Rectangle** tools in the **Paint Editor**:
 
-You can make the hill shown above or you can apply these skills to make your own sprite using the **Circle** or **Rectangle** tools in the **Paint Editor**:
-
-+ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be a hill.
++ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume.
 
 ![Make a hill as one sprite costumes](images/challenge2-backdrop-sprite-costume.gif){:width="400px"}
 
-+ Choose a **Fill** colour and deselect **Outline**. Now draw an oval using the **Circle** tool. Then draw a rectangle at the bottom of the circle.
++ Choose a **Fill** colour and deselect **Outline**. Now draw an oval using the **Circle** tool. Then select the **Rectangle** tool to draw a rectangle underneath the oval.
 
-+ If you use  varying colours for the shapes you may need to use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
++ If you use varying colours for the shapes you may need to use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly within your background.
 
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
@@ -129,9 +127,9 @@ title: Create scenery as seperate sprites
 
 **Hill as separate sprites**: [See inside](https://scratch.mit.edu/projects/452573711/editor){:target="_blank"}
 
-You can create parts of your scenery as seperate sprites. Then other sprites can move between them. You can make the hills or you can apply these skills to make your own sprites using the **Circle** and **Rectangle** tools in the **Paint Editor**:
+You can create objects in your scenery as seperate sprites so that other sprites can move between them. You can make the hills as in the example above or you can apply these skills to make your own sprites using the **Circle** and **Rectangle** tools in the **Paint Editor**:
 
-Either, you can create a new sprite for each object in your 3D scenery. In the below example, each hill is a sprite.
+You can create a new sprite for each object in your 3D scenery. In the below example, each hill is a sprite.
 
 ![Make hills as a number of sprite](images/challenge2-scenery-sprites.png){:width="400px"}
 
@@ -145,7 +143,7 @@ You can also create a sprite that combines objects. In the below example, there 
 
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-Now make another **Hill** sprite, following the same process with the **Circle** tool only. You may want to include a number of objects for your scenery in a single sprite.
+Now make another **Hill** sprite. You may want to include a number of hills for your scenery in a single sprite or create a new sprite for each. Follow the same process above using the **Circle** tool only. 
 
 In the real-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away.
 
