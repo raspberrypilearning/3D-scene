@@ -85,7 +85,7 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 --- task ---
 Use the **Paint Editor** to create any additional sprites that you need as scenery. This could be hills or mountain in the distance, or objects much closer such as trees or flowers. 
 
-Think about whether you want to create your scenery as one sprite OR whether you want sprites to move through and behind the 3D scenery by creating separate scenery sprites.
+Think about whether you want to create your scenery as one sprite OR whether you want some of your sprites to move through and behind the 3D scenery by creating separate scenery sprites. The latter will make it easier for you to move sprites around later depending on your ideas for your project. 
 
 --- collapse ---
 ---
@@ -97,7 +97,7 @@ title: Create scenery as one sprite
 **Hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 ![Hills image](images/challenge2-sprite-hills.png){:width="400px"}
 
-This example has a single **Hills** sprite that sits in front of the drak blue sky backdrop, but you could also create each hill as an individual sprite making it easy for you to move things around later.
+This example has a single **Hills** sprite that sits in front of the dark blue sky backdrop.
 
 You can make the hills shown above or you can apply these skills to make your own sprites using the **Circle** or **Rectangle** tools in the **Paint Editor**:
 
@@ -132,13 +132,11 @@ title: Create scenery as seperate sprites
 
 ---
 
-You can create shapes as individual sprites rather than as one sprite costume. Then another sprite can move between the shapes. This may suit your project. 
+You can create scenery as seperate sprites rather than as one sprite costume. Then another sprite can move between the shapes. This may suit your project. 
 
 **Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
 
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites-person.gif)
-
-![Make hills as a number of sprite](images/challenge2-backdrop-sprites.png){:width="400px"}
+![Make hills as a number of sprite](images/challenge2-scenery-sprites.png){:width="400px"}
 
 --- /collapse ---
 
