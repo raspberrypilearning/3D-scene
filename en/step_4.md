@@ -132,9 +132,7 @@ title: Create scenery as seperate sprites
 
 ---
 
-You can create scenery as seperate sprites rather than as one sprite costume. Then another sprite can move between the shapes. This may suit your project. 
-
-**Hills as sprites**: [See inside](https://scratch.mit.edu/projects/446137341/editor){:target="_blank"}
+You can create scenery as seperate sprites rather than as one sprite costume. Then another sprite can move between the shapes.
 
 ![Make hills as a number of sprite](images/challenge2-scenery-sprites.png){:width="400px"}
 
