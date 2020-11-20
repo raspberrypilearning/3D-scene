@@ -104,7 +104,7 @@ You can make the hill shown above or you can apply these skills to make your own
 
 + Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
 
-![Make hills as one sprite costumes](images/challenge2-backdrop-sprite-costumes.gif){:width="400px"}
+![Make hill as one sprite costumes](images/challenge2-backdrop-sprite-costume.gif){:width="400px"}
 
 + Choose a colour and draw an oval using the **Circle** tool. Then draw a rectangle at the bottom of the circles using the same **Fill** colour.
 
