@@ -72,6 +72,8 @@ Add code to run `sounds`{:class="block3sound"} blocks where you want sound in yo
 title: Add continuous soundtrack using a long sound
 ---
  
+Click the green flag to hear the sounds. 
+
 **Radio soundtrack**: [See inside](https://scratch.mit.edu/projects/444581851/editor){:target="_blank"}
  
 <div class="scratch-preview">
@@ -80,7 +82,7 @@ title: Add continuous soundtrack using a long sound
  
 Usually a continuous background soundtrack will start at the beginning `when green flag clicked`{:class="block3events"}, but you could have it starting at any time that suits your project.
 
-To make a sound play continuously, use a `play a sound until done`{:class="block3sound"} block inside a `forever`{:class="block3control"} loop. Once the sound has finished, the `forever`{:class="block3control"} loop makes the sound start again from the beginning.
+To make a sound play continuously, use a `play sound until done`{:class="block3sound"} block inside a `forever`{:class="block3control"} loop. Once the sound has finished, the `forever`{:class="block3control"} loop makes the sound start again from the beginning.
 
 This example uses a single long sound clip repeated as a soundtrack.
  
@@ -103,6 +105,8 @@ end
 title: Add continuous soundtrack using a sequence of short sounds
 ---
   
+Click the green flag to hear the sounds. 
+
 **Champ performance**: [See inside](https://scratch.mit.edu/projects/444673165/editor){:target="_blank"}
  
 <div class="scratch-preview">
@@ -127,7 +131,7 @@ End
  
 Click on the `forever`{:class="block3control"} block to play the sounds in the loop. Note, that your latest version of sounds and their order will only play when the old loop has finished.
 
-**Note:** The example only uses `play a sound until done`{:class="block3sound"} blocks, so that each sound finishes before the next begin. As you experiment, you might want to try adding some `start sound`{:class="block3sound"} blocks in where you want more than one sound to play at once. For instance you may want to have `start Bark sound`{:class="block3sound"} followed by `play Bird until done`{:class="block3sound"} to get a bird sound and a bark at the same time.
+**Note:** The example only uses `play sound until done`{:class="block3sound"} blocks, so that each sound finishes before the next begin. As you experiment, you might want to try adding some `start sound`{:class="block3sound"} blocks in where you want more than one sound to play at once. For instance you may want to have `start Bark sound`{:class="block3sound"} followed by `play Bird until done`{:class="block3sound"} to get a bird sound and a bark at the same time.
 
 ```blocks3
 forever
@@ -156,9 +160,9 @@ title: Add regular interval sounds
 ---
  
 **Football sounds**: [See inside](https://scratch.mit.edu/projects/450870079/editor){:target="_blank"}
-
-Each sprite makes a sound when you click on it.
  
+Click the green flag to hear the sounds. 
+
 <div class="scratch-preview">
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/450870079/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -189,7 +193,7 @@ Each sprite makes a sound when you click on it.
  
 --- task ---
 
-Once you have your sounds, you may want to change some details such as setting the `volume`{:class="block3sound"}, the `pitch`{:class="block3sound"}, or changing the `pan`{:class="block3sound"} to make sound come from the left or right.
+Once you have chosen your sounds, you may want to change the `volume`{:class="block3sound"}, `pitch`{:class="block3sound"} blocks, or `pan`{:class="block3sound"} blocks (so you hear the sound from the left or the right).
 
 --- collapse ---
 
@@ -205,17 +209,17 @@ Click the green flag to hear the sounds.
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451697380/?autostart=false" frameborder="0"></iframe>
 </div>
 
-The pan left/right setting allows you to control whether a sound comes out of the left or right speaker or headphone or both. A value of -100 plays **all** of the sound through the left speaker, 100 plays **all** of the sound through the right speaker, values in between gradually shift the sound balance from left to right as the number increases. 
+The `pan`{:class="block3sound"} block allows you to control whether a sound comes out of the left or right speaker or headphone or both. A value of `-100` plays **all** of the sound through the left speaker, `100` plays **all** of the sound through the right speaker, values in between gradually shift the sound balance from the left to the right as the number increases.
 
 If you have stereo headphones or speakers then the sound from the left speaker sprite will come from the left headphone/speaker and the sound from the right speaker sprite will come from the right headphone speaker. 
 
-This code sets the pan for the left speaker:
+Left speaker:
 
 ```blocks3
 set [pan left/right v] effect to (-100)
 ```
 
-This code sets the pan for the right speaker:
+Right speaker:
 
 ```blocks3
 set [pan left/right v] effect to (100)
