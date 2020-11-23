@@ -25,7 +25,7 @@ title: Set the size of your sprites
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Click on the **Code tab** of the sprite that you want to resize. Add a `set size to %`{:class="block3looks"} block and change the value in the block to the percentage (%) size for that sprite.
+Select the sprite that you want to resize and click on its **Code tab**. Add a `set size to %`{:class="block3looks"} block and change the value in the block to the percentage (%) size for that sprite.
 
 Add a percentage value below `100` to decrease its size:
 
@@ -61,23 +61,21 @@ You can simply program your sprites into two layers using the `front layer`{:cla
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451497627/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Window frame** sprite:
+In the example the **Window frame** sprite has a `go to front layer`{:class="block3looks"} block so it appears at the front. The **Avery Walking**, **Tree** and the **Sun** sprites each have `go to back layer`{:class="block3looks"} blocks so they appear at the back.
+
+
+Select the sprite that you want at the front and click on its **Code tab**. Add a `go to front layer`{:class="block3looks"} block:
+
 ``` blocks3
 when green flag clicked
 go to [front v] layer
 ```
 
-**Avery Walking**, **Tree** and **Sun** sprites i.e behind the window:
+Select the sprite/s that you want at the back and click on its **Code tab**. Add a `go to back layer`{:class="block3looks"} block:
+
 ``` blocks3
 when green flag clicked
 go to [back v] layer
-```
-
-Click on the **Code tab** of the sprite you want at the front and add a `go to front layer`{:class="block3looks"} block for the **front sprite**:
-
-``` blocks3
-when green flag clicked
-go to [front v] layer
 ```
 
 --- /collapse ---
