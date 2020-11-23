@@ -151,10 +151,10 @@ Click on the **Message** icon to access your inbox. If you have a lot of new mes
 
 --- task ---
 
-The Raspberry Pi Foundation community would love to see what you’ve made!
+Inspire the Raspberry Pi Foundation community with your project!
 
-We regularly rotate the projects on our website. To have your project included and inspire the community please complete [this form](https://www.tfaforms.com/4866927){:target="_blank"}  
+We regularly share projects made by the community on our website. To submit your 3D scene project, please complete [this form](https://www.tfaforms.com/4866927){:target=”_blank”}.
 
-Remember to come back and get inspiration from other creators and, who knows, one of the projects on the website could be yours!
+Remember to visit [link] to get inspired by other creators and, who knows, one of the projects shared on the website might be yours!
 
 --- /task ---
