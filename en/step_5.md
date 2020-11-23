@@ -155,7 +155,7 @@ Click on the **Full Screen Control** icon above the Stage. Your project will fil
 
 ![Enter full screen](images/enter-full-screen.png)
 
-Run your project. When you have finished, click the **Full Screen Control** icon again to go back to .
+Run your project. When you have finished, click the **Full Screen Control** icon to minimise the project and go back to the editor.
 
 ![Exit full screen](images/exit-full-screen.png)
 
