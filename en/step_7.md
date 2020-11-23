@@ -34,19 +34,19 @@ title: Add a new variable
 
 ---
 
-Click on the 'Code' tab for any sprite or the Stage. 
+Click on the **Code** tab for any sprite or the Stage. 
 
-Go to the `Variables`{:class="block3variables"} blocks and click on 'Make a Variable'.
+Go to the `Variables`{:class="block3variables"} blocks menu and click on 'Make a Variable'.
 
 ![Make a variable](images/make-a-variable.png)
 
 Name the variable to match its use, for example `angle`{:class="block3variables"}. 
 
-Generally, you will keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
+You will keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
 
 ![Turn variable settings](images/turn-variable.png)
 
-Click 'OK' to make the new variable. You will have new variable blocks available including a `angle`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
+Click 'OK' to make the new variable. You will have new variable blocks available including an `angle`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
 
 ![Turn variable blocks](images/turn-variable-blocks.png)
 
@@ -59,7 +59,8 @@ Your new variable will automatically appear on the Stage.
 
 --- task ---
  
-Change it to a slider (click on the 'how to' below if you need a reminder). It will start with a range from 1 to 100 which you can change at any point. 
+Change the variable to a slider and amend its range.
+
 
 --- collapse ---
 
@@ -71,24 +72,25 @@ title: Use a slider to change a variable
 
 Right-click or tap and hold on your variable on the Stage. 
 
-Select 'slider' from the menu. 
+Select **Slider** from the menu. 
 
 ![Turn slider](images/variable-slider.png)
 
-**Tip:** You can double click or tap on a variable on the Stage to switch between normal, large and slider. 
+**Tip:** You can double-click or tap on the variable displayed on the Stage and select **slider**.
 
-Right-click or tap and hold on your variable on the Stage again and choose 'change slider range'. 
+Right-click or tap and hold on the variable displayed on the Stage and select **change slider range**.
 
 ![Speed slider](images/slider-range.png)
+
 Set the range by specifying a minimum and maximum value.
 
-A minimum of 1 and a maximum of 10 work fairly well for how quickly a sprite spins.
+A minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
 
 ![Slider range 1 to 10](images/slider-values.png)
 
 The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right but remember that you can change it at any time.
 
-You can drag the slider to a convenient position on the Stage.
+Drag the slider to a convenient position on the Stage.
 
 **Tip:** Variables on the Stage always appear in a layer above all of the sprites. If you have a moving sprite it will go under any variables on the Stage. 
 
@@ -108,7 +110,7 @@ In this example the variable controls how quickly the sprite rotates:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451543041/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use the `angle`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
+The **Space dog** project uses the `angle`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
 
 ```blocks3
 when flag clicked
