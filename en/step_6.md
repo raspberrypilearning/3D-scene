@@ -65,13 +65,11 @@ If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} 
  
 --- task ---
 Add code to run `sounds`{:class="block3sound"} blocks where you want sound in your project.
- 
-Have a look at the how to’s below that will help you to add the kind of sounds that you want for your project:
- 
+  
 --- collapse ---
 
 ---
-title: Continuous soundtrack using a long sound
+title: Add continuous soundtrack using a long sound
 ---
  
 **Radio soundtrack**: [See inside](https://scratch.mit.edu/projects/444581851/editor){:target="_blank"}
@@ -102,7 +100,7 @@ end
 --- collapse ---
 
 ---
-title: Continuous soundtrack using a sequence of short sounds
+title: Add continuous soundtrack using a sequence of short sounds
 ---
   
 **Champ performance**: [See inside](https://scratch.mit.edu/projects/444673165/editor){:target="_blank"}
@@ -154,7 +152,7 @@ Or you may just want to use sounds that happen at regular intervals.
 --- collapse ---
 
 ---
-title: Regular interval sounds
+title: Add regular interval sounds
 ---
  
 **Football sounds**: [See inside](https://scratch.mit.edu/projects/450870079/editor){:target="_blank"}
