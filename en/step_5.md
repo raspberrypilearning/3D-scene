@@ -84,7 +84,8 @@ go to [back v] layer
 ---
 title: Program your sprites in layers
 ---
-Now, using the `go backward (1) layers`{:class="block3looks"} to place the **next sprite** 1 layer behind the **front sprite**:
+
+Using the `go backward 1 layers`{:class="block3looks"} block you can place a sprite 1 layer behind the sprite at the front.
 
 ``` blocks3
 when green flag clicked
@@ -92,7 +93,7 @@ go to [front v] layer
 +go [backward v] (1) layers
 ```
 
-Allocate layers to other sprites. The value you use in the `go backward (1) layers`{:class="block3looks"} block will depend how many layers back you want each sprite to sit:
+Allocate layers to other sprites. The value you use in the `go backward`{:class="block3looks"}`1``layers`{:class="block3looks"} block will depend how many layers back you want each sprite to sit:
 
 ``` blocks3
 when green flag clicked
