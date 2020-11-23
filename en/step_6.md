@@ -1,6 +1,6 @@
 ## Soundtrack
 
-Now you're going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at regular intervals.
+In this step you are going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at regular intervals.
 
 --- task ---
  
@@ -18,10 +18,11 @@ This project has a soundtrack that runs throughout, plus the **Hen** sprite make
 
 There are two `sounds`{:class="block3sound"} blocks with very important differences that you need to understand.
 
-+ When you `play a sound until done`{:class="block3sound"}, the sound will play all the way through until Scratch runs the next line of code in that script. 
-+ When you `start a sound`{:class="block3sound"}, the sound will play but the next line of code will run immeadiately and will not wait for the sound to finish first.
++ When you `play sound until done`{:class="block3sound"}, the sound will play all the way through. tThe next line of code in the script will not run until the sound it finished.
 
-This means that if you had a series of `start a sound`{:class="block3sound"} blocks the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
++ When you `start sound`{:class="block3sound"}, the sound will play but the next line of code will run immediately and will not wait for the sound to finish first.
+
+This means that if you had a series of `start sound`{:class="block3sound"} blocks the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
 
 Have a play with it sometime!
 
@@ -40,11 +41,11 @@ start sound (Baa v)
 title: Adding a sound
 ---
 
-Start by selecting the sprite that you want to have the new sound and select the Sounds tab. Each sprite starts with a default sound.
+Start by selecting the sprite that you want to have the new sound and select the **Sounds** tab. Each sprite starts with a default sound.
 
 ![Sound tab](images/soundTab.png)
 
-To get to Scratch's library of built-in sounds, click on the **Choose a sound** button.
+To get to Scratch's library of built-in sounds, click on the **Choose a Sound** button.
 
 ![Choose a sound button](images/chooseASoundButton.png)
 
@@ -52,11 +53,11 @@ If you hover your mouse over the play symbol of a sound, Scratch will preview th
 
 ![Preview a sound](images/soundPreview.png)
 
-Click on any sound to add it to your sprite. You will be taken straight back to the Sounds tab and you will be able to see the sound that you just added.
+Click on any sound to add it to your sprite. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you just added.
 
 ![Sounds tab with new sound](images/newSoundAdded.png)
 
-If you switch to the Code tab and look at the `Sound`{:class="block3sound"} blocks, you will see you the new sound available in the sound playing blocks.
+If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will see you that the new sound is now available in the drop-down.
  
 ![New sound available](images/newSoundBlock.png)
 
