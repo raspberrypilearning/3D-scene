@@ -27,14 +27,14 @@ title: Set the size of your sprites
 
 Click on the **Code tab** of the sprite that you want to resize. Add a `set size to %`{:class="block3looks"} block and change the value in the block to the percentage (%) size for that sprite.
 
-Add a  value below `100` to decrease its size:
+Add a percentage value below `100` to decrease its size:
 
 ``` blocks3
 when green flag clicked
 +set size to (80)%
 ```
 
-Add a  value above `100` to increase its size:
+Add a percentage value above `100` to increase its size:
 
 ``` blocks3
 when green flag clicked
@@ -45,6 +45,7 @@ when green flag clicked
 --- /task ---
 
 --- task ---
+
 Now program your sprites into layers.
 
 --- collapse ---
@@ -57,19 +58,19 @@ You can simply program your sprites into two layers using the `front layer`{:cla
 **Through the window**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/437510050/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451497627/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Rear sprites:
-``` blocks3
-when green flag clicked
-go to [back v] layer
-```
-
-Window frame sprite:
+**Window frame** sprite:
 ``` blocks3
 when green flag clicked
 go to [front v] layer
+```
+
+**Avery Walking**, **Tree** and **Moon** i.e behind the window:
+``` blocks3
+when green flag clicked
+go to [back v] layer
 ```
 
 Click on the **Code tab** of the sprite you want at the front and add a `go to front layer`{:class="block3looks"} block for the **front sprite**:
