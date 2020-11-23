@@ -1,8 +1,8 @@
 ## 3-Dimensional effects
 
-In this step you’re going to increase the 3-dimensional appearance by using the `looks`{:class="block3looks"} block to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
+In this step you’re going to increase the 3-dimensional appearance by using the `Looks`{:class="block3looks"} blocks menu to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
 
-In the below example, the rocket which is in the distance is smaller than the bus and robot. The sprites are layered to appear to go in front of or behind each other. 
+In the below example, the **Rocket** sprite which is in the distance is smaller than the **Taco Truck** and **Robot** sprites. The sprites are layered to appear to go in front of or behind each other. 
 
 **Moon base**: [See inside](https://scratch.mit.edu/projects/451453522/editor){:target="_blank"}
 
@@ -25,7 +25,7 @@ title: Set the size of your sprites
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Make sure that you select the correct **Code tab** for the sprite you want to alter before adding new code. Now use the `set size to ()%`{:class="block3looks"} block.
+Click on the **Code tab** of the sprite that you want to resize. Add a `set size to %`{:class="block3looks"} block, changing the value in the block to the percentage (%) size for that sprite.
 
 Add a  value below `100` to decrease its size:
 
