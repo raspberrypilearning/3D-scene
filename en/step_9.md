@@ -75,7 +75,7 @@ title: Share Scratch projects
 
 --- /print-only ---
 
-- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media.
+- Click the **Copy Link** button to get the link to your project. You can send this link to other people by email or text, or on social media. Why not invite your friends to create a project? Let them know how you had fun.
 
 --- no-print ---
 
@@ -89,7 +89,22 @@ title: Share Scratch projects
 
 --- /print-only ---
 
-- Scratch provides the ability to comment on your own and other people's projects. If you are under 13 years old, or do not want to allow people to comment on your project, you should turn off commenting.
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+If you have a Scratch account, and have shared your interactive animation project, you can comment on your own and other people's projects. Other people's feedback is a great way to reflect on your work.
+
+If you are under 13 years old, or do not want to allow people to comment on your project, you should turn off commenting.
+
+--- collapse ---
+---
+
+title: Feedback using Scratch comments
+
+---
 
 ![comments-off.png](images/comments-off.png)
 
@@ -109,9 +124,7 @@ title: Share Scratch projects
 
 --- /collapse ---
 
-Why not invite your friends to create a project? Let them know how you had fun.
-
-If you have a Scratch account, and have shared your interactive animation project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Keep an eye out for comments that others may make about your creation. Ignore any comments that are unhelpful or irrelevant.
 
 --- collapse ---
 ---
