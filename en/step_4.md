@@ -121,13 +121,13 @@ OR,
 --- collapse ---
 ---
 
-title: Create scenery as seperate sprites
+title: Create scenery as separate sprites
 
 ---
 
 **Hill as separate sprites**: [See inside](https://scratch.mit.edu/projects/452573711/editor){:target="_blank"}
 
-You can create objects in your scenery as seperate sprites so that other sprites can move between them. You can make the hills as in the example above or you can apply these skills to make your own sprites using the **Circle** and **Rectangle** tools in the **Paint Editor**:
+You can create objects in your scenery as separate sprites so that other sprites can move between them. You can make the hills as in the example above or you can apply these skills to make your own sprites using the **Circle** and **Rectangle** tools in the **Paint Editor**:
 
 You can create a new sprite for each object in your 3D scenery. In the below example, each hill is a sprite.
 
