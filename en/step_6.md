@@ -78,7 +78,7 @@ title: Add continuous soundtrack using a long sound
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444581851/?autostart=false" frameborder="0"></iframe>
 </div>
  
-Usually a continuous background soundtrack will start at the beginning when the `green flag`{:class="block3events"} is clicked, but you could have it starting at any time that suits your project.
+Usually a continuous background soundtrack will start at the beginning `when green flag clicked`{:class="block3events"}, but you could have it starting at any time that suits your project.
 
 To make a sound play continuously, use a `play a sound until done`{:class="block3sound"} block inside a `forever`{:class="block3control"} loop. Once the sound has finished, the `forever`{:class="block3control"} loop makes the sound start again from the beginning.
 
@@ -91,7 +91,7 @@ play sound (Dance Snare Beat v) until done
 end
 ```
 
-**Note:** When choosing a new sound, if you select Loops, Scratch will only show you the loops which are mostly the ones suitable for a simgle looping soundtrack.
+**Note:** When choosing a new sound, if you select the **Loops** category, Scratch will only show you the sounds which are suitable for a single looping soundtrack.
 
 ![Loop sounds](images/loopSounds.png)
 
@@ -109,9 +109,9 @@ title: Add continuous soundtrack using a sequence of short sounds
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444673165/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Rather than using a single longer looping sound, you may want to loop a series of shorter sounds together. You may want to have a certain sequence of sounds playing in order or perhaps you are just having fun playing with the different sounds, or even composing a piece of music using different instrument notes and effects.
-
-Unless you have a clear idea of what sounds you want to use and their order, the first step would be to get a `forever`{:class="block3control"} loop, pick out some sounds you like and experiment.
+Select a `forever`{:class="block3control"} block to create a looped sound. Select some sounds you like and/or experiment. You can either create:
++ a series of short sounds in a sequence of sounds i.e playing one after the other.
++ or compose a soundtrack using different instrument notes and effects.
  
 ```blocks3
 forever
@@ -125,9 +125,9 @@ play sound (Glug v) until done
 End
 ```
  
-If you click on the `forever`{:class="block3control"} loop, it will keep repeating whatever is inside. As you change the order or the sounds inside, Scratch will play your latest version each time it loops around.
+Click on the `forever`{:class="block3control"} block to play the sounds in the loop. Note, that your latest version of sounds and their order will only play when the old loop has finished.
 
-**Note:** The example only uses `play a sound until done`{:class="block3sound"} blocks, so that each sound finishes before the next begin. As you experiment, you might want to try adding some `start sound`{:class="block3sound"} blocks in where you want more than one sound to play at once. For intance you may want to have `start Bark sound`{:class="block3sound"} followed by `play Bird until done`{:class="block3sound"} to get a bird sound and a bark at the same time.
+**Note:** The example only uses `play a sound until done`{:class="block3sound"} blocks, so that each sound finishes before the next begin. As you experiment, you might want to try adding some `start sound`{:class="block3sound"} blocks in where you want more than one sound to play at once. For instance you may want to have `start Bark sound`{:class="block3sound"} followed by `play Bird until done`{:class="block3sound"} to get a bird sound and a bark at the same time.
 
 ```blocks3
 forever
