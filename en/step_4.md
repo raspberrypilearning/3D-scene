@@ -26,7 +26,7 @@ title: Create a plain backdrop
 In the **Walking in the hills** example, a dark blue backdrop has been created. Any additional scenery, such as hills, trees or buildings can be added as sprites that can then be moved around.
 
 To make your own backdrop:
-+ Go to the Stage pane and click on **backdrop1**.
++ Go to the Stage pane and click on **backdrop1**
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
