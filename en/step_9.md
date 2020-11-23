@@ -1,10 +1,14 @@
 ## Share
 
-If you are in a club, why not share your project with friends and peers?
+--- task ---
 
-You could also show your family how your project works.
+If you are in a club, share your project with friends and peers or if you are at home, show your family your project, to gain useful feedback.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+--- /task ---
+
+--- task ---
+
+If you have a Scratch account, you can share your project by sending a link to people you know. In fact, the whole Scratch community will be able to find your project and try it! 
 
 --- collapse ---
 ---
@@ -18,8 +22,14 @@ Why not invite your friends to create a project? Let them know how you had fun.
 
 If you have a Scratch account, and have shared your interactive animation project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
 
+--- /task ---
+
 --- task ---
 
-You can also share your project to be considered for the 3D Scene Community Showcase. Projects that get selected will be shared with the community for a period of time. 
+The Raspberry Pi Foundation community would love to see what you’ve made!
+
+We regularly rotate the projects on our website. To have your project included and inspire the community please complete this form.  
+
+Remember to come back and get inspiration from other creators and, who knows, one of the projects on the website could be yours!
 
 --- /task ---
