@@ -151,7 +151,7 @@ For more information on animation, explore [Animate using looks](https://project
 
 --- task ---
 
-Click on the **Full Screen Control** icon above the Stage. Your project will show the size of your screen so you can interact with your project more clearly. You also cannot accidentally drag sprites or sliders in full screen mode. 
+Click on the **Full Screen Control** icon above the Stage. Your project will fill your screen so you and others can interact with it more easily. In this mode, the sprites and sliders cannot be accidentally dragged in to a new position.
 
 ![Enter full screen](images/enter-full-screen.png)
 
