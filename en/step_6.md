@@ -195,37 +195,49 @@ Click the green flag to hear the sounds.
 
 Once you have chosen your sounds, you may want to change the `volume`{:class="block3sound"}, `pitch`{:class="block3sound"} blocks, or `pan`{:class="block3sound"} blocks (so you hear the sound from the left or the right).
 
---- collapse ---
-
----
-title: Setting and changing the volume, pitch and pan effect
----
-
 Click the green flag to hear the sounds. 
 
 **Sound effects**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
+
+<div class="scratch-preview">
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451697380/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- collapse ---
+
+---
+title: Set the pan effect
+---
+
+**Pan effects**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
  
 <div class="scratch-preview">
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451697380/?autostart=false" frameborder="0"></iframe>
 </div>
 
-The `pan`{:class="block3sound"} block allows you to control whether a sound comes out of the left or right speaker or headphone or both. A value of `-100` plays **all** of the sound through the left speaker, `100` plays **all** of the sound through the right speaker, values in between gradually shift the sound balance from the left to the right as the number increases.
+In the example, the sound from the **Drums** sprite comec from the left-hand speaker/headphone and the sound from the **Saxophone** sprite comes from the right-hand speaker/headphone. If your speakers do not have stereo then the panning effect will not work. Listen carefully to where the sound is coming from.
 
-If you have stereo headphones or speakers then the sound from the left speaker sprite will come from the left headphone/speaker and the sound from the right speaker sprite will come from the right headphone speaker. 
+The `pan`{:class="block3sound"} block allows you to control whether a sound comes out of a left or right-hand speaker or headphone. 
 
-Left speaker:
+A value of `-100` plays all of the sound through the left-hand speaker/headphone:
 
 ```blocks3
 set [pan left/right v] effect to (-100)
 ```
-
-Right speaker:
+A value of `100` plays all of the sound through the right-hand speaker/headphone:
 
 ```blocks3
 set [pan left/right v] effect to (100)
 ```
+Values in between `-100` and`100` varies the sound between one speaker or headphone and the other speaker or headphone.
 
-**Tip**: Listen carefully to where the sound is coming from. 
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Set the pitch effect
+---
 
 The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between -360 (very low) and 360 (very high). 
 
@@ -234,6 +246,14 @@ This code sets the pitch of the guitar to 200 (high).
 ```blocks3
 set [pitch v] effect to (200)
 ```
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Set the volume effect
+---
 
 You can set the volume from 0 (silent) to 100 (full volume).
 
