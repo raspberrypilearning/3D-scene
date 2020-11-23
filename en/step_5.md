@@ -125,7 +125,7 @@ move (5) steps
 if on edge, bounce
 ```
 
-For more information, explore [Animate using motion](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/3) in Challenge 1 Interactive animation.
+For more information on motion, explore [Animate using motion](https://projects.raspberrypi.org/en/projects/interactive-animation/3){:target="_blank"} in Challenge 1 Interactive animation.
 
 --- /collapse ---
 
@@ -143,7 +143,7 @@ next costume
 wait (0.3) seconds
 ```
 
-If you want some more information explore [Animate using looks](https://learning-admin.raspberrypi.org/en/projects/interactive-animation/5) in Challenge 1 Interactive animation.
+For more information on animation, explore [Animate using looks](https://projects.raspberrypi.org/en/projects/interactive-animation/5){:target="_blank"} in Challenge 1 Interactive animation.
 
 --- /collapse ---
 
