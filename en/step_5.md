@@ -67,7 +67,7 @@ when green flag clicked
 go to [front v] layer
 ```
 
-**Avery Walking**, **Tree** and **Sun** i.e behind the window:
+**Avery Walking**, **Tree** and **Sun** sprites i.e behind the window:
 ``` blocks3
 when green flag clicked
 go to [back v] layer
