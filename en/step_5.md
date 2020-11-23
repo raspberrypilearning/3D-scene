@@ -61,7 +61,7 @@ You can simply program your sprites into two layers using the `front layer`{:cla
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451497627/?autostart=false" frameborder="0"></iframe>
 </div>
 
-In the example the **Window frame** sprite has a `go to front layer`{:class="block3looks"} block so it appears at the front. The **Avery Walking**, **Tree** and the **Sun** sprites each have `go to back layer`{:class="block3looks"} blocks so they appear at the back.
+In the example, the **Window frame** sprite has a `go to front layer`{:class="block3looks"} block so it appears at the front. The **Avery Walking**, **Tree** and the **Sun** sprites each have `go to back layer`{:class="block3looks"} blocks so they appear at the back.
 
 
 Select the sprite that you want at the front and click on its **Code tab**. Add a `go to front layer`{:class="block3looks"} block:
