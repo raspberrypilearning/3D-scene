@@ -26,12 +26,12 @@ title: Create a plain backdrop
 In the **Walking in the hills** example, a dark blue backdrop has been created. Any additional scenery, such as hills, trees or buildings can be added as sprites that can then be moved around.
 
 To make your own backdrop:
-+ Go to the Stage pane and click on **backdrop1**
++ Go to the Stage pane and click on **backdrop1**.
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-+ Click on the **Backdrops** tab
-+ Select a suitable **Fill** colour with no **Outline**
++ Click on the **Backdrops** tab.
++ Select a suitable **Fill** colour with no **Outline**.
 + Go to the **Rectangle** tool and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the Paint editor). 
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
@@ -96,11 +96,11 @@ title: Create scenery as one sprite
 
 ---
 
-**Hill as one sprites**: [See inside](https://scratch.mit.edu/projects/452582516/editor){:target="_blank"}
+**Hill as one sprite**: [See inside](https://scratch.mit.edu/projects/452582516/editor){:target="_blank"}
 
 ![Hills image](images/challenge2-sprite-hill.png){:width="400px"}
 
-You can make the **Hill** sprite shown in the example above or you can apply the following skills to make your own sprite using the **Circle** or **Rectangle** tools in the **Paint Editor**:
+You can make your own **Hills** sprite shown in the example above by using the **Circle** and **Rectangle** tools in the Paint editor:
 
 + Go to **Choose a Sprite** and select **Paint** to create a new sprite costume.
 
@@ -127,9 +127,9 @@ title: Create scenery as separate sprites
 
 ---
 
-**Hill as separate sprites**: [See inside](https://scratch.mit.edu/projects/452573711/editor){:target="_blank"}
+**Hills as separate sprites**: [See inside](https://scratch.mit.edu/projects/452573711/editor){:target="_blank"}
 
-You can create objects in your scenery as separate sprites so that other sprites can move between them. You can make the hills as in the example above or you can apply these skills to make your own sprites using the **Circle** and **Rectangle** tools in the **Paint Editor**:
+You can create objects in your scenery as separate sprites so that other sprites can move between them. You can make the hills in the example above or you can apply these skills to make your own sprites using the **Circle** and **Rectangle** tools in the Paint editor:
 
 You can create a new sprite for each object in your 3D scenery. In the below example, each hill is a sprite.
 
@@ -168,7 +168,7 @@ You can create polygons such as a triangle and use these shapes to create roofs 
 
 Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
 
-**House**: [See inside](https://scratch.mit.edu/projects/447278432/editor){:target="_blank"}
+**House**: [See inside](https://scratch.mit.edu/projects/453595663/editor){:target="_blank"}
 
 ![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
 
