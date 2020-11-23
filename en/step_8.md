@@ -11,8 +11,7 @@ You could also add more sound effects and variables.
 
 You may want to investigate the example projects in **step 2: Get inspiration**.
 
-OR explore the Raspberry Pi Foundations studio of **3D Scene Community Projects**: [See inside](https://scratch.mit.edu/projects/28115978//editor){:target="_blank"}
-
+Take a look at the community created 3D scene projects below OR explore the Raspberry Pi Foundations studio of **3D Scene Community Projects**: [See inside](https://scratch.mit.edu/studios/28115978){:target="_blank"}
 
 --- /task ---
 
