@@ -197,7 +197,7 @@ Once you have chosen your sounds, you may want to change the `volume`{:class="bl
 
 Click the green flag to hear the sounds. 
 
-**Sound effects**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
+**Band practise**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
 
 <div class="scratch-preview">
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451697380/?autostart=false" frameborder="0"></iframe>
@@ -209,27 +209,21 @@ Click the green flag to hear the sounds.
 title: Set the pan effect
 ---
 
-**Pan effects**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
- 
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451697380/?autostart=false" frameborder="0"></iframe>
-</div>
-
-In the example, the sound from the **Drums** sprite comec from the left-hand speaker/headphone and the sound from the **Saxophone** sprite comes from the right-hand speaker/headphone. If your speakers do not have stereo then the panning effect will not work. Listen carefully to where the sound is coming from.
+In the **Band practise** example, the sound from the **Drums** sprite comes from the left-hand speaker or headphone and the sound from the **Saxophone** sprite comes from the right-hand speaker or headphone. Listen carefully to where the sound is coming from. If your speakers do not have stereo then the panning effect will not work. 
 
 The `pan`{:class="block3sound"} block allows you to control whether a sound comes out of a left or right-hand speaker or headphone. 
 
-A value of `-100` plays all of the sound through the left-hand speaker/headphone:
+A value of `-100` plays all of the sound through the left-hand speaker or headphone:
 
 ```blocks3
 set [pan left/right v] effect to (-100)
 ```
-A value of `100` plays all of the sound through the right-hand speaker/headphone:
+A value of `100` plays all of the sound through the right-hand speaker or headphone:
 
 ```blocks3
 set [pan left/right v] effect to (100)
 ```
-Values in between `-100` and`100` varies the sound between one speaker or headphone and the other speaker or headphone.
+Values between `-100` and`100` vary the sound between one speaker or headphone and the other speaker or headphone.
 
 --- /collapse ---
 
