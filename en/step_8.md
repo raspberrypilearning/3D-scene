@@ -1,9 +1,9 @@
 ## Add more ...
 
 --- task ---
-Now you’ve got your project working the way you want it to, you could add more layers to your animation 3D scene.
+Now you’ve got your project working the way you want it to, you could add more layers to your 3D scenery.
 
-If you only used backdrops and sprites from the Scratch gallery, then you should try and use the Paint editor to create some of your own scenery. 
+If you only used backdrops and sprites from the Scratch gallery, then you could use the Paint editor to create some of your own scenery. 
 
 You could also add more sound effects and variables.
 
