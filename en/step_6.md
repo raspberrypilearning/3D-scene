@@ -265,8 +265,6 @@ This code sets the volume of the guitar to 10 (quiet):
 set volume to (10) %
 ```
 
-Sound effects are cleared when the green flag is clicked.
-
 --- /collapse ---
   
 --- /task ---
