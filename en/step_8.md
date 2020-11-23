@@ -11,7 +11,8 @@ You could also add more sound effects and variables.
 
 You may want to investigate the example projects in **step 2: Get inspiration**.
 
-OR explore the example below which uses multiple layers and has a scenery sprite moving slowly to create a 3D effect. The music gets higher and faster as the dinosaur moves faster:
+OR explore the Raspberry Pi Foundations studio of **3D Scene Community Projects**: [See inside](https://scratch.mit.edu/projects/28115978//editor){:target="_blank"}
+
 
 --- /task ---
 
