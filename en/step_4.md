@@ -1,6 +1,6 @@
 ## Set the scene
 
-In this step you will set the scene by adding a backdrop. Through this step you will also decide which objects and character sprites you want to include and/or make to create the appearance of 3-dimensions.
+In this step you will set the scene by creating or choosing a backdrop. You will decide which sprites you want to include and/or make to create the appearance of 3-dimensions.
 
 **Walking in the hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
 
@@ -23,14 +23,16 @@ title: Create a plain backdrop
 
 ---
 
-In the example a dark blue backdrop has been created because any additional scenery, such as hills, trees or buildings will be added as sprites that can be moved around.
+In the **Walking in the hills** example, a dark blue backdrop has been created. Any additional scenery, such as hills, trees or buildings can be added as sprites that can then be moved around.
 
 To make your own backdrop:
-+ Go to the **Stage pane**, click **Backdrops** and selecting **Paint**.
++ Go to the Stage pane and click on **backdrop1**.
 
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
-+ In the **Backdrops** tab, select a suitable **Fill** colour with no **Outline**. Go to the **Rectangle** shape and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the Paint editor). 
++ Click on the **Backdrops** tab
++ Select a suitable **Fill** colour with no **Outline**
++ Go to the **Rectangle** tool and draw a rectangle, ensuring you cover all of the stage area (shown as an outline in the Paint editor). 
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
@@ -38,7 +40,7 @@ Don't forget to name your backdrop.
 
 --- /collapse ---
 
-OR,
+**OR**
 
 --- collapse ---
 ---
@@ -116,7 +118,7 @@ You can make the **Hill** sprite shown in the example above or you can apply the
 
 --- /collapse ---
 
-OR,
+**OR**
 
 --- collapse ---
 ---
