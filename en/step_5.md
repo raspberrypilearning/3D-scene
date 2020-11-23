@@ -151,13 +151,11 @@ For more information on animation, explore [Animate using looks](https://project
 
 --- task ---
 
-Click on the 'Full Screen' icon above the Stage to run your project in full screen mode. 
+Click on the **Full Screen Control** icon above the Stage. Your project will show the size of your screen so you can interact with your project more clearly. You also cannot accidentally drag sprites or sliders in full screen mode. 
 
 ![Enter full screen](images/enter-full-screen.png)
 
-You can't accidentally drag sprites or sliders in full screen mode. 
-
-Click the 'Full Screen' icon again to continue working on your project.
+Run your project. When you have finished, click the **Full Screen Control** icon again to go back to .
 
 ![Exit full screen](images/exit-full-screen.png)
 
