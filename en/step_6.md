@@ -223,7 +223,7 @@ A value of `100` plays all of the sound through the right-hand speaker or headph
 ```blocks3
 set [pan left/right v] effect to (100)
 ```
-Values between `-100` and`100` vary the sound between one speaker or headphone and the other speaker or headphone.
+Values between `-100` and `100` vary the sound between one speaker or headphone and the other speaker or headphone.
 
 --- /collapse ---
 
@@ -233,9 +233,9 @@ Values between `-100` and`100` vary the sound between one speaker or headphone a
 title: Set the pitch effect
 ---
 
-The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between -360 (very low) and 360 (very high). 
+The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between `-360` (very low) and `360` (very high). 
 
-This code sets the pitch of the guitar to 200 (high).
+This code sets the pitch of the guitar to `200` (high).
 
 ```blocks3
 set [pitch v] effect to (200)
@@ -249,11 +249,11 @@ set [pitch v] effect to (200)
 title: Set the volume effect
 ---
 
-You can set the volume from 0 (silent) to 100 (full volume).
+You can set the volume from `0` (silent) to `100` (full volume).
 
 The volume of the guitar is lower than the volume of the speakers. This is useful if you want some sounds louder than others or if you want a sprite to appear further away. 
 
-This code sets the volume of the guitar to 10 (quiet):
+This code sets the volume of the guitar to `10` (quiet):
 
 ```blocks3
 set volume to (10) %
