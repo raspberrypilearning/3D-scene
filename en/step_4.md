@@ -233,13 +233,13 @@ title: Create a sprite with gaps that you can see through
 
 ---
 
-You can view your 3D scene **through** a **Masking** sprite. If it sits as the front layer and is the size of the stage it will look like view through the bars of a cage or a series of window panes, surveying a scene through binoculars or wearing a mask. 
+You can view your 3D scene **through** a sprite. If it sits as the front layer and is the size of the stage it can appear like a view through the bars of a cage or a series of window panes.
 
 --- no-print ---
 
 **Caged lion**: [See inside](https://scratch.mit.edu/projects/445680159/editor){:target="_blank"}
 
-![Sprite costume cage mask](images/challenge2-sprite-costume-mask-cage.gif)
+![Sprite costume cage](images/challenge2-sprite-costume-mask-cage.gif)
 
 --- /no-print ---
 
