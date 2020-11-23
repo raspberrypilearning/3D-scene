@@ -160,7 +160,7 @@ Here's some other creative tips:
 --- collapse ---
 ---
 
-title: Create triangles using the line tool
+title: Create a triangle using the line tool
 
 ---
 
@@ -172,7 +172,7 @@ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume wh
 
 ![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
 
-Following the below, you can any shape using the linetool:
+Following the below, you can create any shape using the **Line** tool:
 + Choose a **Fill** colour with no outline
 + Draw a rectangle using the **Rectangle** tool
 + Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
@@ -182,7 +182,7 @@ Following the below, you can any shape using the linetool:
 + You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette
 + Select all the shapes and **Group** them together so that you can adjust them or move them as one shape
 
-To make multiples of your shapes such as a skyline of houses, follow the **How to...** 'Multiple shapes in a sprite costume' below.
+To create duplicate shapes such as a skyline from your house, follow the **How to...** 'Create a scenery costume by duplicating shapes' below.
 
 --- /collapse ---
 
