@@ -1,13 +1,17 @@
 ## Add more ...
 
 --- task ---
-If you have time left you can add more layers to your scene.
+Now you’ve got your project working the way you want it to, you could add more layers to your animation 3D scene.
 
-If you only used backdrops and sprites that are included in Scratch then you should try and use the paint editor to create your own scenery. 
+If you only used backdrops and sprites from the Scratch gallery, then you should try and use the Paint editor to create some of your own scenery. 
 
-You can also add more sound effects and variables.
+You could also add more sound effects and variables.
 
-This example uses multiple layers and has a scenery sprite moving slowly to create a 3D effect. The music gets higher and faster as the dinosaur moves faster:
+**Tip**: Professional programmers explore and take inspiration from code created by other programmers.
+
+You may want to investigate the example projects in **step 2: Get inspiration**.
+
+OR explore the example below which uses multiple layers and has a scenery sprite moving slowly to create a 3D effect. The music gets higher and faster as the dinosaur moves faster:
 
 **3D Dinosaur**: [See inside](https://scratch.mit.edu/projects/445737025/editor){:target="_blank"}
 
