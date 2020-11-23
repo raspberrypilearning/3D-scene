@@ -49,7 +49,7 @@ Click on the **Message** icon to access your inbox. If you have a lot of new mes
 
 The Raspberry Pi Foundation community would love to see what you’ve made!
 
-We regularly rotate the projects on our website. To have your project included and inspire the community please complete this form.  
+We regularly rotate the projects on our website. To have your project included and inspire the community please complete [this form](https://www.tfaforms.com/4866927){:target="_blank"}  
 
 Remember to come back and get inspiration from other creators and, who knows, one of the projects on the website could be yours!
 
