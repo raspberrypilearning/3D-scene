@@ -4,7 +4,9 @@ In this step you will choose a theme for your 3D scene.
 
 --- task ---
 
-In the example below, see how the **Moon** is able to rise from behind the roofs because **Rooftops** is a sprite rather than being drawn on the backdrop.
+In the example below, the theme is of a night-time city. It creates a gloomy mood with the moon casting a dim light over the houses. A bat flutters in front of the moon and dog bark can be heard in the distance. 
+
+Use the **distance** slider to change the size of the bat and the volume of the dog bark to make them seem closer or further away. 
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
