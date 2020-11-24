@@ -140,7 +140,11 @@ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume wh
 ![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
 
 Following the below, you can create any shape using the **Line** tool:
-+ Choose a **Fill** colour with no outline
++ Choose a **Fill** colour. To choose the colour black, decrease the **Brightness** to zero (0).
+
+![Colour to black](images/challenge2-black.png){:width="400px"}
+
++ Select no outline.
 + Draw a rectangle using the **Rectangle** tool
 + Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
 + Move the two shapes together
