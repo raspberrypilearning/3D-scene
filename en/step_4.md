@@ -12,7 +12,7 @@ In this step you will set the scene by creating or choosing a backdrop. You will
 
 A backdrop is **always** at the back and cannot move. In this example project, the backdrop is the orange **Sky**. 
 
-Sprites can move around the stage, and be in front of or behind other sprites. In this example project, the **Shark** sprite is able to jump from behind the waves because the waves are not drawn on the backdrop. The **Waves** are a sprite. Additional scenery, such as hills, trees or buildings can be added as sprites so that other sprites can move between them.
+Sprites can move around the stage, and be in front of or behind other sprites. In this example project, the **Shark** sprite is able to jump from behind the waves because the waves are not drawn on the backdrop. The **Waves** are a sprite.
 
 --- /no-print ---
 
@@ -89,7 +89,7 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 --- task ---
 Use the Paint editor to create any additional sprites that you need as scenery. This could be hills or mountains in the distance, or smaller sprites, such as trees or flowers, fro your scenery. 
 
-Think about whether you want to create your scenery as one sprite OR whether you want some of your sprites to move through and behind the 3D scenery by creating separate scenery sprites. The latter will make it easier for you to move sprites around later depending on your ideas for your project. 
+Think about whether you want to create your scenery as one sprite OR whether you want some of your sprites to move through and behind the 3D scenery by creating separate scenery sprites such as hills, trees or buildings. The latter will make it easier for you to move sprites around later depending on your ideas for your project.
 
 --- collapse ---
 ---
