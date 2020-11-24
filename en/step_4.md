@@ -10,7 +10,7 @@ In this step you will set the scene by creating or choosing a backdrop. You will
   <iframe src="https://scratch.mit.edu/projects/454124566/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-A Backdrop is **always** at the back and cannot move. In this example project, the Backdrop is the **Sky**. 
+A backdrop is **always** at the back and cannot move. In this example project, the backdrop is the **Sky**. 
 
 Sprites can move around the stage, and be in front of or behind other sprites. In this example project the **Shark** sprite is able to jump from behind the waves because the waves are not drawn on the backdrop. **Waves** are a sprite.
 
