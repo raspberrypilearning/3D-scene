@@ -57,7 +57,7 @@ A simple approach is to send some sprites to the front and some to the back:
 title: Program your sprites using front and back layers
 --- 
 
-**Through the window two layers**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
+**Through the window**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451497627/?autostart=false" frameborder="0"></iframe>
@@ -88,7 +88,7 @@ When you have lots of overlapping sprites you can program your sprites into more
 title: Program your sprites into layers
 ---
 
-**Through the window many layers**: [See inside](https://scratch.mit.edu/projects/454188775/editor){:target="_blank"}
+**Through the window with tree**: [See inside](https://scratch.mit.edu/projects/454188775/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/454188775/?autostart=false" frameborder="0"></iframe>
