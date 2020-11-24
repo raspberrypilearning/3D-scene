@@ -38,9 +38,10 @@ To make your own backdrop:
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
+To add a horizon line:
+
 ![Image of horizon](images/challenge2-backdrop-horizon.png){:width="400px"}
 
-To add a horizon line:
 + select a suitable **Fill** colour with no **Outline**.
 + Add a **Rectangle** for flat ground or an **Oval** for a hill.
 
