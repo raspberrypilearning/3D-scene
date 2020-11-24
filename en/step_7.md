@@ -4,9 +4,7 @@ In this step you will add one or more variables with sliders to control somethin
 
 --- task --- 
 
-Look at the example below. The `speed`{:class="block3variables"} variable controls how fast the snowman moves, `size`{:class="block3variables"} controls the size of the snowflake, and `pitch`{:class="block3variables"} controls the pitch of the music that is playing:
-
-<mark>Fab trees. Can we either use an existing Scratch backdrop as-is or one that they could easily create. Looks like they would need to delete the trees from Winter for this?</mark>
+Look at the example below. The `speed`{:class="block3variables"} variable controls how fast the snowman moves, `snowflake`{:class="block3variables"} controls the snowflake size, and `music`{:class="block3variables"} controls the pitch of the music that is playing:
 
 **Winter scene**: [See inside](https://scratch.mit.edu/projects/451563340/editor){:target="_blank"}
 
@@ -20,7 +18,7 @@ Look at the example below. The `speed`{:class="block3variables"} variable contro
 
 Decide what you want to control using a variable. 
 
-Create a new variable and give it the name that matches its use. For example: 
+Create a new variable and give it a name that matches its use. For example: 
 
 + if it will control the `volume`{:class="block3sound"} of a sound, name it `noise`{:class="block3variables"}
 + if it will control the length of a `wait`{:class="block3control"}, name it `delay`{:class="block3variables"}
@@ -264,39 +262,39 @@ title: Controlling more than one sprite using the same variable
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
 </div>
 
-There is nothing really new to learn here. You will simply use the same variable in more than one place. It may be to control the speed of two different sprites, or the moving speed of a sprite and the pitch of a sound at the same time.
+You can use the same variable in more than one place. It may be to control the speed of two different sprites, or the moving speed of a sprite and the pitch of a sound at the same time.
 
 You can use the same variable as many times as you like in a project, and as long as you left 'for all sprites' selected, it can be used for any sprites at the same time.
 
-Here are some examples of a variable, simply called `variable`{:class="block3variables"}, being used in different scripts at the same time:
+Here are some examples of a variable, called `my variable`{:class="block3variables"}, being used in different scripts at the same time:
 
 ```blocks3
 when flag clicked
 set rotation style [left-right v]
 forever
-move (variable) steps
+move (my variable) steps
 if on edge, bounce
 end
 
 when flag clicked
 forever
-set [pitch v] effect to (variable)
+set [pitch v] effect to (my variable)
 end
 
 when flag clicked
 forever
-set [whirl v] effect to (variable)
+set [whirl v] effect to (my variable)
 end
 
 when flag clicked
 forever
-wait (variable) seconds
+wait (my variable) seconds
 next costume
 end
 
 when flag clicked
 forever
-turn right (variable) degrees
+turn right (my variable) degrees
 end
 ```
 
@@ -304,13 +302,7 @@ All of these scripts can use the same variable at the same time.
 
 --- /collapse ---
 
-You may want to use a single `variable`{:class="block3variables"} for mulitple tasks but the value needs to be adjusted in some way for one use.
-
-+ `wait`{:class="block3control"} times often need to be very small 
-+ `size`{:class="block3looks"} values are often quite larger
-+ `pan`{:class="block3sound"} can use negative values
-
-In this case you may need to use an `operator`{:class="block3operators"} to adjust the value:
+Sometimes it's useful to use operators (+, -, x or ÷) with variables to calculate different numbers.
 
 --- collapse ---
 
@@ -320,7 +312,13 @@ title: Using operators with variables
 
 ---
 
-Sometimes it's useful to use operators (+, -, x or ÷) with variables to calculate different numbers.
+You may want to use a single `variable`{:class="block3variables"} for multiple tasks but the value needs to be adjusted in some way for one use.
+
++ `wait`{:class="block3control"} times often need to be very small 
++ `size`{:class="block3looks"} values are often quite larger
++ `pan`{:class="block3sound"} can use negative values
+
+In this case you may need to use an `operator`{:class="block3operators"} to adjust the value:
 
 **Space balance**: [See inside](https://scratch.mit.edu/projects/451682050/editor){:target="_blank"}
 
