@@ -16,24 +16,6 @@ This project has a soundtrack that runs throughout, plus the **Hen** sprite make
  
 --- /task ---
 
-There are two `sounds`{:class="block3sound"} blocks with very important differences that you need to understand.
-
-+ When you `play sound until done`{:class="block3sound"}, the sound will play all the way through. tThe next line of code in the script will not run until the sound it finished.
-
-+ When you `start sound`{:class="block3sound"}, the sound will play but the next line of code will run immediately and will not wait for the sound to finish first.
-
-This means that if you had a series of `start sound`{:class="block3sound"} blocks the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
-
-Have a play with it sometime!
-
-```blocks3
-when green flag clicked
-start sound (meow v)
-start sound (alien Creak2 v)
-start sound (Boing v)
-start sound (Boom Cloud v)
-start sound (Baa v)
-```
 
 --- collapse ---
 
@@ -45,11 +27,11 @@ Start by selecting the sprite that you want to have the new sound and select the
 
 ![Sound tab](images/soundTab.png)
 
-To get to Scratch's library of built-in sounds, click on the **Choose a Sound** button.
+To get to Scratch's library of sounds, click on the **Choose a Sound** button.
 
 ![Choose a sound button](images/chooseASoundButton.png)
 
-If you hover your mouse over the play symbol of a sound, Scratch will preview the sound for you.
+Hover your mouse over the play symbol to hear a sound.
 
 ![Preview a sound](images/soundPreview.png)
 
@@ -57,7 +39,7 @@ Click on any sound to add it to your sprite. You will be taken straight back to 
 
 ![Sounds tab with new sound](images/newSoundAdded.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will see you that the new sound is now available in the drop-down.
+If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound.
  
 ![New sound available](images/newSoundBlock.png)
 
@@ -80,8 +62,6 @@ Click the green flag to hear the sounds.
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444581851/?autostart=false" frameborder="0"></iframe>
 </div>
  
-Usually a continuous background soundtrack will start at the beginning `when green flag clicked`{:class="block3events"}, but you could have it starting at any time that suits your project.
-
 To make a sound play continuously, use a `play sound until done`{:class="block3sound"} block inside a `forever`{:class="block3control"} loop. Once the sound has finished, the `forever`{:class="block3control"} loop makes the sound start again from the beginning.
 
 This example uses a single long sound clip repeated as a soundtrack.
@@ -114,10 +94,11 @@ Click the green flag to hear the sounds.
 </div>
 
 Select a `forever`{:class="block3control"} block to create a looped sound. Select some sounds you like and/or experiment. You can either create:
-+ a series of short sounds in a sequence of sounds i.e playing one after the other.
-+ or compose a soundtrack using different instrument notes and effects.
++ a series of short sounds in a sequence, or 
++ compose a soundtrack using different instrument notes and effects.
  
 ```blocks3
+when flag clicked
 forever
 play sound (Low Boing v) until done
 play sound (Low Boing v) until done
@@ -128,27 +109,7 @@ play sound (Bark v) until done
 play sound (Glug v) until done
 End
 ```
- 
-Click on the `forever`{:class="block3control"} block to play the sounds in the loop. Note, that your latest version of sounds and their order will only play when the old loop has finished.
-
-**Note:** The example only uses `play sound until done`{:class="block3sound"} blocks, so that each sound finishes before the next begin. As you experiment, you might want to try adding some `start sound`{:class="block3sound"} blocks in where you want more than one sound to play at once. For instance you may want to have `start Bark sound`{:class="block3sound"} followed by `play Bird until done`{:class="block3sound"} to get a bird sound and a bark at the same time.
-
-```blocks3
-forever
-play sound (Low Boing v) until done
-start sound (Pop v)
-start sound (Finger Snap v)
-play sound (Drum Buzz v) until done
-+ start sound (Bark v)
-+ play sound (Bird v) until done
-End
-```
-Once you have found a sequence that you are happy with and works for your project, add a `when green flag`{:class="block3events"} clicked `Event`{:class="block3events"} block to the top and your sequenced soundtrack will start when your project is run.
-
-```blocks3
-when green flag clicked
-```
- 
+  
 --- /collapse ---
  
 Or you may just want to use sounds that happen at regular intervals.
@@ -189,79 +150,70 @@ Click the green flag to hear the sounds.
 
 --- /collapse ---
 
+--- collapse ---
+
+---
+title: Choosing between play and start sound
+---
+
+There are two `sounds`{:class="block3sound"} blocks with very important differences.
+
++ When you `play sound until done`{:class="block3sound"}, the sound will play all the way through. tThe next line of code in the script will not run until the sound is finished.
+
++ When you `start sound`{:class="block3sound"}, the sound will play but the next code block will run immediately and will not wait for the sound to finish first.
+
+This means that if you had a series of `start sound`{:class="block3sound"} blocks the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
+
+Have a play with it sometime!
+
+```blocks3
+when green flag clicked
+start sound (meow v)
+start sound (alien Creak2 v)
+start sound (Boing v)
+start sound (Boom Cloud v)
+start sound (Baa v)
+```
+
+--- /collapse ---
+
 --- /task ---
  
 --- task ---
 
-Once you have chosen your sounds, you may want to change the `volume`{:class="block3sound"}, `pitch`{:class="block3sound"} blocks, or `pan`{:class="block3sound"} blocks (so you hear the sound from the left or the right).
+Once you have chosen your sounds, you may want to change the `volume`{:class="block3sound"}, `pitch`{:class="block3sound"}, or `pan`{:class="block3sound"} (so you hear the sound from the left or the right).
+
+--- collapse ---
+
+---
+title: Volume, pitch and pan
+---
 
 Click the green flag to hear the sounds. 
 
-**Band practise**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
+**Band practice**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
 
 <div class="scratch-preview">
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451697380/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- collapse ---
-
----
-title: Set the pan effect
----
-
-In the **Band practise** example, the sound from the **Drums** sprite comes from the left-hand speaker or headphone and the sound from the **Saxophone** sprite comes from the right-hand speaker or headphone. Listen carefully to where the sound is coming from. If your speakers do not have stereo then the panning effect will not work. 
-
-The `pan`{:class="block3sound"} block allows you to control whether a sound comes out of a left or right-hand speaker or headphone. 
-
-A value of `-100` plays all of the sound through the left-hand speaker or headphone:
+The **Drums** sprite uses `volume`{:class="block3sound"} and `sound effects`{:class="block3sound"} to change the `sound`{:class="block3sound"}:
 
 ```blocks3
+set volume to (80) %
+set [pitch v] effect to (50)
 set [pan left/right v] effect to (-100)
+play sound (Drum Funky v) until done
 ```
-A value of `100` plays all of the sound through the right-hand speaker or headphone:
 
-```blocks3
-set [pan left/right v] effect to (100)
-```
-Values between `-100` and `100` vary the sound between one speaker or headphone and the other speaker or headphone.
++ You can set the `volume`{:class="block3sound"} from `0` (silent) to `100` (full volume). This is useful if you want some sounds louder than others or if you want a sprite to appear further away.
+
++ The `pitch` {:class="block3sound"} effect controls how high or low a sound is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between `-360` (very low) and `360` (very high).
+
++ The `pan left/right`{:class="block3sound"} effect allows you to control whether a sound comes out of a left or right-hand speaker or headphone or both. The `pan`{:class="block3sound"} can be set to values from `-100` (all sound from the left) to `100` (all sound from the right).
 
 --- /collapse ---
 
---- collapse ---
-
----
-title: Set the pitch effect
----
-
-The pitch of a sound is how high or low it is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between `-360` (very low) and `360` (very high). 
-
-This code sets the pitch of the guitar to `200` (high).
-
-```blocks3
-set [pitch v] effect to (200)
-```
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Set the volume effect
----
-
-You can set the volume from `0` (silent) to `100` (full volume).
-
-The volume of the guitar is lower than the volume of the speakers. This is useful if you want some sounds louder than others or if you want a sprite to appear further away. 
-
-This code sets the volume of the guitar to `10` (quiet):
-
-```blocks3
-set volume to (10) %
-```
-
---- /collapse ---
-  
 --- /task ---
- 
  
 --- save ---
