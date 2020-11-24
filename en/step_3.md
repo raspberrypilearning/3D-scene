@@ -28,10 +28,11 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target="_
 
 --- task ---
 
-To decide on the theme for your project try and answer the following questions. You don't have to decide all of the details yet:
+To decide on the theme for your project try and answer the following questions. Keep your ideas simple for now. You can always add more detail in later:
 + What mood do you want to create? Will it be relaxing, energising, or funny?
 + What will your scenery look like?
-+ What objects and characters will you include in your scene?
++ What Backdrop and sprites will you include in your 3D scene?
++ What sound/s will you include?
 + What will the user be able to control with sliders?
 
 --- /task ---
@@ -58,5 +59,7 @@ If you share your project, then others will also see this name, so make sure it 
 --- /collapse --- 
 
 --- /task ---
+
+In the next four steps you will create your scenery and add 3D affects to enhance the apearance of depth. You will add sounds to your 3D scene and include a variable slider so the user can interact with it. Leave enough time for each step so that your project includes some sound and a controller.
 
 --- save ---
