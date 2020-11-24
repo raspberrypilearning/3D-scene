@@ -25,22 +25,22 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- /no-print ---
 
+**Under the sea**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
+
+--- no-print ---
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /no-print ---
+
 **Moon base**: [See inside](https://scratch.mit.edu/projects/451534676/editor){:target="_blank"}
 
 --- no-print ---
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/451534676/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
---- /no-print ---
-
-**Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
-
---- no-print ---
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
