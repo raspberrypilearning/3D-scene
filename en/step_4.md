@@ -193,11 +193,11 @@ title: Create depth using saturation
 
 ---
 
---- /collapse ---
-
-In the real-world, objects that sit further away appear lighter in colour. To achieve a more realistic 3D scenery you can **increase** the colour **Saturation** of your sprites so that they appear closer and **decrease** their colour **Saturation** to appear further away. 
+In the real-world, objects that sit further away appear lighter in colour. To achieve a more realistic 3D scenery you can **increase** the colour **Saturation** of your sprites so that they appear closer and/or **decrease** their colour **Saturation** so that they appear further away. 
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
+
+--- /collapse ---
 
 --- /task ---
 
