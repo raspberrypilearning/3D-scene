@@ -53,18 +53,22 @@ Now program your sprites into layers.
 title: Program your sprites using front and back layers
 --- 
 
-**Through the window**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
+**Through the window two layers**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451497627/?autostart=false" frameborder="0"></iframe>
+</div>
 
 In the example, the **Window frame** sprite has a `go to front layer`{:class="block3looks"} block so it appears at the front. The **Avery Walking** sprite has a `go to back layer`{:class="block3looks"} block to appear behind the **Window frame** sprite.
 
-Select the sprite that you want at the front and click on its **Code tab**. Add a `go to front layer`{:class="block3looks"} block:
+Select the sprite that you want at the front and click on its **Code** tab. Add a `go to front layer`{:class="block3looks"} block:
 
 ``` blocks3
 when green flag clicked
 go to [front v] layer
 ```
 
-Select the sprite/s that you want at the back and click on its **Code tab**. Add a `go to back layer`{:class="block3looks"} block:
+Select the sprite/s that you want at the back and click on its **Code** tab. Add a `go to back layer`{:class="block3looks"} block:
 
 ``` blocks3
 when green flag clicked
@@ -78,13 +82,13 @@ go to [back v] layer
 title: Program your sprites in layers
 ---
 
-**Through the window**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
+**Through the window many layers**: [See inside](https://scratch.mit.edu/projects/454188775/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451497627/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/454188775/?autostart=false" frameborder="0"></iframe>
 </div>
 
-In the example, the **Window frame** sprite has a `go to front layer`{:class="block3looks"} block so it appears at the front. The **Avery Walking**, **Tree** and the **Sun** sprites each have a `go to front layer`{:class="block3looks"} block then a `go backward`{:class="block3looks"}'1'`layers`{:class="block3looks"} block with different values for each sprite to place them each in their own layer.
+In the example, the **Window frame** sprite has a `go to front layer`{:class="block3looks"} block so it appears at the front and the **Sun** sprite has a `go to back layer`{:class="block3looks"} block so it appears at the back. The **Avery Walking** and **Tree** sprites each have a `go to front layer`{:class="block3looks"} block then a `go backward`{:class="block3looks"}'1'`layers`{:class="block3looks"} block with different values for each sprite to place them each in their own layer.
 
 Using the `go backward`{:class="block3looks"}'1'`layers`{:class="block3looks"} block you can place a sprite 1 layer behind the sprite at the front.
 
