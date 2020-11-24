@@ -2,7 +2,7 @@
 
 In this step you will set the scene by creating or choosing a backdrop. You will also  create and/or make sprites go in your scenery in frontoft he backdrp.
 
-**Shark loops*: [See inside](https://scratch.mit.edu/projects/454124566/editor){:target="_blank"}
+**Jumping shark**: [See inside](https://scratch.mit.edu/projects/454124566/editor){:target="_blank"}
 
 --- no-print ---
 
@@ -10,7 +10,9 @@ In this step you will set the scene by creating or choosing a backdrop. You will
   <iframe src="https://scratch.mit.edu/projects/454124566/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-A Backdrop is **always** at the back and cannot move. In this example project, the Backdrop is **Sky**. Sprites can move around the stage, and be in front of or behind other sprites. In this example project the **Shark** sprite is able to rise from behind the waves because the waves are not drawn on the backdrop. **Waves** is a sprite.
+A Backdrop is **always** at the back and cannot move. In this example project, the Backdrop is the **Sky**. 
+
+Sprites can move around the stage, and be in front of or behind other sprites. In this example project the **Shark** sprite is able to jump from behind the waves because the waves are not drawn on the backdrop. **Waves** are a sprite.
 
 --- /no-print ---
 
