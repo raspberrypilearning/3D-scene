@@ -10,9 +10,9 @@ In this step you will set the scene by creating or choosing a backdrop. You will
   <iframe src="https://scratch.mit.edu/projects/454124566/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-A backdrop is **always** at the back and cannot move. In this example project, the backdrop is the **Sky**. 
+A backdrop is **always** at the back and cannot move. In this example project, the backdrop is the orange **Sky**. 
 
-Sprites can move around the stage, and be in front of or behind other sprites. In this example project, the **Shark** sprite is able to jump from behind the waves because the waves are not drawn on the backdrop. The **Waves** are a sprite.
+Sprites can move around the stage, and be in front of or behind other sprites. In this example project, the **Shark** sprite is able to jump from behind the waves because the waves are not drawn on the backdrop. The **Waves** are a sprite. Additional scenery, such as hills, trees or buildings can be added as sprites that can then be moved around.
 
 --- /no-print ---
 
@@ -26,8 +26,6 @@ Use the Paint editor to create your own backdrop and scenery sprites OR **Choose
 title: Create a plain backdrop
 
 ---
-
-In the **Walking in the hills** example, a dark blue backdrop has been created. Any additional scenery, such as hills, trees or buildings can be added as sprites that can then be moved around.
 
 To make your own backdrop:
 + Go to the Stage pane and click on **backdrop1**.
@@ -44,7 +42,7 @@ Don't forget to name your backdrop.
 
 --- /collapse ---
 
-**OR**
+**Or**
 
 --- collapse ---
 ---
