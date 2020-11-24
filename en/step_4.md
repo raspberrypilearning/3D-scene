@@ -142,7 +142,7 @@ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume wh
 Following the below, you can create any shape using the **Line** tool:
 + Choose a **Fill** colour. To choose the colour black, decrease the **Brightness** to zero (0).
 
-![Colour to black](images/challenge2-black.png){:width="400px"}
+![Colour to black](images/challenge2-black.png){:width="250px"}
 
 + Select **no outline**
 + Draw a rectangle using the **Rectangle** tool
@@ -191,7 +191,7 @@ Following the below, you can multiply any type of shape:
 --- collapse ---
 ---
 
-title: Create depth using saturation and brightness
+title: Create depth using Saturation and Brightness
 
 ---
 
