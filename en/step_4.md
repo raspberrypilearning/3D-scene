@@ -96,7 +96,7 @@ Think about whether you want to create your scenery as one sprite OR whether you
 --- collapse ---
 ---
 
-title: Create scenery as one sprite
+title: Create scenery as sprites
 
 ---
 
@@ -118,44 +118,9 @@ You can make your own **Hills** sprite shown in the example above by using the *
 
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-+ Don't forget to name your sprite.
++ Now make other sprites for your scenery, if this fits in with your project idea.
 
---- /collapse ---
-
-**OR**
-
---- collapse ---
----
-
-title: Create scenery as separate sprites
-
----
-
-**Hills as separate sprites**: [See inside](https://scratch.mit.edu/projects/452573711/editor){:target="_blank"}
-
-You can create objects in your scenery as separate sprites so that other sprites can move between them. You can make the hills in the example above or you can apply these skills to make your own sprites using the **Circle** and **Rectangle** tools in the Paint editor:
-
-You can create a new sprite for each object in your 3D scenery. In the below example, each hill is a sprite.
-
-![Make hills as a number of sprite](images/challenge2-scenery-sprites.png){:width="400px"}
-
-You can also create a sprite that combines objects. In the below example, there are two hills in one sprite:
-
-![Make hills as a number of sprite](images/challenge2-scenery-combine-sprites.png){:width="400px"}
-
-+ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be hills.
-
-+ Choose a **Fill** colour and deselect the **Outline** tool. Draw an oval using the **Circle** tool. Then draw a rectangle at the bottom of the circle using the same **Fill** colour.
-
-![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
-
-Now make another **Hill** sprite. You may want to include a number of hills for your scenery in a single sprite or create a new sprite for each. Follow the same process above using the **Circle** tool only. 
-
-In the real-world, objects that sit further away appear lighter in colour - to achieve a more realistic effect you can lower the colour **Saturation** of the ovals that are smaller to make them appear further away.
-
-![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
-
-+ Don't forget to name your sprites.
++ Don't forget to name your sprite/s.
 
 --- /collapse ---
 
@@ -220,6 +185,19 @@ Following the below, you can multiply any type of shape:
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape
 
 --- /collapse ---
+
+--- collapse ---
+---
+
+title: Create depth using saturation
+
+---
+
+--- /collapse ---
+
+In the real-world, objects that sit further away appear lighter in colour. To achieve a more realistic 3D scenery you can **increase** the colour **Saturation** of your sprites so that they appear closer and **decrease** their colour **Saturation** to appear further away. 
+
+![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
 --- /task ---
 
