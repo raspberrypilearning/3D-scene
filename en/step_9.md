@@ -153,8 +153,8 @@ Click on the **Message** icon to access your inbox. If you have a lot of new mes
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-We regularly share projects made by the community on our website. To submit your 3D scene project, please complete [this form](https://www.tfaforms.com/4866927){:target=”_blank”}.
+We regularly share projects made by the community in our challenges. To submit your 3D scene project, please complete [this form](https://www.tfaforms.com/4866927){:target=”_blank”}.
 
-Remember to visit [link] to get inspired by other creators and, who knows, one of the projects shared on the website might be yours!
+Remember to re-visit the challeges to get inspired by other creators and, who knows, one of the projects shared might be yours!
 
 --- /task ---
