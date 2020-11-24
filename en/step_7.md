@@ -57,14 +57,13 @@ Your new variable will automatically appear on the Stage.
 
 --- task ---
  
-Change the variable to a slider and amend its range.
-
+Change the variable to a slider and change its range.
 
 --- collapse ---
 
 ---
 
-title: Use a slider to change a variable
+title: Use a slider to set a variable
 
 ---
 
@@ -147,7 +146,7 @@ forever
 set [ghost v] effect to (transparent)
 ```
 
-Try using the same approach with other graphic effects such as brightness or colour.
+Try using the same approach with other graphic effects such as `brightness`{:class="block3data"} or `color`{:class="block3data"}.
 
 --- /collapse ---
 
