@@ -142,7 +142,7 @@ Go to **Choose a Sprite** and select **Paint** to create a new sprite costume wh
 Following the below, you can create any shape using the **Line** tool:
 + Choose a **Fill** colour. To choose the colour black, decrease the **Brightness** to zero (0).
 
-![Colour to black](images/challenge2-black.png){:width="250px"}
+![Colour to black](images/challenge2-black.png){:width="150px"}
 
 + Select **no outline**
 + Draw a rectangle using the **Rectangle** tool
