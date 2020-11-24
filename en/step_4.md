@@ -87,9 +87,9 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 **Tip:** Whenever you drag a sprite it will jump to the front layer and in front of any other sprites.
 
 --- task ---
-Use the Paint editor to create any additional sprites that you need as scenery. This could be hills or mountains in the distance, or smaller sprites, such as trees or flowers, fro your scenery. 
+Use the Paint editor to create any additional sprites that you need as scenery. This could be hills or mountains in the distance, or smaller sprites, such as trees or flowers, for your scenery. 
 
-Think about whether you want to create your scenery as one sprite OR whether you want some of your sprites to move through and behind the 3D scenery by creating separate scenery sprites such as hills, trees or buildings. The latter will make it easier for you to move sprites around later depending on your ideas for your project.
+Think about whether you want to create your scenery as one sprite OR whether you want some of your sprites to move through and behind the 3D scenery by creating separate scenery sprites. The latter will make it easier for you to move sprites around later depending on your ideas for your project.
 
 --- collapse ---
 ---
