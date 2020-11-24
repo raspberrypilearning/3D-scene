@@ -42,7 +42,6 @@ For this project, you need to know how to:
 + Use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
 + Make a `variable`{:class="block3control"}, turn it into a slider with a range and use it as an input to a block
 + Use `layers`{:class="block3looks"} blocks to move Sprites in front or behind other Sprites
-+ Use simple `operators`{:class="block3operators"} to do calculations
 
 --- /collapse ---
 
