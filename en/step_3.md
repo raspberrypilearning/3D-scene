@@ -4,10 +4,7 @@ In this step you will choose a theme for your 3D scene.
 
 --- task ---
 
-In the example below, see how the **Moon** is able to rise from behind the silhouetted roofs because **Rooftops** is a sprite rather than being drawn on the backdrop.
-
-+ A Backdrop is **always** at the back and cannot move
-+ Sprites can move around the stage, and be in front of or behind other sprites
+In the example below, see how the **Moon** is able to rise from behind the roofs because **Rooftops** is a sprite rather than being drawn on the backdrop.
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
