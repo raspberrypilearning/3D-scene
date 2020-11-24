@@ -144,7 +144,7 @@ Following the below, you can create any shape using the **Line** tool:
 
 ![Colour to black](images/challenge2-black.png){:width="400px"}
 
-+ Select no outline.
++ Select **no outline**
 + Draw a rectangle using the **Rectangle** tool
 + Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
 + Move the two shapes together
