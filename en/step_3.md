@@ -60,6 +60,6 @@ If you share your project, then others will also see this name, so make sure it 
 
 --- /task ---
 
-In the next four steps you will create your scenery and add 3D affects to enhance the apearance of depth. You will add sounds to your 3D scene and include a variable slider so the user can interact with it. Leave enough time for each step so that your project includes some sound and a controller.
+In the next four steps you will create your scenery and add 3D effects to enhance the apearance of depth. You will add sounds and include a variable slider so the user can interact with your project. Leave enough time for each of these steps so that your project includes some sound and a controller.
 
 --- save ---
