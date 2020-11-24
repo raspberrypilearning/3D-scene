@@ -4,7 +4,7 @@ In this step you are going to add some `sounds`{:class="block3sound"} to your pr
 
 --- task ---
  
-Think about what kind of sound you want and when you want that sound to happen.
+Think about what kind of soundtrack you want.
  
 This project has a soundtrack that runs throughout, plus the **Hen** sprite makes a sound every three seconds:
  
@@ -15,7 +15,6 @@ This project has a soundtrack that runs throughout, plus the **Hen** sprite make
 </div>
  
 --- /task ---
-
 
 --- collapse ---
 
@@ -42,6 +41,8 @@ Click on any sound to add it to your sprite. You will be taken straight back to 
 If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound.
  
 ![New sound available](images/newSoundBlock.png)
+
+You can also add sounds to the Stage. 
 
 --- /collapse ---
  
@@ -112,7 +113,7 @@ End
   
 --- /collapse ---
  
-Or you may just want to use sounds that happen at regular intervals.
+You may want to play sounds at regular intervals.
 
 --- collapse ---
 
@@ -150,13 +151,15 @@ Click the green flag to hear the sounds.
 
 --- /collapse ---
 
+You can also `start`{:class="block3sound"} multiple sounds so they play at the same time!
+
 --- collapse ---
 
 ---
-title: Choosing between play and start sound
+title: Starting multiple sounds
 ---
 
-There are two `sounds`{:class="block3sound"} blocks with very important differences.
+There are two `sounds`{:class="block3sound"} blocks with an important difference.
 
 + When you `play sound until done`{:class="block3sound"}, the sound will play all the way through. tThe next line of code in the script will not run until the sound is finished.
 
@@ -176,9 +179,9 @@ start sound (Baa v)
 ```
 
 --- /collapse ---
-
---- /task ---
  
+--- /task ---
+
 --- task ---
 
 Once you have chosen your sounds, you may want to change the `volume`{:class="block3sound"}, `pitch`{:class="block3sound"}, or `pan`{:class="block3sound"} (so you hear the sound from the left or the right).
