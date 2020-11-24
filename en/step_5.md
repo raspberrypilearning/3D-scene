@@ -12,7 +12,7 @@ In the below example, the **Rocket** sprite which is in the distance is smaller 
 
 --- task ---
 
-Where relevant, resize your sprites. Some sprites can stay the same size.
+Resize sprites to get the effect you want. Some sprites can stay the same size.
 
 --- collapse ---
 ---
@@ -46,7 +46,11 @@ when green flag clicked
 
 --- task ---
 
-Now program your sprites into layers.
+When you add a new sprite it goes to the front layer. When you drag a sprite on the Stage it jumps to the front.
+
+To make sure your sprites go to the correct layer you can program them. 
+
+A simple approach is to send some sprites to the front and some to the back:
 
 --- collapse ---
 ---
@@ -77,9 +81,11 @@ go to [back v] layer
 
 --- /collapse ---
 
+When you have lots of overlapping sprites you can program your sprites into more layers:
+
 --- collapse ---
 ---
-title: Program your sprites in layers
+title: Program your sprites into layers
 ---
 
 **Through the window many layers**: [See inside](https://scratch.mit.edu/projects/454188775/editor){:target="_blank"}
@@ -171,4 +177,5 @@ Run your project. When you have finished, click the **Full Screen Control** icon
 --- /no-print ---
 
 --- /task ---
+
 --- save ---
