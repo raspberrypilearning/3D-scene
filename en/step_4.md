@@ -1,14 +1,16 @@
 ## Set the scene
 
-In this step you will set the scene by creating or choosing a backdrop. You will decide which sprites you want to include and/or make to create the appearance of 3-dimensions.
+In this step you will set the scene by creating or choosing a backdrop. You will also  create and/or make sprites go in your scenery in frontoft he backdrp.
 
-**Walking in the hills**: [See inside](https://scratch.mit.edu/projects/445193602/editor){:target="_blank"}
+**Shark loops*: [See inside](https://scratch.mit.edu/projects/454124566/editor){:target="_blank"}
 
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/445193602/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/454124566/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+A Backdrop is **always** at the back and cannot move. In this example project, the Backdrop is **Sky**. Sprites can move around the stage, and be in front of or behind other sprites. In this example project the **Shark** sprite is able to rise from behind the waves because the waves are not drawn on the backdrop. **Waves** is a sprite.
 
 --- /no-print ---
 
