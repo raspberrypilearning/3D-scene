@@ -6,7 +6,7 @@ In this step you will choose a theme for your 3D scene.
 
 In the example below, the theme is of a night-time city. It creates a gloomy mood with the moon shining a dim light over the houses. A witch hovers in the sky and far off dog bark can be heard. 
 
-Use the **distance** slider to change the size of the bat and the volume of the dog bark to make them seem closer or further away. 
+Use the **distance** slider to change the size of the witch and the volume of the dog bark to make them seem closer or further away. 
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
