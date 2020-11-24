@@ -99,23 +99,7 @@ Drag the slider to a convenient position on the Stage.
 
 Use your variable input block to control something in your project, such as changing the size of a sprite, the way it looks or the volume of a sound.
 
-In this example the variable controls how quickly the sprite rotates:
-
-**Space dog**: [See inside](https://scratch.mit.edu/projects/451543041/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451543041/?autostart=false" frameborder="0"></iframe>
-</div>
-
-The **Space dog** project uses the `angle`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
-
-```blocks3
-when flag clicked
-forever
-turn right (angle) degrees
-```
-
-Here are some more examples of how you can use your variable slider: 
+Here are some examples of how you can use your variable slider: 
 
 --- collapse ---
 
@@ -179,6 +163,28 @@ Set the minimum and maximum values for the range of the slider to suit your proj
 --- collapse ---
 
 ---
+title: Control turn speed with a variable
+---
+
+**Space dog**: [See inside](https://scratch.mit.edu/projects/451543041/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451543041/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Use an `angle`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
+
+```blocks3
+when flag clicked
+forever
+turn right (angle) degrees
+```
+
+--- /collapse ---
+
+--- collapse ---
+
+---
 
 title: Change the delay in a wait block
 
@@ -201,7 +207,7 @@ next costume
 
 A delay of more than one second is quite a long time. If you include a decimal number in the range of a slider then you can change the value 100th of a second at a time. 
 
-A range of 0.0 to 1.0 allows you to choose a delay between 0 seconds (no delay) and 1 second.
+A range of `0.0` to `1.0` allows you to choose a delay between `0` seconds (no delay) and `1` second.
 
 ![Decimal range](images/decimal-delay.png)
 
@@ -245,106 +251,6 @@ You can also use a variable to change the volume and pan/tilt effect.
 
 --- /task ---
 
- You may have already realised that you can control different sprites, or different effects, using the same variable.
-
---- collapse ---
-
----
-
-title: Controlling more than one sprite using the same variable
-
----
-
-**Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-You can use the same variable in more than one place. It may be to control the speed of two different sprites, or the moving speed of a sprite and the pitch of a sound at the same time.
-
-You can use the same variable as many times as you like in a project, and as long as you left 'for all sprites' selected, it can be used for any sprites at the same time.
-
-Here are some examples of a variable, called `my variable`{:class="block3variables"}, being used in different scripts at the same time:
-
-```blocks3
-when flag clicked
-set rotation style [left-right v]
-forever
-move (my variable) steps
-if on edge, bounce
-end
-
-when flag clicked
-forever
-set [pitch v] effect to (my variable)
-end
-
-when flag clicked
-forever
-set [whirl v] effect to (my variable)
-end
-
-when flag clicked
-forever
-wait (my variable) seconds
-next costume
-end
-
-when flag clicked
-forever
-turn right (my variable) degrees
-end
-```
-
-All of these scripts can use the same variable at the same time. 
-
---- /collapse ---
-
-Sometimes it's useful to use operators (+, -, x or ÷) with variables to calculate different numbers.
-
---- collapse ---
-
---- 
-
-title: Using operators with variables
-
----
-
-You may want to use a single `variable`{:class="block3variables"} for multiple tasks but the value needs to be adjusted in some way for one use.
-
-+ `wait`{:class="block3control"} times often need to be very small 
-+ `size`{:class="block3looks"} values are often quite larger
-+ `pan`{:class="block3sound"} can use negative values
-
-In this case you may need to use an `operator`{:class="block3operators"} to adjust the value:
-
-**Space balance**: [See inside](https://scratch.mit.edu/projects/451682050/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451682050/?autostart=false" frameborder="0"></iframe>
-</div>
-
-In this example, the size of the first sprite is set to `balance`{:class="block3variables"} while the size of the second sprite is set to 100 minus `balance`{:class="block3variables"}. 
-
-If the size of the first sprite is 30 then the size of the second sprite will be 70 (which is 100 - 30). 
-
-```blocks3
-when flag clicked
-forever
-set size to ((100) - (balance))%
-```
-
-You can use `*` to multiply and make a number bigger. It's useful to be able to set the pitch to a bigger number than a `speed`{:class="block3variables"} variable:
-
-```blocks3
-when flag clicked
-forever
-set [pitch v] effect to ((speed) * (20))
-```
-
---- /collapse ---
-
 You can rename a variable if you change your mind:
 
 --- collapse ---
@@ -376,6 +282,6 @@ Things to consider:
 
 --- /task ---
 
-**Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
+**Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by `1`. First click on the slider to select it and then use the left arrow to change the value by `-1` and the right arrow key to change the value by `1`.
 
 --- save ---
