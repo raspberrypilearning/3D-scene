@@ -1,4 +1,4 @@
-## Control your scene with variables
+## User control
 
 In this step you will add one or more variables with sliders to control something in your scene such as graphic effects, sound effects, movement or timing. 
 
