@@ -30,9 +30,9 @@ title: What you will need
 title: Skills you should have
 ---
 Before starting this project, we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
-+ [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
-+ [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
-+ [Serene scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
++ [Stress ball](https://projects.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
++ [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
++ [Serene scene](https://projects.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
 
 For this project, you need to know how to:  
 
