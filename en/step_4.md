@@ -38,6 +38,14 @@ To make your own backdrop:
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
+![Image of horizon](images/challenge2-backdrop-horizon.png){:width="400px"}
+
+To add a horizon line:
++ select a suitable **Fill** colour with no **Outline**.
++ Add a **Rectangle** for flat ground or an **Oval** for a hill.
+
+![Create horizon in backdrops](images/challenge2-backdrop-create-horizon.png){:width="400px"}
+
 Don't forget to name your backdrop.
 
 --- /collapse ---
@@ -98,7 +106,7 @@ title: Create scenery as sprites
 
 ---
 
-**Hill as one sprite**: [See inside](https://scratch.mit.edu/projects/452582516/editor){:target="_blank"}
+**Hill as a sprite**: [See inside](https://scratch.mit.edu/projects/452582516/editor){:target="_blank"}
 
 ![Hills image](images/challenge2-sprite-hill.png){:width="400px"}
 
@@ -148,13 +156,13 @@ Following the below, you can create any shape using the **Line** tool:
 
 ![No outline to black](images/challenge2-nooutline.png){:width="200x"}
 
-+ Draw a rectangle using the **Rectangle** tool
-+ Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour
-+ Move the two shapes together
-+ Select the **Bucket** tool and fill the triangle
-+ Draw another rectangle shape for the chimney using the **Rectangle** tool
-+ You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette
-+ Select all the shapes and **Group** them together so that you can adjust them or move them as one shape
++ Draw a rectangle using the **Rectangle** tool.
++ Draw a triangle using the **Line** tool. Make sure you complete the trangle otherwise it will not fill with colour.
++ Move the two shapes together.
++ Select the **Bucket** tool and fill the triangle.
++ Draw another rectangle shape for the chimney using the **Rectangle** tool.
++ You can use the **Front** and **Back** tools in the **Paint editor** to move your shapes forward or backwards so they sit correctly. You won't need to do this for this example because the shapes are black for the silhouette.
++ Select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
 To create duplicate shapes such as a skyline from your house, follow the **How to...** 'Create a scenery costume by duplicating shapes' below.
 
@@ -182,12 +190,12 @@ The effect of multiplying shapes is used by professional animators to create the
 --- /no-print ---
 
 To multiply any type of shape:
-+ Go to **Choose a Sprite** and select, in this example, the **Cloud** sprite
-+ In the **Costumes editor**, using the **Select** tool highlight the whole of the shape
-+ Create multiples of the shape using the **Copy** and **Paste** tools
-+ Move the shape within the stage area using the **Select** tool
-+ Varying the size of the shapes will also help to create a greater sense of 3D-dimensions
-+ You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape
++ Go to **Choose a Sprite** and select, in this example, the **Cloud** sprite.
++ In the **Costumes editor**, using the **Select** tool highlight the whole of the shape.
++ Create multiples of the shape using the **Copy** and **Paste** tools.
++ Move the shape within the stage area using the **Select** tool.
++ Varying the size of the shapes will also help to create a greater sense of 3D-dimensions.
++ You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
 --- /collapse ---
 
@@ -233,11 +241,11 @@ You can view your 3D scene **through** a sprite. If it sits as the front layer a
 --- /no-print ---
 
 To create a type of masking sprite:
-+ Go to **Choose a Sprite** and select **Paint**
++ Go to **Choose a Sprite** and select **Paint**.
 + Choose a colour with no **Outline** and draw a vertical rectangle. 
 + Repeat this shape by using the **Copy** and **Paste** tools. 
-+ Move the shapes around using the **Select** tool 
-+ As you place your shapes make sure they are touching the edge of the stage to fit in with your project idea
++ Move the shapes around using the **Select** tool .
++ As you place your shapes make sure they are touching the edge of the stage to fit in with your project idea.
 
 ![Sprite costume mask copy](images/challenge2-sprite-costume-mask-copy.png)
 
