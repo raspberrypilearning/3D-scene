@@ -42,12 +42,12 @@ To add a horizon line:
 
 ![Image of horizon](images/challenge2-backdrop-horizon.png){:width="400px"}
 
-+ select a suitable **Fill** colour with no **Outline**.
++ Select a suitable **Fill** colour with no **Outline**.
 + Add a **Rectangle** for flat ground or an **Oval** for a hill.
 
 ![Create horizon in backdrops](images/challenge2-backdrop-create-horizon.png){:width="400px"}
 
-Don't forget to name your backdrop.
++ Don't forget to name your backdrop.
 
 --- /collapse ---
 
