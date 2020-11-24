@@ -159,5 +159,11 @@ Run your project. When you have finished, click the **Full Screen Control** icon
 
 ![Exit full screen](images/exit-full-screen.png)
 
+--- no-print ---
+
+![full screen.gif](images/full-screen.gif)
+
+--- /no-print ---
+
 --- /task ---
 --- save ---
