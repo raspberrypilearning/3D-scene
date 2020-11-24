@@ -38,7 +38,7 @@ To make your own backdrop:
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
-Add a horizon line if it fits in with your 3D scenery:
+Add a horizon line if it fits in with your 3D scenery idea:
 
 ![Image of horizon](images/challenge2-backdrop-horizon.png){:width="400px"}
 
