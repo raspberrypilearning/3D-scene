@@ -181,7 +181,7 @@ The effect of multiplying shapes is used by professional animators to create the
 
 --- /no-print ---
 
-Following the below, you can multiply any type of shape:
+To multiply any type of shape:
 + Go to **Choose a Sprite** and select, in this example, the **Cloud** sprite
 + In the **Costumes editor**, using the **Select** tool highlight the whole of the shape
 + Create multiples of the shape using the **Copy** and **Paste** tools
@@ -232,7 +232,7 @@ You can view your 3D scene **through** a sprite. If it sits as the front layer a
 
 --- /no-print ---
 
-Following the below, you can any type of masking sprite:
+To create a type of masking sprite:
 + Go to **Choose a Sprite** and select **Paint**
 + Choose a colour with no **Outline** and draw a vertical rectangle. 
 + Repeat this shape by using the **Copy** and **Paste** tools. 
