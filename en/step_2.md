@@ -1,14 +1,14 @@
 ## Get inspiration
 
-You are going to create a '3D scene' project that can be controlled using slider variables. The theme of the project and the way the sprites look and move, is up to you. 
+You will create a 3D scene project that can be controlled using slider variables. The theme of the project, and the way that the sprites look and move, are up to you. 
 
-You can get ideas for your own project by investigating projects created by others.
+You can get ideas for your own project by investigating projects created by other people.
 
 --- task ---
 
 --- print-only ---
 
-Take a look at these 3D scene projects, and adjust any sliders you see.
+Look at these 3D scene projects, and adjust any sliders that you see.
 
 + Can you see which sprites are in front of other sprites?
 + Can you identify what changes the variable sliders make?
@@ -59,7 +59,7 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- task ---
 
-Now have a quick think about what kind of 3D scene project you want to make using variable sliders. It can be whatever you want it to be.
+Now quickly think about what kind of 3D scene project you want to make using variable sliders. It can be whatever you want it to be.
 
 Don't be afraid to change your mind about things and try out new ideas as you go along!
 
