@@ -133,15 +133,15 @@ title: Check your Scratch comment activity
 
 ---
 
-If you are logged in to your Scratch account you will see a **Message** icon in the **Navigation bar**.
+If you are logged in to your Scratch account, you will see a **Message** icon in the **Navigation bar**.
 
 ![Messages icon on the navigation bar](images/message-icon.png)
 
-If you have new messages the number of new messages will appear surrounded by an **orange circle**.
+If you have new messages, the number of new messages will appear surrounded by an **orange circle**.
 
 ![New message alert](images/new-message.png)
 
-Click on the **Message** icon to access your inbox. If you have a lot of new messages you can filter for **Comment Activity** only using the dropdown menu on the right.
+Click on the **Message** icon to access your inbox. If you have a lot of new messages, you can use the the drop-down menu on the right to filter for **Comment Activity** only.
 
 ![Filter your messages](images/filter-messages.png)
 
@@ -155,6 +155,6 @@ Inspire the Raspberry Pi Foundation community with your project!
 
 We regularly share projects made by the community in our challenges. To submit your 3D scene project, please complete [this form](https://www.tfaforms.com/4866927){:target=”_blank”}.
 
-Remember to re-visit the challeges to get inspired by other creators and, who knows, one of the projects shared might be yours!
+Remember to revisit the challenges to get inspired by other creators and, who knows, one of the projects shared might be yours!
 
 --- /task ---
