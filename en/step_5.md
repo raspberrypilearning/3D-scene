@@ -1,8 +1,8 @@
 ## 3D effects
 
-In this step you’re going to increase the 3-dimensional (3D) appearance by using the `Looks`{:class="block3looks"} blocks menu to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
+In this step, you will increase the 3-dimensional (3D) appearance by using the `Looks`{:class="block3looks"} blocks menu to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
 
-In the below example, the **Rocket** sprite which is in the distance is smaller than the **Taco Truck** and **Robot** sprites. The sprites are layered to appear to go in front of or behind each other. 
+In the example below, the **Rocket** sprite that is in the distance is smaller than the **Taco Truck** and **Robot** sprites. The sprites are layered to appear to go in front of or behind each other. 
 
 **Moon base**: [See inside](https://scratch.mit.edu/projects/451453522/editor){:target="_blank"}
 
@@ -12,7 +12,7 @@ In the below example, the **Rocket** sprite which is in the distance is smaller 
 
 --- task ---
 
-Resize sprites to get the effect you want. Some sprites can stay the same size.
+Resize sprites to get the effect that you want. Some sprites can stay the same size.
 
 --- collapse ---
 ---
@@ -46,11 +46,11 @@ when green flag clicked
 
 --- task ---
 
-When you add a new sprite it goes to the front layer. When you drag a sprite on the Stage it jumps to the front.
+When you add a new sprite, it goes to the front layer. When you drag a sprite on the Stage, it jumps to the front.
 
-To make sure your sprites go to the correct layer you can program them. 
+To make sure that your sprites go to the correct layer, you can program them. 
 
-A simple approach is to send some sprites to the front and some to the back:
+A simple approach is to send some sprites to the front and some sprites to the back:
 
 --- collapse ---
 ---
@@ -72,7 +72,7 @@ when green flag clicked
 go to [front v] layer
 ```
 
-Select the sprite/s that you want at the back and click on its **Code** tab. Add a `go to back layer`{:class="block3looks"} block:
+Select the sprite(s) that you want at the back and click on its **Code** tab. Add a `go to back layer`{:class="block3looks"} block:
 
 ``` blocks3
 when green flag clicked
@@ -81,7 +81,7 @@ go to [back v] layer
 
 --- /collapse ---
 
-When you have lots of overlapping sprites you can program your sprites into more layers:
+When you have lots of overlapping sprites, you can program your sprites into more layers:
 
 --- collapse ---
 ---
@@ -96,7 +96,7 @@ title: Program your sprites into layers
 
 In the example, the **Window frame** sprite appears at the front and the **Sun** sprite appears at the back. The **Avery Walking** and **Tree** sprites each sit in their own layers between the **Window frame** sprite and the **Sun** sprite.
 
-Use the `go backward`{:class="block3looks"}`1``layers`{:class="block3looks"} block to place a sprite 1 layer behind the sprite at the front:
+Use the `go backward`{:class="block3looks"}`1``layers`{:class="block3looks"} block to place a sprite one layer behind the sprite at the front:
 
 ``` blocks3
 when green flag clicked
@@ -162,7 +162,7 @@ For more information on animation, explore [Animate using looks](https://project
 
 --- task ---
 
-Click on the **Full Screen Control** icon above the Stage. Your project will fill your screen so you and others can interact with it more easily. In this mode, the sprites and sliders cannot be accidentally dragged in to a new position.
+Click on the **Full Screen Control** icon above the Stage. Your project will fill your screen so you and other people can interact with it more easily. In this mode, the sprites and sliders cannot be accidentally dragged into a new position.
 
 ![Enter full screen](images/enter-full-screen.png)
 
