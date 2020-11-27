@@ -1,12 +1,12 @@
 ## Soundtrack
 
-In this step you are going to add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack or sounds that happen at regular intervals.
+In this step, you will add some `sounds`{:class="block3sound"} to your project. Depending on your plans, this could be a continuous background soundtrack, or sounds that happen at regular intervals.
 
 --- task ---
  
 Think about what kind of soundtrack you want.
  
-This project has a soundtrack that runs throughout, plus the **Hen** sprite makes a sound every three seconds:
+This project has a soundtrack that runs throughout. In addition, the **Hen** sprite makes a sound every three seconds:
  
 **Hen and farmyard**: [See inside](https://scratch.mit.edu/projects/444559955/editor){:target="_blank"}
  
@@ -19,14 +19,14 @@ This project has a soundtrack that runs throughout, plus the **Hen** sprite make
 --- collapse ---
 
 ---
-title: Adding a sound
+title: Add a sound
 ---
 
-Start by selecting the sprite that you want to have the new sound and select the **Sounds** tab. Each sprite starts with a default sound.
+First, select the sprite that you want to have the new sound and select the **Sounds** tab. Each sprite starts with a default sound.
 
 ![Sound tab](images/soundTab.png)
 
-To get to Scratch's library of sounds, click on the **Choose a Sound** button.
+To get to the Scratch Sound Library, click the **Choose a Sound** button.
 
 ![Choose a sound button](images/chooseASoundButton.png)
 
@@ -55,7 +55,7 @@ Add code to run `sounds`{:class="block3sound"} blocks where you want sound in yo
 title: Add continuous soundtrack using a long sound
 ---
  
-Click the green flag to hear the sounds. 
+Click on the green flag to hear the sounds.
 
 **Radio soundtrack**: [See inside](https://scratch.mit.edu/projects/444581851/editor){:target="_blank"}
  
@@ -74,7 +74,7 @@ play sound (Dance Snare Beat v) until done
 end
 ```
 
-**Note:** When choosing a new sound, if you select the **Loops** category, Scratch will only show you the sounds which are suitable for a single looping soundtrack.
+**Note:** When you choose a new sound, if you select the **Loops** category, Scratch will only show you the sounds that are suitable for a single looping soundtrack.
 
 ![Loop sounds](images/loopSounds.png)
 
@@ -86,7 +86,7 @@ end
 title: Add continuous soundtrack using a sequence of short sounds
 ---
   
-Click the green flag to hear the sounds. 
+Click on the green flag to hear the sounds. 
 
 **Champ performance**: [See inside](https://scratch.mit.edu/projects/444673165/editor){:target="_blank"}
  
@@ -94,9 +94,9 @@ Click the green flag to hear the sounds.
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444673165/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Select a `forever`{:class="block3control"} block to create a looped sound. Select some sounds you like and/or experiment. You can either create:
-+ a series of short sounds in a sequence, or 
-+ compose a soundtrack using different instrument notes and effects.
+Select a `forever`{:class="block3control"} block to create a looped sound. Select some sounds that you like and/or experiment. You can either create:
++ A series of short sounds in a sequence, or 
++ Compose a soundtrack using different instrument notes and effects
  
 ```blocks3
 when flag clicked
@@ -123,13 +123,13 @@ title: Add regular interval sounds
  
 **Football sounds**: [See inside](https://scratch.mit.edu/projects/450870079/editor){:target="_blank"}
  
-Click the green flag to hear the sounds. 
+Click on the green flag to hear the sounds. 
 
 <div class="scratch-preview">
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/450870079/?autostart=false" frameborder="0"></iframe>
 </div>
  
- In this project, the Stage has code to play a sound at regular intervals:
+ In this project, the **Stage** has code to play a sound at regular intervals:
 
  ```blocks3
  when flag clicked
@@ -151,23 +151,23 @@ Click the green flag to hear the sounds.
 
 --- /collapse ---
 
-You can also `start`{:class="block3sound"} multiple sounds so they play at the same time!
+You can also `start`{:class="block3sound"} multiple sounds so that they play at the same time!
 
 --- collapse ---
 
 ---
-title: Starting multiple sounds
+title: Start multiple sounds
 ---
 
-There are two `sounds`{:class="block3sound"} blocks with an important difference.
+There are two `Sound`{:class="block3sound"} blocks with an important difference:
 
-+ When you `play sound until done`{:class="block3sound"}, the sound will play all the way through. tThe next line of code in the script will not run until the sound is finished.
++ When you `play sound until done`{:class="block3sound"}, the sound will play all the way through. The next line of code in the script will not run until the sound is finished.
 
-+ When you `start sound`{:class="block3sound"}, the sound will play but the next code block will run immediately and will not wait for the sound to finish first.
++ When you `start sound`{:class="block3sound"}, the sound will play but the next block will run immediately and will not wait for the sound to finish first.
 
-This means that if you had a series of `start sound`{:class="block3sound"} blocks the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
+This means that if you had a series of `start sound`{:class="block3sound"} blocks, the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
 
-Have a play with it sometime!
+Have a play with it some time!
 
 ```blocks3
 when green flag clicked
@@ -189,10 +189,10 @@ Once you have chosen your sounds, you may want to change the `volume`{:class="bl
 --- collapse ---
 
 ---
-title: Volume, pitch and pan
+title: Volume, pitch, and pan
 ---
 
-Click the green flag to hear the sounds. 
+Click on the green flag to hear the sounds. 
 
 **Band practice**: [See inside](https://scratch.mit.edu/projects/451697380/editor){:target="_blank"}
 
@@ -209,11 +209,11 @@ set [pan left/right v] effect to (-100)
 play sound (Drum Funky v) until done
 ```
 
-+ You can set the `volume`{:class="block3sound"} from `0` (silent) to `100` (full volume). This is useful if you want some sounds louder than others or if you want a sprite to appear further away.
++ You can set the `volume`{:class="block3sound"} from `0` (silent) to `100` (full volume). This is useful if you want some sounds louder than others, or if you want a sprite to appear further away.
 
 + The `pitch`{:class="block3sound"} effect controls how high or low a sound is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between `-360` (very low) and `360` (very high).
 
-+ The `pan left/right`{:class="block3sound"} effect allows you to control whether a sound comes out of a left or right-hand speaker or headphone or both. The `pan`{:class="block3sound"} can be set to values from `-100` (all sound from the left) to `100` (all sound from the right).
++ The `pan left/right`{:class="block3sound"} effect allows you to control whether a sound comes out of a left- or right-hand speaker or headphone or both. The `pan`{:class="block3sound"} can be set to values from `-100` (all sound from the left) to `100` (all sound from the right).
 
 --- /collapse ---
 
