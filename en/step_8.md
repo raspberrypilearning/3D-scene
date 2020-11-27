@@ -1,4 +1,4 @@
-## Add more ...
+## Add more
 
 --- task ---
 Now you’ve got your project working the way you want it to, you could add more layers to your 3D scenery.
