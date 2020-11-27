@@ -1,6 +1,6 @@
 ## User control
 
-In this step, you will add one or more variables with sliders to control something in your scene such as graphic effects, sound effects, movement, or timing. 
+In this step, you will add one or more `variables`{:class="block3variables"} with sliders to control something in your scene such as graphic effects, sound effects, movement, or timing. 
 
 --- task --- 
 
