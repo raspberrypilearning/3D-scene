@@ -4,9 +4,9 @@ In this step, you will choose a theme for your 3D scene.
 
 --- task ---
 
-In the example below, the theme is of a city at night-time. It creates a gloomy mood, with the moon shining a dim light over the houses. A witch hovers in the sky and far away, a dog bark can be heard. 
+In the example below, the theme is of a city at night-time. It creates a gloomy mood, with the moon shining a dim light over the houses. A bat flies in the sky and far away, a dog bark can be heard. 
 
-Use the **distance** slider to change the size of the witch and the volume of the dog bark to make them seem closer or further away. 
+Use the `distance`{:class="block3variables"} slider to change the speed that the bat flies at. 
 
 **Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
@@ -39,7 +39,7 @@ To decide on the theme for your project, try to answer the following questions. 
 
 --- task ---
 
-Give your project a name that matches your theme and save it. Remember to use a **How to…** when you need help.
+Give your project a name that matches your theme and save it. Remember to use a **How to** when you need help.
 
 --- collapse ---
 ---
@@ -48,7 +48,7 @@ title: How do I name and save my project?
 
 ---
 
-Save your project so far. Go to **File** in the menu. If you have a Scratch account, click on **Save now**. If you do not have an account, click on **Save to your computer**.
+Go to **File** in the menu. If you have a Scratch account, click on **Save now**. If you do not have an account, click on **Save to your computer**.
 
 Click in the project name box and change the name to match your project. 
 
@@ -60,6 +60,6 @@ If you share your project, then other people will also see this name, so make su
 
 --- /task ---
 
-In the next four steps, you will create your scenery and add 3D effects to enhance the appearance of depth. You will add sounds and include a variable slider so that the user can interact with your project. Leave enough time for each of these steps so that your project includes some sound and a controller.
+In the next four steps, you will create your scenery and add 3D effects to enhance the appearance of depth. You will add sounds and include a variable slider so that the user can interact with your project. Make sure that you have enough time for each of these steps so that your project includes some sound and a controller.
 
 --- save ---
