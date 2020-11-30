@@ -40,7 +40,7 @@ Go to the `Variables`{:class="block3variables"} blocks menu and click on **Make 
 
 Name the `variable`{:class="block3variables"} to match its use, for example, `angle`. 
 
-Keep the **For all sprites** box selected. This means that you will be able to use the variable in the code for any of your sprites or the Stage.
+Keep the **For all sprites** box selected. This means that you will be able to use the `variable`{:class="block3variables"} in the code for any of your sprites or the Stage.
 
 ![Turn variable settings](images/turn-variable.png)
 
@@ -53,11 +53,11 @@ Click on **OK** to make the new `variable`{:class="block3variables"}. You will h
 
 --- /task ---
 
-Your new variable will automatically appear on the Stage.
+Your new `variable`{:class="block3variables"} will automatically appear on the Stage.
 
 --- task ---
  
-Change the variable to a **slider** and **change its range**.
+Change the `variable`{:class="block3variables"} to a **slider** and **change its range**.
 
 --- collapse ---
 
@@ -67,15 +67,15 @@ title: Use a slider to set a variable
 
 ---
 
-Right-click or tap and hold on your variable on the Stage. 
+Right-click or tap and hold on your `variable`{:class="block3variables"} on the Stage. 
 
 Select **slider** in the menu. 
 
 ![Turn slider](images/variable-slider.png)
 
-**Tip:** You can double-click or tap on the variable displayed on the Stage and select **slider**.
+**Tip:** You can double-click or tap on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
 
-Right-click or tap and hold on the variable displayed on the Stage and select **change slider range**.
+Right-click or tap and hold on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
 
 ![Speed slider](images/slider-range.png)
 
