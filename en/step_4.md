@@ -1,6 +1,6 @@
 ## Set the scene
 
-In this step, you will set the scene by creating or choosing a backdrop. You will also create and/or choose sprites go in front of the backdrop. In this step, you will also drag your sprites to layer them.
+In this step, you will set the scene by creating or choosing a backdrop. You will also create and/or choose sprites to go in front of the backdrop. In this step, you will also drag your sprites to layer them.
 
 **Jumping shark**: [See inside](https://scratch.mit.edu/projects/454124566/editor){:target="_blank"}
 
