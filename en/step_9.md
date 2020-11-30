@@ -95,7 +95,7 @@ title: Share Scratch projects
 
 --- task ---
 
-If you have a Scratch account, and have shared your interactive animation project, you can comment on your own and other people's projects. Other people's feedback is a great way to reflect on your work.
+If you have a Scratch account, and have shared your 3D scene project, you can comment on your own and other people's projects. Other people's feedback is a great way to reflect on your work.
 
 If you are under 13 years old, or do not want to allow people to comment on your project, you should turn off commenting.
 
