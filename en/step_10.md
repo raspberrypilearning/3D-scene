@@ -26,7 +26,7 @@ I added one or more `variables`{:class="block3variables"} with sliders to contro
 I used `Looks`{:class="block3looks"} blocks to change the appearance of sprites and decided which `Looks`{:class="block3looks"} blocks to control with `variables`{:class="block3variables"}
 --- /task ---
 --- task ---
-I altered the `volume`{:class="block3sound"}, `pitch`{:class="block3sound"}, or `pan`{:class="block3sound"} to control sounds and decided which sound effects to control with `variables`{:class="block3variables"}
+I altered the `volume`{:class="block3sound"}, `pitch`{:class="block3sound"}, or `pan`{:class="block3sound"} to control sounds and decided which `sound effects`{:class="block3sound"} to control with `variables`{:class="block3variables"}
 --- /task ---
 --- task ---
 I used `Motion`{:class="block3motion"} blocks to control the movement or position of sprites and decided which `Motion`{:class="block3motion"} blocks to control with `variables`{:class="block3variables"} 
