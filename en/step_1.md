@@ -6,7 +6,7 @@ Your scene does not have to be sensible. You should try to make it fun for you a
 ## What you will make
 You will create a scene that uses `layers`{:class="block3looks"}, `size`{:class="block3looks"}, `sound`{:class="block3sound"}, and `motion`{:class="block3motion"} to create a 3D effect. You will add `variables`{:class="block3variables"} with sliders to control features of your scene so that the user can play around and customise the scene. 
 
-You will see some examples and then plan your own scene. You will apply your coding and graphic skills to make a unique 3D scene of your own.  
+You will see some examples and then plan your own scene. You will apply your coding and graphics skills to make a unique 3D scene of your own.  
 
 ![Collage of completed projects](images/showcase_static.png){:width="500px"}
 
