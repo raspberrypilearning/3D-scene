@@ -25,7 +25,7 @@ title: Set the size of your sprites
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Select the sprite that you want to resize and click on its **Code** tab. Add a `set size to %`{:class="block3looks"} block and change the value in the block to the size for that sprite, as a percentage (%).
+Select the sprite that you want to resize and click on its **Code** tab. Add a `set size to`{:class="block3looks"} block and change the value in the block to the size for that sprite, as a percentage (%).
 
 Add a percentage value below `100` to decrease its size:
 
