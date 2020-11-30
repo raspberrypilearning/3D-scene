@@ -136,7 +136,7 @@ Here are some other creative tips:
 --- collapse ---
 ---
 
-title: Use the **Line** tool to create a triangle
+title: Use the Line tool to create a triangle
 
 ---
 
@@ -203,7 +203,7 @@ To multiply any type of shape:
 --- collapse ---
 ---
 
-title: Use **Saturation** and **Brightness** to create depth
+title: Use Saturation and Brightness to create depth
 
 ---
 
