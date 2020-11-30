@@ -194,7 +194,7 @@ To multiply any type of shape:
 + Go to **Choose a Sprite** and select, in this example, the **Cloud** sprite.
 + In the **Costumes** tab, use the **Select** tool to highlight the whole of the shape.
 + Use the **Copy** and **Paste** tools to create duplicates of the shape.
-+ Use to **Select** tool to move the shape within the Stage.
++ Use the **Select** tool to move the shape within the Stage.
 + You can vary the size of the shapes to help to create a greater sense of 3D effects.
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
