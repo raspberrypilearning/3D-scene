@@ -44,7 +44,7 @@ Keep the **For all sprites** box selected. This means that you will be able to u
 
 ![Turn variable settings](images/turn-variable.png)
 
-Click on **OK** to make the new variable. You will have new variable blocks available, including an `angle`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
+Click on **OK** to make the new `variable`{:class="block3variables"}. You will have new `Variables`{:class="block3variables"} blocks available, including an `angle`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
 
 ![Turn variable blocks](images/turn-variable-blocks.png)
 
@@ -57,7 +57,7 @@ Your new variable will automatically appear on the Stage.
 
 --- task ---
  
-Change the variable to a slider and change its range.
+Change the variable to a **slider** and **change its range**.
 
 --- collapse ---
 
@@ -97,7 +97,7 @@ Drag the slider to a convenient position on the Stage.
 
 --- task ---
 
-Use your `variable`{:class="block3variables"} input block to control something in your project, for example, to change the size of a sprite, the way that it looks, or the volume of a sound.
+Use your rounded `variable`{:class="block3variables"} input block to control something in your project, for example, to change the size of a sprite, the way that it looks, or the volume of a sound.
 
 Here are some examples of how you can use your variable slider: 
 
@@ -245,7 +245,7 @@ forever
 play sound [Dance Head Nod v] until done
 ```
 
-You can also use a variable to change the `volume`{:class="block3sound"} and `pan`{:class="block3sound"} (tilt) effect.
+You can also use a `variable`{:class="block3variables"} to change the `volume`{:class="block3sound"} and `pan`{:class="block3sound"} (tilt) effect.
 
 --- /collapse ---
 
@@ -263,7 +263,7 @@ title: Rename a variable
 
 Sometimes you think of a better name for a variable. 
 
-You can give a variable a new name: go to the `Variables`{:class="block3variables"} blocks menu, right-click on the variable, and choose **Rename variable**.
+You can give a variable a new name: go to the `Variables`{:class="block3variables"} blocks menu, right-click on the `variable`{:class="block3variables"}, and choose **Rename variable**.
 
 ![Rename a variable](images/rename-variable.png)
 
