@@ -33,7 +33,7 @@ To make your own backdrop:
 ![Select sprite paint](images/challenge2-backdrop-paint.png){:width="400px"}
 
 + Click on the **Backdrops** tab.
-+ Select a suitable **Fill** colour with no **Outline**.
++ Choose a **Fill** colour. Click on **Outline** and deselect it (to do this, click on the box with the diagonal line in the bottom left-hand corner of the menu).
 + Click on the **Rectangle** tool and draw a rectangle, ensuring that you cover all of the Stage (shown as an outline in the Paint editor). 
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
