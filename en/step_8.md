@@ -7,7 +7,7 @@ If you only used backdrops and sprites from the Scratch Libraries, then you coul
 
 You could also add more `sound effects`{:class="block3sound"} and `variables`{:class="block3variables"}.
 
-**Tip**: Professional programmers explore and take inspiration from code created by other programmers.
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
 You may want to investigate the example projects in **step 2: Get inspiration**.
 
