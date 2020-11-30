@@ -18,7 +18,7 @@ Sprites can move around the Stage, and be in front of or behind other sprites. I
 
 --- task ---
 
-Use the Paint editor to create your own backdrop and scenery sprites OR **Choose a Backdrop** from the Scratch library.
+Use the Paint editor to create your own backdrop and scenery sprites or **Choose a Backdrop** and **Choose a Sprite** from the Scratch Libraries.
 
 --- collapse ---
 ---
@@ -34,7 +34,7 @@ To make your own backdrop:
 
 + Click on the **Backdrops** tab.
 + Select a suitable **Fill** colour with no **Outline**.
-+ Go to the **Rectangle** tool and draw a rectangle, ensuring that you cover all of the Stage area (shown as an outline in the Paint editor). 
++ Click on the **Rectangle** tool and draw a rectangle, ensuring that you cover all of the Stage (shown as an outline in the Paint editor). 
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
@@ -72,7 +72,7 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 
 --- task ---
 
-Add any sprites that you want to use from the Sprite Library. This could include people, animals, or vehicles. It could also include existing scenery sprites such as trees, rocks, or buildings. 
+Add any sprites that you want to use from the Sprite Library. This can include people, animals, or vehicles. It can also include existing scenery sprites such as trees, rocks, or buildings. 
 
 Remember that all sprites in Scratch can move, so if you want your main character to be a bunch of bananas, that's fine!
 
@@ -83,7 +83,7 @@ title: Add sprites from the Sprite Library
 
 ---
 
-In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
+In the Sprite pane, click on **Choose a Sprite** to see the library of all Scratch sprites.
 ![Image Sprite Library](images/sprite-library.png)
 
 You can search or browse sprites by theme. Click on a sprite to add it to your project.
@@ -98,7 +98,7 @@ You can search or browse sprites by theme. Click on a sprite to add it to your p
 --- task ---
 Use the Paint editor to create any additional sprites that you need as scenery. This could be hills or mountains in the distance, or smaller sprites, such as trees or flowers. 
 
-Think about whether you want to create your scenery as one sprite **or** whether you want some of your sprites to move through and behind the 3D scenery by creating separate scenery sprites. The latter will make it easier for you to move sprites around later, depending on your ideas for your project.
+Think about whether you want to create your scenery as one sprite **or** whether you want to create separate scenery sprites. If you create separate scenery sprites, some of your sprites will be able to move through and behind the 3D scenery. That will make it easier for you to move sprites around later, depending on your ideas for your project.
 
 --- collapse ---
 ---
@@ -117,9 +117,9 @@ To make your own **Hills** sprite, shown in the example above, you can use the *
 
 ![Make a hill as one sprite costumes](images/challenge2-backdrop-sprite-costume.gif){:width="400px"}
 
-+ Choose a **Fill** colour and deselect **Outline**. Now, draw an oval using the **Circle** tool. Then, select the **Rectangle** tool to draw a rectangle underneath the oval.
++ Choose a **Fill** colour. Click on **Outline** and deselect it (to do this, click on the box with the diagonal line in the bottom left-hand corner of the menu). Now, draw an oval using the **Circle** tool. Then, select the **Rectangle** tool to draw a rectangle underneath the oval.
 
-+ If you use varying colours for the shapes, you may need to use the **Front** and **Back** tools in the Paint editor to move your shapes forward or backwards so that they sit correctly within your background.
++ If you use varying colours for the shapes, you may need to use the **Front** and **Back** tools in the Paint editor to move your shapes forward or backwards so that they are positioned correctly within your background.
 
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
@@ -136,19 +136,19 @@ Here are some other creative tips:
 --- collapse ---
 ---
 
-title: Create a triangle using the **Line** tool
+title: Use the **Line** tool to create a triangle
 
 ---
 
 You can create polygons such as a triangle and use these shapes to create roofs or mountains.
 
-Go to **Choose a Sprite** and select **Paint** to create a new sprite costume which in this example will be houses.
+Go to **Choose a Sprite** and select **Paint** to create a new sprite costume. In this example, you will make houses.
 
 **House**: [See inside](https://scratch.mit.edu/projects/453595663/editor){:target="_blank"}
 
 ![Make houses as one sprite costumes](images/challenge2-backdrop-sprite-costumes-line-tool.gif){:width="400px"}
 
-Following the below, you can create any shape using the **Line** tool:
+If you follow the instructions below, you can use the **Line** tool to create any shape:
 + Choose a **Fill** colour. To choose the colour black, decrease the **Brightness** to zero (0).
 
 ![Colour to black](images/challenge2-black.png){:width="150px"}
@@ -160,19 +160,19 @@ Following the below, you can create any shape using the **Line** tool:
 + Use the **Rectangle** tool to draw a rectangle.
 + Use the **Line** tool to draw a triangle. Make sure that you complete the triangle, otherwise it will not fill with colour.
 + Move the two shapes together.
-+ Select the **Bucket** tool and fill the triangle.
-+ Use the **Rectangle** tool to draw another rectangle shape for the chimney.
-+ You can use the **Front** and **Back** tools in the Paint editor to move your shapes forwards or backwards so they are positioned correctly. In this example, you will not need to do this because the shapes are black for the silhouette.
++ Select the **Fill** tool and fill the triangle with colour.
++ Use the **Rectangle** tool to draw another rectangle for the chimney.
++ You can use the **Front** and **Back** tools in the Paint editor to move your shapes forwards or backwards so that they are positioned correctly. In this example, you will not need to do this because the shapes are black for the silhouette.
 + Select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
-To create duplicate shapes such as a skyline from your house, follow the **How to...** 'Create a scenery costume by duplicating shapes' below.
+To create duplicate shapes of your house (for example, to make a skyline), follow **How to** 'Duplicate shapes to create a scenery costume' below.
 
 --- /collapse ---
 
 --- collapse ---
 ---
 
-title: Create a scenery costume by duplicating shapes
+title: Duplicate shapes to create a scenery costume
 
 ---
 
@@ -192,10 +192,10 @@ The effect of multiplying shapes is used by professional animators to create the
 
 To multiply any type of shape:
 + Go to **Choose a Sprite** and select, in this example, the **Cloud** sprite.
-+ In the Costumes editor, using the **Select** tool highlight the whole of the shape.
-+ Use the **Copy** and **Paste** tools to create multiples of the shape.
++ In the **Costumes** tab, use the **Select** tool to highlight the whole of the shape.
++ Use the **Copy** and **Paste** tools to create duplicates of the shape.
 + Use to **Select** tool to move the shape within the Stage.
-+ Varying the size of the shapes will also help to create a greater sense of 3D dimensions.
++ You can vary the size of the shapes to help to create a greater sense of 3D effects.
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
 --- /collapse ---
@@ -203,11 +203,11 @@ To multiply any type of shape:
 --- collapse ---
 ---
 
-title: Create depth using **Saturation** and **Brightness**
+title: Use **Saturation** and **Brightness** to create depth
 
 ---
 
-In the real world, objects that sit further away appear lighter in colour. To achieve a more realistic 3D scenery, you can **decrease** the colour **Saturation** and/or **Brightness** of each sprite so that they appear further and further away.
+In the real world, objects that are further away appear lighter in colour. To achieve more realistic 3D scenery, you can **decrease** the colour **Saturation** and/or **Brightness** of each sprite so that they appear further and further away.
 
 ![Make hills saturated](images/challenge2-saturation.png){:width="400px"}
 
@@ -243,7 +243,7 @@ You can view your 3D scene **through** a sprite. If it sits as the front layer a
 
 To create a type of masking sprite:
 + Go to **Choose a Sprite** and select **Paint**.
-+ Choose a colour with no **Outline** and draw a vertical rectangle. 
++ Choose a **Fill** colour with no **Outline** and draw a vertical rectangle. 
 + Use the **Copy** and **Paste** tools to repeat this shape. 
 + Use the **Select** tool to move the shapes around.
 + As you place your shapes, make sure that they are touching the edge of the Stage to fit in with your project idea.
