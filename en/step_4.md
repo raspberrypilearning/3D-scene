@@ -111,7 +111,7 @@ title: Create scenery as sprites
 
 ![Hills image](images/challenge2-sprite-hill.png){:width="400px"}
 
-To make your own **Hills** sprite, shown in the example above, you can use the **Circle** and **Rectangle** tools in the Paint editor:
+To make your own **Hill** sprite, shown in the example above, you can use the **Circle** and **Rectangle** tools in the Paint editor:
 
 + Go to **Choose a Sprite** and select **Paint** to create a new sprite costume.
 
@@ -119,7 +119,7 @@ To make your own **Hills** sprite, shown in the example above, you can use the *
 
 + Choose a **Fill** colour. Click on **Outline** and deselect it (to do this, click on the box with the diagonal line in the bottom left-hand corner of the menu). Now, draw an oval using the **Circle** tool. Then, select the **Rectangle** tool to draw a rectangle underneath the oval.
 
-+ If you use varying colours for the shapes, you may need to use the **Front** and **Back** tools in the Paint editor to move your shapes forward or backwards so that they are positioned correctly within your background.
++ If you use varying colours for the shapes, you may need to use the **Front** and **Back** tools in the Paint editor to move your shapes forward or backward so that they are positioned correctly within your background.
 
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
