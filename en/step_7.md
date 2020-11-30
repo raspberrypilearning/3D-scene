@@ -276,7 +276,7 @@ Add as many `variables`{:class="block3variables"} as you like to control movemen
 
 Things to consider:
 + Have you given your variables names that match what they are used for?
-+ Have you chosen the best maximum and minumum values for your sliders?
++ Have you chosen the best maximum and minimum values for your sliders?
 + Are your sliders neatly arranged on the Stage?
 + Is it helpful to use the same variable in multiple places?
 
