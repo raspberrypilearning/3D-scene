@@ -1,6 +1,6 @@
 ## 3D effects
 
-In this step, you will increase the 3-dimensional (3D) appearance by using the `Looks`{:class="block3looks"} blocks menu to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
+In this step, you will increase the three-dimensional (3D) appearance. To do this, you will use `Looks`{:class="block3looks"} blocks to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
 
 In the example below, the **Rocket** sprite that is in the distance is smaller than the **Taco Truck** and **Robot** sprites. The sprites are layered to appear to go in front of or behind each other. 
 
@@ -25,7 +25,7 @@ title: Set the size of your sprites
   <iframe src="https://scratch.mit.edu/projects/445071529/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Select the sprite that you want to resize and click on its **Code** tab. Add a `set size to %`{:class="block3looks"} block and change the value in the block to the percentage (%) size for that sprite.
+Select the sprite that you want to resize and click on its **Code** tab. Add a `set size to %`{:class="block3looks"} block and change the value in the block to the size for that sprite, as a percentage (%).
 
 Add a percentage value below `100` to decrease its size:
 
@@ -54,7 +54,7 @@ A simple approach is to send some sprites to the front and some sprites to the b
 
 --- collapse ---
 ---
-title: Program your sprites using front and back layers
+title: Use front and back layers to position your sprites
 --- 
 
 **Through the window**: [See inside](https://scratch.mit.edu/projects/451497627/editor){:target="_blank"}
@@ -94,7 +94,7 @@ title: Program your sprites into layers
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/454188775/?autostart=false" frameborder="0"></iframe>
 </div>
 
-In the example, the **Window frame** sprite appears at the front and the **Sun** sprite appears at the back. The **Avery Walking** and **Tree** sprites each sit in their own layers between the **Window frame** sprite and the **Sun** sprite.
+In the example, the **Window frame** sprite appears at the front and the **Sun** sprite appears at the back. The **Avery Walking** and **Tree** sprites are each in their own layers between the **Window frame** sprite and the **Sun** sprite.
 
 Use the `go backward`{:class="block3looks"}`1``layers`{:class="block3looks"} block to place a sprite one layer behind the sprite at the front:
 
@@ -104,7 +104,7 @@ go to [front v] layer
 +go [backward v] (1) layers
 ```
 
-Change the value in the `go backward`{:class="block3looks"}`1``layers`{:class="block3looks"} block for each sprite depending on where you want it to sit in relation to others:
+Change the value in the `go backward`{:class="block3looks"}`1``layers`{:class="block3looks"} block for each sprite depending on where you want it to be positioned in relation to other sprites:
 
 ``` blocks3
 when green flag clicked
@@ -118,14 +118,14 @@ go to [front v] layer
 
 --- task ---
 
-Animate your sprite by moving or changing its costumes.
+To animate your sprite, program it to move or change costumes.
 
 --- collapse ---
 ---
 title: Move your sprite
 ---
 
-Get your sprite moving:
+Get your sprite to move:
 
 ```blocks3
 when green flag clicked
@@ -136,7 +136,7 @@ move (5) steps
 if on edge, bounce
 ```
 
-For more information on motion, explore [Animate using motion](https://projects.raspberrypi.org/en/projects/interactive-animation/3){:target="_blank"} in Challenge 1 Interactive animation.
+For more information on motion, explore [Animate using motion](https://projects.raspberrypi.org/en/projects/interactive-animation/3){:target="_blank"} in Interactive animation (Challenge project 1).
 
 --- /collapse ---
 
@@ -145,7 +145,7 @@ For more information on motion, explore [Animate using motion](https://projects.
 title: Change your sprite's costume
 ---
 
-Get your sprite changing costumes:
+Get your sprite to change costumes:
 
 ```blocks3
 when green flag clicked
@@ -154,7 +154,7 @@ next costume
 wait (0.3) seconds
 ```
 
-For more information on animation, explore [Animate using looks](https://projects.raspberrypi.org/en/projects/interactive-animation/5){:target="_blank"} in Challenge 1 Interactive animation.
+For more information on animation, explore [Animate using looks](https://projects.raspberrypi.org/en/projects/interactive-animation/5){:target="_blank"} in Interactive animation (Challenge project 1).
 
 --- /collapse ---
 
