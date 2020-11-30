@@ -30,7 +30,7 @@ To get to the Scratch Sound Library, click the **Choose a Sound** button.
 
 ![Choose a sound button](images/chooseASoundButton.png)
 
-Hover your mouse over the play symbol to hear a sound.
+Hold your mouse cursor over the play symbol to hear a sound.
 
 ![Preview a sound](images/soundPreview.png)
 
@@ -42,17 +42,17 @@ If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} 
  
 ![New sound available](images/newSoundBlock.png)
 
-You can also add sounds to the Stage. 
+You can also add sounds to the **Stage**. 
 
 --- /collapse ---
  
 --- task ---
-Add code to run `sounds`{:class="block3sound"} blocks where you want sound in your project.
+Add code to run `Sound`{:class="block3sound"} blocks where you want sound in your project.
   
 --- collapse ---
 
 ---
-title: Add continuous soundtrack using a long sound
+title: Add a long sound to create a continuous soundtrack
 ---
  
 Click on the green flag to hear the sounds.
@@ -83,7 +83,7 @@ end
 --- collapse ---
 
 ---
-title: Add continuous soundtrack using a sequence of short sounds
+title: Add a sequence of short sounds to create a continuous soundtrack
 ---
   
 Click on the green flag to hear the sounds. 
@@ -94,9 +94,9 @@ Click on the green flag to hear the sounds.
  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/444673165/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Select a `forever`{:class="block3control"} block to create a looped sound. Select some sounds that you like and/or experiment. You can either create:
-+ A series of short sounds in a sequence, or 
-+ Compose a soundtrack using different instrument notes and effects
+Select a `forever`{:class="block3control"} block to create a looped sound. Select some sounds that you like and/or experiment. You can either:
++ Create a series of short sounds in a sequence, or 
++ Use different instrument notes and effects to compose a soundtrack
  
 ```blocks3
 when flag clicked
@@ -118,7 +118,7 @@ You may want to play sounds at regular intervals.
 --- collapse ---
 
 ---
-title: Add regular interval sounds
+title: Add sounds that play at regular intervals
 ---
  
 **Football sounds**: [See inside](https://scratch.mit.edu/projects/450870079/editor){:target="_blank"}
@@ -139,7 +139,7 @@ Click on the green flag to hear the sounds.
  end
  ```
 
- The **Whistle** sprite also plays a regular sound: 
+The **Whistle** sprite also plays a sound at regular intervals:
 
  ```blocks3
  when this sprite clicked
@@ -161,9 +161,9 @@ title: Start multiple sounds
 
 There are two `Sound`{:class="block3sound"} blocks with an important difference:
 
-+ When you `play sound until done`{:class="block3sound"}, the sound will play all the way through. The next line of code in the script will not run until the sound is finished.
++ When you `play sound until done`{:class="block3sound"}, the sound will play all the way through. The next line of code in the script will not run until the sound has finished playing.
 
-+ When you `start sound`{:class="block3sound"}, the sound will play but the next block will run immediately and will not wait for the sound to finish first.
++ When you `start sound`{:class="block3sound"}, the sound will play but the next block will run immediately and will not wait for the sound to finish playing first.
 
 This means that if you had a series of `start sound`{:class="block3sound"} blocks, the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
 
@@ -209,7 +209,7 @@ set [pan left/right v] effect to (-100)
 play sound (Drum Funky v) until done
 ```
 
-+ You can set the `volume`{:class="block3sound"} from `0` (silent) to `100` (full volume). This is useful if you want some sounds louder than others, or if you want a sprite to appear further away.
++ You can `set volume to`{:class="block3sound"} a value from `0` (silent) to `100` (full volume). This is useful if you want some sounds to play louder than others, or if you want a sprite to appear further away.
 
 + The `pitch`{:class="block3sound"} effect controls how high or low a sound is. Setting the pitch to a higher value also makes a sound faster. You can set the pitch to values between `-360` (very low) and `360` (very high).
 
