@@ -4,7 +4,7 @@ In this step, you will choose a theme for your 3D scene.
 
 --- task ---
 
-In the example below, the theme is of a city at night-time. It creates a gloomy mood, with the moon shining a dim light over the houses. A bat flies in the sky and far away, a dog bark can be heard. 
+In the example below, the theme is of a city at night-time. It creates an eerie mood, with the moon shining a dim light over the houses. A bat flies in the sky and far away, a dog bark can be heard. 
 
 Use the `speed`{:class="block3variables"} slider to change the speed that the bat flies at. 
 
