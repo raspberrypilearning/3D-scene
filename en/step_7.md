@@ -22,7 +22,7 @@ Create a new `variable`{:class="block3variables"} and give it a name that matche
 
 + If it will control the `volume`{:class="block3sound"} of a sound, name it `noise`{:class="block3variables"}
 + If it will control the length of a `wait`{:class="block3control"}, name it `delay`{:class="block3variables"}
-+ If it will control how many degrees a sprite turns, name it `angle`{:class="block3variables"}
++ If it will control how many degrees a sprite will `turn`{:class="block3motion"}, name it `angle`{:class="block3variables"}
 
 --- collapse ---
 
@@ -89,7 +89,7 @@ The value range that is right for your variable depends on what you are using it
 
 Drag the slider to a convenient position on the Stage.
 
-**Tip:** Variables on the Stage always appear in a layer above all of the sprites. If you have a moving sprite, it will go under any variables on the Stage. 
+**Tip:** Variables on the Stage always appear in a layer above all of the sprites. If you have a moving sprite, the sprite will go under any variables on the Stage. 
 
 --- /collapse ---
 
