@@ -167,7 +167,7 @@ There are two `Sound`{:class="block3sound"} blocks with an important difference:
 
 This means that if you had a series of `start sound`{:class="block3sound"} blocks, the sounds would all play almost at the same time, layered on top of each other. The effect can be interesting and sometimes messy.
 
-Have a play with it some time!
+Have a play with it sometime!
 
 ```blocks3
 when green flag clicked
