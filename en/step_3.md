@@ -24,9 +24,9 @@ Use the `speed`{:class="block3variables"} slider to change the speed that the ba
 
 Open a new Scratch project.
 
-Online: open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor){:target="_blank"}.
+**Online:** open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor){:target="_blank"}.
 
-Offline: open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download).
+**Offline:** open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download).
 
 --- /task ---
 
