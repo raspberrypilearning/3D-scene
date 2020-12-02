@@ -8,7 +8,7 @@ In the example below, the theme is of a city at night-time. It creates an eerie 
 
 Use the `speed`{:class="block3variables"} slider to change the speed that the bat flies at. 
 
-**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
+**Moon rising**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
 --- no-print ---
 
@@ -22,7 +22,11 @@ Use the `speed`{:class="block3variables"} slider to change the speed that the ba
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target="_blank"}.
+Open a new Scratch project.
+
+Online: open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor){:target="_blank"}.
+
+Offline: open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download).
 
 --- /task ---
 
@@ -39,7 +43,7 @@ To decide on the theme for your project, try to answer the following questions. 
 
 --- task ---
 
-Give your project a name that matches your theme and save it. Remember to use a **How to** when you need help.
+Give your project a name that matches your theme and save it. Remember to check **How to** when you need help.
 
 --- collapse ---
 ---
