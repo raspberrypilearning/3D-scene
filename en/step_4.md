@@ -34,7 +34,7 @@ To make your own backdrop:
 
 + Click on the **Backdrops** tab.
 + Choose a **Fill** colour. Click on **Outline** and deselect it (to do this, click on the box with the diagonal line in the bottom left-hand corner of the menu).
-+ Click on the **Rectangle** tool and draw a rectangle, ensuring that you cover all of the Stage (shown as an outline in the Paint editor). 
++ Click on the **Rectangle** tool (shown as an outline in the Paint editor) and draw a rectangle, ensuring that you cover all of the Stage. 
 
 ![Select Fill and Outline](images/challenge2-backdrop-fill-outline.gif){:width="400px"}
 
@@ -160,12 +160,12 @@ If you follow the instructions below, you can use the **Line** tool to create an
 + Use the **Rectangle** tool to draw a rectangle.
 + Use the **Line** tool to draw a triangle. Make sure that you complete the triangle, otherwise it will not fill with colour.
 + Move the two shapes together.
-+ Select the **Fill** tool and fill the triangle with colour.
++ Select the **Fill (Bucket)** tool and fill the triangle with colour.
 + Use the **Rectangle** tool to draw another rectangle for the chimney.
 + You can use the **Front** and **Back** tools in the Paint editor to move your shapes forward or backward so that they are positioned correctly. In this example, you will not need to do this because the shapes are black for the silhouette.
 + Select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
-To create duplicate shapes of your house (for example, to make a skyline), follow **How to** 'Duplicate shapes to create a scenery costume' below.
+To create duplicate shapes of your house (for example, to make a skyline), follow **How to** under 'Duplicate shapes to create a scenery costume' below.
 
 --- /collapse ---
 
@@ -231,7 +231,7 @@ title: Create a sprite with gaps that you can see through
 
 ---
 
-You can view your 3D scene **through** a sprite. If it sits as the front layer and is the size of the Stage, it can appear like a view through the bars of a cage or a series of window panes.
+You can view your 3D scene **through** a sprite. If it is positioned as the front layer and is the size of the Stage, it can appear like a view through the bars of a cage or a series of window panes.
 
 --- no-print ---
 
