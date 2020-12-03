@@ -2,7 +2,7 @@
 
 --- task ---
 
-If you are in a club, share your project with friends and peers or if you are at home, show your family your project, to gain useful feedback.
+If you are in a club, share your project with friends and peers, or if you are at home, show your family your project, to gain useful feedback.
 
 --- /task ---
 
