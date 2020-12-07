@@ -141,7 +141,7 @@ If you have new messages, the number of new messages will appear surrounded by a
 
 ![New message alert](images/new-message.png)
 
-Click on the **Message** icon to access your inbox. If you have a lot of new messages, you can use the the drop-down menu on the right to filter for **Comment Activity** only.
+Click on the **Message** icon to access your inbox. If you have a lot of new messages, you can use the drop-down menu on the right to filter for **Comment Activity** only.
 
 ![Filter your messages](images/filter-messages.png)
 
