@@ -39,7 +39,7 @@ For this project, you need to know how to:
 + Customise sprites in the Paint editor
 + Add `graphic effects`{:class="block3looks"}, `motion`{:class="block3motion"}, and `sound`{:class="block3sound"} to a sprite
 + Use the `forever`{:class="block3control"} block
-+ Use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
++ Use the `next costume`{:class="block3looks"} and `wait`{:class="block3control"} blocks to animate a sprite
 + Make a `variable`{:class="block3control"}, turn it into a slider with a range, and use it as an input to a block
 + Use `layers`{:class="block3looks"} blocks to move sprites in front of or behind other sprites
 
