@@ -1,7 +1,7 @@
 ## Introduction
 You will create a three-dimensional (3D) scene that can be controlled with variables. The user will be able to act as the 'director' of the scene and play around until they get it just the way that they want it. 
 
-Your scene does not have to be sensible. You should try to make it fun for you and others to play around with. 
+Your scene does not have to be sensible. You should try to make it fun for you and other people to play around with. 
 
 ## What you will make
 You will create a scene that uses `layers`{:class="block3looks"}, `size`{:class="block3looks"}, `sound`{:class="block3sound"}, and `motion`{:class="block3motion"} to create a 3D effect. You will add `variables`{:class="block3variables"} with sliders to control features of your scene so that the user can play around and customise the scene. 
@@ -17,7 +17,7 @@ title: What you will need
 ### Hardware
 
 + A computer or tablet capable of running Scratch
-+ This projects features sound — headphones are recommended
++ This project features sound — headphones are recommended
 
 ### Software
 
