@@ -8,7 +8,7 @@ If you are in a club, share your project with friends and peers, or if you are a
 
 --- task ---
 
-If you have a Scratch account, you can share your project by sending a link to people you know. In fact, the whole Scratch community will be able to find your project and try it! 
+If you have a Scratch account, you can share your project by sending a link to people you know. The whole Scratch community will be able to find your project and try it too! 
 
 --- collapse ---
 ---
