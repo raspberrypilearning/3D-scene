@@ -1,6 +1,6 @@
 ## 3D effects
 
-In this step, you will increase the three-dimensional (3D) appearance. To do this, you will use `Looks`{:class="block3looks"} blocks to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
+In this step, you will increase the 3D appearance. To do this, you will use `Looks`{:class="block3looks"} blocks to enhance the sense of depth in your scene. You will use the `size`{:class="block3looks"} and `layers`{:class="block3looks"} blocks to make your sprites appear in front of or behind each other.
 
 In the example below, the **Rocket** sprite that is in the distance is smaller than the **Taco Truck** and **Robot** sprites. The sprites are layered to appear to go in front of or behind each other. 
 
