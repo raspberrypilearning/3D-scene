@@ -29,7 +29,7 @@ title: What you will need
 ---
 title: Skills you should have
 ---
-Before you start this project, we recommend that you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
+Before you start this project, we recommend that you complete the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
 + [Stress ball](https://projects.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
 + [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
 + [Serene scene](https://projects.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
