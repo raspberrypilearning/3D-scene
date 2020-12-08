@@ -204,8 +204,8 @@ The **Drums** sprite uses `volume`{:class="block3sound"} and `sound effects`{:cl
 
 ```blocks3
 set volume to (80) %
-set [pitch v] effect to (50)
-set [pan left/right v] effect to (-100)
+set [pitch v] effect to (50) :: sound
+set [pan left/right v] effect to (-100) :: sound
 play sound (Drum Funky v) until done
 ```
 
