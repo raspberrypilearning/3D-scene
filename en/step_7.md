@@ -234,7 +234,7 @@ Changing the `pitch`{:class="block3sound"} of a sound makes the notes higher and
 ```blocks3
 when flag clicked
 forever
-set [pitch v] effect to (beat)
+set [pitch v] effect to (beat) :: sound
 ```
 
 Play the sound in a separate `forever`{:class="block3control"} loop so that the pitch will change immediately rather than waiting until the sound has finished playing: 
