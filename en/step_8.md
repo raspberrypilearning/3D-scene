@@ -1,24 +1,17 @@
-## Add more ...
+## Add more
 
 --- task ---
-If you have time left you can add more layers to your scene.
+Now that you have got your project to work the way that you want it to, you could add more `layers`{:class="block3looks"} to your 3D scenery.
 
-If you only used backdrops and sprites that are included in Scratch then you should try and use the paint editor to create your own scenery. 
+If you only used backdrops and sprites from the Scratch Libraries, then you could use the Paint editor to create some of your own scenery. 
 
-You can also add more sound effects and variables.
+You could also add more `sound effects`{:class="block3sound"} and `variables`{:class="block3variables"}.
 
-This example uses multiple layers and has a scenery sprite moving slowly to create a 3D effect. The music gets higher and faster as the dinosaur moves faster:
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
-**3D Dinosaur**: [See inside](https://scratch.mit.edu/projects/445737025/editor){:target="_blank"}
+You may want to investigate the example projects in **step 2: Get inspiration**.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/445737025/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /task ---
-
---- task ---
-You can also get more ideas from these examples that have been shared by community members:
+Take a look at some 3D scene projects created by community members. You can also explore even more community members' 3D scene projects in the Raspberry Pi Foundation's studio of **3D Scene Community Projects**: [See inside](https://scratch.mit.edu/studios/28115978){:target="_blank"}
 
 --- /task ---
 

@@ -1,15 +1,14 @@
 ## Choose a theme
 
-In this step you will choose a theme for your 3D scene.
+In this step, you will choose a theme for your 3D scene.
 
 --- task ---
 
-In the example below, see how the **Moon** is able to rise from behind the silhouetted roofs because **Rooftops** is a sprite rather than being drawn on the backdrop.
+In the example below, the theme is of a city at night-time. It creates an eerie mood, with the moon shining a dim light over the houses. A bat flies in the sky and far away, a dog bark can be heard. 
 
-+ A Backdrop is **always** at the back and cannot move
-+ Sprites can move around the stage, and be in front of or behind other sprites
+Use the `speed`{:class="block3variables"} slider to change the speed that the bat flies at. 
 
-**Rising moon**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
+**Moon rising**: [See inside](https://scratch.mit.edu/projects/445119855/editor){:target="_blank"}
 
 --- no-print ---
 
@@ -23,23 +22,28 @@ In the example below, see how the **Moon** is able to rise from behind the silho
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target="_blank"}.
+Open a new Scratch project.
+
+**Online:** open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor){:target="_blank"}.
+
+**Offline:** open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-To decide on the theme for your project try and answer the following questions. You don't have to decide all of the details yet:
+To decide on the theme for your project, try to answer the following questions. Keep your ideas simple for now. You can always add more detail later.
 + What mood do you want to create? Will it be relaxing, energising, or funny?
 + What will your scenery look like?
-+ What objects and characters will you include in your scene?
++ What backdrop and sprites will you include in your 3D scene?
++ What sound(s) will you include?
 + What will the user be able to control with sliders?
 
 --- /task ---
 
 --- task ---
 
-Give your project a name that matches your theme and save it. Remember to use a **How to…** when you need help.
+Give your project a name that matches your theme and save it. Remember to check **How to** when you need help.
 
 --- collapse ---
 ---
@@ -48,16 +52,18 @@ title: How do I name and save my project?
 
 ---
 
-Save your project so far. Go to **File** in the menu. If you have a Scratch account, click on **Save now**. If you do not have an account, click on **Save to your computer**.
+Go to **File** in the menu. If you have a Scratch account, click on **Save now**. If you do not have an account, click on **Save to your computer**.
 
 Click in the project name box and change the name to match your project. 
 
 ![Project name highlighted](images/change-project-name.png)
 
-If you share your project, then others will also see this name, so make sure it makes sense. 
+If you share your project, then other people will also see this name, so make sure that it makes sense. 
 
 --- /collapse --- 
 
 --- /task ---
+
+In the next four steps, you will create your scenery and add 3D effects to enhance the appearance of depth. You will add sounds and include a variable slider so that the user can interact with your project. Make sure that you have enough time for each of these steps so that your project includes some sound and a controller.
 
 --- save ---

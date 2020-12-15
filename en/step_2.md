@@ -1,14 +1,14 @@
 ## Get inspiration
 
-You are going to create a '3D scene' project that can be controlled using slider variables. The theme of the project and the way the sprites look and move, is up to you. 
+You will create a 3D scene project that can be controlled using slider variables. You can decide the theme of the project, and the way that the sprites look and move. 
 
-You can get ideas for your own project by investigating projects created by others.
+You can get ideas for your own project by investigating projects created by other people.
 
 --- task ---
 
 --- print-only ---
 
-Take a look at these 3D scene projects, and adjust any sliders you see.
+Look at these 3D scene projects, and adjust any sliders that you see.
 
 + Can you see which sprites are in front of other sprites?
 + Can you identify what changes the variable sliders make?
@@ -25,22 +25,22 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- /no-print ---
 
+**Under the sea**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
+
+--- no-print ---
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /no-print ---
+
 **Moon base**: [See inside](https://scratch.mit.edu/projects/451534676/editor){:target="_blank"}
 
 --- no-print ---
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/451534676/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
---- /no-print ---
-
-**Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
-
---- no-print ---
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
@@ -59,9 +59,9 @@ Take a look at these 3D scene projects, and adjust any sliders you see.
 
 --- task ---
 
-Now have a quick think about what kind of 3D scene project that you want to make using variable sliders. It can be whatever you want it to be.
+Now quickly think about what kind of 3D scene project you want to make using variable sliders. It can be whatever you want it to be.
 
-Don't be afraid to change your mind about things and try out new ideas out as you go along!
+Don't be afraid to change your mind about things and try out new ideas as you work on your project!
 
 --- /task ---
 

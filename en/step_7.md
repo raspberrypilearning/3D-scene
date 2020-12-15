@@ -1,12 +1,10 @@
-## Control your scene with variables
+## User control
 
-In this step you will add one or more variables with sliders to control something in your scene such as graphic effects, sound effects, movement or timing. 
+In this step, you will add one or more `variables`{:class="block3variables"} with sliders to control something in your scene such as graphic effects, sound effects, movement, or timing. 
 
 --- task --- 
 
-Look at the example below. The `speed`{:class="block3variables"} variable controls how fast the snowman moves, `size`{:class="block3variables"} controls the size of the snowflake, and `pitch`{:class="block3variables"} controls the pitch of the music that is playing:
-
-<mark>Fab trees. Can we either use an existing Scratch backdrop as-is or one that they could easily create. Looks like they would need to delete the trees from Winter for this?</mark>
+Look at the example below. The `speed`{:class="block3variables"} variable controls how fast the snowman moves, `snowflake`{:class="block3variables"} controls the snowflake size, and `music`{:class="block3variables"} controls the pitch of the music that is playing.
 
 **Winter scene**: [See inside](https://scratch.mit.edu/projects/451563340/editor){:target="_blank"}
 
@@ -18,13 +16,13 @@ Look at the example below. The `speed`{:class="block3variables"} variable contro
 
 --- task ---
 
-Decide what you want to control using a variable. 
+Decide what you want your variable to control.  
 
-Create a new variable and give it the name that matches its use. For example: 
+Create a new `variable`{:class="block3variables"} and give it a name that matches its use. For example: 
 
-+ if it will control the `volume`{:class="block3sound"} of a sound, name it `noise`{:class="block3variables"}
-+ if it will control the length of a `wait`{:class="block3control"}, name it `delay`{:class="block3variables"}
-+ if it will control how many degrees a sprite turns, name it `angle`{:class="block3variables"}
++ If it will control the `volume`{:class="block3sound"} of a sound, name it `noise`{:class="block3variables"}
++ If it will control the length of a `wait`{:class="block3control"}, name it `delay`{:class="block3variables"}
++ If it will control how many degrees a sprite will `turn`{:class="block3motion"}, name it `angle`{:class="block3variables"}
 
 --- collapse ---
 
@@ -34,19 +32,19 @@ title: Add a new variable
 
 ---
 
-Click on the 'Code' tab for any sprite or the Stage. 
+Click on the **Code** tab for any **sprite** or the **Stage**. 
 
-Go to the `Variables`{:class="block3variables"} blocks and click on 'Make a Variable'.
+Go to the `Variables`{:class="block3variables"} blocks menu and click on **Make a Variable**.
 
 ![Make a variable](images/make-a-variable.png)
 
-Name the variable to match its use, for example `angle`{:class="block3variables"}. 
+Name the `variable`{:class="block3variables"} to match its use, for example, `angle`. 
 
-Generally, you will keep the 'For all sprites' box checked, this means you will be able to use the variable in the code for any of your sprites or the Stage.
+Keep the **For all sprites** box selected. This means that you will be able to use the `variable`{:class="block3variables"} in the code for any of your sprites or the Stage.
 
 ![Turn variable settings](images/turn-variable.png)
 
-Click 'OK' to make the new variable. You will have new variable blocks available including a `angle`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
+Click on **OK** to make the new `variable`{:class="block3variables"}. You will have new `Variables`{:class="block3variables"} blocks available, including an `angle`{:class="block3variables"} block (or whatever you named your variable) that you can drag and use as an input to other blocks. 
 
 ![Turn variable blocks](images/turn-variable-blocks.png)
 
@@ -55,42 +53,43 @@ Click 'OK' to make the new variable. You will have new variable blocks available
 
 --- /task ---
 
-Your new variable will automatically appear on the Stage.
+Your new `variable`{:class="block3variables"} will automatically appear on the Stage.
 
 --- task ---
  
-Change it to a slider (click on the 'how to' below if you need a reminder). It will start with a range from 1 to 100 which you can change at any point. 
+Change the `variable`{:class="block3variables"} to a **slider** and **change its range**.
 
 --- collapse ---
 
 ---
 
-title: Use a slider to change a variable
+title: Use a slider to set a variable
 
 ---
 
-Right-click or tap and hold on your variable on the Stage. 
+Right-click or tap and hold on your `variable`{:class="block3variables"} on the Stage. 
 
-Select 'slider' from the menu. 
+Select **slider** in the menu. 
 
 ![Turn slider](images/variable-slider.png)
 
-**Tip:** You can double click or tap on a variable on the Stage to switch between normal, large and slider. 
+**Tip:** You can double-click or tap on the `variable`{:class="block3variables"} displayed on the Stage and select **slider**.
 
-Right-click or tap and hold on your variable on the Stage again and choose 'change slider range'. 
+Right-click or tap and hold on the `variable`{:class="block3variables"} displayed on the Stage and select **change slider range**.
 
 ![Speed slider](images/slider-range.png)
-Set the range by specifying a minimum and maximum value.
 
-A minimum of 1 and a maximum of 10 work fairly well for how quickly a sprite spins.
+To set the range, specify a minimum and maximum value.
+
+A minimum of `1` and a maximum of `10` work fairly well for how quickly a sprite spins.
 
 ![Slider range 1 to 10](images/slider-values.png)
 
-The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right but remember that you can change it at any time.
+The value range that is right for your variable depends on what you are using it for. Sometimes you will need to experiment a little to get it right, but remember that you can change it at any time.
 
-You can drag the slider to a convenient position on the Stage.
+Drag the slider to a convenient position on the Stage.
 
-**Tip:** Variables on the Stage always appear in a layer above all of the sprites. If you have a moving sprite it will go under any variables on the Stage. 
+**Tip:** Variables on the Stage always appear in a layer above all of the sprites. If you have a moving sprite, the sprite will go under any variables on the Stage. 
 
 --- /collapse ---
 
@@ -98,25 +97,9 @@ You can drag the slider to a convenient position on the Stage.
 
 --- task ---
 
-Use your variable input block to control something in your project, such as changing the size of a sprite, the way it looks or the volume of a sound.
+Use your rounded `variable`{:class="block3variables"} input block to control something in your project, for example, to change the size of a sprite, the way that it looks, or the volume of a sound.
 
-In this example the variable controls how quickly the sprite rotates:
-
-**Space dog**: [See inside](https://scratch.mit.edu/projects/451543041/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451543041/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Use the `angle`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
-
-```blocks3
-when flag clicked
-forever
-turn right (angle) degrees
-```
-
-Here are some more examples of how you can use your variable slider: 
+Here are some examples of how you can use your variable slider: 
 
 --- collapse ---
 
@@ -126,7 +109,7 @@ title: Control graphic effects with a variable
 
 ---
 
-This example changes the ghost graphics effect so you can see through the rainbow.
+This example changes the `ghost`{:class="block3looks"} graphic effect so you can see through the rainbow.
 
 **Transparent rainbow**: [See inside](https://scratch.mit.edu/projects/451544795/editor){:target="_blank"}
 
@@ -134,7 +117,7 @@ This example changes the ghost graphics effect so you can see through the rainbo
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451544795/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can use a `transparent`{:class="block3data"} variable to control the ghost effect on a sprite at the front and use it to reveal or hide sprites in lower layers. 
+You can use a `transparent`{:class="block3variables"} variable to control the `ghost effect`{:class="block3looks"} on a sprite at the `front`{:class="block3looks"} and use it to reveal or hide sprites in lower layers. 
 
 ```blocks3
 when flag clicked
@@ -147,7 +130,7 @@ forever
 set [ghost v] effect to (transparent)
 ```
 
-Try using the same approach with other graphic effects such as brightness or colour.
+Try using the same approach with other graphic effects such as `brightness`{:class="block3looks"} or `color`{:class="block3looks"}.
 
 --- /collapse ---
 
@@ -155,7 +138,7 @@ Try using the same approach with other graphic effects such as brightness or col
 
 ---
 
-title: Control move speed with a variable
+title: Control movement speed with a variable
 
 ---
 
@@ -180,6 +163,28 @@ Set the minimum and maximum values for the range of the slider to suit your proj
 --- collapse ---
 
 ---
+title: Control turn speed with a variable
+---
+
+**Space dog**: [See inside](https://scratch.mit.edu/projects/451543041/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451543041/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Use an `angle`{:class="block3variables"} variable as the input to a `turn right`{:class="block3motion"} block:
+
+```blocks3
+when flag clicked
+forever
+turn right (angle) degrees
+```
+
+--- /collapse ---
+
+--- collapse ---
+
+---
 
 title: Change the delay in a wait block
 
@@ -191,7 +196,7 @@ title: Change the delay in a wait block
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451536565/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Use a `delay`{:class="block3variables"} variable as the input to a `wait`{:class="block3motion"} block:
+Use a `delay`{:class="block3variables"} variable as the input to a `wait`{:class="block3control"} block:
 
 ```blocks3
 when flag clicked
@@ -200,13 +205,13 @@ wait (delay) seconds
 next costume
 ```
 
-A delay of more than one second is quite a long time. If you include a decimal number in the range of a slider then you can change the value 100th of a second at a time. 
+A delay of more than one second is quite a long time. If you include a decimal number in the range of a slider then you can change the value by a 100th of a second at a time. 
 
-A range of 0.0 to 1.0 allows you to choose a delay between 0 seconds (no delay) and 1 second.
+A range of `0.0` to `1.0` allows you to choose a delay between `0` seconds (no delay) and `1` second.
 
 ![Decimal range](images/decimal-delay.png)
 
-Try changing the numbers to get the maximum and minumum that you want users to be able to use in your project.
+Try changing the numbers to get the maximum and minimum values that you want users to be able to use in your project.
 
 --- /collapse ---
 
@@ -224,15 +229,15 @@ title: Change sound effects
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451547017/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Changing the pitch of a sound makes the notes higher and also speeds it up. 
+Changing the `pitch`{:class="block3sound"} of a sound makes the notes higher and also speeds the sound up. 
 
 ```blocks3
 when flag clicked
 forever
-set [pitch v] effect to (beat)
+set [pitch v] effect to (beat) :: sound
 ```
 
-Play the sound in a separate forever loop so that the pitch will change immediately rather than waiting until the sound is done: 
+Play the sound in a separate `forever`{:class="block3control"} loop so that the pitch will change immediately rather than waiting until the sound has finished playing: 
 
 ```blocks3
 when flag clicked
@@ -240,143 +245,43 @@ forever
 play sound [Dance Head Nod v] until done
 ```
 
-You can also use a variable to change the volume and pan/tilt effect.
+You can also use a `variable`{:class="block3variables"} to change the `volume`{:class="block3sound"} and `pan`{:class="block3sound"} (tilt) effect.
 
 --- /collapse ---
 
 --- /task ---
 
- You may have already realised that you can control different sprites, or different effects, using the same variable.
+You can rename a variable if you change your mind.
 
 --- collapse ---
 
 ---
 
-title: Controlling more than one sprite using the same variable
-
----
-
-**Under the waves**: [See inside](https://scratch.mit.edu/projects/447874869/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/447874869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-There is nothing really new to learn here. You will simply use the same variable in more than one place. It may be to control the speed of two different sprites, or the moving speed of a sprite and the pitch of a sound at the same time.
-
-You can use the same variable as many times as you like in a project, and as long as you left 'for all sprites' selected, it can be used for any sprites at the same time.
-
-Here are some examples of a variable, simply called `variable`{:class="block3variables"}, being used in different scripts at the same time:
-
-```blocks3
-when flag clicked
-set rotation style [left-right v]
-forever
-move (variable) steps
-if on edge, bounce
-end
-
-when flag clicked
-forever
-set [pitch v] effect to (variable)
-end
-
-when flag clicked
-forever
-set [whirl v] effect to (variable)
-end
-
-when flag clicked
-forever
-wait (variable) seconds
-next costume
-end
-
-when flag clicked
-forever
-turn right (variable) degrees
-end
-```
-
-All of these scripts can use the same variable at the same time. 
-
---- /collapse ---
-
-You may want to use a single `variable`{:class="block3variables"} for mulitple tasks but the value needs to be adjusted in some way for one use.
-
-+ `wait`{:class="block3control"} times often need to be very small 
-+ `size`{:class="block3looks"} values are often quite larger
-+ `pan`{:class="block3sound"} can use negative values
-
-In this case you may need to use an `operator`{:class="block3operators"} to adjust the value:
-
---- collapse ---
-
---- 
-
-title: Using operators with variables
-
----
-
-Sometimes it's useful to use operators (+, -, x or ÷) with variables to calculate different numbers.
-
-**Space balance**: [See inside](https://scratch.mit.edu/projects/451682050/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/451682050/?autostart=false" frameborder="0"></iframe>
-</div>
-
-In this example, the size of the first sprite is set to `balance`{:class="block3variables"} while the size of the second sprite is set to 100 minus `balance`{:class="block3variables"}. 
-
-If the size of the first sprite is 30 then the size of the second sprite will be 70 (which is 100 - 30). 
-
-```blocks3
-when flag clicked
-forever
-set size to ((100) - (balance))%
-```
-
-You can use `*` to multiply and make a number bigger. It's useful to be able to set the pitch to a bigger number than a `speed`{:class="block3variables"} variable:
-
-```blocks3
-when flag clicked
-forever
-set [pitch v] effect to ((speed) * (20))
-```
-
---- /collapse ---
-
-You can rename a variable if you change your mind:
-
---- collapse ---
-
----
-
-title: Renaming a variable
+title: Rename a variable
 
 ---
 
 Sometimes you think of a better name for a variable. 
 
-You can give a variable a new name by going to the Variables section, right-clicking on the variable and choosing 'Rename variable'.
+You can give a variable a new name: go to the `Variables`{:class="block3variables"} blocks menu, right-click on the `variable`{:class="block3variables"}, and choose **Rename variable**.
 
 ![Rename a variable](images/rename-variable.png)
 
-This will change the name of the variable in all the code blocks where you have used it. 
+This will change the name of the variable in all the blocks in which you have used it. 
 
 --- /collapse ---
 
 --- task ---
-Add as many `variables`{:class="block3variables"} as you like to control movement, delays, visual effects and sound effects. 
+Add as many `variables`{:class="block3variables"} as you like to control movement, delays, graphic effects, and sound effects. 
 
 Things to consider:
 + Have you given your variables names that match what they are used for?
-+ Have you chosen the best maximum and minumum values for your sliders?
++ Have you chosen the best maximum and minimum values for your sliders?
 + Are your sliders neatly arranged on the Stage?
 + Is it helpful to use the same variable in multiple places?
 
 --- /task ---
 
-**Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by 1. First click on the slider to select it and then use the left arrow to change the value by -1 and the right arrow key to change the value by 1.
+**Tip:** If you are using a computer with a keyboard then you can use the arrow keys to change the value of a slider by `1`. First, click on the slider to select it, then use the <kbd>Left</kbd> arrow key to change the value by `-1` and the <kbd>Right</kbd> arrow key to change the value by `1`.
 
 --- save ---
