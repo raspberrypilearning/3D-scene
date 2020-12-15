@@ -50,8 +50,8 @@ For this project, you need to know how to:
 title: What you will learn
 ---
 
-+ How to explore the potential of Scratch to create a 3D scene
-+ How to create an interactive and engaging project
++ How to explore the potential of Scratch to program a 3D scene
++ How to create plan your time to create an interactive and engaging project
 + How to improve your project using feedback from others
 
 --- /collapse ---
