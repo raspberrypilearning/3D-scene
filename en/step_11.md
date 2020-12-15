@@ -2,8 +2,8 @@
 
 In this project, you have learned how to:
 
-+ Explore the potential of Scratch to create a three-dimensional scene
-+ Create an engaging project that users can interact with through slider variables 
++ Explore the potential of Scratch to program a three-dimensional scene
++ Plan your time to create an engaging project that users can interact with through slider variables 
 + Share your project with others and improve it using their feedback
 
 If you are following the [Look after yourself](https://projects.raspberrypi.org/en/raspberrypi/look-after-yourself){:target="_blank"} pathway and have not completed the last three projects — Fruit salad, Relax and stretch, and Focus on the prize — then now continue the pathway with [Fruit salad](https://projects.raspberrypi.org/en/projects/fruit-salad){:target="_blank"}.
