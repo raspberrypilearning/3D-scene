@@ -218,5 +218,11 @@ play sound (Drum Funky v) until done
 --- /collapse ---
 
 --- /task ---
- 
+
+--- task ---
+
+Run your project to test it. Continue to change and test your code until you are happy with the way it sounds.
+
+--- /task ---
+
 --- save ---
