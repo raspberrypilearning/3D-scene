@@ -43,7 +43,7 @@ To decide on the theme for your project, try to answer the following questions. 
 
 --- task ---
 
-Give your project a name that matches your theme and save it. Remember to check **How to** when you need help.
+Give your project a name that matches your theme and save it. Remember to check **Information** when you need help.
 
 --- collapse ---
 ---
