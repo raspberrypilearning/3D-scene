@@ -165,7 +165,7 @@ If you follow the instructions below, you can use the **Line** tool to create an
 + You can use the **Front** and **Back** tools in the Paint editor to move your shapes forward or backward so that they are positioned correctly. In this example, you will not need to do this because the shapes are black for the silhouette.
 + Select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
-To create duplicate shapes of your house (for example, to make a skyline), follow **How to** under 'Duplicate shapes to create a scenery costume' below.
+To create duplicate shapes of your house (for example, to make a skyline), follow the **Information** under 'Duplicate shapes to create a scenery costume' below.
 
 --- /collapse ---
 

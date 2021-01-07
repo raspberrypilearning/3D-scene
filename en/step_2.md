@@ -56,12 +56,3 @@ Look at these 3D scene projects, and adjust any sliders that you see.
 --- /no-print ---
 
 --- /task ---
-
---- task ---
-
-Now quickly think about what kind of 3D scene project you want to make using variable sliders. It can be whatever you want it to be.
-
-Don't be afraid to change your mind about things and try out new ideas as you work on your project!
-
---- /task ---
-
