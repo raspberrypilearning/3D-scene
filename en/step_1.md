@@ -56,15 +56,5 @@ title: What you will learn
 
 --- /collapse ---
 
---- collapse ---
----
-title: Additional information for educators
----
-
-You can [download the completed project here](https://rpf.io/p/en/3D-scene-get).
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/3D-scene/print){:target="_blank"}.
-
---- /collapse ---
 
 
