@@ -11,7 +11,7 @@ You could also add more `sound effects`{:class="block3sound"} and `variables`{:c
 
 You may want to investigate the example projects in **step 2: Get inspiration**.
 
-Take a look at some 3D scene projects created by community members. You can also explore even more community members' 3D scene projects in the Raspberry Pi Foundation's studio of **3D Scene Community Projects**: [See inside](https://scratch.mit.edu/studios/28115978){:target="_blank"}
+Take a look at some 3D scene projects created by community members, which you can explore in the Raspberry Pi Foundation’s studio of 3D Scene Community Projects  [See inside](https://scratch.mit.edu/studios/28115978){:target="_blank"}.
 
 --- /task ---
 
