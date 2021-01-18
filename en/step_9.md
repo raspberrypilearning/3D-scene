@@ -28,7 +28,7 @@ If you are under 13 years old, or do not want to allow people to comment on your
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-We regularly share projects made by the community in our challenges. To submit your 3D scene project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target=”_blank”}.
+We regularly share projects made by the community in our challenges. To submit your 3D scene project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 Remember to revisit the challenges to get inspired by other creators and, who knows, one of the projects shared might be yours!
 
